@@ -43,14 +43,6 @@ class HMMTagger(object):
     def load_file(self, file_name):
         raise NotImplementedError
 
-    def load_variable(self, var_name):
-        var_path = self.intermediate_path + var_name + '.p'
-        if path.exists(var_path):
-            with open(var_path, 'rb') as f:
-                return pkl.load(f)
-        else:
-            return None
-    
     def save_variable(self, var, var_name):
         if not os.path.isdir(self.intermediate_path):
             os.makedirs(self.intermediate_path)
@@ -58,6 +50,14 @@ class HMMTagger(object):
         with open(var_path, 'wb') as f:
             pkl.dump(var, f)
     
+    def load_variable(self, var_name):
+        var_path = self.intermediate_path + var_name + '.p'
+        if path.exists(var_path):
+            with open(var_path, 'rb') as f:
+                return pkl.load(f)
+        else:
+            return None
+
     def save_vars(self):
         print('Saving intermediate variables...')
         self.save_variable(self.initial_prob, 'initial_prob')
@@ -65,7 +65,7 @@ class HMMTagger(object):
         self.save_variable(self.emission_prob, 'emission_prob')
         self.save_variable(self.states_list, 'states_list')
         self.save_variable(self.emissions_list, 'emissions_list')
-    
+
     def load_vars(self):
         print('Loading intermediate variables...')
         self.initial_prob = self.load_variable('initial_prob')
@@ -147,12 +147,6 @@ class HMMTagger(object):
                 if tag not in self.emission_prob:
                     self.emission_prob[tag] = defaultdict(epsilon)
                 self.emission_prob[tag][word] = count / n_tag
-                    
-    def check_word(self, word, word_t):
-        if word == '\'':
-            word = word_t
-        assert word == word_t, (word, word_t)
-        return word, word_t
 
     def viterbi(self, emissions):
         # Init t_0
