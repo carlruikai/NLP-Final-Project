@@ -1,0 +1,15 @@
+Running platform: MacOS.
+
+Environment: Tensorflow=1.15.4, absl-py, numpy.
+
+Usage:
+download files from: https://storage.googleapis.com/bert_models/2018_10_18/cased_L-12_H-768_A-12.zip
+unzip and copy files, paste them to the 'cased_L-12_H-768_A-12' directory.
+bash run_ner.sh
+
+Result:
+accuracy:  98.15%; precision:  90.61%; recall:  88.85%; FB1:  89.72
+              LOC: precision:  91.93%; recall:  91.79%; FB1:  91.86  
+             MISC: precision:  83.83%; recall:  78.43%; FB1:  81.04  
+              ORG: precision:  87.83%; recall:  85.18%; FB1:  86.48  
+              PER: precision:  95.19%; recall:  94.83%; FB1:  95.01  
