@@ -1,3 +1,4 @@
+Use off-the-shelf google pretrained BERT (in BERT directory).
 Running platform: MacOS.
 
 Environment: Tensorflow=1.15.4, absl-py, numpy.
