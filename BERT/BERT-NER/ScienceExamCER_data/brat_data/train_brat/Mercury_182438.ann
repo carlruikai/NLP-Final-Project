@@ -1,0 +1,23 @@
+T1	Gender	0	4	Male
+T2	Bird	5	13	peacocks
+T3	ContainBeComposedOf	14	18	have
+T4	Size	19	24	large
+T5	Color	25	41	brightly colored
+T6	BirdAnimalPart	42	55	tail feathers
+T7	StateOfBeing	62	64	is
+T8	AmountComparison	69	73	most
+T9	ProbabilityAndCertainty	74	80	likely
+T10	Goal	81	87	reason
+T11	PullingActions	101	108	attract
+T12	ActUponSomething	101	108	attract
+T13	AbilityAvailability	109	118	potential
+T14	Reproduction	119	124	mates
+T15	PerformAnActivity	128	136	distract
+T16	AbilityAvailability	137	146	potential
+T17	Animal	147	156	predators
+T18	Help	160	164	help
+T19	ActionsForAnimals	165	170	catch
+T20	Uptake	165	170	catch
+T21	Nutrition	171	175	food
+T22	Preserve	179	187	preserve
+T23	Temperature	188	194	warmth

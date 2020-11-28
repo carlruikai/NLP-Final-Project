@@ -1,0 +1,36 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Quality	16	20	best
+T4	QualityComparison	16	20	best
+T5	Communicate	21	30	describes
+T6	PropertyOfMotion	35	41	motion
+T7	Move	35	41	motion
+T8	PhasesOfWater	45	50	water
+T9	ElementalComponents	51	60	molecules
+T10	RelativeTime	61	63	as
+T11	PhasesOfWater	68	73	water
+T12	PhaseChanges	74	87	changes state
+T13	RelativeDirection	88	92	from
+T14	GaseousMatter	93	98	steam
+T15	RelativeDirection	99	101	to
+T16	LiquidMatter	102	108	liquid
+T17	ElementalComponents	114	123	molecules
+T18	ParticleMovement	124	135	move faster
+T19	Require	140	146	occupy
+T20	AmountComparison	147	151	more
+T21	Locations	152	157	space
+T22	ElementalComponents	163	172	molecules
+T23	ParticleMovement	173	184	move slower
+T24	Require	189	195	occupy
+T25	AmountComparison	196	200	more
+T26	Locations	201	206	space
+T27	ElementalComponents	212	221	molecules
+T28	ParticleMovement	222	233	move faster
+T29	Require	238	244	occupy
+T30	AmountComparison	245	249	less
+T31	Locations	250	255	space
+T32	ElementalComponents	261	270	molecules
+T33	ParticleMovement	271	282	move slower
+T34	Require	287	293	occupy
+T35	AmountComparison	294	298	less
+T36	Locations	299	304	space

@@ -1,0 +1,19 @@
+T1	HumanPart	2	6	body
+T2	Cell	7	11	cell
+T3	StateOfBeing	17	19	is
+T4	ActUponSomething	20	30	undergoing
+T5	Occur	20	30	undergoing
+T6	Rarity	31	39	abnormal
+T7	CellProcesses	40	53	cell division
+T8	StateOfBeing	48	50	is
+T9	AmountComparison	57	61	most
+T10	ProbabilityAndCertainty	62	68	likely
+T11	Create	69	76	produci
+T12	Cell	79	87	sex cell
+T13	Transportation	89	101	transporting
+T14	Nutrition	102	111	nutrients
+T15	Create	112	119	forming
+T16	Cell	120	134	cancerous cell
+T17	Development	136	146	developing
+T18	Start	136	146	developing
+T19	Sickness	150	159	infection

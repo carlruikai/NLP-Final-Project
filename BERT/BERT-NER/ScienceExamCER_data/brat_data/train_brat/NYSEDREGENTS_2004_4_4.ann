@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	form
+T3	Energy	14	20	energy
+T4	StateOfBeing	21	23	is
+T5	Require	24	30	needed
+T6	Changes	34	40	change
+T7	PhasesOfWater	41	46	water
+T8	RelativeDirection	47	51	from
+T9	StateOfMatter	54	60	liquid
+T10	RelativeDirection	61	63	to
+T11	StateOfMatter	66	69	gas
+T12	ThermalEnergy	71	75	heat
+T13	Energy	76	86	mechanical
+T14	Energy	87	95	chemical
+T15	SoundEnergy	96	101	sound

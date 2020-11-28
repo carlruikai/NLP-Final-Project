@@ -1,0 +1,25 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Communicate	16	25	describes
+T4	Animal	26	32	animal
+T5	PrenatalOrganismStates	33	40	embryos
+T6	ContainBeComposedOf	42	49	display
+T7	LevelOfInclusion	50	53	all
+T8	Property	58	66	features
+T9	PostnatalOrganismStages	73	78	adult
+T10	Represent	79	88	represent
+T11	TemporalProperty	93	101	earliest
+T12	RelativeTime	93	101	earliest
+T13	Development	102	122	stage of development
+T14	ContainBeComposedOf	123	127	have
+T15	Comparisons	132	136	same
+T16	Numbers	137	143	number
+T17	Cell	147	152	cells
+T18	Comparisons	153	155	as
+T19	PrenatalOrganismStates	158	172	fertilized egg
+T20	ContainBeComposedOf	173	177	have
+T21	RelativeNumber	178	182	half
+T22	Numbers	187	193	number
+T23	CellsAndGenetics	197	208	chromosomes
+T24	Comparisons	209	211	as
+T25	PostnatalOrganismStages	215	220	adult

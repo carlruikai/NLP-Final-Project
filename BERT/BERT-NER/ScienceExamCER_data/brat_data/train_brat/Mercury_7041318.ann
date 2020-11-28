@@ -1,0 +1,15 @@
+T1	HumanPart	0	3	Eye
+T2	Color	4	9	color
+T3	RelativeLocations	10	12	in
+T4	Human	13	25	human beings
+T5	StateOfBeing	26	28	is
+T6	InheritedBehavior	32	40	instinct
+T7	OtherAnimalProperties	32	40	instinct
+T8	LearnedBehavior	42	50	acquired
+T9	Property	51	56	trait
+T10	Inheritance	58	67	inherited
+T11	InheritedBehavior	58	67	inherited
+T12	Property	68	73	trait
+T13	EcosystemsEnvironment	75	101	environmentally influenced
+T14	Cause	91	101	influenced
+T15	Property	102	107	trait

@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Measurements	6	11	scale
+T3	StateOfBeing	12	14	is
+T4	Use	15	19	used
+T5	Result	20	22	to
+T6	Identify	23	29	report
+T7	ResistanceStrength	34	43	intensity
+T8	NaturalPhenomena	50	60	earthquake
+T9	Meteorology	62	82	Saffir-Simpson Scale
+T10	Meteorology	83	106	Modified Mercalli Scale
+T11	Meteorology	107	130	Richter Magnitude Scale
+T12	Meteorology	131	153	Moment Magnitude Scale

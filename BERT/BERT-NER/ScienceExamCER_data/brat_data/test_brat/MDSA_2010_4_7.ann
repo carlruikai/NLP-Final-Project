@@ -1,0 +1,24 @@
+T1	WeatherPhenomena	0	7	Weather
+T2	Pattern	8	16	patterns
+T3	RelativeTime	17	26	sometimes
+T4	LevelOfInclusion	17	26	sometimes
+T5	Cause	27	36	result in
+T6	NaturalPhenomena	37	44	drought
+T7	WeatherPhenomena	37	44	drought
+T8	LevelOfInclusion	46	51	Which
+T9	PhysicalActivity	52	60	activity
+T10	ProbabilityAndCertainty	61	66	would
+T11	StateOfBeing	67	69	be
+T12	AmountComparison	70	74	most
+T13	QualityComparison	75	85	negatively
+T14	Alter	86	94	affected
+T15	RelativeTime	95	101	during
+T16	NaturalPhenomena	104	111	drought
+T17	WeatherPhenomena	104	111	drought
+T18	TimeUnit	112	116	year
+T19	Year	112	116	year
+T20	WaterVehicle	118	125	boating
+T21	Human	126	133	farming
+T22	Agriculture	126	133	farming
+T23	ActionsForAnimals	134	140	hiking
+T24	ActionsForAnimals	141	148	hunting

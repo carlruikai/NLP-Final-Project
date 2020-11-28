@@ -1,0 +1,27 @@
+T1	Element	4	23	radioactive isotope
+T2	ObjectQuantification	24	31	content
+T3	Rock	37	41	rock
+T4	AbilityAvailability	42	45	can
+T5	StateOfBeing	46	48	be
+T6	Use	49	53	used
+T7	Identify	57	65	identify
+T8	LevelOfInclusion	66	71	which
+T9	Property	72	80	property
+T10	Rock	88	92	rock
+T11	LevelOfInclusion	98	103	total
+T12	Mass	104	108	mass
+T13	Rock	116	120	rock
+T14	MeasuringSpeed	125	129	rate
+T15	PropertyOfMotion	125	129	rate
+T16	Rock	143	147	rock
+T17	Create	148	154	formed
+T18	Exemplar	159	164	types
+T19	Fossils	168	175	fossils
+T20	Rock	185	189	rock
+T21	ContainBeComposedOf	190	198	contains
+T22	Numbers	203	209	amount
+T23	MarkersOfTime	213	217	time
+T24	TemporalProperty	218	224	passed
+T25	RelativeTime	225	230	since
+T26	Rock	235	239	rock
+T27	Create	240	246	formed

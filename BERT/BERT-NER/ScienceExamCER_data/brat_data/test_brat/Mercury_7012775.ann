@@ -1,0 +1,22 @@
+T1	DATE	0	17	Twentieth-century
+T2	TimeUnit	10	17	century
+T3	PerformingResearch	18	26	research
+T4	Cause	27	29	by
+T5	Human	35	45	scientists
+T6	GroupsOfScientists	35	45	scientists
+T7	Exemplar	46	48	as
+T8	Scientists	49	59	Jonas Salk
+T9	PERSON	49	59	Jonas Salk
+T10	Relevant	50	52	on
+T11	Use	67	70	use
+T12	IllnessPreventionCuring	74	82	vaccines
+T13	AmountChangingActions	87	94	reduced
+T14	Numbers	99	105	number
+T15	Human	109	115	people
+T16	StateOfBeing	120	123	are
+T17	Sickness	124	132	infected
+T18	CombineAdd	133	137	with
+T19	TypesOfIllness	138	143	polio
+T20	TypesOfIllness	145	151	stroke
+T21	TypesOfIllness	153	161	diabetes
+T22	TypesOfIllness	163	175	tuberculosis

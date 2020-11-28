@@ -1,0 +1,30 @@
+T1	Method	0	3	How
+T2	PerformAnActivity	4	6	di
+T3	Human	8	18	scientists
+T4	GroupsOfScientists	8	18	scientists
+T5	ConcludingResearch	19	25	arrive
+T6	GeologicTheories	33	58	theory of plate tectonics
+T7	Identify	63	74	determining
+T8	Age	79	82	age
+T9	Rock	86	90	lava
+T10	LocationChangingActions	91	97	rising
+T11	RelativeLocations	98	100	at
+T12	BodiesOfWater	101	106	ocean
+T13	GeographicFormations	107	113	ridges
+T14	Identify	117	128	determining
+T15	Composition	133	144	composition
+T16	Sedimentary	148	157	limestone
+T17	GeographicFormations	158	166	deposits
+T18	Identify	170	181	determining
+T19	MeasuringSpeed	186	190	rate
+T20	PropertyOfMotion	186	190	rate
+T21	ConstructiveDestructiveForces	194	204	weathering
+T22	NaturalPhenomena	194	204	weathering
+T23	GeographicFormations	208	222	mountain range
+T24	Identify	227	238	determining
+T25	Exemplar	243	247	type
+T26	Sedimentary	251	262	sedimentary
+T27	Rock	263	267	rock
+T28	Create	268	274	formed
+T29	RelativeLocations	275	277	on
+T30	TerrestrialLocations	278	282	land

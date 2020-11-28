@@ -1,0 +1,50 @@
+T1	Scientists	0	8	Students
+T2	Goal	9	13	want
+T3	ActionsForAgriculture	17	22	plant
+T4	CombineAdd	17	22	plant
+T5	Plant	25	35	lemon tree
+T6	RelativeLocations	36	38	at
+T7	ManmadeLocations	45	51	school
+T8	Negations	53	56	but
+T9	Temperature	61	65	cold
+T10	SeasonsFallAutumnWinterSpringSummer	66	72	winter
+T11	Temperature	73	85	temperatures
+T12	RelativeLocations	86	88	in
+T13	States	89	102	Massachusetts
+T14	ProbabilityAndCertainty	103	108	would
+T15	StopRemove	109	113	kill
+T16	Plant	118	122	tree
+T17	LevelOfInclusion	124	129	Which
+T18	LevelOfInclusion	133	146	the following
+T19	StateOfBeing	147	149	is
+T20	Quality	154	158	best
+T21	QualityComparison	154	158	best
+T22	Method	159	167	solution
+T23	Goal	159	167	solution
+T24	Problem	176	183	problem
+T25	ActionsForAgriculture	185	193	planting
+T26	CombineAdd	185	193	planting
+T27	RelativeNumber	194	201	several
+T28	Plant	202	212	lemon tree
+T29	Relations	214	222	together
+T30	RelativeLocations	223	225	in
+T31	Pattern	228	231	row
+T32	Create	232	240	building
+T33	ManmadeLocations	243	253	greenhouse
+T34	Habitat	257	264	shelter
+T35	Help	257	264	shelter
+T36	Plant	269	279	lemon tree
+T37	CombineAdd	280	286	giving
+T38	Plant	291	301	lemon tree
+T39	RelativeNumber	302	307	extra
+T40	PlantNutrients	308	318	fertilizer
+T41	RelativeTime	319	321	in
+T42	SeasonsFallAutumnWinterSpringSummer	326	332	winter
+T43	CombineAdd	333	338	tying
+T44	ManmadeObjects	341	346	stake
+T45	RelativeDirection	347	349	to
+T46	Plant	354	364	lemon tree
+T47	Help	369	376	support
+T48	Position	369	376	support
+T49	RelativeTime	377	383	during
+T50	SeasonsFallAutumnWinterSpringSummer	388	394	winter

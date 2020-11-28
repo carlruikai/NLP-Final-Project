@@ -1,0 +1,21 @@
+T1	Currents	0	13	Ocean current
+T2	WeatherPhenomena	16	31	prevailing wind
+T3	Pattern	32	40	patterns
+T4	Comparisons	46	51	other
+T5	NaturalPhenomena	52	75	atmospheric disturbance
+T6	StateOfBeing	77	80	are
+T7	TemporalProperty	81	90	initially
+T8	Cause	91	97	caused
+T9	LevelOfInclusion	101	106	which
+T10	LevelOfInclusion	110	115	these
+T11	Comparisons	117	128	differences
+T12	LunarPhases	136	142	cycles
+T13	CelestialMovement	136	142	cycles
+T14	Moon	150	154	Moon
+T15	Gravity	155	173	gravitational pull
+T16	Star	181	184	Sun
+T17	Position	185	193	incoming
+T18	Energy	194	209	solar radiation
+T19	AtmosphericLayers	210	221	ozone layer
+T20	ChangesToResources	222	231	depletion
+T21	Harm	222	231	depletion

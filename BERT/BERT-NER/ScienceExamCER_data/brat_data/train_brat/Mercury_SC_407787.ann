@@ -1,0 +1,13 @@
+T1	PERSON	0	4	Paco
+T2	PushingActions	5	11	throws
+T3	ManmadeObjects	14	18	ball
+T4	Force	25	30	force
+T5	PullingActions	31	36	pulls
+T6	ManmadeObjects	41	45	ball
+T7	PrepositionalDirections	46	50	down
+T8	PrepositionalDirections	51	57	toward
+T9	EarthPartsGrossGroundAtmosphere	62	68	ground
+T10	PullingForces	70	78	friction
+T11	Gravity	79	86	gravity
+T12	Inertia	87	94	inertia
+T13	PropertyOfMotion	95	103	momentum

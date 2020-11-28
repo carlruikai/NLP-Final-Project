@@ -1,0 +1,23 @@
+T1	GroupsOfOrganisms	4	14	population
+T2	LevelOfInclusion	18	23	which
+T3	LevelOfInclusion	27	40	the following
+T4	NUMBER	41	43	26
+T5	LivingThing	44	53	organisms
+T6	ProbabilityAndCertainty	54	59	would
+T7	AmountComparison	60	64	most
+T8	ProbabilityAndCertainty	65	71	likely
+T9	IncreaseDecrease	72	79	decline
+T10	Size	83	88	small
+T11	Animal	89	96	animals
+T12	Exemplar	97	101	like
+T13	Mammal	102	106	rats
+T14	Mammal	108	115	rabbits
+T15	Reptile	121	127	snakes
+T16	StateOfBeing	128	132	were
+T17	StopRemove	133	143	eliminated
+T18	RelativeDirection	144	148	from
+T19	EcosystemsEnvironment	152	161	ecosystem
+T20	Animal	163	173	earthworms
+T21	Angiosperm	174	181	grasses
+T22	Bird	182	187	hawks
+T23	Fungi	188	197	mushrooms

@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Behaviors	6	14	behavior
+T3	StateOfBeing	15	17	is
+T4	LearnedBehavior	20	36	learned behavior
+T5	ActionsForAnimals	38	44	eating
+T6	Consumption	38	44	eating
+T7	Use	45	49	with
+T8	ManmadeObjects	52	56	fork
+T9	ActionsForAnimals	57	66	shivering
+T10	RelativeTime	67	71	when
+T11	StateOfBeing	75	77	is
+T12	Temperature	78	82	cold
+T13	ActionsForAnimals	83	92	squinting
+T14	AnimalPart	98	102	eyes
+T15	RelativeLocations	103	105	in
+T16	Brightness	106	112	bright
+T17	Light	113	118	light
+T18	PropertiesOfSickness	119	137	developing a fever
+T19	RelativeTime	138	142	when
+T20	StateOfBeing	147	150	are
+T21	Sickness	151	155	sick
+T22	PoorHealth	151	155	sick

@@ -1,0 +1,33 @@
+T1	GeographicFormations	2	16	mountain range
+T2	ContainBeComposedOf	17	20	has
+T3	GeographicFormations	21	26	hills
+T4	RelativeLocations	27	33	around
+T5	GeographicFormationParts	38	43	edges
+T6	Method	45	48	How
+T7	StateOfBeing	49	52	are
+T8	GeographicFormations	57	66	mountains
+T9	GeographicFormations	71	76	hills
+T10	Comparisons	77	82	alike
+T11	LevelOfInclusion	84	88	Both
+T12	ContainBeComposedOf	89	93	have
+T13	Angiosperm	94	99	grass
+T14	RelativeLocations	100	102	at
+T15	RelativeLocations	107	110	top
+T16	LevelOfInclusion	112	116	Both
+T17	StateOfBeing	117	120	are
+T18	AmountComparison	121	129	at least
+T19	CardinalNumber	130	134	1000
+T20	DistanceUnit	135	141	meters
+T21	Height	142	146	tall
+T22	LevelOfInclusion	148	152	Both
+T23	ContainBeComposedOf	153	157	have
+T24	StateOfMatter	158	164	liquid
+T25	Rock	165	169	rock
+T26	RelativeLocations	170	172	at
+T27	ObjectPart	179	186	centers
+T28	LevelOfInclusion	188	192	Both
+T29	StateOfBeing	193	196	are
+T30	Height	197	203	taller
+T31	Comparisons	204	208	than
+T32	ExamplesOfHabitats	213	217	land
+T33	RelativeLocations	218	224	around

@@ -1,0 +1,10 @@
+T1	RelativeLocations	0	2	In
+T2	ObjectQuantification	8	15	section
+T3	InnerPlanets	19	24	Earth
+T4	PerformAnActivity	25	27	do
+T5	NaturalPhenomena	28	39	earthquakes
+T6	Occur	40	46	happen
+T7	LayersOfTheEarth	48	53	crust
+T8	LayersOfTheEarth	54	60	mantle
+T9	LayersOfTheEarth	61	71	inner core
+T10	LayersOfTheEarth	72	82	outer core

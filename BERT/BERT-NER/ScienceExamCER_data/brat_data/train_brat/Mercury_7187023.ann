@@ -1,0 +1,30 @@
+T1	Human	0	11	Mr. Mendoza
+T2	PERSON	4	11	Mendoza
+T3	Human	14	19	class
+T4	GroupsOfScientists	14	19	class
+T5	Examine	20	27	studied
+T6	Comparisons	28	37	different
+T7	AnimalSystemsProcesses	38	50	body systems
+T8	StateOfBeing	57	59	is
+T9	Quality	63	72	important
+T10	OrganicProcesses	73	81	function
+T11	CirculatorySystem	89	107	circulatory system
+T12	Create	109	118	providing
+T13	PhysicalProperty	119	129	structural
+T14	Help	130	137	support
+T15	RelativeDirection	138	140	to
+T16	PartsOfTheMuscularSystem	141	148	muscles
+T17	Transportation	149	157	carrying
+T18	Element	158	164	oxygen
+T19	GaseousMatter	158	164	oxygen
+T20	RelativeDirection	165	167	to
+T21	Cell	168	173	cells
+T22	Uptake	174	181	getting
+T23	Energy	182	188	energy
+T24	Source	189	193	from
+T25	Nutrition	194	198	food
+T26	LocationChangingActions	199	206	sending
+T27	Transportation	199	206	sending
+T28	Communicate	207	215	messages
+T29	RelativeDirection	216	218	to
+T30	PartsOfTheNervousSystem	223	228	brain

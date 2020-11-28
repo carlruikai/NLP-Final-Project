@@ -1,0 +1,13 @@
+T1	Calculations	4	10	sum of
+T2	LevelOfInclusion	11	14	all
+T3	Reactions	15	32	chemical reaction
+T4	RelativeLocations	34	36	in
+T5	Human	41	46	human
+T6	HumanPart	47	51	body
+T7	StateOfBeing	52	54	is
+T8	Classify	55	60	known
+T9	FeedbackMechanism	64	72	feedback
+T10	CellProcesses	73	83	metabolism
+T11	Metabolism	73	83	metabolism
+T12	Homeostasis	84	103	dynamic equilibrium
+T13	Adaptation	104	125	biological adaptation

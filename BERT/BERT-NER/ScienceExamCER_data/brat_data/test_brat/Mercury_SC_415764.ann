@@ -1,0 +1,12 @@
+T1	Cause	5	11	causes
+T2	Changes	14	20	change
+T3	MeasuringSpeed	28	33	speed
+T4	PropertyOfMotion	28	33	speed
+T5	Move	39	45	moving
+T6	GenericTerms	46	52	object
+T7	Force	54	59	force
+T8	Temperature	60	71	temperature
+T9	Changes	72	78	change
+T10	Mass	82	86	mass
+T11	Changes	87	93	change
+T12	Locations	97	105	location

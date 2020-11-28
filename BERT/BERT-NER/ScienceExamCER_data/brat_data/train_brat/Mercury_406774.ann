@@ -1,0 +1,13 @@
+T1	LivingThing	0	9	Organisms
+T2	Reproduction	15	34	reproduce asexually
+T3	Frequency	35	44	generally
+T4	Create	45	49	have
+T5	GeneticRelations	50	59	offspring
+T6	WordsForOffspring	50	59	offspring
+T7	StateOfBeing	65	68	are
+T8	OtherOrganismProperties	69	80	unicellular
+T9	OtherOrganismProperties	82	95	multicellular
+T10	Genetics	97	108	genetically
+T11	Complexity	109	115	varied
+T12	Genetics	117	128	genetically
+T13	Comparisons	129	138	identical

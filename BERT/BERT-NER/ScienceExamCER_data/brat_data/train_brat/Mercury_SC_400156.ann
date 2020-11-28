@@ -1,0 +1,26 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	CardinalNumber	9	12	two
+T4	NUMBER	9	12	two
+T5	PartsOfWaterCycle	13	18	parts
+T6	Cycles	26	37	water cycle
+T7	PerformAnActivity	38	42	does
+T8	PhasesOfWater	43	48	water
+T9	AbsorbEnergy	49	55	absorb
+T10	CombineAdd	49	55	absorb
+T11	Energy	56	62	energy
+T12	PartsOfWaterCycle	64	76	condensation
+T13	PhaseChangingActions	64	76	condensation
+T14	PartsOfWaterCycle	81	92	evaporation
+T15	PhaseChangingActions	81	92	evaporation
+T16	PartsOfWaterCycle	93	106	precipitation
+T17	Precipitation	93	106	precipitation
+T18	PartsOfWaterCycle	111	123	condensation
+T19	PhaseChangingActions	111	123	condensation
+T20	PhaseChangingActions	124	131	melting
+T21	PartsOfWaterCycle	136	147	evaporation
+T22	PhaseChangingActions	136	147	evaporation
+T23	PartsOfWaterCycle	136	147	evaporation
+T24	PhaseChangingActions	136	147	evaporation
+T25	PartsOfWaterCycle	164	177	precipitation
+T26	Precipitation	164	177	precipitation

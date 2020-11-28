@@ -1,0 +1,17 @@
+T1	Bird	0	9	Bluebirds
+T2	Choose	10	16	prefer
+T3	LivingDying	20	24	live
+T4	DistanceComparison	25	29	near
+T5	PhysicalProperty	30	34	open
+T6	OtherDescriptionsForPlantsBiennialLeafyEtc	36	42	grassy
+T7	Locations	43	49	places
+T8	RelativeLocations	51	56	Where
+T9	ProbabilityAndCertainty	57	62	would
+T10	AmountComparison	67	71	most
+T11	ProbabilityAndCertainty	72	78	likely
+T12	VerbsForLocate	79	83	find
+T13	Bird	86	94	bluebird
+T14	ManMadeGeographicFormations	98	101	dam
+T15	TerrestrialLocations	104	109	beach
+T16	ManmadeLocations	112	122	ball field
+T17	ManmadeLocations	125	136	parking lot

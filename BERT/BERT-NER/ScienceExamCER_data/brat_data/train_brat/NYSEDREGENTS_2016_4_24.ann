@@ -1,0 +1,17 @@
+T1	Scientists	2	9	student
+T2	LocationChangingActions	10	16	tosses
+T3	ManmadeObjects	19	23	ball
+T4	RelativeDirection	24	28	into
+T5	EarthPartsGrossGroundAtmosphere	33	36	air
+T6	LevelOfInclusion	38	43	Which
+T7	Force	44	49	force
+T8	Cause	50	56	causes
+T9	ManmadeObjects	61	65	ball
+T10	LocationChangingActions	69	73	fall
+T11	RelativeDirection	74	78	back
+T12	RelativeDirection	79	81	to
+T13	Soil	86	92	ground
+T14	Gravity	94	101	gravity
+T15	MagneticForce	102	111	magnetism
+T16	Energy	112	122	mechanical
+T17	PullingForces	123	131	friction

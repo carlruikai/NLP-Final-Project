@@ -1,0 +1,17 @@
+T1	PERSON	0	5	Jenny
+T2	GroupsOfScientists	8	13	class
+T3	TypesOfEvent	8	13	class
+T4	Create	14	18	made
+T5	ScientificTools	22	32	instrument
+T6	Goal	33	35	to
+T7	Measurements	36	43	measure
+T8	Identify	36	43	measure
+T9	Pressure	44	56	air pressure
+T10	ScientificTools	62	72	instrument
+T11	StateOfBeing	73	75	is
+T12	TemperatureMeasuringTools	78	89	thermometer
+T13	Precipitation	91	95	rain
+T14	ScientificTools	96	101	gauge
+T15	PressureMeasuringTool	103	112	barometer
+T16	ManmadeObjects	114	123	wind vane
+T17	Meteorology	114	123	wind vane

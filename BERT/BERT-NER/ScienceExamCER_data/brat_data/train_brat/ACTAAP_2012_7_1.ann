@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	AnimalSystemsProcesses	12	24	organ system
+T4	Transportation	25	34	exchanges
+T5	GaseousMatter	35	40	gases
+T6	CombineAdd	41	45	with
+T7	EcosystemsEnvironment	50	61	environment
+T8	EndocrineSystem	63	72	endocrine
+T9	CirculatorySystem	73	84	circulatory
+T10	RespiratorySystem	85	96	respiratory
+T11	IntegumentarySystem	97	110	integumentary

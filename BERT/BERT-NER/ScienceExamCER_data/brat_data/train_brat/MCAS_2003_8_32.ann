@@ -1,0 +1,29 @@
+T1	OtherOrganismProperties	0	13	Single-celled
+T2	LivingThing	14	23	organisms
+T3	AbilityAvailability	24	27	can
+T4	Reproduction	28	37	reproduce
+T5	Create	42	48	create
+T6	Cell	49	54	cells
+T7	RelativeNumber	55	62	exactly
+T8	ProbabilityAndCertainty	55	62	exactly
+T9	Comparisons	63	67	like
+T10	Negations	79	86	without
+T11	CombineAdd	87	96	combining
+T12	Gene	97	102	genes
+T13	RelativeDirection	103	107	from
+T14	CardinalNumber	108	111	two
+T15	NUMBER	108	111	two
+T16	Comparisons	112	121	different
+T17	GeneticRelations	122	128	parent
+T18	Cell	129	134	cells
+T19	RelativeTime	136	140	When
+T20	PerformAnActivity	146	148	do
+T21	Use	160	163	use
+T22	Exemplar	166	170	type
+T23	Reproduction	174	194	asexual reproduction
+T24	CellsAndGenetics	196	202	gamete
+T25	PrenatalOrganismStates	196	202	gamete
+T26	Create	203	212	formation
+T27	Evolution	214	231	natural selection
+T28	NaturalSelection	214	231	natural selection
+T29	Reproduction	233	252	sexual reproduction

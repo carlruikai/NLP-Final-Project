@@ -1,0 +1,48 @@
+T1	BodiesOfWater	4	9	ocean
+T2	PhasesOfWater	10	15	water
+T3	DistanceComparison	16	20	near
+T4	EarthPartsGrossGroundAtmosphere	25	32	equator
+T5	TerrestrialLocations	25	32	equator
+T6	AbsorbEnergy	33	40	absorbs
+T7	CombineAdd	33	40	absorbs
+T8	AmountComparison	41	45	more
+T9	ThermalEnergy	46	50	heat
+T10	RelativeTime	51	61	throughout
+T11	TimeUnit	66	70	year
+T12	Year	66	70	year
+T13	Comparisons	71	75	than
+T14	BodiesOfWater	76	81	ocean
+T15	PhasesOfWater	82	87	water
+T16	DistanceComparison	88	92	near
+T17	EarthPartsGrossGroundAtmosphere	97	107	North Pole
+T18	NorthernHemisphereLocations	97	107	North Pole
+T19	LevelOfInclusion	109	114	Which
+T20	LevelOfInclusion	118	131	the following
+T21	Quality	132	136	best
+T22	QualityComparison	132	136	best
+T23	Communicate	137	145	explains
+T24	Comparisons	151	161	difference
+T25	EarthPartsGrossGroundAtmosphere	167	174	equator
+T26	TerrestrialLocations	167	174	equator
+T27	StateOfBeing	175	177	is
+T28	DistanceComparison	178	184	closer
+T29	RelativeDirection	185	187	to
+T30	Star	192	195	Sun
+T31	EarthPartsGrossGroundAtmosphere	201	208	equator
+T32	TerrestrialLocations	201	208	equator
+T33	ContainBeComposedOf	209	212	has
+T34	AmountComparison	213	219	higher
+T35	BodiesOfWater	220	223	sea
+T36	AmountComparison	224	230	levels
+T37	EarthPartsGrossGroundAtmosphere	236	243	equator
+T38	TerrestrialLocations	236	243	equator
+T39	Uptake	244	252	receives
+T40	AmountComparison	253	257	more
+T41	MeasuresOfAmountOfLight	258	264	direct
+T42	CelestialLightOnEarth	265	273	sunlight
+T43	EarthPartsGrossGroundAtmosphere	279	286	equator
+T44	TerrestrialLocations	279	286	equator
+T45	CelestialMovement	287	294	rotates
+T46	AmountComparison	295	299	more
+T47	Speed	300	307	quickly
+T48	Position	308	323	on Earth's axis

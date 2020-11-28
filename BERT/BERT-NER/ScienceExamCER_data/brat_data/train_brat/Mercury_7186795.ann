@@ -1,0 +1,24 @@
+T1	RelativeTime	0	4	When
+T2	Cell	9	14	cells
+T3	RelativeLocations	15	17	in
+T4	LivingThing	21	29	organism
+T5	Divide	30	36	divide
+T6	Reproduction	41	50	reproduce
+T7	LivingThing	56	64	organism
+T8	AbilityAvailability	65	68	can
+T9	Growth	69	73	grow
+T10	LevelOfInclusion	75	80	Which
+T11	Cell	81	85	cell
+T12	AnimalCellPart	86	95	organelle
+T13	PlantCellPart	86	95	organelle
+T14	ContainBeComposedOf	96	104	contains
+T15	Genetics	109	125	genetic material
+T16	Reproduction	130	142	reproduction
+T17	AnimalCellPart	148	155	nucleus
+T18	PlantCellPart	148	155	nucleus
+T19	AnimalCellPart	160	168	ribosome
+T20	PlantCellPart	160	168	ribosome
+T21	AnimalCellPart	173	186	mitochondrion
+T22	PlantCellPart	173	186	mitochondrion
+T23	AnimalCellPart	191	212	endoplasmic reticulum
+T24	PlantCellPart	191	212	endoplasmic reticulum

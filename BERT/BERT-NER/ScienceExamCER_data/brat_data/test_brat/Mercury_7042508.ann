@@ -1,0 +1,16 @@
+T1	RelativeTime	0	4	When
+T2	Scientists	5	16	astronomers
+T3	Goal	17	21	want
+T4	Measurements	25	32	measure
+T5	PerformingResearch	25	32	measure
+T6	Distance	37	45	distance
+T7	RelativeLocations	46	53	between
+T8	Distance	54	60	nearby
+T9	Star	61	66	stars
+T10	Group	68	72	they
+T11	Frequency	73	78	often
+T12	Use	79	82	use
+T13	StarTypes	83	90	quasars
+T14	CelestialMeasurements	92	100	parallax
+T15	ElectromagneticSpectrum	102	115	visible light
+T16	LightExaminingTool	117	130	spectrographs

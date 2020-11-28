@@ -1,0 +1,28 @@
+T1	Scientists	2	11	scientist
+T2	StateOfBeing	8	10	is
+T3	Examine	15	24	comparing
+T4	Comparisons	15	24	comparing
+T5	CardinalNumber	25	28	two
+T6	NUMBER	25	28	two
+T7	AnimalPart	29	33	body
+T8	Cell	34	39	cells
+T9	OtherOrganismProperties	45	58	multicellular
+T10	LivingThing	59	67	organism
+T11	LevelOfInclusion	69	74	Which
+T12	LevelOfInclusion	78	91	the following
+T13	StateOfBeing	92	94	is
+T14	AmountComparison	95	99	most
+T15	ProbabilityAndCertainty	100	106	likely
+T16	Comparisons	107	116	identical
+T17	Shape	118	123	shape
+T18	PlantCellPart	127	136	cell wall
+T19	BacteriaPart	127	136	cell wall
+T20	Numbers	138	144	number
+T21	AnimalCellPart	148	160	mitochondria
+T22	PlantCellPart	148	160	mitochondria
+T23	Shape	161	166	shape
+T24	AnimalCellPart	170	184	cell membranes
+T25	PlantCellPart	170	184	cell membranes
+T26	BacteriaPart	170	184	cell membranes
+T27	Numbers	185	191	number
+T28	CellsAndGenetics	195	206	chromosomes

@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	GaseousMatter	14	22	air mass
+T4	Occur	23	28	forms
+T5	RelativeLocations	29	33	over
+T6	BodiesOfWater	38	43	ocean
+T7	DistanceComparison	44	48	near
+T8	EarthPartsGrossGroundAtmosphere	53	60	equator
+T9	Wetness	62	67	moist
+T10	Temperature	72	76	warm
+T11	Wetness	77	82	moist
+T12	Temperature	87	91	cool
+T13	Wetness	92	95	dry
+T14	Temperature	100	104	warm
+T15	Wetness	105	108	dry
+T16	Temperature	113	117	cool

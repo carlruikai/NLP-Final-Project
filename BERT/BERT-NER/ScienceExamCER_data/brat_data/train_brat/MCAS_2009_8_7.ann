@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	4	Most
+T2	Bacteria	12	20	bacteria
+T3	RelativeLocations	21	23	in
+T4	ExamplesOfHabitats	26	32	forest
+T5	EcosystemsEnvironment	33	42	ecosystem
+T6	StateOfBeing	43	46	are
+T7	Quality	47	51	best
+T8	QualityComparison	47	51	best
+T9	Classify	52	62	classified
+T10	StateOfBeing	54	56	as
+T11	LevelOfInclusion	66	71	which
+T12	LevelOfInclusion	75	88	the following
+T13	Exemplar	89	94	types
+T14	LivingThing	98	107	organisms
+T15	PartsOfTheFoodChain	109	118	consumers
+T16	PartsOfTheFoodChain	119	130	decomposers
+T17	PartsOfTheFoodChain	131	140	predators
+T18	PartsOfTheFoodChain	141	150	producers

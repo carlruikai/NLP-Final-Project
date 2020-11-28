@@ -1,0 +1,5 @@
+Examine each of these chemical equations to determine which equation is correctly balanced.
+Mg(NO_{3})_{2} + K_{2}CO_{3} -> MgCO_{3} + KNO_{3}
+Mg(NO_{3})_{2} + K_{2}CO_{3} -> MgCO_{3} + 2KNO_{3}
+2Mg(NO_{3})_{2} + K_{2}CO_{3} -> 2MgCO_{3} + KNO_{3}
+Mg(NO_{3})_{2} + 2K_{2}CO_{3} -> MgCO_{3} + 2KNO_{3}

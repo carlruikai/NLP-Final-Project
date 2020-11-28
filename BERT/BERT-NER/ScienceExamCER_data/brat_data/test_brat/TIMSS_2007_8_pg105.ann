@@ -1,0 +1,22 @@
+T1	StateOfBeing	5	7	is
+T2	ImportanceComparison	12	16	main
+T3	SystemAndFunctions	17	25	function
+T4	PlantPart	29	40	chlorophyll
+T5	RelativeLocations	41	43	in
+T6	Plant	44	50	plants
+T7	AbsorbEnergy	55	61	absorb
+T8	CombineAdd	55	61	absorb
+T9	Spectra	62	74	light energy
+T10	ChemicalChange	78	88	break down
+T11	Compound	89	103	carbon dioxide
+T12	Cause	107	111	make
+T13	Plant	112	118	plants
+T14	PlantPart	120	126	leaves
+T15	Toxins	127	136	poisonous
+T16	RelativeDirection	137	139	to
+T17	Insect	140	147	insects
+T18	Help	151	158	protect
+T19	Preserve	151	158	protect
+T20	Plant	159	165	plants
+T21	RelativeDirection	166	170	from
+T22	Sickness	171	178	disease

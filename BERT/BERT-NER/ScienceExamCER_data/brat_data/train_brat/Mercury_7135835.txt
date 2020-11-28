@@ -1,0 +1,5 @@
+A Mars Rover has been sent to explore and relay data from Mars. Mars is less massive than Earth. When compared with Earth, which is the best comparison between the mass and the weight of the Rover on Mars?
+The mass is more on Mars and the weight is less.
+The weight is more on Mars and the mass is less.
+The weight is less on Mars and the mass is the same.
+The mass is less on Mars and the weight is the same.

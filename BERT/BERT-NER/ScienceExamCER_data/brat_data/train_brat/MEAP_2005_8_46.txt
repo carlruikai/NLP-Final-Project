@@ -1,0 +1,5 @@
+The depth of Lake Superior can be measured by sending sound waves to the bottom and measuring the period of time it takes for the reflected sound waves to return to the surface. Which of the following would indicate a shallow depth?
+There is no return signal.
+The return signal is very weak.
+The return signal appears almost instantaneously.
+The return signal comes back at a different speed

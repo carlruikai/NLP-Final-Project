@@ -1,0 +1,15 @@
+T1	StateOfBeing	5	7	is
+T2	Require	8	17	necessary
+T3	Use	21	24	use
+T4	CombineAdd	25	27	on
+T5	ViewingTools	30	39	telescope
+T6	ObservationInstrumentsTelescopeBinoculars	30	39	telescope
+T7	Goal	40	51	in order to
+T8	Representation	52	62	photograph
+T9	CelestialEvents	63	74	solar flare
+T10	CelestialEvents	80	96	solar prominence
+T11	PartsOfObservationInstruments	101	113	light filter
+T12	PartsOfObservationInstruments	116	127	chronograph
+T13	PartsOfObservationInstruments	131	145	electric drive
+T14	Group	148	154	series
+T15	PartsOfObservationInstruments	158	165	mirrors

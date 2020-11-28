@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Create	15	22	provide
+T4	Quality	27	31	best
+T5	QualityComparison	27	31	best
+T6	WordsForData	32	40	evidence
+T7	LivingThing	46	50	life
+T8	AbilityAvailability	51	56	could
+T9	Create	57	64	develop
+T10	Start	57	64	develop
+T11	RelativeLocations	65	67	on
+T12	InnerPlanets	68	72	Mars
+T13	LOCATION	68	72	Mars
+T14	GaseousMatter	78	93	atmospheric gas
+T15	PlanetParts	100	107	surface
+T16	Temperature	108	120	temperatures
+T17	GeographicFormations	125	132	craters
+T18	Composition	137	142	rocky
+T19	Texture	137	142	rocky
+T20	PlanetParts	143	150	surface
+T21	PhasesOfWater	155	158	ice
+T22	ChemicalProperty	163	170	organic
+T23	ElementalComponents	171	180	molecules

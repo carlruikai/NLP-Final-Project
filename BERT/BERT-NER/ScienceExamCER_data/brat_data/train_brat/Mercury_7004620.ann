@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	FeedbackMechanism	11	29	feedback mechanism
+T4	Human	34	39	human
+T5	HumanPart	40	44	body
+T6	Use	45	49	uses
+T7	Help	53	61	maintain
+T8	Preserve	53	61	maintain
+T9	CellProcesses	62	73	homeostasis
+T10	Homeostasis	62	73	homeostasis
+T11	GeneticProcesses	75	82	copying
+T12	Genetics	83	99	genetic material
+T13	RelativeTime	100	106	during
+T14	CellProcesses	107	120	cell division
+T15	StopRemove	121	130	rejecting
+T16	TypesOfIllness	133	136	flu
+T17	IllnessPreventionCuring	137	144	vaccine
+T18	Cause	145	147	by
+T19	ImmuneSystem	152	165	immune system
+T20	ExcretoryActions	166	176	perspiring
+T21	IncreaseDecrease	180	185	lower
+T22	HumanPart	190	194	body
+T23	Temperature	195	206	temperature
+T24	ActionsForAnimals	207	215	learning
+T25	BeliefKnowledge	207	215	learning
+T26	Age	218	221	new
+T27	BehavioralAdaptation	222	230	behavior
+T28	Behaviors	222	230	behavior
+T29	LivingDying	234	241	survive
+T30	NaturalSelection	234	241	survive
+T31	RelativeLocations	242	244	in
+T32	Age	247	250	new
+T33	EcosystemsEnvironment	251	262	environment

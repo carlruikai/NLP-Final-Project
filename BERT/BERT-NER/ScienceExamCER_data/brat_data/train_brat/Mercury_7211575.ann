@@ -1,0 +1,26 @@
+T1	Problem	2	10	disorder
+T2	StateOfBeing	3	5	is
+T3	Associate	14	24	associated
+T4	LevelOfInclusion	30	37	certain
+T5	Problem	38	43	flaws
+T6	RelativeLocations	44	46	in
+T7	Human	51	56	human
+T8	RespiratorySystem	57	75	respiratory system
+T9	LevelOfInclusion	77	82	Which
+T10	StateOfBeing	83	85	is
+T11	AmountComparison	86	90	most
+T12	ProbabilityAndCertainty	91	97	likely
+T13	Rarity	100	107	typical
+T14	PropertiesOfSickness	108	115	symptom
+T15	Problem	124	132	disorder
+T16	QualityComparison	134	138	poor
+T17	SensoryTerms	139	145	vision
+T18	Difficulty	146	156	difficulty
+T19	RespirationActions	157	166	breathing
+T20	AmountChangingActions	167	174	reduced
+T21	PartsOfTheMuscularSystem	175	181	muscle
+T22	Mass	182	186	mass
+T23	AmountChangingActions	187	196	increased
+T24	IncreaseDecrease	187	196	increased
+T25	DigestiveSubstances	197	203	saliva
+T26	Create	204	211	product

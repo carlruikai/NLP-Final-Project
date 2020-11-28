@@ -1,0 +1,23 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	Event	9	17	scenario
+T4	RelativeLocations	18	23	below
+T5	ProbabilityAndCertainty	24	29	would
+T6	Evolution	30	47	natural selection
+T7	NaturalSelection	30	47	natural selection
+T8	AmountComparison	48	52	most
+T9	ProbabilityAndCertainty	53	59	likely
+T10	Occur	60	65	occur
+T11	TimeUnit	67	76	centuries
+T12	Speed	80	87	gradual
+T13	EnvironmentalPhenomena	88	102	climate change
+T14	EnvironmentalDamageDestruction	103	138	catastrophic destruction of habitat
+T15	Speed	139	144	rapid
+T16	AmountComparison	149	157	profound
+T17	EnvironmentalPhenomena	158	172	climate change
+T18	Speed	173	182	immediate
+T19	ChangesToResources	183	187	loss
+T20	AmountChangingActions	183	187	loss
+T21	ImportanceComparison	191	198	primary
+T22	Nutrition	199	203	food
+T23	Source	204	210	source

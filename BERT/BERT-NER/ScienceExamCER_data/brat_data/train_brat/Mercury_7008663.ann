@@ -1,0 +1,25 @@
+T1	RelativeLocations	0	2	In
+T2	RepresentingElementsAndMolecules	7	19	atomic model
+T3	ContainBeComposedOf	25	33	includes
+T4	AtomComponents	36	43	nucleus
+T5	MolecularProperties	49	64	positive charge
+T6	StateOfBeing	65	67	is
+T7	LocationChangingActions	68	74	spread
+T8	Separate	68	74	spread
+T9	AmountComparison	75	81	evenly
+T10	RelativeLocations	82	92	throughout
+T11	RepresentingElementsAndMolecules	97	102	model
+T12	VerbsForLocate	104	111	located
+T13	RelativeLocations	107	109	at
+T14	RelativeNumber	115	123	multiple
+T15	Locations	124	129	sites
+T16	RelativeLocations	130	132	in
+T17	RepresentingElementsAndMolecules	137	142	model
+T18	VerbsForLocate	144	156	concentrated
+T19	RelativeLocations	157	159	in
+T20	ObjectPart	164	170	center
+T21	RepresentingElementsAndMolecules	178	183	model
+T22	VerbsForLocate	185	195	positioned
+T23	RelativeLocations	196	203	outside
+T24	ObjectPart	208	214	center
+T25	RepresentingElementsAndMolecules	222	227	model

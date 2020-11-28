@@ -1,0 +1,16 @@
+T1	LivingThing	0	4	Life
+T2	StateOfBeing	5	7	is
+T3	AmountComparison	8	12	more
+T4	ProbabilityAndCertainty	13	19	likely
+T5	StateOfBeing	23	25	be
+T6	VerbsForLocate	26	31	found
+T7	RelativeLocations	32	34	on
+T8	Planet	37	43	planet
+T9	PlanetParts	50	60	atmosphere
+T10	ContainBeComposedOf	61	69	contains
+T11	Rarity	70	78	abundant
+T12	RelativeNumber	70	78	abundant
+T13	Element	79	83	neon
+T14	Element	85	91	oxygen
+T15	Element	93	101	hydrogen
+T16	Compound	103	117	sulfur dioxide

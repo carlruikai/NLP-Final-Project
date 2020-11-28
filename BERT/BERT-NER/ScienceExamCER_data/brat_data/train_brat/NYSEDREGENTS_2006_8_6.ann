@@ -1,0 +1,19 @@
+T1	Meteorology	0	17	Weather forecasts
+T2	StateOfBeing	18	21	are
+T3	AmountComparison	22	26	more
+T4	ProbabilityAndCertainty	27	35	accurate
+T5	RelativeTime	36	41	today
+T6	DATE	36	41	today
+T7	Comparisons	42	46	than
+T8	RelativeTime	47	49	in
+T9	DATE	50	58	the past
+T10	RelativeTime	54	58	past
+T11	Cause	59	65	due to
+T12	EnvironmentalDamageDestruction	66	80	global warming
+T13	Meteorology	81	100	air-quality control
+T14	TectonicPlates	101	116	plate tectonics
+T15	GeologicTheories	101	116	plate tectonics
+T16	Use	117	120	use
+T17	Representation	124	130	images
+T18	RelativeDirection	131	135	from
+T19	TheUniverseUniverseAndItsParts	136	141	space

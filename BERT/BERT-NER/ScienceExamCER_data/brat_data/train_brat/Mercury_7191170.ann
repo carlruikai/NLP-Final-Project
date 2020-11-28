@@ -1,0 +1,60 @@
+T1	Create	0	24	Residential construction
+T2	ManmadeLocations	0	24	Residential construction
+T3	StateOfBeing	25	27	is
+T4	IncreaseDecrease	28	37	expanding
+T5	RelativeLocations	34	36	in
+T6	States	41	48	Florida
+T7	IncreaseDecrease	54	63	expansion
+T8	Cause	68	74	caused
+T9	Harm	75	88	fragmentation
+T10	Habitat	92	100	habitats
+T11	CardinalNumber	102	105	One
+T12	NUMBER	102	105	One
+T13	Result	113	120	results
+T14	AmountChangingActions	128	137	increased
+T15	IncreaseDecrease	128	137	increased
+T16	Create	138	150	construction
+T17	StateOfBeing	151	153	is
+T18	AmountChangingActions	156	164	decrease
+T19	IncreaseDecrease	156	164	decrease
+T20	RelativeLocations	165	167	in
+T21	Numbers	172	178	number
+T22	Size	182	187	large
+T23	Animal	188	197	predators
+T24	Exemplar	198	205	such as
+T25	Mammal	210	216	coyote
+T26	Mammal	218	228	black bear
+T27	Mammal	234	241	panther
+T28	LevelOfInclusion	243	248	Which
+T29	ProbabilityAndCertainty	249	253	will
+T30	StateOfBeing	254	256	be
+T31	AmountComparison	261	265	most
+T32	Speed	266	275	immediate
+T33	Position	276	281	local
+T34	Result	282	288	result
+T35	Cause	289	291	of
+T36	Harm	297	310	fragmentation
+T37	AmountChangingActions	312	320	decrease
+T38	IncreaseDecrease	312	320	decrease
+T39	RelativeLocations	321	323	in
+T40	Size	324	336	middle-sized
+T41	Animal	337	346	predators
+T42	Size	347	352	large
+T43	Animal	353	362	predators
+T44	ProbabilityAndCertainty	363	367	will
+T45	ChangeInto	368	374	become
+T46	StateOfBeing	368	374	become
+T47	LivingDying	375	382	extinct
+T48	Extinction	375	382	extinct
+T49	AmountChangingActions	383	391	increase
+T50	IncreaseDecrease	383	391	increase
+T51	RelativeLocations	383	385	in
+T52	GroupsOfOrganisms	395	405	population
+T53	PartsOfTheFoodChain	409	413	prey
+T54	TypeOfConsumer	409	413	prey
+T55	Taxonomy	414	421	species
+T56	AmountChangingActions	422	430	increase
+T57	IncreaseDecrease	422	430	increase
+T58	RelativeLocations	422	424	in
+T59	GroupsOfOrganisms	434	444	population
+T60	TypeOfConsumer	448	462	top carnivores

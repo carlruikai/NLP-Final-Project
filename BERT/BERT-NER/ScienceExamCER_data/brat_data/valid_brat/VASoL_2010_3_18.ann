@@ -1,0 +1,20 @@
+T1	RelativeTime	0	4	When
+T2	Precipitation	8	13	rains
+T3	RelativeNumber	15	19	some
+T4	LevelOfInclusion	15	19	some
+T5	Animal	20	27	animals
+T6	ProbabilityAndCertainty	28	32	will
+T7	ActionsForAnimals	38	47	hibernate
+T8	TimeUnit	56	62	season
+T9	SeasonsFallAutumnWinterSpringSummer	56	62	season
+T10	ActionsForAnimals	63	70	migrate
+T11	Move	63	70	migrate
+T12	RelativeDirection	71	73	to
+T13	Temperature	74	80	warmer
+T14	EcosystemsEnvironment	81	89	climates
+T15	Alter	90	96	change
+T16	StructuralAdaptation	103	116	body covering
+T17	Move	117	121	move
+T18	CelestialMovement	117	121	move
+T19	Identify	125	129	seek
+T20	Habitat	130	137	shelter

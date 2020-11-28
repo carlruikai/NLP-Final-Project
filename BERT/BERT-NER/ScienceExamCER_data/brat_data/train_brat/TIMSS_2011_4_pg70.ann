@@ -1,0 +1,25 @@
+T1	StateOfBeing	5	7	is
+T2	Validity	12	19	correct
+T3	ResponseType	20	31	explanation
+T4	Cause	36	39	why
+T5	Observe	43	47	have
+T6	TimesOfDayDayNight	48	51	day
+T7	TimesOfDayDayNight	56	61	night
+T8	RelativeLocations	62	64	on
+T9	InnerPlanets	65	70	Earth
+T10	Star	76	79	Sun
+T11	CelestialMovement	80	86	orbits
+T12	PrepositionalDirections	87	93	around
+T13	InnerPlanets	98	103	Earth
+T14	InnerPlanets	98	103	Earth
+T15	CelestialMovement	111	117	orbits
+T16	PrepositionalDirections	118	124	around
+T17	Star	129	132	Sun
+T18	InnerPlanets	134	139	Earth
+T19	CelestialMovement	140	145	turns
+T20	Position	146	157	on its axis
+T21	PlanetParts	153	157	axis
+T22	Star	163	166	Sun
+T23	CelestialMovement	167	172	turns
+T24	Position	173	184	on its axis
+T25	PlanetParts	180	184	axis

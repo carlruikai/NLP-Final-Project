@@ -1,0 +1,15 @@
+T1	StateOfBeing	5	7	is
+T2	AnimalPart	12	16	body
+T3	ORDINAL	19	24	first
+T4	ObjectQuantification	25	30	layer
+T5	Help	34	41	defense
+T6	Position	42	49	against
+T7	Sickness	50	55	germs
+T8	PartsOfTheDigestiveSystem	57	62	liver
+T9	PartsOfTheCirculatorySystem	57	62	liver
+T10	PartsOfEndocrineSystem	57	62	liver
+T11	PartsOfTheDigestiveSystem	63	70	stomach
+T12	PartsOfEndocrineSystem	63	70	stomach
+T13	PartsOfTheNervousSystem	71	76	brain
+T14	PartsOfTheExcretorySystem	77	81	skin
+T15	PartsOfTheIntegumentarySystem	77	81	skin

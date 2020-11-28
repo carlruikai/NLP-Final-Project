@@ -1,0 +1,30 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Quality	16	20	best
+T4	QualityComparison	16	20	best
+T5	Communicate	21	29	explains
+T6	Occur	35	42	happens
+T7	RelativeDirection	43	45	to
+T8	PlantPart	48	52	leaf
+T9	RelativeTime	53	57	when
+T10	ChangesToResources	65	69	lost
+T11	AmountChangingActions	65	69	lost
+T12	RelativeNumber	70	74	much
+T13	Require	75	81	needed
+T14	PhasesOfWater	82	87	water
+T15	LiquidMatter	82	87	water
+T16	Pressure	93	108	turgor pressure
+T17	AmountChangingActions	109	118	decreases
+T18	IncreaseDecrease	109	118	decreases
+T19	Pressure	124	144	atmospheric pressure
+T20	AmountChangingActions	145	154	decreases
+T21	IncreaseDecrease	145	154	decreases
+T22	MeasuringSpeed	160	164	rate
+T23	PlantProcesses	168	181	transpiration
+T24	AmountChangingActions	182	191	increases
+T25	IncreaseDecrease	182	191	increases
+T26	MeasuringSpeed	197	201	rate
+T27	CellProcesses	205	219	photosynthesis
+T28	PlantProcesses	205	219	photosynthesis
+T29	AmountChangingActions	220	229	increases
+T30	IncreaseDecrease	220	229	increases

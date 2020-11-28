@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Behaviors	15	24	behaviors
+T4	PerformAnActivity	25	29	does
+T5	Aquatic	32	39	dolphin
+T6	Mammal	32	39	dolphin
+T7	ActionsForAnimals	40	45	learn
+T8	LearnedBehavior	40	45	learn
+T9	ActionsForAnimals	47	53	eating
+T10	Consumption	47	53	eating
+T11	Size	54	59	small
+T12	Aquatic	60	64	fish
+T13	ActionsForAnimals	65	73	swimming
+T14	RelativeLocations	70	72	in
+T15	TypesOfWaterInBodiesOfWater	77	87	salt water
+T16	WaitStay	88	97	balancing
+T17	Touch	88	97	balancing
+T18	ManmadeObjects	100	104	ball
+T19	RelativeLocations	105	107	on
+T20	AnimalPart	112	116	nose
+T21	RespirationActions	117	126	breathing
+T22	Negations	127	133	though
+T23	AquaticAnimalPart	138	146	blowhole

@@ -1,0 +1,43 @@
+T1	Vehicle	0	7	Vehicle
+T2	Toxins	8	15	exhaust
+T3	ContainBeComposedOf	16	24	contains
+T4	Exemplar	27	31	form
+T5	EnvironmentalDamageDestruction	35	44	pollution
+T6	Classify	45	51	called
+T7	Toxins	52	70	particulate matter
+T8	ManmadeObjects	72	84	Technologies
+T9	TechnologicalInstrument	72	84	Technologies
+T10	StateOfBeing	89	94	being
+T11	Create	95	104	developed
+T12	Result	105	107	to
+T13	AmountChangingActions	108	114	reduce
+T14	Numbers	119	125	amount
+T15	Toxins	129	147	particulate matter
+T16	RelativeLocations	148	150	in
+T17	Toxins	151	158	exhaust
+T18	Vehicle	162	169	vehicle
+T19	Create	175	183	produces
+T20	AmountComparison	184	188	less
+T21	Toxins	189	207	particulate matter
+T22	ProbabilityAndCertainty	208	213	would
+T23	Cause	214	218	have
+T24	AmountComparison	223	231	greatest
+T25	Alter	232	238	impact
+T26	Result	232	238	impact
+T27	PrepositionalDirections	239	241	on
+T28	LevelOfInclusion	242	247	which
+T29	SystemProcessStages	248	254	aspect
+T30	Human	258	263	human
+T31	Health	264	270	health
+T32	PartsOfTheCirculatorySystem	272	277	heart
+T33	PartsOfEndocrineSystem	272	277	heart
+T34	Health	278	284	health
+T35	RespiratorySystem	285	296	respiratory
+T36	Health	297	303	health
+T37	Numbers	308	312	rate
+T38	Birth	316	321	birth
+T39	Problem	322	329	defects
+T40	PhysicalProperty	330	336	weight
+T41	Mass	330	336	weight
+T42	PhysicalProperty	341	349	physical
+T43	Health	350	357	fitness

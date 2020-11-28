@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Represent	15	24	describes
+T4	PhasesOfWater	25	30	water
+T5	RelativeLocations	31	33	in
+T6	StateOfMatter	36	47	solid state
+T7	PhasesOfWater	49	54	Vapor
+T8	GaseousMatter	49	54	Vapor
+T9	GaseousMovement	55	61	rising
+T10	RelativeLocations	58	60	in
+T11	Sky	69	72	sky
+T12	Precipitation	73	77	Hail
+T13	RelativeTime	78	84	during
+T14	WeatherPhenomena	87	92	storm
+T15	PartsOfBodiesOfWater	93	98	Waves
+T16	LiquidMovement	99	107	crashing
+T17	RelativeLocations	108	110	on
+T18	PartsOfBodiesOfWater	115	123	seashore
+T19	Precipitation	124	128	Rain
+T20	LocationChangingActions	129	136	falling
+T21	RelativeDirection	137	141	from
+T22	WeatherPhenomena	146	152	clouds

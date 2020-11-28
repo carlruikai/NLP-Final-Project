@@ -1,0 +1,40 @@
+T1	TypesOfChemicalReactions	0	21	Endothermic reactions
+T2	StateOfBeing	22	25	are
+T3	Reactions	26	35	reactions
+T4	Require	41	48	require
+T5	AmountComparison	49	53	more
+T6	Energy	54	60	energy
+T7	Result	61	63	to
+T8	Start	64	69	start
+T9	Comparisons	70	74	than
+T10	Release	80	88	give off
+T11	RelativeLocations	89	91	in
+T12	PartsOfChemicalReactions	96	104	products
+T13	Result	96	104	products
+T14	LevelOfInclusion	106	111	Which
+T15	ResponseType	112	121	statement
+T16	Represent	122	131	describes
+T17	TypesOfChemicalReactions	135	155	endothermic reaction
+T18	Release	160	169	gives off
+T19	ThermalEnergy	170	181	heat energy
+T20	StateOfBeing	186	188	is
+T21	Temperature	189	192	hot
+T22	Senses	200	205	touch
+T23	Touch	200	205	touch
+T24	AbsorbEnergy	210	217	absorbs
+T25	ThermalEnergy	218	229	heat energy
+T26	StateOfBeing	234	236	is
+T27	Temperature	237	241	cold
+T28	Senses	249	254	touch
+T29	Touch	249	254	touch
+T30	Release	259	268	gives off
+T31	Energy	269	281	light energy
+T32	Light	269	274	light
+T33	Create	286	294	produces
+T34	ElectromagneticSpectrum	295	308	visible light
+T35	Release	313	322	gives off
+T36	PhasesOfWater	323	328	water
+T37	StateOfBeing	333	335	is
+T38	Wetness	336	339	wet
+T39	Senses	347	352	touch
+T40	Touch	347	352	touch

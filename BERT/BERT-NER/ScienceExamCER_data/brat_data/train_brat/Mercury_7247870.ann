@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	HumanPart	15	25	structures
+T4	Create	26	34	produces
+T5	Gender	35	39	male
+T6	CellsAndGenetics	40	47	gametes
+T7	PrenatalOrganismStates	40	47	gametes
+T8	RelativeLocations	48	50	in
+T9	Human	51	57	humans
+T10	PartsOfEndocrineSystem	59	65	testes
+T11	PartsOfTheReproductiveSystem	59	65	testes
+T12	PartsOfEndocrineSystem	66	73	ovaries
+T13	PartsOfTheReproductiveSystem	66	73	ovaries
+T14	PartsOfTheReproductiveSystem	74	81	scrotum
+T15	PartsOfTheReproductiveSystem	82	96	fallopian tube

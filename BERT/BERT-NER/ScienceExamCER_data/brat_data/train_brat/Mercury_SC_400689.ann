@@ -1,0 +1,18 @@
+T1	StateOfBeing	5	7	is
+T2	ImportanceComparison	12	17	MAJOR
+T3	SystemAndFunctions	18	22	role
+T4	Star	30	33	Sun
+T5	RelativeLocations	34	36	in
+T6	Cycles	41	52	water cycle
+T7	Cause	57	63	causes
+T8	PartsOfWaterCycle	64	75	evaporation
+T9	PhaseChangingActions	64	75	evaporation
+T10	Permit	80	86	allows
+T11	Plant	87	93	plants
+T12	Growth	97	101	grow
+T13	ActionsForAgriculture	97	101	grow
+T14	Create	106	114	provides
+T15	ThermalEnergy	115	119	heat
+T16	LivingThing	124	133	organisms
+T17	LightMovement	138	147	transmits
+T18	Light	148	153	light

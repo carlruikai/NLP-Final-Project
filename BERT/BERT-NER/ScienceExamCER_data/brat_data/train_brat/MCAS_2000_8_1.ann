@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Representation	6	10	list
+T3	Group	6	10	list
+T4	ContainBeComposedOf	11	19	contains
+T5	LevelOfInclusion	20	24	only
+T6	CelestialObject	25	31	things
+T7	StateOfBeing	37	40	are
+T8	ObjectPart	41	45	part
+T9	LevelOfInclusion	41	45	part
+T10	SolarSystem	53	65	solar system
+T11	Planet	67	74	planets
+T12	Moon	76	81	moons
+T13	Comet	83	89	comets
+T14	Galaxy	90	98	galaxies
+T15	StarTypes	100	107	quasars
+T16	Asteroid	109	118	asteroids
+T17	BlackHole	119	129	black hole
+T18	StarTypes	132	137	novas
+T19	Star	139	144	stars
+T20	CelestialObject	145	153	clusters
+T21	Asteroid	155	164	asteroids
+T22	Meteor	166	173	meteors

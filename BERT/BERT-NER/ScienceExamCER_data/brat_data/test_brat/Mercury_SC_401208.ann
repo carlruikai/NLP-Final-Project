@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	Representation	14	19	graph
+T4	ProbabilityAndCertainty	20	25	would
+T5	Quality	26	30	best
+T6	QualityComparison	26	30	best
+T7	ConcludingResearch	31	38	display
+T8	Communicate	31	38	display
+T9	Changes	43	50	changes
+T10	Temperature	54	65	temperature
+T11	RelativeTime	66	70	over
+T12	CardinalNumber	73	75	24
+T13	TimeUnit	76	80	hour
+T14	MarkersOfTime	81	87	period
+T15	Representation	89	99	line graph
+T16	Representation	100	110	pictograph
+T17	Representation	111	129	circle (pie) graph
+T18	Representation	130	149	stem-and-leaf graph

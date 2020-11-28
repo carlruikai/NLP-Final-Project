@@ -1,0 +1,37 @@
+T1	Reptile	0	9	Rat snake
+T2	Reptile	12	27	Elaphe obsoleta
+T3	StateOfBeing	29	32	are
+T4	Taxonomy	35	42	species
+T5	ContainBeComposedOf	43	47	made
+T6	RelativeNumber	51	55	many
+T7	Comparisons	56	64	distinct
+T8	GroupsOfOrganisms	65	76	populations
+T9	RelativeLocations	77	79	in
+T10	Comparisons	80	89	different
+T11	Locations	90	95	areas
+T12	LevelOfInclusion	97	101	Each
+T13	GroupsOfOrganisms	109	120	populations
+T14	ContainBeComposedOf	121	124	has
+T15	Comparisons	125	134	different
+T16	VisualProperty	135	143	markings
+T17	Color	148	156	coloring
+T18	RelativeLocations	159	164	Where
+T19	ProbabilityAndCertainty	165	170	would
+T20	Reptile	171	180	rat snake
+T21	AmountComparison	182	186	most
+T22	ProbabilityAndCertainty	187	193	likely
+T23	StateOfBeing	194	196	be
+T24	Color	197	201	gray
+T25	RelativeLocations	203	205	in
+T26	ExamplesOfHabitats	208	214	forest
+T27	RelativeLocations	215	217	in
+T28	GeographicFormations	220	225	swamp
+T29	BodiesOfWater	220	225	swamp
+T30	RelativeLocations	226	228	in
+T31	Rock	231	237	gravel
+T32	ExamplesOfHabitats	238	241	pit
+T33	TerrestrialLocations	238	241	pit
+T34	RelativeLocations	242	244	in
+T35	Foods	247	251	corn
+T36	ExamplesOfHabitats	252	257	field
+T37	TerrestrialLocations	252	257	field

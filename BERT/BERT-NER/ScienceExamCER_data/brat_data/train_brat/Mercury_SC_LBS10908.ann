@@ -1,0 +1,35 @@
+T1	Cause	0	3	Why
+T2	StateOfBeing	4	7	are
+T3	RelativeNumber	8	12	many
+T4	ViewingTools	13	23	telescopes
+T5	ObservationInstrumentsTelescopeBinoculars	13	23	telescopes
+T6	Use	24	28	used
+T7	Distance	29	32	far
+T8	RelativeDirection	33	37	from
+T9	Cities	38	44	cities
+T10	Light	50	55	light
+T11	RelativeDirection	56	60	from
+T12	Cities	65	71	cities
+T13	Cause	72	77	makes
+T14	Difficulty	81	85	hard
+T15	Observe	89	92	see
+T16	Star	93	98	stars
+T17	SoundEnergy	104	109	noise
+T18	RelativeDirection	110	114	from
+T19	Cities	119	125	cities
+T20	Move	126	134	vibrates
+T21	ViewingTools	139	149	telescopes
+T22	ObservationInstrumentsTelescopeBinoculars	139	149	telescopes
+T23	ManmadeObjects	155	166	power lines
+T24	TechnologicalComponent	155	166	power lines
+T25	RelativeDirection	167	171	from
+T26	Cities	176	182	cities
+T27	Create	183	190	produce
+T28	WavePerception	191	203	interference
+T29	EnergyWaves	204	209	waves
+T30	EnvironmentalDamageDestruction	215	224	pollution
+T31	GaseousMatter	215	224	pollution
+T32	RelativeDirection	225	229	from
+T33	Cities	234	240	cities
+T34	LightMovement	241	249	reflects
+T35	CelestialLightOnEarth	250	259	starlight

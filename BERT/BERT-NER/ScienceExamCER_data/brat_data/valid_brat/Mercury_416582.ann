@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	PerformAnActivity	21	25	does
+T4	Eukaryote	28	38	paramecium
+T5	Protist	28	38	paramecium
+T6	ContainBeComposedOf	39	43	have
+T7	Comparisons	44	53	in common
+T8	CombineAdd	54	58	with
+T9	Protist	59	65	volvox
+T10	AbilityAvailability	67	71	able
+T11	Create	75	82	produce
+T12	CellsAndGenetics	83	90	gametes
+T13	PrenatalOrganismStates	83	90	gametes
+T14	AbilityAvailability	91	94	can
+T15	PerformAnActivity	95	102	perform
+T16	CellProcesses	103	117	photosynthesis
+T17	ContainBeComposedOf	118	121	has
+T18	AnimalCellPart	125	134	organelle
+T19	PlantCellPart	125	134	organelle
+T20	PropertyOfMotion	139	147	movement
+T21	Move	139	147	movement
+T22	LivingDying	148	153	lives
+T23	StateOfBeing	154	156	as
+T24	CardinalNumber	157	160	one
+T25	NUMBER	157	160	one
+T26	GroupsOfOrganisms	166	172	colony
+T27	Cell	176	181	cells

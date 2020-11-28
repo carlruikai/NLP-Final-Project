@@ -1,0 +1,32 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Soil	15	19	soil
+T4	Changes	20	27	changes
+T5	StateOfBeing	28	30	is
+T6	Cause	31	34	due
+T7	LevelOfInclusion	35	39	only
+T8	Composition	43	50	natural
+T9	Cause	51	57	causes
+T10	AmountChangingActions	59	63	Loss
+T11	Minerals	67	75	minerals
+T12	Cause	76	82	due to
+T13	Agriculture	83	90	farming
+T14	ActionsForAgriculture	83	90	farming
+T15	TypesOfTerrestrialEcosystems	92	99	Deserts
+T16	Create	100	107	forming
+T17	Cause	108	114	due to
+T18	Plant	115	119	tree
+T19	StopRemove	120	127	cutting
+T20	FormChangingActions	120	127	cutting
+T21	NaturalPhenomena	129	137	Flooding
+T22	LiquidMovement	129	137	Flooding
+T23	Cause	138	144	due to
+T24	ManMadeGeographicFormations	145	148	dam
+T25	ManmadeLocations	145	148	dam
+T26	Create	149	161	construction
+T27	Minerals	163	171	Minerals
+T28	CleanUp	172	179	washing
+T29	RelativeDirection	180	183	out
+T30	Cause	184	190	due to
+T31	RelativeNumber	191	196	heavy
+T32	Precipitation	197	201	rain

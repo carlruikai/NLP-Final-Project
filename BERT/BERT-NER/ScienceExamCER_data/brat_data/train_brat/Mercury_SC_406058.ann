@@ -1,0 +1,38 @@
+T1	LandVehicle	2	5	car
+T2	ContainBeComposedOf	6	9	has
+T3	Size	12	17	small
+T4	VehicularSystemsParts	18	33	gasoline engine
+T5	CombineAdd	34	42	combined
+T6	VehicularSystemsParts	50	80	battery-powered electric motor
+T7	RelativeTime	82	86	When
+T8	LandVehicle	91	94	car
+T9	StopRemove	95	100	stops
+T10	RelativeLocations	101	103	at
+T11	Color	106	109	red
+T12	LightProducingObject	110	115	light
+T13	VehicularSystemsParts	121	136	gasoline engine
+T14	StopRemove	137	142	stops
+T15	PerformAnActivity	143	150	running
+T16	VehicularSystemsParts	159	173	electric motor
+T17	Start	174	180	begins
+T18	PerformAnActivity	181	188	working
+T19	Method	190	193	How
+T20	PerformAnActivity	194	198	does
+T21	Exemplar	204	208	type
+T22	LandVehicle	212	215	car
+T23	AmountComparison	216	220	most
+T24	ProbabilityAndCertainty	221	227	likely
+T25	Help	228	235	benefit
+T26	Human	236	242	people
+T27	AmountChangingActions	244	251	reduces
+T28	Traffic	252	259	traffic
+T29	Use	260	264	uses
+T30	AmountComparison	265	269	less
+T31	FossilFuel	270	278	gasoline
+T32	MechanicalMovement	279	290	accelerates
+T33	IncreaseDecrease	279	290	accelerates
+T34	Comparisons	291	297	faster
+T35	Speed	291	297	faster
+T36	Transportation	298	305	carries
+T37	AmountComparison	306	310	more
+T38	Human	311	321	passengers

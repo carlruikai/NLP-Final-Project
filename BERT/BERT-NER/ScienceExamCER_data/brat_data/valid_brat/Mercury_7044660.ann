@@ -1,0 +1,16 @@
+T1	Device	2	8	device
+T2	TransferEnergy	14	22	converts
+T3	Spectra	23	35	light energy
+T4	ChangeInto	36	40	into
+T5	ElectricalEnergy	41	52	electricity
+T6	Use	53	57	used
+T7	RelativeLocations	58	60	in
+T8	RelativeNumber	61	65	many
+T9	Size	66	74	handheld
+T10	ComputingDevice	75	86	calculators
+T11	TechnologicalInstrument	75	86	calculators
+T12	StateOfBeing	87	89	is
+T13	ElectricalEnergySource	92	99	battery
+T14	LightExaminingTool	101	110	photocell
+T15	ElectricityGeneration	112	127	photo generator
+T16	ElectricityGeneration	129	146	photovoltaic cell

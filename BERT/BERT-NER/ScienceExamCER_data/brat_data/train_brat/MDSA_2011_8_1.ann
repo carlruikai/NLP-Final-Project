@@ -1,0 +1,48 @@
+T1	RelativeTime	0	6	During
+T2	Reproduction	7	26	sexual reproduction
+T3	PartsOfTheReproductiveSystem	30	35	sperm
+T4	Cell	36	40	cell
+T5	Reproduction	41	51	fertilizes
+T6	OrganicProcesses	41	51	fertilizes
+T7	PartsOfTheReproductiveSystem	55	63	egg cell
+T8	Result	64	66	to
+T9	Create	67	71	form
+T10	PrenatalOrganismStates	74	88	fertilized egg
+T11	PrenatalOrganismStates	74	88	fertilized egg
+T12	RelativeTime	109	113	then
+T13	Development	114	122	develops
+T14	ChangeInto	123	127	into
+T15	Age	130	133	new
+T16	LivingThing	134	142	organism
+T17	LevelOfInclusion	144	149	Which
+T18	ResponseType	150	159	statement
+T19	Represent	160	169	describes
+T20	ImportanceComparison	174	181	primary
+T21	QualityComparison	182	191	advantage
+T22	Reproduction	195	214	sexual reproduction
+T23	Comparisons	215	219	over
+T24	Reproduction	220	240	asexual reproduction
+T25	Reproduction	242	261	Sexual reproduction
+T26	Create	262	270	produces
+T27	Comparisons	271	280	identical
+T28	GeneticRelations	281	290	offspring
+T29	WordsForOffspring	281	290	offspring
+T30	Reproduction	292	311	Sexual reproduction
+T31	Cause	312	322	results in
+T32	AmountComparison	323	327	less
+T33	OtherAnimalProperties	328	337	adaptable
+T34	Adaptation	328	337	adaptable
+T35	GeneticRelations	338	347	offspring
+T36	WordsForOffspring	338	347	offspring
+T37	Reproduction	349	368	Sexual reproduction
+T38	Create	369	378	generates
+T39	Size	381	386	large
+T40	Numbers	387	393	number
+T41	GeneticRelations	397	406	offspring
+T42	WordsForOffspring	397	406	offspring
+T43	Reproduction	408	427	Sexual reproduction
+T44	Cause	428	438	results in
+T45	GeneticProperty	439	456	genetic variation
+T46	RelativeLocations	457	459	in
+T47	GeneticRelations	460	469	offspring
+T48	WordsForOffspring	460	469	offspring

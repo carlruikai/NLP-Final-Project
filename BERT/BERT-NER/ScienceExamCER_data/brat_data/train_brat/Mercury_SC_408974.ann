@@ -1,0 +1,52 @@
+T1	PhasesOfWater	2	7	water
+T2	LiquidMatter	2	7	water
+T3	BusinessIndustry	8	15	company
+T4	Use	16	20	uses
+T5	PerformingResearch	21	30	lab tests
+T6	PrepositionalDirections	31	33	on
+T7	PhasesOfWater	38	43	water
+T8	LiquidMatter	38	43	water
+T9	Source	44	50	supply
+T10	RelativeTime	51	57	before
+T11	LocationChangingActions	58	65	sending
+T12	Transportation	58	65	sending
+T13	PhasesOfWater	70	75	water
+T14	LiquidMatter	70	75	water
+T15	PrepositionalDirections	76	83	through
+T16	PartsOfABuilding	84	89	pipes
+T17	RelativeDirection	90	92	to
+T18	Human	93	99	people
+T19	ManmadeLocations	102	107	homes
+T20	Method	109	112	How
+T21	LevelOfInclusion	116	121	these
+T22	PerformingResearch	122	131	lab tests
+T23	Help	132	136	help
+T24	Human	137	143	people
+T25	CombineAdd	148	154	adding
+T26	Minerals	155	163	minerals
+T27	Nutrition	168	177	nutrients
+T28	RelativeDirection	178	180	to
+T29	PhasesOfWater	185	190	water
+T30	LiquidMatter	185	190	water
+T31	Examine	194	202	checking
+T32	PhasesOfWater	207	212	water
+T33	LiquidMatter	207	212	water
+T34	Goal	213	215	to
+T35	Verify	216	225	make sure
+T36	StateOfBeing	229	231	is
+T37	Safety	232	236	safe
+T38	ActionsForAnimals	240	245	drink
+T39	Consumption	240	245	drink
+T40	StopRemove	249	258	filtering
+T41	Separate	249	258	filtering
+T42	Compound	259	268	chemicals
+T43	LivingThing	273	282	organisms
+T44	RelativeDirection	283	286	out
+T45	PhasesOfWater	294	299	water
+T46	LiquidMatter	294	299	water
+T47	StopRemove	303	311	stopping
+T48	Sickness	312	330	harmful substances
+T49	CombineAdd	336	344	entering
+T50	Move	336	344	entering
+T51	PhasesOfWater	349	354	water
+T52	LiquidMatter	349	354	water

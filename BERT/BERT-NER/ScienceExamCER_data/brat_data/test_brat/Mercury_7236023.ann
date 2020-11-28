@@ -1,0 +1,59 @@
+T1	Mass	2	6	mass
+T2	EarthPartsGrossGroundAtmosphere	10	13	air
+T3	StateOfBeing	14	16	is
+T4	RelativeLocations	17	19	at
+T5	Height	23	32	elevation
+T6	CardinalNumber	36	40	1000
+T7	DistanceUnit	41	47	meters
+T8	RelativeLocations	48	50	in
+T9	WeatherPhenomena	55	74	low pressure center
+T10	EarthPartsGrossGroundAtmosphere	80	99	Northern Hemisphere
+T11	NorthernHemisphereLocations	80	99	Northern Hemisphere
+T12	WeatherPhenomena	100	105	storm
+T13	LevelOfInclusion	107	112	Which
+T14	LevelOfInclusion	116	129	the following
+T15	Quality	130	134	best
+T16	QualityComparison	130	134	best
+T17	Communicate	135	144	describes
+T18	Move	149	155	motion
+T19	EarthPartsGrossGroundAtmosphere	159	162	air
+T20	Particles	163	172	particles
+T21	AtomComponents	163	172	particles
+T22	RelativeLocations	173	175	in
+T23	GaseousMatter	181	189	air mass
+T24	Cause	190	196	due to
+T25	WeatherPhenomena	197	213	storm conditions
+T26	CelestialMovement	222	230	rotation
+T27	InnerPlanets	234	239	Earth
+T28	RelativeTime	240	242	as
+T29	GaseousMatter	247	255	air mass
+T30	Move	256	261	moves
+T31	RelativeDirection	262	269	outward
+T32	EarthPartsGrossGroundAtmosphere	271	274	Air
+T33	Particles	275	284	particles
+T34	AtomComponents	275	284	particles
+T35	Move	285	289	move
+T36	PrepositionalDirections	290	292	up
+T37	RelativeDirection	297	299	to
+T38	RelativeDirection	304	308	left
+T39	EarthPartsGrossGroundAtmosphere	310	313	Air
+T40	Particles	314	323	particles
+T41	AtomComponents	314	323	particles
+T42	Move	324	328	move
+T43	PrepositionalDirections	329	331	up
+T44	RelativeDirection	336	338	to
+T45	RelativeDirection	343	348	right
+T46	EarthPartsGrossGroundAtmosphere	350	353	Air
+T47	Particles	354	363	particles
+T48	AtomComponents	354	363	particles
+T49	Move	364	368	move
+T50	PrepositionalDirections	369	373	down
+T51	RelativeDirection	378	380	to
+T52	RelativeDirection	385	389	left
+T53	EarthPartsGrossGroundAtmosphere	391	394	Air
+T54	Particles	395	404	particles
+T55	AtomComponents	395	404	particles
+T56	Move	405	409	move
+T57	PrepositionalDirections	410	414	down
+T58	RelativeDirection	419	421	to
+T59	RelativeDirection	426	431	right

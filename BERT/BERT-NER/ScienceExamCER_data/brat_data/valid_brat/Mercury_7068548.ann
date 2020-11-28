@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GeographicFormationProcess	6	22	geologic process
+T3	StateOfBeing	23	25	is
+T4	StateOfBeing	26	32	absent
+T5	RelativeLocations	33	37	from
+T6	GeopoliticalLocations	42	59	Gulf Coast states
+T7	TerrestrialLocations	61	66	beach
+T8	Create	67	78	development
+T9	ChangeInLocation	79	89	subduction
+T10	Locations	90	95	zones
+T11	ConstructiveDestructiveForces	96	106	weathering
+T12	NaturalPhenomena	96	106	weathering
+T13	ConstructiveDestructiveForces	107	114	erosion
+T14	NaturalPhenomena	107	114	erosion

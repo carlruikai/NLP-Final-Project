@@ -1,0 +1,38 @@
+T1	RelativeLocations	0	2	In
+T2	Plant	3	9	plants
+T3	LevelOfInclusion	11	16	which
+T4	Represent	17	26	describes
+T5	Reproduction	27	46	sexual reproduction
+T6	Negations	47	50	but
+T7	Negations	51	54	not
+T8	Reproduction	55	75	asexual reproduction
+T9	NUMBER	77	81	Five
+T10	PlantPart	82	87	limbs
+T11	StateOfBeing	88	91	are
+T12	CombineAdd	92	104	grafted onto
+T13	Comparisons	109	113	same
+T14	Plant	114	118	tree
+T15	Age	120	123	New
+T16	Plant	124	130	plants
+T17	StateOfBeing	131	134	are
+T18	Growth	135	140	grown
+T19	ActionsForAgriculture	135	140	grown
+T20	RelativeDirection	141	145	from
+T21	ObjectQuantification	146	152	pieces
+T22	Comparisons	156	161	other
+T23	Plant	162	168	plants
+T24	PrenatalOrganismStates	172	191	fertilized egg cell
+T25	CellProcesses	192	199	divides
+T26	Divide	192	199	divides
+T27	Result	200	202	to
+T28	Create	203	210	produce
+T29	PrenatalOrganismStates	214	220	embryo
+T30	GeneticRelations	222	231	Offspring
+T31	WordsForOffspring	222	231	Offspring
+T32	StateOfBeing	232	235	are
+T33	Create	236	244	produced
+T34	ContainBeComposedOf	250	254	have
+T35	Comparisons	259	263	same
+T36	Gene	264	283	genetic information
+T37	Comparisons	284	286	as
+T38	GeneticRelations	291	297	parent

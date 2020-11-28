@@ -1,0 +1,28 @@
+T1	ElectricalEnergy	0	11	Electricity
+T2	Result	12	14	to
+T3	Use	15	19	play
+T4	TechnologicalInstrument	25	30	radio
+T5	AbilityAvailability	31	34	can
+T6	StateOfBeing	35	37	be
+T7	Create	38	42	made
+T8	Use	43	48	using
+T9	Rarity	49	58	renewable
+T10	Comparisons	59	61	or
+T11	Rarity	62	74	nonrenewable
+T12	NaturalResources	75	84	resources
+T13	LevelOfInclusion	86	91	Which
+T14	LevelOfInclusion	95	108	the following
+T15	NaturalResources	109	118	resources
+T16	StateOfBeing	119	122	are
+T17	Rarity	123	132	renewable
+T18	OtherEnergyResources	134	138	wind
+T19	WeatherPhenomena	134	138	wind
+T20	FossilFuel	143	146	oil
+T21	OtherEnergyResources	147	151	wind
+T22	WeatherPhenomena	147	151	wind
+T23	CelestialLightOnEarth	156	164	sunlight
+T24	OtherEnergyResources	156	164	sunlight
+T25	FossilFuel	165	176	natural gas
+T26	FossilFuel	181	184	oil
+T27	FossilFuel	185	196	natural gas
+T28	FossilFuel	201	205	coal

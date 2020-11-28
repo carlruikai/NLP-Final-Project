@@ -1,0 +1,35 @@
+T1	TimeUnit	4	13	centuries
+T2	Human	15	22	farmers
+T3	Agriculture	15	22	farmers
+T4	StateOfBeing	28	32	been
+T5	Uptake	33	39	taking
+T6	ObjectQuantification	40	47	cutting
+T7	Quality	52	62	productive
+T8	PropertyOfProduction	52	62	productive
+T9	Plant	63	69	plants
+T10	ActionsForAgriculture	74	81	rooting
+T11	CombineAdd	74	81	rooting
+T12	ObjectQuantification	86	93	cutting
+T13	Goal	95	97	to
+T14	Create	98	102	make
+T15	Age	103	106	new
+T16	Plant	107	113	plants
+T17	LevelOfInclusion	115	120	Which
+T18	Exemplar	121	125	kind
+T19	RelativeTime	129	135	modern
+T20	TechnologicalInstrument	136	146	technology
+T21	Use	147	151	uses
+T22	Gene	152	171	genetic information
+T23	AmountComparison	172	176	most
+T24	Comparisons	177	186	similarly
+T25	RelativeDirection	187	189	to
+T26	FormChangingActions	194	201	cutting
+T27	ActionsForAgriculture	206	213	rooting
+T28	CombineAdd	206	213	rooting
+T29	Method	214	221	process
+T30	Genetics	223	242	genetic engineering
+T31	GeneticProcesses	243	261	DNA fingerprinting
+T32	Genetics	262	269	cloning
+T33	Reproduction	262	269	cloning
+T34	LivingThing	273	282	organisms
+T35	Medicine	283	299	antibody therapy

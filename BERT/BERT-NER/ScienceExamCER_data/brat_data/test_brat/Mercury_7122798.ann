@@ -1,0 +1,23 @@
+T1	GaseousMatter	4	7	air
+T2	RelativeLocations	8	19	in front of
+T3	Meteor	22	28	meteor
+T4	StateOfBeing	29	31	is
+T5	PushingActions	32	42	compressed
+T6	Move	49	55	passes
+T7	PrepositionalDirections	56	63	through
+T8	EarthPartsGrossGroundAtmosphere	68	78	atmosphere
+T9	InnerPlanets	82	87	Earth
+T10	LOCATION	82	87	Earth
+T11	Cause	94	100	causes
+T12	Meteor	105	111	meteor
+T13	Result	112	114	to
+T14	AmountChangingActions	115	119	gain
+T15	Mass	120	124	mass
+T16	AmountChangingActions	126	130	gain
+T17	PropertyOfMotion	131	139	velocity
+T18	AmountChangingActions	141	149	increase
+T19	IncreaseDecrease	141	149	increase
+T20	Temperature	153	164	temperature
+T21	AmountChangingActions	166	174	increase
+T22	IncreaseDecrease	166	174	increase
+T23	PhysicalProperty	178	190	surface area

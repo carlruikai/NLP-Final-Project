@@ -1,0 +1,33 @@
+T1	Human	0	10	Scientists
+T2	GroupsOfScientists	0	10	Scientists
+T3	Believe	11	15	know
+T4	InnerPlanets	21	26	Earth
+T5	LOCATION	21	26	Earth
+T6	StateOfBeing	27	29	is
+T7	Frequency	30	40	constantly
+T8	Changes	41	49	changing
+T9	StateOfBeing	56	59	are
+T10	Believe	60	73	familiar with
+T11	OrganicProcesses	78	87	processes
+T12	Event	78	87	processes
+T13	StateOfBeing	93	96	are
+T14	PerformAnActivity	97	105	repeated
+T15	Frequency	106	111	daily
+T16	Frequency	113	120	monthly
+T17	Frequency	126	132	yearly
+T18	LevelOfInclusion	134	139	Which
+T19	LevelOfInclusion	143	148	these
+T20	StateOfBeing	149	151	is
+T21	NaturalPhenomena	154	167	natural event
+T22	Event	154	167	natural event
+T23	AbilityAvailability	173	176	can
+T24	StateOfBeing	177	179	be
+T25	Hypothesizing	180	189	predicted
+T26	Occur	193	198	occur
+T27	Frequency	199	206	monthly
+T28	NaturalPhenomena	208	226	volcanic eruptions
+T29	NaturalPhenomena	227	246	earthquake activity
+T30	LunarPhases	247	253	phases
+T31	Moon	261	265	moon
+T32	Precipitation	266	279	precipitation
+T33	Numbers	280	287	amounts

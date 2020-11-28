@@ -1,0 +1,12 @@
+T1	ElectricalProperty	0	7	Charged
+T2	Particles	8	17	particles
+T3	AtomComponents	8	17	particles
+T4	Create	18	24	formed
+T5	RelativeTime	25	31	during
+T6	Reactions	34	51	chemical reaction
+T7	StateOfBeing	52	55	are
+T8	Classify	56	62	called
+T9	ElementalComponents	63	67	ions
+T10	AtomComponents	69	76	protons
+T11	ElementalComponents	78	87	molecules
+T12	AtomComponents	89	97	neutrons

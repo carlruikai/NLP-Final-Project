@@ -1,0 +1,12 @@
+T1	Animal	0	7	Animals
+T2	Uptake	8	11	get
+T3	Energy	12	18	energy
+T4	ActionsForAnimals	23	29	growth
+T5	Growth	23	29	growth
+T6	ActionsForAnimals	34	40	repair
+T7	Help	34	40	repair
+T8	RelativeDirection	41	45	from
+T9	Soil	46	50	soil
+T10	Nutrition	51	55	food
+T11	PhasesOfWater	56	61	water
+T12	EarthPartsGrossGroundAtmosphere	62	65	air

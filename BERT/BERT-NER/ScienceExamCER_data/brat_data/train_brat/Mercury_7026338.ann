@@ -1,0 +1,37 @@
+T1	GaseousMatter	3	11	air mass
+T2	RelativeLocations	12	14	in
+T3	GeographicFormations	17	23	valley
+T4	Move	24	31	travels
+T5	PrepositionalDirections	32	34	up
+T6	GeographicFormationParts	37	49	mountainside
+T7	Cause	56	62	causes
+T8	GaseousMovement	67	75	movement
+T9	EarthPartsGrossGroundAtmosphere	84	87	air
+T10	TidesHighTideLowTide	89	94	tidal
+T11	PullingActions	95	99	pull
+T12	Moon	107	111	moon
+T13	Gravity	114	121	gravity
+T14	SeparatingMixtures	122	133	evaporation
+T15	PhaseChangingActions	122	133	evaporation
+T16	PhasesOfWater	137	142	water
+T17	LiquidMatter	137	142	water
+T18	RelativeDirection	143	147	from
+T19	Soil	148	152	soil
+T20	RelativeLocations	153	155	in
+T21	GeographicFormations	160	166	valley
+T22	Temperature	167	174	warming
+T23	Cause	175	177	by
+T24	OtherEnergyResources	178	190	solar energy
+T25	Create	191	202	re-radiated
+T26	LightMovement	191	202	re-radiated
+T27	RelativeDirection	203	207	from
+T28	Soil	212	218	ground
+T29	IncreaseDecrease	219	226	cooling
+T30	Temperature	219	226	cooling
+T31	Result	227	233	effect
+T32	Precipitation	237	249	ice crystals
+T33	PhasesOfWater	237	249	ice crystals
+T34	RelativeLocations	250	252	in
+T35	EarthPartsGrossGroundAtmosphere	257	260	air
+T36	RelativeLocations	261	265	over
+T37	GeographicFormations	270	278	mountain

@@ -1,0 +1,42 @@
+T1	PhasesOfWater	0	5	Water
+T2	LiquidMatter	0	5	Water
+T3	StateOfBeing	6	8	is
+T4	AmountComparison	11	15	very
+T5	Quality	16	25	important
+T6	ObjectPart	26	30	part
+T7	ConstructiveDestructiveForces	38	57	physical weathering
+T8	Rock	61	65	rock
+T9	LevelOfInclusion	67	72	Which
+T10	LevelOfInclusion	76	81	these
+T11	Property	82	92	properties
+T12	PhasesOfWater	96	101	water
+T13	LiquidMatter	96	101	water
+T14	StateOfBeing	102	104	is
+T15	AmountComparison	105	109	most
+T16	Quality	110	119	important
+T17	Cause	123	130	causing
+T18	LevelOfInclusion	131	135	some
+T19	ConstructiveDestructiveForces	143	162	physical weathering
+T20	Rock	166	170	rock
+T21	PhasesOfWater	172	177	Water
+T22	LiquidMatter	172	177	Water
+T23	StateOfBeing	178	180	is
+T24	StateOfMatter	183	189	liquid
+T25	Temperature	193	209	room temperature
+T26	PhasesOfWater	211	216	Water
+T27	LiquidMatter	211	216	Water
+T28	AbilityAvailability	217	220	can
+T29	ContainBeComposedOf	221	228	contain
+T30	Comparisons	229	238	different
+T31	Minerals	239	247	minerals
+T32	PhasesOfWater	249	254	Water
+T33	LiquidMatter	249	254	Water
+T34	IncreaseDecrease	255	262	expands
+T35	RelativeTime	263	267	when
+T36	PhaseChangingActions	271	278	freezes
+T37	PhasesOfWater	280	285	Water
+T38	LiquidMatter	280	285	Water
+T39	PhaseChangingActions	286	295	dissolves
+T40	FormChangingActions	286	295	dissolves
+T41	RelativeNumber	296	300	many
+T42	Compound	301	310	chemicals

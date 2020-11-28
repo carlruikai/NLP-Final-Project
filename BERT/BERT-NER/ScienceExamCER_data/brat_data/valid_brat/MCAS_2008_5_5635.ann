@@ -1,0 +1,40 @@
+T1	RelativeNumber	0	4	Many
+T2	Bacteria	5	13	bacteria
+T3	StateOfBeing	14	17	are
+T4	PartsOfTheFoodChain	18	28	decomposer
+T5	LivingThing	29	38	organisms
+T6	LevelOfInclusion	40	45	Which
+T7	LevelOfInclusion	49	62	the following
+T8	ResponseType	63	73	statements
+T9	Quality	74	78	best
+T10	QualityComparison	74	78	best
+T11	Communicate	79	88	describes
+T12	Method	89	92	how
+T13	LevelOfInclusion	93	98	these
+T14	Bacteria	99	107	bacteria
+T15	Help	108	112	help
+T16	Cause	113	117	make
+T17	Soil	118	122	soil
+T18	AmountComparison	123	127	more
+T19	Health	128	135	fertile
+T20	Bacteria	141	149	bacteria
+T21	ChemicalChange	150	160	break down
+T22	PhasesOfWater	161	166	water
+T23	ChangeInto	167	171	into
+T24	Nutrition	172	176	food
+T25	Bacteria	182	190	bacteria
+T26	Changes	191	197	change
+T27	CelestialLightOnEarth	198	206	sunlight
+T28	ChangeInto	207	211	into
+T29	Minerals	212	220	minerals
+T30	Bacteria	226	234	bacteria
+T31	CombineAdd	235	242	combine
+T32	Soil	248	252	sand
+T33	Result	253	255	to
+T34	Create	256	260	form
+T35	Rock	261	266	rocks
+T36	Bacteria	272	280	bacteria
+T37	ChemicalChange	281	291	break down
+T38	Plant	292	297	plant
+T39	Animal	302	308	animal
+T40	Matter	309	315	matter

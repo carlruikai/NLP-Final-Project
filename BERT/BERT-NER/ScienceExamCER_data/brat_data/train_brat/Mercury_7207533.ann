@@ -1,0 +1,23 @@
+T1	RelativeLocations	0	2	In
+T2	RelativeNumber	3	7	many
+T3	GeographicFormations	8	13	caves
+T4	Rock	15	19	rock
+T5	GeographicFormations	20	30	formations
+T6	ContainBeComposedOf	31	38	include
+T7	MineralFormations	39	50	stalactites
+T8	MineralFormations	55	66	stalagmites
+T9	RelativeLocations	68	73	Where
+T10	Rock	83	87	rock
+T11	RelativeLocations	88	90	in
+T12	LevelOfInclusion	91	96	these
+T13	MineralFormations	97	107	formations
+T14	Source	108	117	come from
+T15	Rock	119	124	magma
+T16	Precipitation	125	134	rainwater
+T17	LiquidMatter	125	134	rainwater
+T18	PhaseChangingActions	135	144	dissolved
+T19	FormChangingActions	135	144	dissolved
+T20	Minerals	145	153	minerals
+T21	LivingDying	154	162	decaying
+T22	ChemicalProperty	163	170	organic
+T23	Matter	171	177	matter

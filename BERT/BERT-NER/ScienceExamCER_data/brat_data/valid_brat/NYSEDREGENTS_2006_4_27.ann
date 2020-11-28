@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	PhysicalActivity	12	20	activity
+T4	AmountComparison	21	25	most
+T5	Frequency	26	31	often
+T6	Cause	32	35	has
+T7	Safety	38	45	harmful
+T8	Harm	38	45	harmful
+T9	Result	46	52	effect
+T10	RelativeLocations	53	55	on
+T11	EcosystemsEnvironment	60	71	environment
+T12	RespirationActions	73	82	breathing
+T13	Growth	83	90	growing
+T14	ActionsForAgriculture	91	99	planting
+T15	EnvironmentalDamageDestruction	100	109	polluting

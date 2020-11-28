@@ -1,0 +1,51 @@
+T1	Nebula	4	24	North America Nebula
+T2	StateOfBeing	25	27	is
+T3	Classify	28	33	named
+T4	Cause	34	37	for
+T5	Comparisons	42	52	similarity
+T6	Shape	56	61	shape
+T7	NationalityOrigin	69	83	North American
+T8	GeographicFormations	84	93	continent
+T9	StateOfBeing	98	101	was
+T10	Identify	102	112	discovered
+T11	Discovery	102	112	discovered
+T12	RelativeLocations	113	119	within
+T13	Galaxy	124	133	Milky Way
+T14	Cause	134	136	by
+T15	Scientists	137	147	astronomer
+T16	Scientists	148	164	William Herschel
+T17	PERSON	148	164	William Herschel
+T18	RelativeTime	165	167	in
+T19	DATE	168	172	1790
+T20	StateOfBeing	179	182	was
+T21	Scientists	183	195	Mr. Herschel
+T22	PERSON	187	195	Herschel
+T23	AmountComparison	196	200	most
+T24	ProbabilityAndCertainty	201	207	likely
+T25	Observe	208	217	observing
+T26	PerformingResearch	208	217	observing
+T27	TypesOfEvent	223	232	explosion
+T28	TemporalProperty	233	242	following
+T29	Death	247	255	collapse
+T30	Star	261	265	star
+T31	PhysicalProperty	268	273	dense
+T32	CelestialObject	274	281	cluster
+T33	Star	285	290	stars
+T34	Comparisons	294	301	varying
+T35	CelestialMeasurements	302	312	magnitudes
+T36	Meteor	313	323	meteorites
+T37	RelativeTime	324	326	as
+T38	InnerPlanets	327	332	Earth
+T39	Move	333	339	passed
+T40	PrepositionalDirections	340	347	through
+T41	ObjectPart	352	356	tail
+T42	Comet	362	367	comet
+T43	ObjectQuantification	370	375	cloud
+T44	Element	379	387	hydrogen
+T45	StateOfMatter	388	391	gas
+T46	Particles	396	400	dust
+T47	GranularSolids	396	400	dust
+T48	RelativeLocations	401	406	where
+T49	Star	407	412	stars
+T50	StateOfBeing	413	416	are
+T51	Birth	417	421	born

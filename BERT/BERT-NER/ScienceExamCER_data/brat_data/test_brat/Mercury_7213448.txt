@@ -1,0 +1,5 @@
+A sample of the element copper is divided into the smallest particles possible such that each particle is still copper. Each particle can best be described as
+an atom.
+a molecule.
+a nucleus.
+an electron.

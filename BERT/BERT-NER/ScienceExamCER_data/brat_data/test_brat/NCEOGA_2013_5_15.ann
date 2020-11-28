@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	AnimalSystemsProcesses	6	17	body system
+T3	Transportation	18	23	sends
+T4	ElectricalEnergy	24	34	electrical
+T5	Communicate	35	42	signals
+T6	Indicate	35	42	signals
+T7	RelativeDirection	43	45	to
+T8	LevelOfInclusion	46	49	all
+T9	Comparisons	50	55	other
+T10	AnimalSystemsProcesses	56	68	body systems
+T11	CirculatorySystem	70	88	circulatory system
+T12	DigestiveSystem	89	105	digestive system
+T13	MuscularSystem	106	121	muscular system
+T14	NervousSystem	122	136	nervous system

@@ -1,0 +1,5 @@
+In a series of chemical reactions, X→Y→Z→A, X converts to Y, Y converts to Z, and Z converts to A. Which term describes the process if the production of A interferes with the conversion of X to Y?
+a complimentary response
+a control system
+negative feedback
+positive feedback

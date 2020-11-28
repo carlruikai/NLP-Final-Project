@@ -1,0 +1,23 @@
+T1	Require	3	8	takes
+T2	ProbabilityAndCertainty	9	22	approximately
+T3	DURATION	23	31	365 days
+T4	CardinalNumber	23	26	365
+T5	TimeUnit	27	31	days
+T6	Star	40	43	Sun
+T7	CelestialMovement	47	52	orbit
+T8	PrepositionalDirections	53	59	around
+T9	InnerPlanets	60	65	Earth
+T10	LOCATION	60	65	Earth
+T11	Moon	71	75	Moon
+T12	CelestialMovement	79	84	orbit
+T13	PrepositionalDirections	85	91	around
+T14	InnerPlanets	92	97	Earth
+T15	LOCATION	92	97	Earth
+T16	InnerPlanets	92	97	Earth
+T17	CelestialMovement	108	113	orbit
+T18	PrepositionalDirections	114	120	around
+T19	Star	125	128	Sun
+T20	InnerPlanets	130	135	Earth
+T21	CelestialMovement	139	144	orbit
+T22	PrepositionalDirections	145	151	around
+T23	Moon	156	160	Moon

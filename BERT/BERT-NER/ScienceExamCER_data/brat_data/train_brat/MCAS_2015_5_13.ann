@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	ImportanceComparison	30	34	main
+T5	SystemAndFunctions	35	39	role
+T6	PlantPart	43	50	flowers
+T7	VerbsForLocate	51	56	found
+T8	RelativeLocations	57	59	on
+T9	LevelOfInclusion	60	64	most
+T10	OtherDescriptionsForPlantsBiennialLeafyEtc	65	74	flowering
+T11	Plant	75	81	plants
+T12	Uptake	86	90	take
+T13	EarthPartsGrossGroundAtmosphere	94	97	air
+T14	GaseousMatter	94	97	air
+T15	Create	101	108	produce
+T16	PlantPart	109	114	seeds
+T17	ActionsForNutrition	118	124	absorb
+T18	CombineAdd	118	124	absorb
+T19	Nutrition	125	134	nutrients
+T20	Help	138	145	protect
+T21	Preserve	138	145	protect
+T22	PlantPart	150	154	stem

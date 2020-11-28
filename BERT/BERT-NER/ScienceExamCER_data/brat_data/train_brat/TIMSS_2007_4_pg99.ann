@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LivingThing	6	21	living organism
+T3	Create	22	27	makes
+T4	Nutrition	36	40	food
+T5	Use	41	46	using
+T6	CelestialLightOnEarth	47	55	sunlight
+T7	Reptile	57	63	lizard
+T8	Plant	64	68	tree
+T9	Mammal	69	73	deer
+T10	Bird	74	78	hawk

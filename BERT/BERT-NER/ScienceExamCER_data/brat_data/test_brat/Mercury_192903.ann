@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	AnimalSystemsProcesses	6	17	body system
+T3	StateOfBeing	18	20	is
+T4	Cause	21	32	responsible
+T5	DigestionActions	37	50	breaking down
+T6	Nutrition	51	55	food
+T7	ChangeInto	56	60	into
+T8	ElementalComponents	61	70	molecules
+T9	DigestionActions	79	86	absorbs
+T10	ActionsForNutrition	79	86	absorbs
+T11	DigestiveSystem	88	97	digestive
+T12	CirculatorySystem	98	109	circulatory
+T13	RespiratorySystem	110	121	respiratory
+T14	AnimalSystemsProcesses	122	131	lymphatic

@@ -1,0 +1,22 @@
+T1	StateOfBeing	5	7	is
+T2	QualityComparison	10	22	disadvantage
+T3	Harm	10	22	disadvantage
+T4	Use	26	31	using
+T5	OtherEnergyResources	32	44	moving water
+T6	Result	45	47	to
+T7	Create	48	55	produce
+T8	ElectricalEnergy	56	67	electricity
+T9	Energy	69	74	Power
+T10	StateOfBeing	75	77	is
+T11	Create	78	86	produced
+T12	Cost	87	100	inexpensively
+T13	EnvironmentalDamageDestruction	102	115	Air pollution
+T14	StateOfBeing	116	118	is
+T15	Create	119	127	produced
+T16	EnvironmentalDamageDestruction	129	139	Oil spills
+T17	ProbabilityAndCertainty	140	143	may
+T18	Occur	144	149	occur
+T19	EcosystemsEnvironment	155	170	local ecosystem
+T20	ProbabilityAndCertainty	171	174	may
+T21	StateOfBeing	175	177	be
+T22	Harm	178	187	disrupted

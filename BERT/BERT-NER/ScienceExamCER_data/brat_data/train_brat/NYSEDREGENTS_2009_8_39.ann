@@ -1,0 +1,25 @@
+T1	Pattern	6	14	sequence
+T2	ProbabilityAndCertainty	15	24	correctly
+T3	Indicate	25	30	shows
+T4	SystemProcessStages	35	41	levels
+T5	IncreaseDecrease	45	55	increasing
+T6	Pattern	56	68	organization
+T7	RelativeLocations	69	71	in
+T8	Human	76	81	human
+T9	HumanPart	82	86	body
+T10	AnimalPart	88	95	tissues
+T11	Cell	99	104	cells
+T12	AnimalSystemsProcesses	108	120	organ system
+T13	AnimalPart	125	131	organs
+T14	Cell	132	137	cells
+T15	AnimalPart	141	148	tissues
+T16	AnimalPart	152	158	organs
+T17	AnimalSystemsProcesses	162	174	organ system
+T18	AnimalPart	176	182	organs
+T19	AnimalSystemsProcesses	186	198	organ system
+T20	Cell	203	208	cells
+T21	AnimalPart	212	219	tissues
+T22	AnimalSystemsProcesses	220	232	organ system
+T23	AnimalPart	237	243	organs
+T24	AnimalPart	247	254	tissues
+T25	Cell	258	263	cells

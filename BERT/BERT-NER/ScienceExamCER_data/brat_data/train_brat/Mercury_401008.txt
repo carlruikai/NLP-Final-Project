@@ -1,0 +1,5 @@
+A student flips a coin four times. It lands "heads" up three times. The student concludes that the coin will land "heads" up three times out of four. What will make the conclusion more accurate?
+substituting a different coin
+flipping the coin twenty more times
+taping a weight to one side of the coin
+flipping the coin over a smoother surface

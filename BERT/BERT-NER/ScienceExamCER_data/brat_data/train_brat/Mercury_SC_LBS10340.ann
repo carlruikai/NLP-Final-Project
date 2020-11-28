@@ -1,0 +1,18 @@
+T1	GroupsOfScientists	0	10	Scientists
+T2	Examine	11	16	study
+T3	PerformingResearch	11	16	study
+T4	Fossils	17	24	fossils
+T5	Goal	25	27	to
+T6	ActionsForAnimals	28	33	learn
+T7	BeliefKnowledge	28	33	learn
+T8	Relevant	34	39	about
+T9	Composition	44	55	composition
+T10	InnerPlanets	63	68	Earth
+T11	Pattern	70	78	patterns
+T12	Minerals	82	89	crystal
+T13	Create	90	99	formation
+T14	PhysicalProperty	101	118	physical properti
+T15	Rock	124	129	rocks
+T16	LivingThing	131	140	organisms
+T17	RelativeDirection	141	145	from
+T18	RelativeTime	146	154	long ago

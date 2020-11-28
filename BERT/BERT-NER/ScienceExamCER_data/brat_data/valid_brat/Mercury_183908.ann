@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Property	23	38	characteristics
+T4	StateOfBeing	32	34	is
+T5	Use	42	46	used
+T6	RelativeTime	47	51	when
+T7	Classify	52	63	classifying
+T8	LivingThing	64	73	organisms
+T9	RelativeLocations	74	80	within
+T10	Plant	85	90	plant
+T11	Taxonomy	91	98	kingdom
+T12	Exemplar	100	104	type
+T13	PlantPart	108	123	vascular tissue
+T14	Use	124	127	use
+T15	CellProcesses	131	145	photosynthesis
+T16	PlantProcesses	131	145	photosynthesis
+T17	StateOfBeing	146	154	presence
+T18	PlantCellPart	158	167	cell wall
+T19	PlantProcesses	169	189	production of oxygen

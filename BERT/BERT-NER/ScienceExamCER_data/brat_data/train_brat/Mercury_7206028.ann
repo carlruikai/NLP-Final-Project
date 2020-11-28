@@ -1,0 +1,40 @@
+T1	PhasesOfWater	0	5	Water
+T2	LiquidMatter	0	5	Water
+T3	Move	6	11	moves
+T4	Cause	12	14	by
+T5	CapillaryAction	15	31	capillary action
+T6	PrepositionalDirections	32	39	through
+T7	Soil	40	44	soil
+T8	RelativeDirection	45	49	from
+T9	Wetness	50	55	moist
+T10	Locations	56	61	areas
+T11	RelativeDirection	62	64	to
+T12	Wetness	65	68	dry
+T13	Locations	69	74	areas
+T14	LevelOfInclusion	76	81	Which
+T15	Property	82	90	property
+T16	PhasesOfWater	94	99	water
+T17	LiquidMatter	94	99	water
+T18	StateOfBeing	100	102	is
+T19	AmountComparison	103	107	most
+T20	Cause	108	119	responsible
+T21	CapillaryAction	129	145	capillary action
+T22	PhasesOfWater	147	152	Water
+T23	LiquidMatter	147	152	Water
+T24	StateOfBeing	153	155	is
+T25	ElementalComponents	158	172	polar molecule
+T26	PhasesOfWater	174	179	Water
+T27	LiquidMatter	174	179	Water
+T28	ContainBeComposedOf	180	188	contains
+T29	Element	192	198	oxygen
+T30	ElementalComponents	199	203	atom
+T31	PhasesOfWater	205	210	Water
+T32	LiquidMatter	205	210	Water
+T33	ContainBeComposedOf	211	214	has
+T34	RelativeNumber	217	221	high
+T35	Pressure	222	237	surface tension
+T36	PhasesOfWater	239	244	Water
+T37	LiquidMatter	239	244	Water
+T38	ContainBeComposedOf	245	248	has
+T39	RelativeNumber	251	255	high
+T40	MeasurementsForHeatChange	256	269	specific heat

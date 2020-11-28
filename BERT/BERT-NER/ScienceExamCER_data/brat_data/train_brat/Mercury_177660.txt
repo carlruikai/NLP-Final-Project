@@ -1,0 +1,5 @@
+Geologists frequently use mass spectrometers in determining the relative age of rocks. A spectrometer can differentiate between the ratios of isotopes in rock samples and calculates the radioactive decay involving what two isotopes?
+Uranium - Lead
+Rubidium - Strontium
+Potassium - Argon
+Uranium - Strontium

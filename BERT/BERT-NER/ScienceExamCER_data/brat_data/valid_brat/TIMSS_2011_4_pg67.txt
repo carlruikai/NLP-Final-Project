@@ -1,0 +1,5 @@
+A hot, boiled egg is put into a cup of cold water. What happens to the temperature of the water and the egg?
+The water gets colder and the egg gets warmer.
+The water gets warmer and the egg gets colder.
+The water temperature stays the same and the egg gets colder.
+Both the water and the egg get warmer.

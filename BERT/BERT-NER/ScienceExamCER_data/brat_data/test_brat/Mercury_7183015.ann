@@ -1,0 +1,39 @@
+T1	TemporalProperty	2	8	recent
+T2	WrittenMedia	9	16	article
+T3	RelativeLocations	17	19	in
+T4	ScientificTheoryExperimentationAndHistory	22	29	science
+T5	AcademicMedia	30	37	journal
+T6	WrittenMedia	30	37	journal
+T7	Communicate	38	46	explains
+T8	Relations	51	63	relationship
+T9	RelativeLocations	64	71	between
+T10	ThermalEnergy	72	82	convection
+T11	TransferEnergy	72	82	convection
+T12	Currents	83	91	currents
+T13	TectonicPlates	96	111	plate tectonics
+T14	GeologicTheories	96	111	plate tectonics
+T15	RelativeTime	113	115	As
+T16	PropertyOfMotion	116	121	fluid
+T17	RelativeLocations	122	128	within
+T18	LayersOfTheEarth	133	139	mantle
+T19	LiquidMovement	140	150	circulates
+T20	Cause	155	161	causes
+T21	TectonicPlates	162	176	crustal plates
+T22	Move	180	184	move
+T23	ChangeInLocation	180	184	move
+T24	LevelOfInclusion	186	191	Which
+T25	StateOfBeing	192	194	is
+T26	AmountComparison	195	199	most
+T27	ProbabilityAndCertainty	200	206	likely
+T28	Cause	207	214	causing
+T29	LiquidMatter	219	226	liquids
+T30	RelativeLocations	227	233	inside
+T31	ObjectPart	227	233	inside
+T32	InnerPlanets	234	239	Earth
+T33	LOCATION	234	239	Earth
+T34	LiquidMovement	243	252	circulate
+T35	TransferEnergy	254	269	energy transfer
+T36	EnvironmentalDamageDestruction	271	285	global warming
+T37	TidesHighTideLowTide	286	291	tidal
+T38	Changes	292	302	variations
+T39	Currents	303	316	ocean current

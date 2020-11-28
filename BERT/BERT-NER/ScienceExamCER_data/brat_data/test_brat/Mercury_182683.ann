@@ -1,0 +1,41 @@
+T1	Insect	0	29	Edith's checkerspot butterfly
+T2	StateOfBeing	30	32	is
+T3	OtherAnimalProperties	35	48	non-migratory
+T4	Taxonomy	49	56	species
+T5	VerbsForLocate	57	62	found
+T6	RelativeLocations	63	65	in
+T7	Comparisons	66	74	distinct
+T8	GroupsOfOrganisms	75	86	populations
+T9	RelativeDirection	87	91	from
+T10	Countries	92	98	Canada
+T11	RelativeDirection	99	101	to
+T12	Countries	102	108	Mexico
+T13	RelativeTime	110	115	Today
+T14	GroupsOfOrganisms	117	128	populations
+T15	RelativeLocations	129	131	in
+T16	CardinalDirectionsNorthEastSouthWest	132	140	southern
+T17	Locations	141	148	regions
+T18	StateOfBeing	149	152	are
+T19	IncreaseDecrease	153	162	declining
+T20	RelativeTime	163	168	while
+T21	Age	169	172	new
+T22	GroupsOfOrganisms	173	184	populations
+T23	Move	185	189	push
+T24	CardinalDirectionsNorthEastSouthWest	194	202	northern
+T25	RelativeLocations	203	208	limit
+T26	OpportunitiesAndTheirExtent	203	208	limit
+T27	DistanceComparison	209	216	further
+T28	CardinalDirectionsNorthEastSouthWest	217	222	north
+T29	LevelOfInclusion	229	234	range
+T30	ChangeInLocation	235	240	shift
+T31	Communicate	241	249	provides
+T32	Create	241	249	provides
+T33	ConcludingResearch	250	258	evidence
+T34	WordsForData	250	258	evidence
+T35	ScientificTheoryExperimentationAndHistory	267	273	theory
+T36	Extinction	277	292	mass extinction
+T37	EnvironmentalDamageDestruction	294	308	global warming
+T38	Gene	310	314	gene
+T39	GeneticProperty	315	323	dominanc
+T40	Evolution	326	343	natural selection
+T41	NaturalSelection	326	343	natural selection

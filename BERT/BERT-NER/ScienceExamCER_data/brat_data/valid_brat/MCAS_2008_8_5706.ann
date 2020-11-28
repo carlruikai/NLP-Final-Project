@@ -1,0 +1,32 @@
+T1	Age	0	3	New
+T2	ClothesTextiles	4	10	carpet
+T3	StateOfBeing	11	13	is
+T4	StateOfBeing	14	19	being
+T5	Measurements	20	28	measured
+T6	Examine	20	28	measured
+T7	Goal	29	32	for
+T8	PartsOfABuilding	35	39	room
+T9	StateOfBeing	45	47	is
+T10	Length	48	53	5.5 m
+T11	Calculations	54	56	by
+T12	Width	57	63	4.6 m.
+T13	RelativeLocations	64	66	On
+T14	DistanceMeasuringTools	69	83	measuring tape
+T15	StateOfBeing	90	92	is
+T16	Size	97	105	smallest
+T17	Comparisons	97	105	smallest
+T18	Unit	106	110	unit
+T19	StateOfBeing	116	118	is
+T20	Require	119	128	necessary
+T21	Goal	129	131	to
+T22	Measurements	132	139	measure
+T23	Examine	132	139	measure
+T24	PartsOfABuilding	144	148	room
+T25	ProbabilityAndCertainty	149	159	accurately
+T26	Verify	149	159	accurately
+T27	Cause	160	163	for
+T28	ClothesTextiles	168	174	carpet
+T29	DistanceUnit	176	187	millimeters
+T30	DistanceUnit	188	199	centimeters
+T31	DistanceUnit	193	199	meters
+T32	DistanceUnit	207	217	kilometers

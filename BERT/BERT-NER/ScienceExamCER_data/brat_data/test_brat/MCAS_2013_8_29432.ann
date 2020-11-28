@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	ObjectPart	23	28	parts
+T4	Plant	34	39	plant
+T5	Cell	40	44	cell
+T6	ContainBeComposedOf	45	48	has
+T7	SystemAndFunctions	51	59	function
+T8	AmountComparison	68	72	most
+T9	Comparisons	73	80	similar
+T10	SystemAndFunctions	88	96	function
+T11	Animal	103	109	animal
+T12	SkeletalSystem	110	118	skeleton
+T13	AnimalCellPart	120	133	cell membrane
+T14	PlantCellPart	120	133	cell membrane
+T15	PlantCellPart	134	143	cell wall
+T16	BacteriaPart	134	143	cell wall
+T17	PlantPart	144	155	chloroplast
+T18	AnimalCellPart	156	163	nucleus
+T19	PlantCellPart	156	163	nucleus

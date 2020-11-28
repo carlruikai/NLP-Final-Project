@@ -1,0 +1,24 @@
+T1	InnerPlanets	0	5	Earth
+T2	LOCATION	0	5	Earth
+T3	CombineAdd	13	17	with
+T4	Comparisons	22	27	other
+T5	Planet	28	35	planets
+T6	CelestialMovement	37	45	revolves
+T7	PrepositionalDirections	46	52	around
+T8	Star	57	60	Sun
+T9	Planet	66	73	planets
+T10	CelestialMovement	74	81	revolve
+T11	RelativeDirection	82	84	in
+T12	RelativeDirection	87	103	counterclockwise
+T13	Directions	104	113	direction
+T14	Cause	119	124	cause
+T15	CelestialMovement	132	142	revolution
+T16	StateOfBeing	143	145	is
+T17	LevelOfInclusion	146	152	mostly
+T18	Cause	153	159	due to
+T19	LevelOfInclusion	160	165	which
+T20	Force	166	171	force
+T21	ElectricalEnergy	173	183	electrical
+T22	PullingForces	184	194	frictional
+T23	Gravity	195	208	gravitational
+T24	MagneticForce	209	217	magnetic

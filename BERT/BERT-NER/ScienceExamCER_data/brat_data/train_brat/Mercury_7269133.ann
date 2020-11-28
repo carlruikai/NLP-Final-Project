@@ -1,0 +1,36 @@
+T1	FossilFuel	4	13	crude oil
+T2	ChangesToResources	14	23	extracted
+T3	Uptake	14	23	extracted
+T4	RelativeTime	24	29	today
+T5	DATE	24	29	today
+T6	StateOfBeing	30	33	was
+T7	Create	34	40	formed
+T8	ArithmeticMeasure	41	49	millions
+T9	TimeUnit	53	58	years
+T10	RelativeTime	59	62	ago
+T11	RelativeDirection	63	67	from
+T12	Fossils	72	90	fossilized remains
+T13	Protist	94	99	algae
+T14	Comparisons	104	109	other
+T15	Size	110	114	tiny
+T16	LivingThing	115	130	marine organism
+T17	LevelOfInclusion	133	137	Most
+T18	ObjectPart	138	143	parts
+T19	LivingThing	151	160	organisms
+T20	TypesOfChemicalReactions	161	171	decomposed
+T21	RelativeTime	172	176	soon
+T22	RelativeTime	177	182	after
+T23	Death	188	192	died
+T24	LivingDying	188	192	died
+T25	LevelOfInclusion	194	199	Which
+T26	ElementalComponents	200	212	biomolecules
+T27	TypesOfChemicalReactions	213	223	decomposed
+T28	AmountComparison	224	228	more
+T29	Speed	229	235	slowly
+T30	ChangeInto	240	246	became
+T31	Source	251	256	basis
+T32	FossilFuel	260	269	crude oil
+T33	NutritiveSubstancesForAnimalsOrPlants	271	279	proteins
+T34	NutritiveSubstancesForAnimalsOrPlants	280	293	carbohydrates
+T35	NutritiveSubstancesForAnimalsOrPlants	294	305	fatty acids
+T36	NutritiveSubstancesForAnimalsOrPlants	306	319	nucleic acids

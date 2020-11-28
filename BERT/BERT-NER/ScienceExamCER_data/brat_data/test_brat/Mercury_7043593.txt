@@ -1,0 +1,5 @@
+If a student wants to measure the efficiency of an incandescent light bulb in a laboratory, which instrument would most likely be used to determine heat loss?
+photocell
+barometer
+thermometer
+decibel meter

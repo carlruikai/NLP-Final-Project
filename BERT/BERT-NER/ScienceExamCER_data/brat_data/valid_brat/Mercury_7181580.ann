@@ -1,0 +1,25 @@
+T1	PlanetParts	4	8	axis
+T2	InnerPlanets	12	17	Earth
+T3	StateOfBeing	18	20	is
+T4	CelestialMovement	21	27	tilted
+T5	Position	21	27	tilted
+T6	StateOfBeing	28	30	at
+T7	GeometricMeasurements	34	39	angle
+T8	NUMBER	43	48	23.5°
+T9	GeometricMeasurements	43	48	23.5°
+T10	RelativeDirection	49	53	from
+T11	Position	58	75	vertical position
+T12	LevelOfInclusion	77	82	Which
+T13	LevelOfInclusion	86	99	the following
+T14	StateOfBeing	100	102	is
+T15	ImportanceComparison	107	111	main
+T16	Result	112	118	result
+T17	CelestialMovement	127	131	tilt
+T18	TidesHighTideLowTide	133	138	tides
+T19	WeatherPhenomena	133	138	tides
+T20	EclipseEvents	139	147	eclipses
+T21	TemporalProperty	148	154	length
+T22	TimeUnit	158	162	year
+T23	Year	158	162	year
+T24	Changes	163	169	change
+T25	SeasonsFallAutumnWinterSpringSummer	173	180	seasons

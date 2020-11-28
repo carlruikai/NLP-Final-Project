@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	9	22	the following
+T2	PerformAnActivity	23	27	does
+T3	Negations	28	31	not
+T4	Alter	32	38	affect
+T5	ResistanceStrength	43	51	strength
+T6	MagneticDevice	58	71	electromagnet
+T7	Frequency	83	88	times
+T8	ElectricityAndCircuits	93	97	wire
+T9	TechnologicalComponent	93	97	wire
+T10	StateOfBeing	98	100	is
+T11	Position	101	107	looped
+T12	PrepositionalDirections	108	114	around
+T13	ObjectPart	119	123	core
+T14	Size	124	128	size
+T15	GenericTerms	136	142	object
+T16	StateOfBeing	143	148	being
+T17	PullingActions	149	158	attracted
+T18	Cause	159	161	by
+T19	ObjectPart	166	170	core
+T20	Exemplar	171	175	type
+T21	Material	179	187	material
+T22	RelativeLocations	188	190	in
+T23	ObjectPart	195	199	core
+T24	Numbers	200	206	amount
+T25	Material	210	218	material
+T26	RelativeLocations	219	221	in
+T27	ObjectPart	226	230	core

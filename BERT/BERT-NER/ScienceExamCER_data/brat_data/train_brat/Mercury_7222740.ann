@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ObjectQuantification	6	12	layers
+T3	InnerPlanets	16	21	Earth
+T4	StateOfBeing	22	25	are
+T5	LevelOfInclusion	26	32	mostly
+T6	ContainBeComposedOf	33	37	made
+T7	StateOfMatter	41	46	solid
+T8	Matter	47	55	material
+T9	LayersOfTheEarth	57	67	inner core
+T10	LayersOfTheEarth	72	82	outer core
+T11	LayersOfTheEarth	83	88	crust
+T12	LayersOfTheEarth	93	103	inner core
+T13	LayersOfTheEarth	104	109	crust
+T14	LayersOfTheEarth	114	120	mantle
+T15	LayersOfTheEarth	114	120	mantle
+T16	LayersOfTheEarth	132	142	outer core

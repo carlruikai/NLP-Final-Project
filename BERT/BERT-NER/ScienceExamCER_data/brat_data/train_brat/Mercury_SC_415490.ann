@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	10	term
+T3	GenericTerms	6	10	term
+T4	Represent	11	20	describes
+T5	InnerPlanets	21	26	Earth
+T6	LOCATION	21	26	Earth
+T7	CelestialMovement	29	34	orbit
+T8	PrepositionalDirections	35	41	around
+T9	Star	46	49	Sun
+T10	TimeUnit	51	54	day
+T11	CelestialMovement	55	65	revolution
+T12	TimeUnit	66	71	month
+T13	CelestialMovement	72	80	rotation

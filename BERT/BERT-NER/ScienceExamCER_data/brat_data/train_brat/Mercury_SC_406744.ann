@@ -1,0 +1,23 @@
+T1	Cause	5	11	causes
+T2	TimesOfDayDayNight	12	21	nighttime
+T3	TIME	12	21	nighttime
+T4	TimesOfDayDayNight	26	33	daytime
+T5	TIME	26	33	daytime
+T6	RelativeLocations	34	36	on
+T7	InnerPlanets	37	42	Earth
+T8	LOCATION	37	42	Earth
+T9	Star	48	51	Sun
+T10	CelestialMovement	52	60	rotating
+T11	Position	61	72	on its axis
+T12	InnerPlanets	73	78	Earth
+T13	CelestialMovement	79	87	rotating
+T14	Position	88	99	on its axis
+T15	InnerPlanets	100	105	Earth
+T16	CelestialMovement	106	115	revolving
+T17	PrepositionalDirections	116	122	around
+T18	Star	127	130	Sun
+T19	Moon	135	139	Moon
+T20	CelestialMovement	140	149	revolving
+T21	PrepositionalDirections	150	156	around
+T22	InnerPlanets	157	162	Earth
+T23	LOCATION	157	162	Earth

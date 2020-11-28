@@ -1,0 +1,24 @@
+T1	Plant	0	5	Plant
+T2	Animal	10	16	animal
+T3	LifeCycle	17	28	life cycles
+T4	StateOfBeing	29	32	are
+T5	Comparisons	33	38	alike
+T6	Cause	39	46	because
+T7	LevelOfInclusion	52	56	both
+T8	Start	57	62	begin
+T9	StateOfBeing	63	65	as
+T10	PrenatalOrganismStates	66	70	eggs
+T11	Require	72	79	require
+T12	Comparisons	84	88	same
+T13	Numbers	89	95	amount
+T14	MarkersOfTime	99	103	time
+T15	ContainBeComposedOf	105	109	have
+T16	Start	110	119	beginning
+T17	Growth	121	128	growing
+T18	Age	134	140	mature
+T19	SystemProcessStages	141	147	stages
+T20	VisualComparison	149	157	resemble
+T21	GeneticRelations	164	171	parents
+T22	RelativeDirection	172	176	from
+T23	Start	181	190	beginning
+T24	SystemProcessStages	191	197	stages

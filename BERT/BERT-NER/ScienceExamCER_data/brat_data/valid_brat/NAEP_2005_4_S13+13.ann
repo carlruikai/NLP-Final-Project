@@ -1,0 +1,30 @@
+T1	LevelOfInclusion	9	22	the following
+T2	Quality	23	27	best
+T3	QualityComparison	23	27	best
+T4	Communicate	28	36	explains
+T5	Cause	37	40	why
+T6	Star	45	48	Sun
+T7	Observe	49	56	appears
+T8	Move	60	64	move
+T9	CelestialMovement	60	64	move
+T10	PrepositionalDirections	65	71	across
+T11	Sky	76	79	sky
+T12	LevelOfInclusion	80	85	every
+T13	TimeUnit	86	89	day
+T14	TimesOfDayDayNight	86	89	day
+T15	Star	95	98	Sun
+T16	CelestialMovement	99	106	rotates
+T17	Position	107	118	on its axis
+T18	PlanetParts	114	118	axis
+T19	InnerPlanets	120	125	Earth
+T20	CelestialMovement	126	133	rotates
+T21	Position	134	145	on its axis
+T22	PlanetParts	141	145	axis
+T23	Star	151	154	Sun
+T24	CelestialMovement	155	161	orbits
+T25	PrepositionalDirections	162	168	around
+T26	InnerPlanets	169	174	Earth
+T27	InnerPlanets	169	174	Earth
+T28	CelestialMovement	182	188	orbits
+T29	PrepositionalDirections	189	195	around
+T30	Star	200	203	Sun

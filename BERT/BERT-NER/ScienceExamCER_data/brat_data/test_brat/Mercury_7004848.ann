@@ -1,0 +1,20 @@
+T1	Comparisons	2	10	balanced
+T2	RepresentingElementsAndMolecules	2	28	balanced chemical equation
+T3	Indicate	29	34	shows
+T4	PartsOfChemicalReactions	39	47	products
+T5	Result	39	47	products
+T6	Reactions	53	61	reaction
+T7	Element	63	71	elements
+T8	Create	72	79	created
+T9	Cause	80	82	by
+T10	Reactions	85	93	reaction
+T11	PhaseChanges	95	107	phase change
+T12	Occur	109	121	taking place
+T13	RelativeTime	122	128	during
+T14	Reactions	131	139	reaction
+T15	Numbers	145	151	number
+T16	ElementalComponents	155	164	molecules
+T17	ContainBeComposedOf	165	173	involved
+T18	Use	165	173	involved
+T19	RelativeLocations	165	167	in
+T20	Reactions	179	187	reaction

@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Event	15	24	processes
+T4	StateOfBeing	25	27	is
+T5	Changes	30	40	conversion
+T6	Create	41	45	made
+T7	Cause	46	48	by
+T8	ElectricityGeneration	49	60	solar panel
+T9	ElectricalEnergySource	49	60	solar panel
+T10	Energy	63	80	mechanical energy
+T11	RelativeDirection	81	83	to
+T12	Energy	84	98	nuclear energy
+T13	ThermalEnergy	99	113	thermal energy
+T14	RelativeDirection	114	116	to
+T15	Energy	117	132	chemical energy
+T16	Energy	133	147	kinetic energy
+T17	RelativeDirection	148	150	to
+T18	Energy	151	167	potential energy
+T19	Light	168	175	radiant
+T20	Energy	176	182	energy
+T21	RelativeDirection	183	185	to
+T22	ElectricalEnergy	186	203	electrical energy

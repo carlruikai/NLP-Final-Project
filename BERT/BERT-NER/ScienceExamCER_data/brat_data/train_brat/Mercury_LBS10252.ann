@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	3	All
+T2	LevelOfInclusion	7	20	the following
+T3	ContainBeComposedOf	21	28	contain
+T4	Unit	29	56	metric units of measurement
+T5	Negations	57	63	except
+T6	MassUnit	64	65	g
+T7	MassUnit	67	69	kg
+T8	MassUnit	71	73	cg
+T9	VolumeUnit	74	76	dL
+T10	VolumeUnit	75	76	L
+T11	VolumeUnit	81	83	mL
+T12	DistanceUnit	84	86	ft
+T13	DistanceUnit	88	90	yd
+T14	DistanceUnit	92	94	mi
+T15	ForceUnit	95	96	N
+T16	EnergyUnit	98	99	J
+T17	PowerUnit	101	102	W

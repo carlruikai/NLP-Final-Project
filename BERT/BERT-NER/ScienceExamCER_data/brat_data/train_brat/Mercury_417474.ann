@@ -1,0 +1,19 @@
+T1	ScientificTheoryExperimentationAndHistory	4	14	scientific
+T2	Classification	15	19	name
+T3	Mammal	26	33	giraffe
+T4	StateOfBeing	34	36	is
+T5	Mammal	37	59	Giraffa camelopardalis
+T6	CardinalNumber	66	69	two
+T7	NUMBER	66	69	two
+T8	SystemProcessStages	70	76	levels
+T9	Classification	80	94	classification
+T10	Classification	105	109	name
+T11	Represent	110	119	represent
+T12	Taxonomy	121	127	family
+T13	Taxonomy	132	137	order
+T14	Taxonomy	138	145	kingdom
+T15	Taxonomy	150	155	genus
+T16	Taxonomy	156	162	phylum
+T17	Taxonomy	167	173	domain
+T18	Taxonomy	174	179	genus
+T19	Taxonomy	184	191	species

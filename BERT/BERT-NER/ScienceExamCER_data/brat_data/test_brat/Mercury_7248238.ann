@@ -1,0 +1,80 @@
+T1	Aquatic	0	13	Mosquito fish
+T2	VerbsForLocate	14	19	found
+T3	RelativeLocations	20	22	on
+T4	GeographicFormations	27	34	islands
+T5	Countries	38	49	the Bahamas
+T6	LivingDying	50	54	live
+T7	RelativeLocations	55	57	in
+T8	LevelOfInclusion	58	65	various
+T9	Separate	66	74	isolated
+T10	TypesOfWaterInBodiesOfWater	75	85	freshwater
+T11	BodiesOfWater	86	91	ponds
+T12	StateOfBeing	97	101	were
+T13	TemporalProperty	102	106	once
+T14	RelativeNumber	109	115	single
+T15	BodiesOfWater	116	129	body of water
+T16	RelativeTime	131	135	When
+T17	RelativeNumber	136	143	several
+T18	Gender	144	148	male
+T19	Gender	153	159	female
+T20	Aquatic	160	173	mosquito fish
+T21	StateOfBeing	174	177	are
+T22	Uptake	178	183	taken
+T23	RelativeDirection	184	188	from
+T24	CardinalNumber	189	192	two
+T25	NUMBER	189	192	two
+T26	Separate	193	201	isolated
+T27	BodiesOfWater	202	207	ponds
+T28	Move	212	218	placed
+T29	VerbsForLocate	212	218	placed
+T30	RelativeDirection	219	223	into
+T31	RelativeNumber	226	232	single
+T32	BodiesOfWater	233	237	pond
+T33	Reproduction	243	251	breeding
+T34	BehavioralAdaptation	252	262	preference
+T35	LevelOfInclusion	266	270	each
+T36	Aquatic	271	284	mosquito fish
+T37	StateOfBeing	281	283	is
+T38	Aquatic	292	296	fish
+T39	RelativeDirection	297	301	from
+T40	TemporalProperty	310	318	original
+T41	BodiesOfWater	319	323	pond
+T42	LevelOfInclusion	325	330	Which
+T43	LevelOfInclusion	334	339	these
+T44	AmountComparison	340	344	most
+T45	ProbabilityAndCertainty	345	351	likely
+T46	Cause	352	363	resulted in
+T47	Reproduction	369	377	breeding
+T48	BehavioralAdaptation	378	388	preference
+T49	AbilityAvailability	390	402	Availability
+T50	Nutrition	406	410	food
+T51	ActUponSomething	411	421	influenced
+T52	Cause	411	421	influenced
+T53	Reproduction	426	434	breeding
+T54	BehavioralAdaptation	435	446	preferences
+T55	Aquatic	454	458	fish
+T56	OrganismRelationships	460	471	Competition
+T57	Compete	460	471	Competition
+T58	Quality	478	486	suitable
+T59	Reproduction	487	491	mate
+T60	Relations	487	491	mate
+T61	ActUponSomething	492	502	influenced
+T62	Cause	492	502	influenced
+T63	Reproduction	507	515	breeding
+T64	BehavioralAdaptation	516	527	preferences
+T65	TypeOfConsumer	529	538	Predators
+T66	RelativeLocations	539	541	in
+T67	BodiesOfWater	546	550	pond
+T68	ActUponSomething	551	561	influenced
+T69	Cause	551	561	influenced
+T70	Reproduction	566	574	breeding
+T71	BehavioralAdaptation	575	586	preferences
+T72	Aquatic	594	598	fish
+T73	Evolution	600	610	Speciation
+T74	Speciation	600	610	Speciation
+T75	Cause	611	617	due to
+T76	BehavioralAdaptation	618	640	reproductive isolation
+T77	ActUponSomething	641	651	influenced
+T78	Cause	641	651	influenced
+T79	Reproduction	656	664	breeding
+T80	BehavioralAdaptation	665	676	preferences

@@ -1,0 +1,45 @@
+T1	CardinalNumber	0	3	One
+T2	NUMBER	0	3	One
+T3	Exemplar	4	8	type
+T4	TypesOfIllness	12	16	cold
+T5	Medicine	17	23	remedy
+T6	StateOfBeing	24	26	is
+T7	Medicine	30	49	effervescent tablet
+T8	ChemicalChange	55	66	breaks down
+T9	RelativeLocations	67	69	in
+T10	PhasesOfWater	70	75	water
+T11	LiquidMatter	70	75	water
+T12	RelativeTime	77	81	When
+T13	Medicine	86	92	tablet
+T14	StateOfBeing	93	95	is
+T15	Move	96	102	placed
+T16	VerbsForLocate	96	102	placed
+T17	RelativeLocations	103	105	in
+T18	PhasesOfWater	106	111	water
+T19	LiquidMatter	106	111	water
+T20	Create	116	121	forms
+T21	StateOfMatter	122	125	gas
+T22	GaseousMatter	126	133	bubbles
+T23	LiquidMovement	126	133	bubbles
+T24	RelativeLocations	135	137	In
+T25	Exemplar	143	150	example
+T26	Create	156	165	formation
+T27	GaseousMatter	171	174	gas
+T28	PhysicalProperty	180	197	physical property
+T29	Property	189	197	property
+T30	Occur	199	205	occurs
+T31	RelativeTime	206	210	when
+T32	CombineAdd	211	217	adding
+T33	PhasesOfWater	218	223	water
+T34	LiquidMatter	218	223	water
+T35	RelativeDirection	224	226	to
+T36	PH	227	231	acid
+T37	Substances	227	231	acid
+T38	StateOfBeing	233	235	is
+T39	Indicate	238	242	sign
+T40	ChemicalChange	248	263	chemical change
+T41	Occur	265	271	occurs
+T42	RelativeTime	272	276	when
+T43	PhasesOfWater	281	286	water
+T44	LiquidMatter	281	286	water
+T45	PhaseChangingActions	287	292	boils

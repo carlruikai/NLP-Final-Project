@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ObjectPart	6	10	part
+T3	LevelOfInclusion	6	10	part
+T4	ElementalComponents	18	22	atom
+T5	ContainBeComposedOf	23	26	has
+T6	MolecularProperties	29	44	negative charge
+T7	AtomComponents	46	53	neutron
+T8	AtomComponents	54	61	nucleus
+T9	AtomComponents	62	70	electron
+T10	AtomComponents	71	77	proton

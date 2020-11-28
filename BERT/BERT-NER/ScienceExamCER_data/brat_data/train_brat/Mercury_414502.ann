@@ -1,0 +1,24 @@
+T1	RelativeDirection	0	2	To
+T2	LevelOfInclusion	3	8	which
+T3	Planet	9	15	planet
+T4	ORGANIZATION	19	64	National Aeronautics and Space Administration
+T5	SpaceAgencies	19	64	National Aeronautics and Space Administration
+T6	GroupsOfScientists	19	64	National Aeronautics and Space Administration
+T7	ScientificAssociationsAdministrations	19	64	National Aeronautics and Space Administration
+T8	SpaceAgencies	66	70	NASA
+T9	GroupsOfScientists	66	70	NASA
+T10	ScientificAssociationsAdministrations	66	70	NASA
+T11	ORGANIZATION	66	70	NASA
+T12	Human	72	82	scientists
+T13	GroupsOfScientists	72	82	scientists
+T14	Goal	83	87	hope
+T15	LocationChangingActions	91	95	send
+T16	Transportation	91	95	send
+T17	Human	96	102	humans
+T18	TemporalProperty	103	107	next
+T19	InnerPlanets	109	113	Mars
+T20	InnerPlanets	114	119	Venus
+T21	PERSON	114	119	Venus
+T22	OuterPlanets	120	127	Jupiter
+T23	LOCATION	120	127	Jupiter
+T24	InnerPlanets	128	135	Mercury

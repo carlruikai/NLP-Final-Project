@@ -1,0 +1,20 @@
+T1	Insect	2	11	butterfly
+T2	ActionsForAnimals	12	15	lay
+T3	PrenatalOrganismStates	20	23	egg
+T4	PrenatalOrganismStates	20	23	egg
+T5	ActionsForAnimals	33	40	hatches
+T6	ChangeInto	41	45	into
+T7	PostnatalOrganismStages	48	53	larva
+T8	PostnatalOrganismStages	48	53	larva
+T9	ChangeInto	65	72	becomes
+T10	PostnatalOrganismStages	75	79	pupa
+T11	RelativeTime	84	88	then
+T12	ChangeInto	89	96	changes
+T13	Insect	104	113	butterfly
+T14	OrganicProcesses	120	127	process
+T15	StateOfBeing	128	130	is
+T16	Classify	131	137	called
+T17	Adaptation	141	151	adaptation
+T18	Habitat	154	161	habitat
+T19	FoodChain	164	174	food chain
+T20	LifeCycle	177	187	life cycle

@@ -1,0 +1,29 @@
+T1	Representation	2	12	line graph
+T2	StateOfBeing	13	15	is
+T3	Quality	16	20	best
+T4	QualityComparison	16	20	best
+T5	Use	21	25	used
+T6	RelativeTime	26	30	when
+T7	Measurements	35	43	measured
+T8	Examine	35	43	measured
+T9	VariablesControls	44	52	variable
+T10	StateOfBeing	53	55	is
+T11	Alter	56	64	changing
+T12	StateOfBeing	65	67	at
+T13	Frequency	70	78	constant
+T14	MeasuringSpeed	79	83	rate
+T15	ProbabilityAndCertainty	85	91	nearly
+T16	AmountComparison	92	97	equal
+T17	RelativeNumber	101	108	several
+T18	Experimentation	109	115	trials
+T19	StateOfBeing	117	122	being
+T20	Examine	123	131	compared
+T21	Comparisons	123	131	compared
+T22	RelativeDirection	132	134	to
+T23	VariablesControls	137	144	control
+T24	Observe	146	154	observed
+T25	PerformingResearch	146	154	observed
+T26	RelativeTime	155	157	at
+T27	CardinalNumber	158	161	one
+T28	NUMBER	158	161	one
+T29	MarkersOfTime	162	175	point in time

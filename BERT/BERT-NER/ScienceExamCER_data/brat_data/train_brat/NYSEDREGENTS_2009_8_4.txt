@@ -1,0 +1,5 @@
+Which weather event usually includes heavy precipitation, strong winds, and surface air temperatures below 0°C?
+blizzard
+hurricane
+thunderstorm
+tornado

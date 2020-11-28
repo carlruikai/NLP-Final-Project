@@ -1,0 +1,61 @@
+T1	LiquidMovement	2	9	flowing
+T2	BodiesOfWater	10	16	stream
+T3	ContainBeComposedOf	17	25	contains
+T4	PhasesOfWater	26	31	water
+T5	StateOfBeing	27	29	at
+T6	NUMBER	35	38	18°
+T7	TemperatureUnit	37	39	°C
+T8	LiquidHoldingContainersRecepticles	41	45	Cans
+T9	Foods	49	60	soft drinks
+T10	StateOfBeing	61	63	at
+T11	CardinalNumber	64	66	28
+T12	TemperatureUnit	66	68	°C
+T13	StateOfBeing	69	72	are
+T14	LocationChangingActions	73	78	lower
+T15	RelativeDirection	81	85	into
+T16	BodiesOfWater	90	96	stream
+T17	LevelOfInclusion	98	103	Which
+T18	LevelOfInclusion	107	120	the following
+T19	ProbabilityAndCertainty	121	125	will
+T20	AmountComparison	126	130	most
+T21	ProbabilityAndCertainty	131	137	likely
+T22	Occur	138	143	occur
+T23	Foods	149	159	soft drink
+T24	LiquidHoldingContainersRecepticles	160	164	cans
+T25	ProbabilityAndCertainty	165	169	will
+T26	AbsorbEnergy	170	176	absorb
+T27	CombineAdd	170	176	absorb
+T28	Temperature	177	181	cold
+T29	Energy	182	188	energy
+T30	RelativeDirection	189	193	from
+T31	BodiesOfWater	198	204	stream
+T32	PhasesOfWater	207	212	water
+T33	LiquidHoldingContainersRecepticles	218	222	cans
+T34	ProbabilityAndCertainty	223	227	will
+T35	IncreaseDecrease	228	232	cool
+T36	Temperature	228	232	cool
+T37	RelativeTime	233	238	until
+T38	Temperature	245	256	temperature
+T39	StateOfBeing	257	259	is
+T40	Comparisons	264	268	same
+T41	BodiesOfWater	276	282	stream
+T42	Temperature	290	301	temperature
+T43	Foods	309	320	soft drinks
+T44	ProbabilityAndCertainty	321	325	will
+T45	Negations	326	329	not
+T46	Changes	330	336	change
+T47	Cause	337	342	since
+T48	LiquidHoldingContainersRecepticles	347	351	cans
+T49	StateOfBeing	352	355	are
+T50	PropertiesOfFood	356	362	sealed
+T51	Temperature	368	379	temperature
+T52	LiquidHoldingContainersRecepticles	387	391	cans
+T53	ProbabilityAndCertainty	392	396	will
+T54	AmountChangingActions	397	405	decrease
+T55	IncreaseDecrease	397	405	decrease
+T56	RelativeDirection	406	408	to
+T57	PhaseChangingActions	409	417	freezing
+T58	RelativeTime	418	428	as long as
+T59	BodiesOfWater	433	439	stream
+T60	StateOfBeing	440	442	is
+T61	LiquidMovement	443	450	flowing

@@ -1,0 +1,25 @@
+T1	Energy	0	6	Energy
+T2	RelativeDirection	7	11	from
+T3	Star	16	19	Sun
+T4	Changes	20	27	changes
+T5	EarthPartsGrossGroundAtmosphere	28	33	ocean
+T6	BodiesOfWater	28	33	ocean
+T7	PhasesOfWater	34	39	water
+T8	LiquidMatter	34	39	water
+T9	RelativeDirection	40	42	to
+T10	StateOfMatter	45	48	gas
+T11	ResponseType	55	63	sentence
+T12	Represent	64	73	describes
+T13	LevelOfInclusion	74	79	which
+T14	PartsOfWaterCycle	80	84	step
+T15	RelativeLocations	85	87	in
+T16	Cycles	92	103	water cycle
+T17	PartsOfWaterCycle	105	117	condensation
+T18	PhaseChangingActions	105	117	condensation
+T19	PartsOfWaterCycle	118	129	evaporation
+T20	PhaseChangingActions	118	129	evaporation
+T21	PartsOfWaterCycle	130	143	precipitation
+T22	Precipitation	130	143	precipitation
+T23	PartsOfWaterCycle	144	150	runoff
+T24	WeatherPhenomena	144	150	runoff
+T25	LiquidMovement	144	150	runoff

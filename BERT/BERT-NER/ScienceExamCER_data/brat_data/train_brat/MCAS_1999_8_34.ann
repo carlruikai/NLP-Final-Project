@@ -1,0 +1,23 @@
+T1	LunarPhases	5	13	new moon
+T2	Occur	14	22	occurred
+T3	RelativeTime	23	25	on
+T4	Months	26	30	June
+T5	DATE	26	32	June 2
+T6	CardinalNumber	31	32	2
+T7	RelativeTime	34	38	when
+T8	ProbabilityAndCertainty	39	43	will
+T9	TemporalProperty	48	52	next
+T10	LunarPhases	53	61	new moon
+T11	Occur	62	67	occur
+T12	DATE	69	76	June 30
+T13	Months	69	73	June
+T14	CardinalNumber	74	76	30
+T15	Months	77	81	June
+T16	DATE	77	84	June 28
+T17	CardinalNumber	82	84	28
+T18	Months	85	89	June
+T19	DATE	85	92	June 23
+T20	CardinalNumber	90	92	23
+T21	DATE	93	100	June 15
+T22	Months	93	97	June
+T23	CardinalNumber	98	100	15

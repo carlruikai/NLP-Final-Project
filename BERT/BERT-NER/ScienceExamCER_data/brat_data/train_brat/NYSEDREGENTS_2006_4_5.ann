@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	10	tool
+T3	StateOfBeing	11	13	is
+T4	Use	14	18	used
+T5	Goal	19	21	to
+T6	Measurements	22	29	measure
+T7	Examine	22	29	measure
+T8	PhysicalProperty	34	40	volume
+T9	Size	34	40	volume
+T10	LiquidMatter	46	52	liquid
+T11	MassMeasuringTool	54	61	balance
+T12	DistanceMeasuringTools	62	67	ruler
+T13	TemperatureMeasuringTools	68	79	thermometer
+T14	LiquidHoldingContainersRecepticles	80	98	graduated cylinder
+T15	VolumeMeasuringTool	80	98	graduated cylinder

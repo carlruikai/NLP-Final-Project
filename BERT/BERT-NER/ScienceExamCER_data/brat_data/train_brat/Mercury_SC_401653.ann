@@ -1,0 +1,36 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GeographicFormations	6	15	land form
+T3	StateOfBeing	16	18	is
+T4	Result	23	29	result
+T5	Cause	30	32	of
+T6	ConstructiveDestructiveForces	37	55	constructive force
+T7	GeographicFormations	61	68	glacier
+T8	BodiesOfWater	61	68	glacier
+T9	GeographicFormations	70	77	valleys
+T10	FormChangingActions	78	84	carved
+T11	Cause	85	87	by
+T12	ChangeInLocation	90	96	moving
+T13	GeographicFormations	97	104	glacier
+T14	BodiesOfWater	97	104	glacier
+T15	ObjectQuantification	105	110	piles
+T16	Rock	114	119	rocks
+T17	ChangeInLocation	120	129	deposited
+T18	Cause	130	132	by
+T19	PhaseChangingActions	135	142	melting
+T20	GeographicFormations	143	150	glacier
+T21	BodiesOfWater	143	150	glacier
+T22	GapsAndCracks	151	158	grooves
+T23	Create	159	166	created
+T24	RelativeLocations	167	169	in
+T25	Igneous	172	179	granite
+T26	ObjectPart	180	187	surface
+T27	Cause	188	190	by
+T28	GeographicFormations	193	200	glacier
+T29	BodiesOfWater	193	200	glacier
+T30	Rock	201	208	bedrock
+T31	GeographicFormations	209	214	hills
+T32	Alter	215	224	roughened
+T33	Cause	225	227	by
+T34	ChangeInLocation	232	239	passing
+T35	GeographicFormations	245	252	glacier
+T36	BodiesOfWater	245	252	glacier

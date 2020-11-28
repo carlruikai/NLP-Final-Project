@@ -1,0 +1,11 @@
+T1	AnimalPart	4	8	body
+T2	Aquatic	14	18	fish
+T3	CombineAdd	22	29	covered
+T4	ContainBeComposedOf	22	29	covered
+T5	AquaticAnimalPart	33	39	scales
+T6	PartsOfTheIntegumentarySystem	33	39	scales
+T7	VisualProperty	44	54	decoration
+T8	Help	56	66	protection
+T9	Preserve	56	66	protection
+T10	StructuralAdaptation	68	78	coloration
+T11	Reproduction	80	92	reproduction

@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	OrganicProcesses	11	18	process
+T4	TransferEnergy	24	32	converts
+T5	CelestialLightOnEarth	33	41	sunlight
+T6	Energy	42	48	energy
+T7	ChangeInto	49	53	into
+T8	Compound	56	64	compound
+T9	Preserve	70	76	stores
+T10	Energy	77	92	chemical energy
+T11	PlantProcesses	94	106	phototropism
+T12	CellProcesses	107	121	photosynthesis
+T13	PlantProcesses	107	121	photosynthesis
+T14	RespirationActions	122	133	respiration
+T15	Reproduction	134	145	pollination
+T16	PlantProcesses	134	145	pollination

@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Sickness	15	25	conditions
+T4	AmountComparison	26	30	most
+T5	ProbabilityAndCertainty	31	37	likely
+T6	Result	38	45	results
+T7	Cause	46	50	from
+T8	Sickness	51	60	infection
+T9	RelativeNumber	62	66	high
+T10	Blood	67	72	blood
+T11	NutritiveSubstancesForAnimalsOrPlants	73	78	sugar
+T12	AmountComparison	79	85	levels
+T13	PropertiesOfSickness	86	94	swelling
+T14	HumanPart	98	104	throat
+T15	HumanPart	105	112	tissues
+T16	PropertiesOfSickness	113	121	numbness
+T17	RelativeLocations	122	124	in
+T18	HumanPart	125	132	fingers
+T19	PropertiesOfSickness	133	141	blockage
+T20	PartsOfTheCirculatorySystem	145	158	blood vessels
+T21	RelativeLocations	159	161	in
+T22	HumanPart	166	169	leg

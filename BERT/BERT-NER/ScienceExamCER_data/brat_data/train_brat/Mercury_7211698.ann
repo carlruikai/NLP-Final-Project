@@ -1,0 +1,37 @@
+T1	TemporalProperty	0	8	Repeated
+T2	Toxins	9	18	pesticide
+T3	ChemicalProduct	9	18	pesticide
+T4	Use	19	22	use
+T5	PrepositionalDirections	23	25	on
+T6	Insect	29	35	insect
+T7	GroupsOfOrganisms	36	46	population
+T8	AbilityAvailability	47	50	can
+T9	Cause	51	60	result in
+T10	RelativeNumber	61	65	some
+T11	LevelOfInclusion	61	65	some
+T12	Insect	73	80	insects
+T13	ChangeInto	81	89	becoming
+T14	StateOfBeing	81	89	becoming
+T15	ResistanceStrength	90	99	resistant
+T16	Toxins	108	117	pesticide
+T17	ChemicalProduct	108	117	pesticide
+T18	RelativeTime	118	122	over
+T19	MarkersOfTime	123	127	time
+T20	LevelOfInclusion	129	134	Which
+T21	OrganicProcesses	135	142	process
+T22	StateOfBeing	143	145	is
+T23	Cause	146	157	responsible
+T24	Toxins	166	176	pesticides
+T25	ChemicalProduct	166	176	pesticides
+T26	Negations	177	179	no
+T27	TemporalProperty	180	186	longer
+T28	StateOfBeing	187	192	being
+T29	Quality	193	202	effective
+T30	PrepositionalDirections	203	205	on
+T31	Insect	210	217	insects
+T32	Evolution	219	238	divergent evolution
+T33	Evolution	239	256	natural selection
+T34	NaturalSelection	239	256	natural selection
+T35	Adaptation	257	274	bottleneck effect
+T36	Evolution	275	293	selective breeding
+T37	Biology	275	293	selective breeding

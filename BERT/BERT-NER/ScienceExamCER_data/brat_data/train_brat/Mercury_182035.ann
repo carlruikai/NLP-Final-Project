@@ -1,0 +1,17 @@
+T1	Rock	2	6	rock
+T2	AmountComparison	11	15	most
+T3	ProbabilityAndCertainty	16	22	likely
+T4	Move	23	31	traveled
+T5	Length	34	38	long
+T6	Distance	39	47	distance
+T7	RelativeDirection	48	52	from
+T8	Source	57	72	place of origin
+T9	StateOfBeing	79	81	is
+T10	AmountComparison	82	86	very
+T11	Size	87	92	small
+T12	Shape	94	101	rounded
+T13	Texture	106	112	smooth
+T14	LevelOfInclusion	114	123	partially
+T15	VisualProperty	124	129	faded
+T16	Texture	131	136	rough
+T17	PhysicalProperty	141	146	dense

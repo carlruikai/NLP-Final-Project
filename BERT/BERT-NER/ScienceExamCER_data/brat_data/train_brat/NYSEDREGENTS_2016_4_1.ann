@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Group	6	10	list
+T3	ContainBeComposedOf	11	19	contains
+T4	LevelOfInclusion	20	24	only
+T5	NonlivingPartsOfTheEnvironment	25	40	nonliving thing
+T6	ManmadeObjects	43	48	coins
+T7	Reptile	50	56	snakes
+T8	Bird	58	63	birds
+T9	PhasesOfWater	64	69	water
+T10	Rock	71	76	rocks
+T11	CelestialLightOnEarth	78	86	sunlight
+T12	SyntheticMaterial	87	93	rubber
+T13	ManmadeObjects	94	98	ball
+T14	Plant	100	106	plants
+T15	ManmadeLocations	108	113	house
+T16	Soil	114	118	soil
+T17	Aquatic	120	124	fish
+T18	EarthPartsGrossGroundAtmosphere	126	129	air

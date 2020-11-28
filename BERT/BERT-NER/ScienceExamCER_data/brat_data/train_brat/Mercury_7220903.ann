@@ -1,0 +1,21 @@
+T1	Cell	2	6	cell
+T2	StateOfBeing	12	14	is
+T3	AbilityAvailability	15	21	unable
+T4	Transportation	25	31	import
+T5	Substances	32	42	substances
+T6	Require	43	51	required
+T7	ActUponSomething	55	62	process
+T8	Uptake	55	62	process
+T9	Energy	63	78	chemical energy
+T10	StateOfBeing	79	81	is
+T11	AmountComparison	82	86	most
+T12	ProbabilityAndCertainty	87	93	likely
+T13	Result	96	102	result
+T14	Problem	108	122	malfunctioning
+T15	AnimalCellPart	123	136	cell membrane
+T16	PlantCellPart	123	136	cell membrane
+T17	AnimalCellPart	138	159	endoplasmic reticulum
+T18	PlantCellPart	138	159	endoplasmic reticulum
+T19	PlantCellPart	161	171	Golgi body
+T20	AnimalCellPart	173	189	nuclear envelope
+T21	PlantCellPart	173	189	nuclear envelope

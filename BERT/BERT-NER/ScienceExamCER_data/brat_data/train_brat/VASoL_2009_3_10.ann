@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	AmountComparison	15	19	most
+T4	ProbabilityAndCertainty	20	26	likely
+T5	ContainBeComposedOf	27	30	has
+T6	AmountComparison	35	43	GREATEST
+T7	Mass	44	48	mass
+T8	Bird	50	57	Chicken
+T9	Mammal	58	63	Puppy
+T10	WordsForOffspring	58	63	Puppy
+T11	Reptile	64	70	Lizard
+T12	Mammal	71	76	Horse

@@ -1,0 +1,38 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Exemplar	29	36	example
+T5	PhysicalChange	42	57	physical change
+T6	Negations	62	65	not
+T7	ChemicalChange	68	83	chemical change
+T8	PlantPart	87	90	log
+T9	Release	91	100	gives off
+T10	ThermalEnergy	101	105	heat
+T11	Light	110	115	light
+T12	RelativeTime	116	118	as
+T13	ReleaseEnergy	122	127	burns
+T14	ChemicalChange	122	127	burns
+T15	Plant	131	135	tree
+T16	Preserve	136	142	stores
+T17	Energy	143	149	energy
+T18	RelativeDirection	150	154	from
+T19	Star	159	162	Sun
+T20	RelativeLocations	163	165	in
+T21	PlantPart	170	175	fruit
+T22	MoneyTerms	179	184	penny
+T23	ManmadeObjects	179	184	penny
+T24	LocationChangingActions	185	189	lost
+T25	Undiscovered	185	189	lost
+T26	RelativeLocations	190	192	in
+T27	Angiosperm	197	202	grass
+T28	Speed	203	209	slowly
+T29	ColorChangingActions	210	223	changes color
+T30	PhasesOfWater	227	232	water
+T31	LiquidMatter	227	232	water
+T32	PartsOfABuilding	233	237	pipe
+T33	PhaseChangingActions	238	245	freezes
+T34	Break	250	256	cracks
+T35	GapsAndCracks	250	256	cracks
+T36	RelativeTime	257	259	on
+T37	Temperature	262	266	cold
+T38	TimesOfDayDayNight	267	272	night

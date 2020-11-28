@@ -1,0 +1,26 @@
+T1	GroupsOfScientists	0	10	Scientists
+T2	LevelOfInclusion	11	14	who
+T3	Problem	15	23	disagree
+T4	CombineAdd	24	28	with
+T5	Result	33	40	results
+T6	Experimentation	47	57	experiment
+T7	Require	58	64	should
+T8	Changes	65	71	change
+T9	Experimentation	76	86	experiment
+T10	Preserve	88	92	keep
+T11	ResponseType	99	107	opinions
+T12	RelativeDirection	108	110	to
+T13	Identify	123	131	find out
+T14	Comparisons	137	142	other
+T15	GroupsOfScientists	143	153	scientists
+T16	Believe	154	159	think
+T17	Relevant	160	165	about
+T18	Result	170	177	results
+T19	PerformAnActivity	179	185	repeat
+T20	ReplicatingResearch	179	185	repeat
+T21	Experimentation	190	200	experiment
+T22	RelativeNumber	201	208	several
+T23	MarkersOfTime	209	214	times
+T24	Examine	219	226	compare
+T25	Comparisons	219	226	compare
+T26	Result	227	234	results

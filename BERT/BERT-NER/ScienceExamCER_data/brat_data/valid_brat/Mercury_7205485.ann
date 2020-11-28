@@ -1,0 +1,20 @@
+T1	Spectra	4	12	spectrum
+T2	ElectromagneticSpectrum	16	29	visible light
+T3	AbilityAvailability	30	33	can
+T4	Observe	34	41	be seen
+T5	RelativeLocations	42	44	in
+T6	WavePerception	47	54	rainbow
+T7	Cause	55	62	because
+T8	Color	63	68	white
+T9	Light	69	74	light
+T10	StateOfBeing	75	77	is
+T11	LightMovement	78	87	reflected
+T12	ReleaseEnergy	92	103	transmitted
+T13	LightMovement	92	103	transmitted
+T14	LightMovement	105	114	refracted
+T15	LightMovement	119	128	dispersed
+T16	AbsorbEnergy	130	138	absorbed
+T17	CombineAdd	130	138	absorbed
+T18	LightMovement	143	153	diffracted
+T19	Create	155	163	produced
+T20	LightMovement	168	175	emitted

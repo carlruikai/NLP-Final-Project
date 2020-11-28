@@ -1,0 +1,35 @@
+T1	Insect	0	10	Mosquitoes
+T2	Adaptation	16	23	adapted
+T3	Identify	27	33	detect
+T4	Compound	34	48	carbon dioxide
+T5	Use	49	54	using
+T6	LevelOfInclusion	55	62	certain
+T7	SensoryTerms	63	70	sensory
+T8	PartsOfTheNervousSystem	71	77	nerves
+T9	Insect	79	89	Mosquitoes
+T10	InheritedBehavior	90	103	instinctually
+T11	Move	104	108	move
+T12	PrepositionalDirections	109	115	toward
+T13	AmountComparison	116	123	greater
+T14	ObjectQuantification	124	138	concentrations
+T15	Compound	142	156	carbon dioxide
+T16	StateOfBeing	163	165	is
+T17	ImportanceComparison	170	179	importanc
+T18	Adaptation	189	199	adaptation
+T19	Help	204	209	helps
+T20	Insect	210	220	mosquitoes
+T21	VerbsForLocate	221	225	find
+T22	Nutrition	226	230	food
+T23	Help	235	240	helps
+T24	Insect	241	251	mosquitoes
+T25	VerbsForLocate	252	256	find
+T26	Reproduction	257	262	mates
+T27	Help	267	272	helps
+T28	Insect	273	283	mosquitoes
+T29	VerbsForLocate	284	288	find
+T30	Quality	289	294	clean
+T31	EarthPartsGrossGroundAtmosphere	295	298	air
+T32	Help	303	308	helps
+T33	Insect	309	319	mosquitoes
+T34	VerbsForLocate	320	324	find
+T35	Habitat	325	332	shelter

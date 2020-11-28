@@ -1,0 +1,5 @@
+A snail's shell provides the snail with
+food.
+energy.
+protection.
+transportation.

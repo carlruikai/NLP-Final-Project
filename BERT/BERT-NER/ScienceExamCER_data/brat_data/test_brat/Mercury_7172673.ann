@@ -1,0 +1,33 @@
+T1	Scientists	2	9	student
+T2	LocationChangingActions	10	17	removed
+T3	StopRemove	10	17	removed
+T4	NaturalMaterial	20	24	wool
+T5	ClothesTextiles	25	28	hat
+T6	RelativeDirection	29	33	from
+T7	AnimalPart	38	42	head
+T8	PartsOfTheIntegumentarySystem	48	52	hair
+T9	Position	53	58	stood
+T10	PrepositionalDirections	59	61	up
+T11	RelativeDirection	62	66	from
+T12	ElectricalEnergy	67	85	static electricity
+T13	ClothesTextiles	88	91	hat
+T14	PerformAnActivity	104	106	do
+T15	Cause	110	115	cause
+T16	ActUponSomething	122	126	gave
+T17	CombineAdd	122	126	gave
+T18	PartsOfTheIntegumentarySystem	131	135	hair
+T19	MolecularProperties	138	152	neutral charge
+T20	LocationChangingActions	153	160	removed
+T21	StopRemove	153	160	removed
+T22	AtomComponents	161	168	protons
+T23	RelativeDirection	169	173	from
+T24	PartsOfTheIntegumentarySystem	178	182	hair
+T25	ActUponSomething	183	187	gave
+T26	CombineAdd	183	187	gave
+T27	PartsOfTheIntegumentarySystem	192	196	hair
+T28	MolecularProperties	199	214	negative charge
+T29	LocationChangingActions	215	222	removed
+T30	StopRemove	215	222	removed
+T31	AtomComponents	223	232	electrons
+T32	RelativeDirection	233	237	from
+T33	PartsOfTheIntegumentarySystem	242	246	hair

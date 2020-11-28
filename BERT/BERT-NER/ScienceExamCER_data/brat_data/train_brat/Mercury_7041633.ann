@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Human	15	20	human
+T4	PhysicalActivity	21	31	activities
+T5	PerformAnActivity	32	36	does
+T6	Negations	37	40	not
+T7	Help	41	51	contribute
+T8	Cause	41	51	contribute
+T9	LivingDying	59	69	extinction
+T10	Extinction	59	69	extinction
+T11	Taxonomy	73	80	species
+T12	ActionsForAnimals	82	89	hunting
+T13	EnvironmentalDamageDestruction	90	109	habitat destruction
+T14	Biology	110	129	restoration ecology
+T15	Start	130	140	introduced
+T16	CombineAdd	130	140	introduced
+T17	NationalityOrigin	141	150	nonnative
+T18	Taxonomy	151	158	species

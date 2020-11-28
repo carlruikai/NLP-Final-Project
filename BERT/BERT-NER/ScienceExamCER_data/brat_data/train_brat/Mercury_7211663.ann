@@ -1,0 +1,28 @@
+T1	TemporalProperty	0	5	Newly
+T2	Identify	6	16	discovered
+T3	Discovery	6	16	discovered
+T4	LivingThing	17	26	organisms
+T5	StateOfBeing	27	30	are
+T6	RelativeTime	31	34	now
+T7	Classify	35	45	classified
+T8	Source	46	54	based on
+T9	Genetics	55	58	DNA
+T10	ConcludingResearch	59	67	evidence
+T11	WordsForData	59	67	evidence
+T12	LevelOfInclusion	69	74	Which
+T13	LevelOfInclusion	78	91	the following
+T14	StateOfBeing	92	94	is
+T15	AmountComparison	95	99	most
+T16	Quality	100	107	helpful
+T17	Help	100	107	helpful
+T18	Scientists	113	123	researcher
+T19	Classify	124	135	classifying
+T20	TemporalProperty	138	143	newly
+T21	Identify	144	154	discovered
+T22	Discovery	144	154	discovered
+T23	LivingThing	155	163	organism
+T24	FossilRecordTimeline	165	178	fossil record
+T25	Genetics	179	192	gene splicing
+T26	Evolution	193	211	selective breeding
+T27	Biology	193	211	selective breeding
+T28	Genetics	212	231	gel electrophoresis

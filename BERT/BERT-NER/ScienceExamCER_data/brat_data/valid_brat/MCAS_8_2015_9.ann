@@ -1,0 +1,45 @@
+T1	BusinessIndustry	2	9	company
+T2	StateOfBeing	10	12	is
+T3	Create	13	22	designing
+T4	Age	25	28	new
+T5	ComputingDevice	29	44	laptop computer
+T6	TechnologicalInstrument	29	44	laptop computer
+T7	ComputingDevice	36	44	computer
+T8	TechnologicalInstrument	36	44	computer
+T9	Require	59	63	must
+T10	Negations	64	67	not
+T11	Surpass	68	74	exceed
+T12	LevelOfInclusion	77	84	certain
+T13	Mass	85	91	weight
+T14	LevelOfInclusion	93	98	Which
+T15	LevelOfInclusion	102	115	the following
+T16	StateOfBeing	116	118	is
+T17	AmountComparison	123	127	most
+T18	ProbabilityAndCertainty	128	134	likely
+T19	Cause	135	141	reason
+T20	ContainBeComposedOf	145	149	have
+T21	Mass	152	158	weight
+T22	GuidelinesAndRules	159	170	restriction
+T23	ComputingDevice	179	187	computer
+T24	TechnologicalInstrument	179	187	computer
+T25	Cause	192	196	make
+T26	Difficulty	200	206	easier
+T27	TypesOfEvent	210	214	test
+T28	Representation	219	228	prototype
+T29	Alter	232	238	reduce
+T30	AmountChangingActions	232	238	reduce
+T31	Cost	243	247	cost
+T32	Create	251	257	making
+T33	ComputingDevice	262	270	computer
+T34	TechnologicalInstrument	262	270	computer
+T35	Cause	274	278	make
+T36	Difficulty	282	288	easier
+T37	ChangeInLocation	292	301	transport
+T38	Transportation	292	301	transport
+T39	ComputingDevice	306	314	computer
+T40	TechnologicalInstrument	306	314	computer
+T41	Alter	318	324	reduce
+T42	AmountChangingActions	318	324	reduce
+T43	Cost	329	333	cost
+T44	Create	337	345	building
+T45	Representation	350	359	prototype

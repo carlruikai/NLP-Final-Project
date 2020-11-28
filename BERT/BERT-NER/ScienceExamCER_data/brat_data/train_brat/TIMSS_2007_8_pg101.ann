@@ -1,0 +1,33 @@
+T1	NutritiveSubstancesForAnimalsOrPlants	0	5	Sugar
+T2	GranularSolids	0	5	Sugar
+T3	StateOfBeing	6	8	is
+T4	ContainBeComposedOf	9	16	made up
+T5	RelativeNumber	20	24	many
+T6	ElementalComponents	25	34	molecules
+T7	RelativeTime	36	40	When
+T8	NutritiveSubstancesForAnimalsOrPlants	41	46	sugar
+T9	GranularSolids	41	46	sugar
+T10	StateOfBeing	47	49	is
+T11	PhaseChangingActions	50	59	dissolved
+T12	Divide	50	59	dissolved
+T13	RelativeLocations	60	62	in
+T14	PhasesOfWater	63	68	water
+T15	LiquidMatter	63	68	water
+T16	Occur	75	82	happens
+T17	RelativeDirection	83	85	to
+T18	LevelOfInclusion	86	91	these
+T19	ElementalComponents	92	101	molecules
+T20	Negations	108	110	no
+T21	TemporalProperty	111	117	longer
+T22	Occur	118	123	exist
+T23	Occur	118	123	exist
+T24	RelativeLocations	136	138	in
+T25	Mixtures	139	147	solution
+T26	PhaseChangingActions	154	163	evaporate
+T27	CombineAdd	170	182	combine with
+T28	PhasesOfWater	183	188	water
+T29	LiquidMatter	183	188	water
+T30	Result	189	191	to
+T31	Create	192	196	form
+T32	Age	197	200	new
+T33	Element	201	209	elements

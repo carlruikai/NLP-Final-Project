@@ -1,0 +1,61 @@
+T1	Move	0	9	Traveling
+T2	RelativeDirection	6	8	in
+T3	Comparisons	13	21	opposite
+T4	Directions	22	32	directions
+T5	LandVehicle	34	39	buses
+T6	LandVehicle	40	41	A
+T7	LandVehicle	46	47	B
+T8	StateOfBeing	48	51	are
+T9	Move	52	59	passing
+T10	LevelOfInclusion	60	64	each
+T11	Comparisons	65	70	other
+T12	StateOfBeing	71	73	at
+T13	RelativeNumber	78	86	relative
+T14	Speed	87	92	speed
+T15	NUMBER	96	98	25
+T16	SpeedUnit	99	103	km/h
+T17	RelativeTime	105	110	while
+T18	Human	113	122	passenger
+T19	RelativeLocations	123	125	on
+T20	LandVehicle	126	131	bus A
+T21	Move	132	137	walks
+T22	PrepositionalDirections	138	144	toward
+T23	RelativeDirection	149	153	back
+T24	LandVehicle	161	164	bus
+T25	StateOfBeing	165	167	at
+T26	Speed	172	177	speed
+T27	CardinalNumber	181	182	5
+T28	NUMBER	181	182	5
+T29	SpeedUnit	183	187	km/h
+T30	StateOfBeing	194	196	is
+T31	PropertyOfMotion	201	209	velocity
+T32	Human	217	226	passenger
+T33	RelativeLocations	227	229	on
+T34	LandVehicle	230	235	bus A
+T35	Comparisons	236	244	relative
+T36	RelativeDirection	245	247	to
+T37	LandVehicle	248	253	bus B
+T38	CardinalNumber	255	257	20
+T39	NUMBER	255	257	20
+T40	SpeedUnit	258	262	km/h
+T41	RelativeDirection	263	265	in
+T42	Directions	270	279	direction
+T43	LandVehicle	283	288	bus A
+T44	CardinalNumber	289	291	20
+T45	NUMBER	289	291	20
+T46	SpeedUnit	292	296	km/h
+T47	RelativeDirection	297	299	in
+T48	Directions	304	313	direction
+T49	LandVehicle	317	322	bus B
+T50	CardinalNumber	323	325	30
+T51	NUMBER	323	325	30
+T52	SpeedUnit	326	330	km/h
+T53	RelativeDirection	331	333	in
+T54	Directions	338	347	direction
+T55	LandVehicle	351	356	bus A
+T56	CardinalNumber	357	359	30
+T57	NUMBER	357	359	30
+T58	SpeedUnit	360	364	km/h
+T59	RelativeDirection	365	367	in
+T60	Directions	372	381	direction
+T61	LandVehicle	385	390	bus B

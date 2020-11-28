@@ -1,0 +1,13 @@
+T1	RelativeLocations	0	2	In
+T2	LifeCycle	7	17	life cycle
+T3	Insect	23	26	fly
+T4	LevelOfInclusion	28	33	which
+T5	SystemProcessStages	34	39	stage
+T6	Occur	40	45	comes
+T7	RelativeTime	46	51	after
+T8	PostnatalOrganismStages	56	62	larval
+T9	SystemProcessStages	63	68	stage
+T10	PrenatalOrganismStates	70	73	egg
+T11	PostnatalOrganismStages	74	79	adult
+T12	PostnatalOrganismStages	80	85	nymph
+T13	PostnatalOrganismStages	86	90	pupa

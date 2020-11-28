@@ -1,0 +1,36 @@
+T1	OtherEnergyResources	0	12	Solar energy
+T2	StateOfBeing	13	15	is
+T3	Communicate	16	30	referred to as
+T4	Believe	16	30	referred to as
+T5	Energy	35	41	energy
+T6	RelativeTime	49	55	future
+T7	Cause	56	63	because
+T8	EarthPartsGrossGroundAtmosphere	68	78	atmosphere
+T9	Uptake	79	87	receives
+T10	RelativeNumber	88	92	many
+T11	Exemplar	93	98	kinds
+T12	EnergyWaves	102	106	rays
+T13	RelativeDirection	107	111	from
+T14	Star	116	119	Sun
+T15	CelestialLightOnEarth	121	129	sunlight
+T16	Create	130	136	offers
+T17	Rarity	140	149	unlimited
+T18	Numbers	150	156	amount
+T19	Energy	160	166	energy
+T20	TerrestrialLocations	171	180	the world
+T21	IncreaseDecrease	186	194	thinning
+T22	AtmosphericLayers	202	213	ozone layer
+T23	StateOfBeing	214	216	is
+T24	Harm	217	225	damaging
+T25	EarthPartsGrossGroundAtmosphere	230	240	atmosphere
+T26	CelestialLightOnEarth	242	250	sunlight
+T27	ProbabilityAndCertainty	251	255	will
+T28	Negations	256	259	not
+T29	Frequency	260	266	always
+T30	StateOfBeing	267	269	be
+T31	Rarity	270	279	available
+T32	AbilityAvailability	270	279	available
+T33	Require	284	290	should
+T34	StateOfBeing	291	293	be
+T35	Use	294	298	used
+T36	RelativeTime	299	302	now

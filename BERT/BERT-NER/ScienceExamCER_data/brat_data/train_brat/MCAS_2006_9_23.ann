@@ -1,0 +1,28 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Occur	23	29	occurs
+T4	RelativeTime	30	36	during
+T5	CellProcesses	37	51	photosynthesis
+T6	PlantProcesses	37	51	photosynthesis
+T7	Compound	53	56	CO2
+T8	StateOfBeing	57	59	is
+T9	Use	60	64	used
+T10	Result	65	67	to
+T11	Create	68	75	produce
+T12	PhasesOfWater	76	81	water
+T13	Compound	83	86	CO2
+T14	StateOfBeing	87	89	is
+T15	CombineAdd	90	98	absorbed
+T16	Cause	99	101	by
+T17	PlantCellPart	102	114	mitochondria
+T18	Compound	116	119	CO2
+T19	Compound	124	127	H2O
+T20	StateOfBeing	128	131	are
+T21	ChangeInto	132	141	converted
+T22	NutritiveSubstancesForAnimalsOrPlants	145	158	carbohydrates
+T23	Compound	160	163	CO2
+T24	Compound	168	171	H2O
+T25	StateOfBeing	172	175	are
+T26	CombineAdd	176	184	combined
+T27	ChangeInto	185	189	into
+T28	Compound	190	203	carbonic acid

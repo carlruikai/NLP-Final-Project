@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Cause	15	20	makes
+T4	OpportunitiesAndTheirExtent	24	32	possible
+T5	WeatherPhenomena	37	47	hurricanes
+T6	Create	51	55	form
+T7	PhasesOfWater	57	62	water
+T8	Depth	63	68	depth
+T9	PhasesOfWater	69	74	water
+T10	VisualProperty	75	82	clarity
+T11	PhasesOfWater	83	88	water
+T12	ChemicalProperty	89	97	salinity
+T13	PhasesOfWater	98	103	water
+T14	Temperature	104	115	temperature

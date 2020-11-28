@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PartsOfWaterCycle	6	13	process
+T3	Cycles	21	32	water cycle
+T4	ProbabilityAndCertainty	33	38	would
+T5	StateOfBeing	39	41	be
+T6	IncreaseDecrease	42	53	accelerated
+T7	Speed	42	53	accelerated
+T8	Cause	54	56	by
+T9	AmountChangingActions	60	68	increase
+T10	IncreaseDecrease	60	68	increase
+T11	Temperature	72	83	temperature
+T12	PartsOfWaterCycle	85	91	runoff
+T13	WeatherPhenomena	85	91	runoff
+T14	LiquidMovement	85	91	runoff
+T15	PartsOfWaterCycle	92	103	evaporation
+T16	PhaseChangingActions	92	103	evaporation
+T17	PartsOfWaterCycle	104	117	precipitation
+T18	Precipitation	104	117	precipitation
+T19	PartsOfWaterCycle	118	130	condensation
+T20	PhaseChangingActions	118	130	condensation

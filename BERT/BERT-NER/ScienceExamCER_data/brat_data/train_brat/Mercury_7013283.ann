@@ -1,0 +1,22 @@
+T1	SoundEnergy	4	18	speed of sound
+T2	SpeedUnit	4	18	speed of sound
+T3	StateOfBeing	19	21	is
+T4	Rarity	22	31	generally
+T5	AmountComparison	32	40	greatest
+T6	RelativeLocations	41	43	in
+T7	StateOfMatter	44	50	solids
+T8	AmountComparison	55	61	lowest
+T9	RelativeLocations	62	64	in
+T10	StateOfMatter	65	72	liquids
+T11	StateOfMatter	74	80	solids
+T12	AmountComparison	85	91	lowest
+T13	RelativeLocations	92	94	in
+T14	StateOfMatter	95	100	gases
+T15	StateOfMatter	95	100	gases
+T16	AmountComparison	112	118	lowest
+T17	RelativeLocations	119	121	in
+T18	StateOfMatter	122	129	liquids
+T19	StateOfMatter	131	136	gases
+T20	AmountComparison	141	147	lowest
+T21	RelativeLocations	148	150	in
+T22	StateOfMatter	151	157	solids

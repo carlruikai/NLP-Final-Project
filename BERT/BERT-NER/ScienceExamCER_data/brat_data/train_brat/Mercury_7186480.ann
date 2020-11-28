@@ -1,0 +1,53 @@
+T1	ManmadeObjects	0	18	Laundry detergents
+T2	ChemicalProduct	0	18	Laundry detergents
+T3	StateOfBeing	19	23	were
+T4	TemporalProperty	24	28	once
+T5	Create	29	41	manufactured
+T6	BusinessIndustry	29	41	manufactured
+T7	Goal	42	44	to
+T8	ContainBeComposedOf	45	52	contain
+T9	RelativeNumber	53	57	high
+T10	Numbers	58	72	concentrations
+T11	Compound	76	96	phosphorus compounds
+T12	RelativeTime	98	102	When
+T13	Toxins	103	108	waste
+T14	PhasesOfWater	109	114	water
+T15	LiquidMatter	109	114	water
+T16	ContainBeComposedOf	115	125	containing
+T17	LevelOfInclusion	126	131	these
+T18	Compound	132	141	compounds
+T19	LiquidMovement	142	149	ran off
+T20	RelativeDirection	150	154	into
+T21	BodiesOfWater	155	160	lakes
+T22	Compound	166	177	phosphorous
+T23	ChangeInto	178	184	became
+T24	StateOfBeing	178	184	became
+T25	Nutrition	187	195	nutrient
+T26	Protist	199	204	algae
+T27	RelativeTime	206	208	As
+T28	Protist	209	214	algae
+T29	GroupsOfOrganisms	215	226	populations
+T30	AmountChangingActions	227	236	increased
+T31	IncreaseDecrease	227	236	increased
+T32	RelativeLocations	227	229	in
+T33	BodiesOfWater	244	249	lakes
+T34	EnvironmentalPhenomena	251	261	succession
+T35	IncreaseDecrease	262	273	accelerated
+T36	Speed	262	273	accelerated
+T37	RelativeTime	275	279	Over
+T38	TemporalProperty	282	286	long
+T39	MarkersOfTime	287	291	time
+T40	LevelOfInclusion	293	298	which
+T41	ProbabilityAndCertainty	299	304	would
+T42	BodiesOfWater	307	311	lake
+T43	ChangeInto	312	318	become
+T44	StateOfBeing	312	318	become
+T45	Cause	319	333	as a result of
+T46	Compound	338	349	phosphorous
+T47	RelativeLocations	350	352	in
+T48	ChemicalProduct	357	366	detergent
+T49	GeographicFormations	368	374	canyon
+T50	TypesOfTerrestrialEcosystems	375	381	desert
+T51	GeographicFormations	382	387	swamp
+T52	BodiesOfWater	382	387	swamp
+T53	BodiesOfWater	388	393	river

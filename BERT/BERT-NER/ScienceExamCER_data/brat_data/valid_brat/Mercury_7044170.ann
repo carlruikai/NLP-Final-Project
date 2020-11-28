@@ -1,0 +1,19 @@
+T1	GeographicFormations	4	11	islands
+T2	RelativeLocations	12	14	in
+T3	PartsOfBodiesOfWater	19	36	mid-Pacific Ocean
+T4	SpecificNamedBodiesOfWater	23	36	Pacific Ocean
+T5	Locations	37	43	region
+T6	StateOfBeing	44	48	were
+T7	Create	49	55	formed
+T8	Cause	56	58	by
+T9	ExamplesOfHabitats	59	63	land
+T10	ConstructiveDestructiveForces	64	74	subsidence
+T11	ChangeInLocation	76	86	deposition
+T12	RelativeDirection	87	91	from
+T13	Currents	92	100	currents
+T14	WeatherPhenomena	102	106	wind
+T15	PhasesOfWater	111	116	water
+T16	LiquidMatter	111	116	water
+T17	ConstructiveDestructiveForces	117	124	erosion
+T18	NaturalPhenomena	117	124	erosion
+T19	NaturalPhenomena	126	143	volcanic activity

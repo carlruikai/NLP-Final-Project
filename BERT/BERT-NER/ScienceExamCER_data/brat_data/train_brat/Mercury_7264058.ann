@@ -1,0 +1,13 @@
+T1	ElementalComponents	0	5	Atoms
+T2	LevelOfInclusion	9	14	which
+T3	LevelOfInclusion	18	23	these
+T4	Element	24	32	elements
+T5	StateOfBeing	33	36	are
+T6	ObjectPart	37	41	part
+T7	RelativeNumber	45	49	many
+T8	ChemicalProperty	50	57	organic
+T9	ElementalComponents	58	67	molecules
+T10	Element	69	76	calcium
+T11	Element	77	86	magnesium
+T12	Element	87	93	oxygen
+T13	Element	94	101	silicon

@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	AmountComparison	22	26	most
+T5	Rarity	27	33	common
+T6	Result	34	40	result
+T7	Cause	41	43	of
+T8	Compound	44	58	greenhouse gas
+T9	Alter	61	69	altering
+T10	EarthPartsGrossGroundAtmosphere	74	84	atmosphere
+T11	InnerPlanets	88	93	Earth
+T12	AmountChangingActions	98	106	increase
+T13	IncreaseDecrease	98	106	increase
+T14	EarthPartsGrossGroundAtmosphere	114	117	air
+T15	Temperature	118	129	temperature
+T16	AmountChangingActions	132	140	decrease
+T17	IncreaseDecrease	132	140	decrease
+T18	EarthPartsGrossGroundAtmosphere	148	151	air
+T19	PhysicalProperty	152	159	density
+T20	AmountChangingActions	163	171	increase
+T21	IncreaseDecrease	163	171	increase
+T22	MeasuresOfAmountOfLight	179	188	intensity
+T23	ElectromagneticSpectrum	192	205	visible light
+T24	AmountChangingActions	208	216	decrease
+T25	IncreaseDecrease	208	216	decrease
+T26	Width	224	233	thickness
+T27	AtmosphericLayers	241	252	ozone layer

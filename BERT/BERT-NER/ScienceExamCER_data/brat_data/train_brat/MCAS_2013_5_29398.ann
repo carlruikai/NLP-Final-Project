@@ -1,0 +1,19 @@
+T1	Bird	2	6	bird
+T2	RelativeTime	11	15	just
+T3	ActionsForAnimals	16	23	hatched
+T4	RelativeDirection	24	28	from
+T5	PrenatalOrganismStates	32	35	egg
+T6	LevelOfInclusion	37	42	Which
+T7	LevelOfInclusion	46	59	the following
+T8	SystemProcessStages	60	66	stages
+T9	AmountComparison	67	71	most
+T10	ProbabilityAndCertainty	72	78	likely
+T11	Occur	79	84	comes
+T12	TemporalProperty	85	89	next
+T13	RelativeLocations	90	92	in
+T14	LifeCycle	97	107	life cycle
+T15	Bird	115	119	bird
+T16	Birth	121	126	birth
+T17	Death	127	132	death
+T18	Growth	133	139	growth
+T19	Reproduction	140	152	reproduction

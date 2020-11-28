@@ -1,0 +1,15 @@
+T1	SolarSystem	7	19	solar system
+T2	StateOfBeing	20	24	were
+T3	Use	25	29	used
+T4	StateOfBeing	30	32	as
+T5	RepresentingElementsAndMolecules	35	40	model
+T6	ElementalComponents	47	51	atom
+T7	ProbabilityAndCertainty	58	63	would
+T8	Star	68	71	Sun
+T9	AmountComparison	72	76	most
+T10	ProbabilityAndCertainty	77	83	likely
+T11	Represent	84	93	represent
+T12	ElementalComponents	98	101	ion
+T13	AtomComponents	104	111	nucleus
+T14	AtomComponents	114	121	neutron
+T15	AtomComponents	125	133	electron

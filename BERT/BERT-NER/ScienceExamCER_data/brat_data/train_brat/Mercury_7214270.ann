@@ -1,0 +1,19 @@
+T1	GeographicFormations	6	22	geologic feature
+T2	AmountComparison	23	27	most
+T3	ProbabilityAndCertainty	28	34	likely
+T4	Create	35	40	forms
+T5	RelativeTime	41	45	when
+T6	TectonicPlates	49	71	oceanic tectonic plate
+T7	StateOfBeing	72	74	is
+T8	Speed	75	81	slowly
+T9	ChangeInLocation	82	91	subducted
+T10	RelativeLocations	92	99	beneath
+T11	TectonicPlates	102	128	continental tectonic plate
+T12	BodiesOfWater	130	135	ocean
+T13	GeographicFormations	130	142	ocean trench
+T14	GeographicFormations	143	158	mid-ocean ridge
+T15	PartsOfBodiesOfWater	143	152	mid-ocean
+T16	GeographicFormations	159	179	continental hot spot
+T17	TectonicPlates	159	170	continental
+T18	GeographicFormations	180	203	continental rift valley
+T19	TectonicPlates	180	191	continental

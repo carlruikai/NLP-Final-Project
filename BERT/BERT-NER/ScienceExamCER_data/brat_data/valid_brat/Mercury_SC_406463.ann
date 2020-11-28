@@ -1,0 +1,50 @@
+T1	Scientists	2	9	student
+T2	CombineAdd	10	13	put
+T3	NUMBER	14	17	200
+T4	VolumeUnit	18	29	milliliters
+T5	VolumeUnit	31	33	mL
+T6	PhasesOfWater	38	43	water
+T7	LiquidMatter	38	43	water
+T8	RelativeDirection	44	48	into
+T9	LiquidHoldingContainersRecepticles	51	54	pot
+T10	LocationChangingActions	56	60	sets
+T11	LiquidHoldingContainersRecepticles	65	68	pot
+T12	RelativeLocations	69	71	on
+T13	HeatingAppliance	74	80	burner
+T14	CookingToolsFood	74	80	burner
+T15	IncreaseDecrease	86	91	heats
+T16	Temperature	86	91	heats
+T17	PhasesOfWater	96	101	water
+T18	LiquidMatter	96	101	water
+T19	Result	102	104	to
+T20	PhaseChangingActions	105	109	boil
+T21	RelativeTime	111	115	When
+T22	LiquidHoldingContainersRecepticles	120	123	pot
+T23	StateOfBeing	124	126	is
+T24	LocationChangingActions	127	132	taken
+T25	PrepositionalDirections	133	136	off
+T26	HeatingAppliance	141	147	burner
+T27	CookingToolsFood	141	147	burner
+T28	ContainBeComposedOf	152	160	contains
+T29	LevelOfInclusion	161	165	only
+T30	NUMBER	166	169	180
+T31	VolumeUnit	170	181	milliliters
+T32	VolumeUnit	183	185	mL
+T33	PhasesOfWater	190	195	water
+T34	LiquidMatter	190	195	water
+T35	Occur	202	210	happened
+T36	RelativeDirection	211	213	to
+T37	LevelOfInclusion	218	222	rest
+T38	PhasesOfWater	230	235	water
+T39	LiquidMatter	230	235	water
+T40	StateOfBeing	240	243	was
+T41	Use	244	251	used up
+T42	PhaseChangingActions	256	265	condensed
+T43	StateOfBeing	270	273	was
+T44	Uptake	274	282	absorbed
+T45	CombineAdd	274	282	absorbed
+T46	Cause	283	285	by
+T47	ThermalEnergy	290	294	heat
+T48	ChangeInto	299	310	turned into
+T49	PhasesOfWater	311	322	water vapor
+T50	GaseousMatter	311	322	water vapor

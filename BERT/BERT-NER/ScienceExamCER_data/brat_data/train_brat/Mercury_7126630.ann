@@ -1,0 +1,25 @@
+T1	Human	4	9	human
+T2	PartsOfTheExcretorySystem	10	14	skin
+T3	PartsOfTheIntegumentarySystem	10	14	skin
+T4	PerformAnActivity	15	20	plays
+T5	ImportanceComparison	24	33	important
+T6	SystemAndFunctions	34	38	role
+T7	RelativeLocations	39	41	in
+T8	Exemplar	44	51	variety
+T9	AnimalSystemsProcesses	55	67	organ system
+T10	LevelOfInclusion	70	75	Which
+T11	AnimalSystemsProcesses	76	88	organ system
+T12	StateOfBeing	89	91	is
+T13	AmountComparison	92	97	least
+T14	ProbabilityAndCertainty	98	104	likely
+T15	ContainBeComposedOf	108	112	have
+T16	Complexity	115	121	direct
+T17	ActUponSomething	122	133	interaction
+T18	Relations	122	133	interaction
+T19	CombineAdd	134	138	with
+T20	PartsOfTheExcretorySystem	143	147	skin
+T21	PartsOfTheIntegumentarySystem	143	147	skin
+T22	DigestiveSystem	149	158	digestive
+T23	ExcretorySystem	159	168	excretory
+T24	ImmuneSystem	169	175	immune
+T25	NervousSystem	176	183	nervous

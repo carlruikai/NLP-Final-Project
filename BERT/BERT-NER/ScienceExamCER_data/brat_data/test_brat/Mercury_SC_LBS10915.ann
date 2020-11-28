@@ -1,0 +1,27 @@
+T1	Source	0	9	According
+T2	ManmadeLocations	13	23	laboratory
+T3	Safety	24	30	safety
+T4	GuidelinesAndRules	31	41	guidelines
+T5	Require	48	54	should
+T6	Scientists	55	63	students
+T7	PerformAnActivity	64	66	do
+T8	RelativeTime	67	69	if
+T9	Uptake	75	78	get
+T10	Compound	79	88	chemicals
+T11	RelativeLocations	89	91	in
+T12	HumanPart	98	102	eyes
+T13	ActionsForAnimals	104	109	Blink
+T14	RelativeNumber	110	117	several
+T15	MarkersOfTime	118	123	times
+T16	Speed	124	131	quickly
+T17	CleanUp	133	138	Rinse
+T18	HumanPart	145	149	eyes
+T19	Use	154	158	with
+T20	PhasesOfWater	159	164	water
+T21	LiquidMatter	159	164	water
+T22	Touch	166	169	Rub
+T23	HumanPart	176	180	eyes
+T24	Use	181	185	with
+T25	ManmadeObjects	186	197	paper towel
+T26	Use	200	206	Put on
+T27	SafetyEquipment	207	221	safety goggles

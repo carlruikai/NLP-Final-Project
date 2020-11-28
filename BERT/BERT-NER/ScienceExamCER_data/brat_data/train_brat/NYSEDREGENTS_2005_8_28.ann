@@ -1,0 +1,30 @@
+T1	ImportanceComparison	4	8	main
+T2	OrganicProcesses	9	17	function
+T3	Human	25	30	human
+T4	DigestiveSystem	31	47	digestive system
+T5	StateOfBeing	48	50	is
+T6	DigestionActions	54	64	break down
+T7	Nutrition	65	70	foods
+T8	DigestionActions	75	85	absorption
+T9	ActionsForNutrition	75	85	absorption
+T10	RelativeDirection	86	90	into
+T11	Blood	95	100	blood
+T12	Transportation	101	109	exchange
+T13	Element	110	116	oxygen
+T14	Compound	121	135	carbon dioxide
+T15	RelativeLocations	136	138	in
+T16	PartsOfTheRespiratorySystem	143	148	lungs
+T17	PartsOfTheExcretorySystem	143	148	lungs
+T18	Release	149	156	release
+T19	Energy	157	163	energy
+T20	RelativeDirection	164	168	from
+T21	NutritiveSubstancesForAnimalsOrPlants	169	175	sugars
+T22	RelativeLocations	176	182	within
+T23	Cell	187	192	cells
+T24	Move	193	198	carry
+T25	Transportation	193	198	carry
+T26	Nutrition	199	208	nutrients
+T27	RelativeDirection	209	211	to
+T28	LevelOfInclusion	212	215	all
+T29	ObjectPart	216	221	parts
+T30	HumanPart	229	233	body

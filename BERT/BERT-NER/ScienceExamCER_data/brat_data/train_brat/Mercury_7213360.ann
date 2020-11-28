@@ -1,0 +1,38 @@
+T1	RelativeTime	0	2	As
+T2	ObjectQuantification	5	11	sample
+T3	Element	15	22	mercury
+T4	PhaseChangingActions	23	36	changes state
+T5	RelativeDirection	37	41	from
+T6	StateOfMatter	42	48	liquid
+T7	RelativeDirection	49	51	to
+T8	StateOfMatter	52	57	solid
+T9	ElementalComponents	63	68	atoms
+T10	ObjectQuantification	76	82	sample
+T11	Move	83	87	move
+T12	DistanceComparison	88	94	closer
+T13	Position	95	103	together
+T14	CombineAdd	95	103	together
+T15	ContainBeComposedOf	108	112	have
+T16	AmountComparison	113	117	less
+T17	Energy	118	132	kinetic energy
+T18	Move	134	138	move
+T19	DistanceComparison	139	145	closer
+T20	Position	146	154	together
+T21	CombineAdd	146	154	together
+T22	ContainBeComposedOf	159	163	have
+T23	AmountComparison	164	168	more
+T24	Energy	169	183	kinetic energy
+T25	Move	185	189	move
+T26	DistanceComparison	190	197	farther
+T27	Position	198	203	apart
+T28	Separate	198	203	apart
+T29	ContainBeComposedOf	208	212	have
+T30	AmountComparison	213	217	less
+T31	Energy	218	232	kinetic energy
+T32	Move	234	238	move
+T33	DistanceComparison	239	246	farther
+T34	Position	247	252	apart
+T35	Separate	247	252	apart
+T36	ContainBeComposedOf	257	261	have
+T37	AmountComparison	262	266	more
+T38	Energy	267	281	kinetic energy

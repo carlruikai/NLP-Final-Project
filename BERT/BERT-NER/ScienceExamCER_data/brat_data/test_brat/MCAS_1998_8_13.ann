@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Negations	9	12	not
+T4	ImportanceComparison	15	20	major
+T5	Complexity	21	34	controversial
+T6	Problem	35	40	issue
+T7	Associate	41	51	associated
+T8	CombineAdd	52	56	with
+T9	Use	61	64	use
+T10	OtherEnergyResources	68	81	nuclear power
+T11	StopRemove	87	95	disposal
+T12	Energy	99	106	nuclear
+T13	Toxins	107	112	waste
+T14	Create	113	121	products
+T15	Sickness	126	140	health hazards
+T16	RelativeLocations	141	143	in
+T17	Locations	144	149	areas
+T18	Position	150	161	surrounding
+T19	Energy	162	169	nuclear
+T20	ManmadeLocations	170	176	plants
+T21	EnvironmentalDamageDestruction	181	198	thermal pollution
+T22	BodiesOfWater	202	214	water bodies
+T23	Use	215	219	used
+T24	IncreaseDecrease	224	231	cooling
+T25	Temperature	224	231	cooling
+T26	Employment	236	248	unemployment
+T27	Cause	249	255	due to
+T28	ChangeInto	256	269	conversion to
+T29	OtherEnergyResources	270	283	nuclear power

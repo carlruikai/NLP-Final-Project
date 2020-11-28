@@ -1,0 +1,16 @@
+T1	RelativeTime	0	5	After
+T2	Fossils	6	13	fossils
+T3	StateOfBeing	14	17	are
+T4	Create	18	24	formed
+T5	LevelOfInclusion	26	31	which
+T6	OrganicProcesses	32	39	process
+T7	GeographicFormationProcess	32	39	process
+T8	StateOfBeing	40	42	is
+T9	AmountComparison	43	47	most
+T10	ProbabilityAndCertainty	48	54	likely
+T11	Harm	58	65	destroy
+T12	Cycles	76	88	carbon cycle
+T13	CarbonCycle	76	88	carbon cycle
+T14	Cycles	93	107	nitrogen cycle
+T15	Cycles	112	123	water cycle
+T16	Cycles	128	138	rock cycle

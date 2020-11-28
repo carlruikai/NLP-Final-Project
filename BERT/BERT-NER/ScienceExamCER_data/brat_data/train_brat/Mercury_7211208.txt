@@ -1,0 +1,5 @@
+A student measures the growth of a group of plants given different amounts of fertilizer. Which data display should the student use to compare the growth of the plants?
+bar graph
+scatterplot
+line graph
+pie chart

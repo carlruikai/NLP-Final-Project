@@ -1,0 +1,20 @@
+T1	InnerPlanets	0	5	Earth
+T2	CelestialMovement	6	12	orbits
+T3	Star	17	20	Sun
+T4	ArithmeticMeasure	21	25	once
+T5	TimeUnit	28	32	year
+T6	Year	28	32	year
+T7	ProbabilityAndCertainty	34	39	About
+T8	RelativeNumber	40	48	how many
+T9	MarkersOfTime	49	54	times
+T10	Moon	64	68	moon
+T11	CelestialMovement	69	74	orbit
+T12	InnerPlanets	75	80	Earth
+T13	RelativeTime	81	83	in
+T14	TimeUnit	86	90	year
+T15	Year	86	90	year
+T16	CardinalNumber	92	93	1
+T17	CardinalNumber	94	95	7
+T18	CardinalNumber	96	98	13
+T19	CardinalNumber	99	101	28
+T20	NUMBER	99	101	28

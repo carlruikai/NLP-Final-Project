@@ -1,0 +1,21 @@
+T1	LocationChangingActions	4	12	transfer
+T2	ObjectQuantification	18	25	section
+T3	Genetics	29	32	DNA
+T4	RelativeDirection	33	37	from
+T5	CardinalNumber	38	41	one
+T6	NUMBER	38	41	one
+T7	LivingThing	42	50	organism
+T8	RelativeDirection	51	55	into
+T9	Genetics	60	63	DNA
+T10	Comparisons	67	74	another
+T11	LivingThing	75	83	organism
+T12	Cause	84	86	by
+T13	Scientists	87	97	scientists
+T14	StateOfBeing	93	95	is
+T15	Classify	101	107	called
+T16	Evolution	108	126	selective breeding
+T17	Biology	108	126	selective breeding
+T18	Genetics	127	146	genetic engineering
+T19	Evolution	147	164	natural selection
+T20	NaturalSelection	147	164	natural selection
+T21	Reproduction	165	187	internal fertilization

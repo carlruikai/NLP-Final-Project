@@ -1,0 +1,16 @@
+T1	CelestialObject	5	11	object
+T2	StateOfBeing	12	14	is
+T3	ContainBeComposedOf	15	19	made
+T4	Temperature	23	26	hot
+T5	GaseousMatter	27	30	gas
+T6	StateOfBeing	35	37	is
+T7	AmountComparison	42	46	most
+T8	Mass	47	54	massive
+T9	CelestialObject	55	61	object
+T10	RelativeLocations	62	64	in
+T11	SolarSystem	69	81	solar system
+T12	Star	87	90	Sun
+T13	Asteroid	94	102	asteroid
+T14	Comet	105	110	comet
+T15	Composition	113	124	terrestrial
+T16	Planet	125	131	planet

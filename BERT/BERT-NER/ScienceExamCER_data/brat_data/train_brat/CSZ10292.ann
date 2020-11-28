@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	GaseousMatter	23	28	gases
+T4	Plant	32	38	plants
+T5	Use	39	42	use
+T6	RelativeLocations	43	45	in
+T7	CellProcesses	46	60	photosynthesis
+T8	PlantProcesses	46	60	photosynthesis
+T9	PlantNutrients	62	70	hydrogen
+T10	Element	62	70	hydrogen
+T11	PlantNutrients	71	77	oxygen
+T12	Element	71	77	oxygen
+T13	Compound	78	92	carbon dioxide
+T14	Compound	93	108	carbon monoxide

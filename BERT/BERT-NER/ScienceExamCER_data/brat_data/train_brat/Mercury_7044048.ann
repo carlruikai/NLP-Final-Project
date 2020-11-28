@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	VariablesControls	6	12	factor
+T3	AbilityAvailability	13	16	can
+T4	AmountChangingActions	17	25	increase
+T5	IncreaseDecrease	17	25	increase
+T6	Numbers	30	36	amount
+T7	Compound	40	54	sulfur dioxide
+T8	RelativeLocations	55	57	in
+T9	EarthPartsGrossGroundAtmosphere	62	65	air
+T10	CombineAdd	67	75	applying
+T11	RelativeNumber	76	84	too much
+T12	PlantNutrients	85	95	fertilizer
+T13	RelativeDirection	96	98	to
+T14	Agriculture	99	111	agricultural
+T15	TerrestrialLocations	112	118	fields
+T16	Use	119	128	operation
+T17	PropertyOfProduction	132	142	coal-fired
+T18	FossilFuel	132	136	coal
+T19	ElectricityAndCircuits	143	151	electric
+T20	ManmadeLocations	152	169	generating plants
+T21	ElectricityGeneration	152	169	generating plants
+T22	Temperature	172	175	hot
+T23	SeasonsFallAutumnWinterSpringSummer	176	182	summer
+T24	TimeUnit	183	186	day
+T25	TimesOfDayDayNight	183	186	day
+T26	RelativeNumber	187	195	too much
+T27	Precipitation	196	200	rain

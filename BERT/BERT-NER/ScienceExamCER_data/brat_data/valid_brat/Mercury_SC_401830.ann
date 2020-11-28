@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	TransferEnergy	15	23	converts
+T4	ChangeInto	15	23	converts
+T5	ElectricalEnergy	24	41	electrical energy
+T6	RelativeDirection	42	44	to
+T7	Spectra	45	57	light energy
+T8	Star	61	65	star
+T9	LightProducingObject	68	78	flashlight
+T10	LightProducingObject	81	89	campfire
+T11	Foods	92	95	tea
+T12	CookingToolsFood	96	102	kettle

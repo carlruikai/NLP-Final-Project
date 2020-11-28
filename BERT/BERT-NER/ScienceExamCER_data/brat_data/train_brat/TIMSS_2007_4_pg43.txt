@@ -1,0 +1,5 @@
+Which of these groups animals are ALL mammals?
+duck, eagle, parrot
+mouse, monkey, bat
+butterfly, ant, mosquito
+crocodile, snake, turtle

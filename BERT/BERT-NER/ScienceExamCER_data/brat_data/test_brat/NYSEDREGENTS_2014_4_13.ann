@@ -1,0 +1,19 @@
+T1	Human	2	5	boy
+T2	AbilityAvailability	6	9	can
+T3	Observe	10	13	see
+T4	HumanPart	18	22	face
+T5	RelativeTime	23	27	when
+T6	Observe	31	36	looks
+T7	RelativeDirection	37	41	into
+T8	PropertyOfMotion	44	48	calm
+T9	BodiesOfWater	49	53	pond
+T10	LevelOfInclusion	55	60	Which
+T11	PhysicalProperty	61	78	physical property
+T12	BodiesOfWater	86	90	pond
+T13	Cause	91	96	makes
+T14	Occur	102	108	happen
+T15	Rigidity	110	121	flexibility
+T16	VisualProperty	122	136	reflectiveness
+T17	Temperature	137	148	temperature
+T18	PhysicalProperty	149	155	volume
+T19	Size	149	155	volume

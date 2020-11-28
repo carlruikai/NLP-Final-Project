@@ -1,0 +1,5 @@
+For a class project, students converted the daily temperatures for the past month from Fahrenheit to Celsius. What is the clearest way for the students to present the information?
+table
+formula
+pie chart
+line graph

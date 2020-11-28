@@ -1,0 +1,61 @@
+T1	PERSON	0	6	Joanne
+T2	ScientificTheoryExperimentationAndHistory	9	16	science
+T3	Occupation	17	24	teacher
+T4	Communicate	25	34	cautioned
+T5	GroupsOfScientists	39	44	class
+T6	TypesOfEvent	39	44	class
+T7	StateOfBeing	48	50	be
+T8	PerformingExperimentsWell	51	60	skeptical
+T9	ProbabilityAndCertainty	51	60	skeptical
+T10	RelativeTime	61	65	when
+T11	ActionsForAnimals	66	74	learning
+T12	BeliefKnowledge	66	74	learning
+T13	Relevant	75	80	about
+T14	Age	81	84	new
+T15	Discovery	85	105	scientific discoveri
+T16	Cause	109	112	Why
+T17	StateOfBeing	113	115	is
+T18	ImportanceComparison	119	128	important
+T19	StateOfBeing	132	134	be
+T20	PerformingExperimentsWell	135	144	skeptical
+T21	ProbabilityAndCertainty	135	144	skeptical
+T22	Relevant	145	150	about
+T23	Age	151	154	new
+T24	Discovery	155	166	discoveries
+T25	RelativeLocations	167	169	in
+T26	ScientificTheoryExperimentationAndHistory	170	177	science
+T27	Cause	179	186	because
+T28	RelativeNumber	187	191	many
+T29	Discovery	192	212	scientific discoveri
+T30	StateOfBeing	215	218	are
+T31	Negations	219	222	not
+T32	Source	223	231	based on
+T33	ResponseType	232	237	facts
+T34	Cause	238	245	because
+T35	LevelOfInclusion	246	250	most
+T36	Discovery	251	271	scientific discoveri
+T37	ContainBeComposedOf	274	278	have
+T38	Negations	279	281	no
+T39	ScientificTheoryExperimentationAndHistory	282	292	scientific
+T40	Value	293	298	value
+T41	Cause	299	306	because
+T42	LevelOfInclusion	307	311	most
+T43	GroupsOfScientists	312	322	scientists
+T44	Create	323	327	make
+T45	Problem	328	334	errors
+T46	RelativeTime	335	339	when
+T47	Create	340	351	formulating
+T48	Discovery	352	372	scientific discoveri
+T49	Cause	375	382	because
+T50	LevelOfInclusion	383	386	all
+T51	Discovery	387	407	scientific discoveri
+T52	Require	410	414	must
+T53	StateOfBeing	415	417	be
+T54	PerformingResearch	418	426	examined
+T55	Examine	418	426	examined
+T56	PerformingExperimentsWell	427	437	critically
+T57	RelativeTime	438	444	before
+T58	AbilityAvailability	450	453	can
+T59	StateOfBeing	454	456	be
+T60	Permit	457	465	accepted
+T61	Verify	457	465	accepted

@@ -1,0 +1,29 @@
+T1	Mammal	2	5	dog
+T2	FormChangingActions	6	11	opens
+T3	Move	6	11	opens
+T4	AnimalPart	16	21	mouth
+T5	Permit	26	30	lets
+T6	PartsOfTheDigestiveSystem	35	41	tongue
+T7	LocationChangingActions	42	46	hang
+T8	RelativeDirection	47	50	out
+T9	Human	54	59	human
+T10	HumanPart	62	66	body
+T11	Create	67	75	produces
+T12	ExcretoryActions	76	81	sweat
+T13	LevelOfInclusion	83	88	These
+T14	StateOfBeing	89	92	are
+T15	CardinalNumber	93	96	two
+T16	NUMBER	93	96	two
+T17	Method	97	101	ways
+T18	LivingThing	107	116	organisms
+T19	ProbabilityAndCertainty	117	120	may
+T20	Adaptation	121	127	adjust
+T21	Temperature	131	135	cold
+T22	Temperature	136	148	temperatures
+T23	Temperature	149	152	hot
+T24	Temperature	153	165	temperatures
+T25	RelativeNumber	168	176	shortage
+T26	Nutrition	180	184	food
+T27	RelativeNumber	187	195	shortage
+T28	PhasesOfWater	199	213	drinking water
+T29	LiquidMatter	199	213	drinking water

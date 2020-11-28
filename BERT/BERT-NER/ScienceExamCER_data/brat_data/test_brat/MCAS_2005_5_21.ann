@@ -1,0 +1,47 @@
+T1	Gender	0	6	Female
+T2	Aquatic	7	12	seals
+T3	Mammal	7	12	seals
+T4	Rarity	13	20	usually
+T5	Frequency	13	20	usually
+T6	Move	21	27	return
+T7	RelativeDirection	28	30	to
+T8	Comparisons	35	39	same
+T9	TerrestrialLocations	40	47	beaches
+T10	TimeUnit	48	52	year
+T11	Year	48	52	year
+T12	RelativeTime	53	58	after
+T13	TimeUnit	59	63	year
+T14	Year	59	63	year
+T15	Goal	64	66	to
+T16	ActionsForAnimals	67	77	give birth
+T17	StateOfBeing	87	90	are
+T18	TemporalProperty	91	101	repeatedly
+T19	Harm	102	111	disturbed
+T20	Cause	112	114	by
+T21	Human	115	121	humans
+T22	RelativeLocations	122	124	at
+T23	LevelOfInclusion	125	130	those
+T24	TerrestrialLocations	131	138	beaches
+T25	Method	140	143	how
+T26	ProbabilityAndCertainty	144	148	will
+T27	Aquatic	153	158	seals
+T28	Mammal	153	158	seals
+T29	AmountComparison	159	163	most
+T30	ProbabilityAndCertainty	164	170	likely
+T31	Response	171	178	respond
+T32	ProbabilityAndCertainty	185	189	will
+T33	ColorChangingActions	190	202	change color
+T34	ProbabilityAndCertainty	209	213	will
+T35	ActionsForAnimals	214	224	give birth
+T36	AmountComparison	228	232	more
+T37	WordsForOffspring	233	237	pups
+T38	ProbabilityAndCertainty	244	248	will
+T39	ActionsForAnimals	249	253	hunt
+T40	Nutrition	258	262	food
+T41	AmountComparison	263	267	more
+T42	Frequency	268	273	often
+T43	ProbabilityAndCertainty	280	284	will
+T44	ActionsForAnimals	285	295	give birth
+T45	RelativeLocations	296	298	at
+T46	Comparisons	299	308	different
+T47	TerrestrialLocations	309	316	beaches

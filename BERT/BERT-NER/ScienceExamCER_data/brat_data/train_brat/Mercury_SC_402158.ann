@@ -1,0 +1,27 @@
+T1	Safety	5	11	safety
+T2	GuidelinesAndRules	12	16	rule
+T3	StateOfBeing	17	19	is
+T4	AmountComparison	20	24	most
+T5	ImportanceComparison	25	34	important
+T6	Scientists	39	47	students
+T7	PerformAnActivity	51	57	follow
+T8	RelativeTime	58	62	when
+T9	PerformAnActivity	63	70	working
+T10	CombineAdd	71	75	with
+T11	PH	76	81	acids
+T12	Substances	76	81	acids
+T13	PH	86	91	bases
+T14	Substances	86	91	bases
+T15	Use	93	97	wear
+T16	SafetyEquipment	98	108	nose plugs
+T17	Use	109	115	put on
+T18	SafetyEquipment	116	130	safety goggles
+T19	Move	131	134	put
+T20	PrepositionalDirections	135	139	away
+T21	LevelOfInclusion	140	143	all
+T22	ManmadeLocations	144	147	lab
+T23	ScientificTools	148	156	supplies
+T24	Use	157	161	wear
+T25	Mass	162	167	heavy
+T26	SolidMatter	168	173	cloth
+T27	SafetyEquipment	174	180	gloves

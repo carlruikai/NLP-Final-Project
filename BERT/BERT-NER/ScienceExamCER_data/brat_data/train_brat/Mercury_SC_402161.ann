@@ -1,0 +1,26 @@
+T1	CardinalNumber	0	3	One
+T2	NUMBER	0	3	One
+T3	Method	4	7	way
+T4	Scientists	13	21	students
+T5	AbilityAvailability	22	25	can
+T6	Help	26	30	help
+T7	Preserve	31	39	conserve
+T8	NaturalResources	40	57	natural resources
+T9	RelativeLocations	41	43	at
+T10	ManmadeLocations	61	67	school
+T11	StateOfBeing	68	70	is
+T12	Cause	71	73	by
+T13	Alter	74	83	recycling
+T14	Preserve	74	83	recycling
+T15	MetalSolids	84	92	aluminum
+T16	LiquidHoldingContainersRecepticles	93	97	cans
+T17	CleanUp	99	107	emptying
+T18	ManmadeObjects	108	121	waste baskets
+T19	Use	123	130	wearing
+T20	Temperature	131	137	warmer
+T21	Comparisons	131	137	warmer
+T22	ClothesTextiles	138	145	clothes
+T23	ActionsForAnimals	147	153	eating
+T24	Consumption	147	153	eating
+T25	LevelOfInclusion	154	157	all
+T26	Meals	167	172	lunch

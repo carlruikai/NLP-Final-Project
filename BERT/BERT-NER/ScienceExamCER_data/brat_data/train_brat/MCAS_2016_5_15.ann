@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Property	23	38	characteristics
+T4	PartsOfAGroup	45	55	individual
+T5	Mammal	56	60	wolf
+T6	StateOfBeing	61	63	is
+T7	AmountComparison	64	68	most
+T8	Alter	69	77	affected
+T9	Cause	69	77	affected
+T10	EcosystemsEnvironment	85	96	environment
+T11	Size	102	106	size
+T12	AnimalPart	114	118	feet
+T13	Color	123	128	color
+T14	AnimalPart	136	140	eyes
+T15	Shape	145	150	shape
+T16	AnimalPart	158	162	ears
+T17	StateOfBeing	167	176	condition
+T18	MammalAnimalPart	184	187	fur

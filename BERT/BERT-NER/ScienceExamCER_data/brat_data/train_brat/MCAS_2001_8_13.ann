@@ -1,0 +1,55 @@
+T1	Human	0	10	Scientists
+T2	GroupsOfScientists	0	10	Scientists
+T3	Hypothesizing	11	16	claim
+T4	GeographicFormations	26	36	continents
+T5	Continents	40	53	South America
+T6	LOCATION	40	53	South America
+T7	Continents	58	64	Africa
+T8	LOCATION	58	64	Africa
+T9	StateOfBeing	65	69	were
+T10	TemporalProperty	70	74	once
+T11	RelativeNumber	77	83	single
+T12	GeographicFormations	84	92	landmass
+T13	LevelOfInclusion	94	97	All
+T14	LevelOfInclusion	101	114	the following
+T15	Observe	115	127	observations
+T16	Help	128	135	support
+T17	ConcludingResearch	128	135	support
+T18	Hypothesizing	141	146	claim
+T19	Negations	147	153	except
+T20	GeographicFormations	158	167	mountains
+T21	RelativeLocations	168	170	on
+T22	LevelOfInclusion	171	176	these
+T23	GeographicFormations	177	187	continents
+T24	ContainBeComposedOf	188	192	have
+T25	Comparisons	193	200	similar
+T26	Rock	201	206	rocks
+T27	Comparisons	214	218	same
+T28	Age	219	222	age
+T29	LevelOfInclusion	224	229	these
+T30	GeographicFormations	230	240	continents
+T31	Observe	241	247	appear
+T32	VisualComparison	251	263	fit together
+T33	Comparisons	264	268	like
+T34	ObjectQuantification	273	279	pieces
+T35	ManmadeObjects	285	291	puzzle
+T36	Comparisons	293	300	similar
+T37	Aquatic	301	305	fish
+T38	LivingDying	306	310	live
+T39	RelativeLocations	311	313	in
+T40	EarthPartsGrossGroundAtmosphere	318	323	ocean
+T41	BodiesOfWater	318	323	ocean
+T42	PrepositionalDirections	324	327	off
+T43	PartsOfBodiesOfWater	332	338	coasts
+T44	TerrestrialLocations	332	338	coasts
+T45	LevelOfInclusion	342	347	these
+T46	GeographicFormations	348	358	continents
+T47	Comparisons	364	368	same
+T48	Exemplar	369	374	kinds
+T49	Fossils	378	385	fossils
+T50	StateOfBeing	391	395	been
+T51	VerbsForLocate	396	401	found
+T52	Discovery	396	401	found
+T53	RelativeLocations	402	404	on
+T54	LevelOfInclusion	405	410	these
+T55	GeographicFormations	411	421	continents

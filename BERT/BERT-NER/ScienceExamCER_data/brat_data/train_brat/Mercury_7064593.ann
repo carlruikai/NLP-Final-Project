@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	TransferEnergy	6	27	energy transformation
+T3	Occur	28	39	takes place
+T4	RelativeLocations	40	42	in
+T5	FossilFuel	45	53	gasoline
+T6	Appliance	54	64	lawn mower
+T7	Energy	66	82	potential energy
+T8	RelativeDirection	83	85	to
+T9	ElectricalEnergy	86	103	electrical energy
+T10	ElectricalEnergy	86	103	electrical energy
+T11	RelativeDirection	122	124	to
+T12	Energy	125	141	potential energy
+T13	Energy	142	156	kinetic energy
+T14	RelativeDirection	157	159	to
+T15	Energy	160	175	chemical energy
+T16	Energy	160	175	chemical energy
+T17	RelativeDirection	192	194	to
+T18	Energy	195	212	mechanical energy

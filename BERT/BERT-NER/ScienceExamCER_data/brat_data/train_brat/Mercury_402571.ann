@@ -1,0 +1,26 @@
+T1	StateOfBeing	5	8	are
+T2	Classification	13	18	names
+T3	PartsOfChemicalReactions	26	34	products
+T4	RelativeLocations	35	37	in
+T5	RepresentingElementsAndMolecules	42	59	chemical equation
+T6	Indicate	60	65	shown
+T7	RelativeLocations	66	71	below
+T8	Compound	73	76	HCl
+T9	Calculations	77	78	+
+T10	Compound	79	88	NaHCO_{3}
+T11	Compound	92	96	NaCl
+T12	Calculations	97	98	+
+T13	Compound	99	105	CO_{2}
+T14	Calculations	106	107	+
+T15	Compound	108	114	H_{2}O
+T16	Compound	115	132	hydrochloric acid
+T17	Compound	137	153	sodium carbonate
+T18	Compound	154	169	sodium chloride
+T19	Compound	171	185	carbon dioxide
+T20	PhasesOfWater	191	196	water
+T21	Compound	191	196	water
+T22	Compound	197	214	hydrogen chloride
+T23	Compound	219	237	sodium bicarbonate
+T24	Compound	238	253	sodium chloride
+T25	Compound	255	270	carbon monoxide
+T26	Compound	276	292	dihydrogen oxide

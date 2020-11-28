@@ -1,0 +1,27 @@
+T1	Method	0	3	How
+T2	PerformAnActivity	4	6	do
+T3	PartsOfTheFoodChain	7	18	decomposers
+T4	Uptake	19	25	obtain
+T5	Nutrition	32	36	food
+T6	ActionsForAnimals	38	45	hunting
+T7	Harm	50	57	killing
+T8	StopRemove	50	57	killing
+T9	PartsOfTheFoodChain	58	62	prey
+T10	Nutrition	67	71	food
+T11	Changes	72	80	changing
+T12	Compound	81	95	carbon dioxide
+T13	PhasesOfWater	100	105	water
+T14	ChangeInto	106	110	into
+T15	Nutrition	111	115	food
+T16	ActionsForNutrition	116	125	absorbing
+T17	CombineAdd	116	125	absorbing
+T18	Nutrition	126	130	food
+T19	RelativeDirection	131	135	from
+T20	Death	136	140	dead
+T21	LivingDying	136	140	dead
+T22	LivingThing	141	150	organisms
+T23	Create	151	158	produci
+T24	Nutrition	161	165	food
+T25	RelativeDirection	166	170	from
+T26	Element	171	177	oxygen
+T27	CelestialLightOnEarth	182	190	sunlight

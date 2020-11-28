@@ -1,0 +1,21 @@
+T1	Cell	0	7	Neurons
+T2	PartsOfTheNervousSystem	0	7	Neurons
+T3	StateOfBeing	8	11	are
+T4	Cell	12	17	cells
+T5	NervousSystem	25	39	nervous system
+T6	Transportation	45	49	send
+T7	Uptake	54	61	receive
+T8	Communicate	62	69	signals
+T9	RelativeDirection	71	75	From
+T10	LevelOfInclusion	76	81	which
+T11	ObjectQuantification	82	89	portion
+T12	Cell	95	99	cell
+T13	PerformAnActivity	100	104	does
+T14	Cell	107	113	neuron
+T15	PartsOfTheNervousSystem	107	113	neuron
+T16	Transportation	114	118	send
+T17	Communicate	121	127	signal
+T18	PartsOfTheNervousSystem	129	133	soma
+T19	PartsOfTheNervousSystem	134	138	axon
+T20	PartsOfTheNervousSystem	139	147	dendrite
+T21	AnimalCellPart	148	155	nucleus

@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	24	biological process
+T3	RelativeLocations	25	27	in
+T4	Mammal	28	35	mammals
+T5	Occur	36	42	occurs
+T6	AmountComparison	43	50	largely
+T7	Cause	51	57	due to
+T8	CellProcesses	58	71	cell division
+T9	Help	73	80	healing
+T10	RespirationActions	81	92	respiration
+T11	TypesOfChemicalReactions	93	106	decomposition
+T12	PlantProcesses	107	121	photosynthesis

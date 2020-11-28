@@ -1,0 +1,29 @@
+T1	Element	0	8	Hydrogen
+T2	StateOfMatter	9	12	gas
+T3	Element	17	23	oxygen
+T4	StateOfMatter	24	27	gas
+T5	CombineAdd	28	35	combine
+T6	Result	36	38	to
+T7	Create	39	43	form
+T8	PhasesOfWater	44	49	water
+T9	LevelOfInclusion	51	56	Which
+T10	ProbabilityAndCertainty	57	62	would
+T11	StateOfBeing	63	65	be
+T12	AmountComparison	68	72	more
+T13	Complexity	73	80	concise
+T14	Method	81	84	way
+T15	Communicate	88	98	expressing
+T16	Occur	104	111	happens
+T17	RelativeTime	112	114	in
+T18	Reactions	120	137	chemical reaction
+T19	Represent	139	144	write
+T20	RepresentingElementsAndMolecules	147	163	chemical formula
+T21	Represent	164	169	write
+T22	RepresentingElementsAndMolecules	172	189	chemical equation
+T23	Communicate	190	198	describe
+T24	ParticleMovement	203	216	rearrangement
+T25	ElementalComponents	224	229	atoms
+T26	Communicate	230	238	describe
+T27	Method	243	252	procedure
+T28	Create	257	265	creating
+T29	Changes	271	277	change

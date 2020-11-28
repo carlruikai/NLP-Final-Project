@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Soil	6	10	soil
+T3	SystemParts	11	20	component
+T4	ContainBeComposedOf	21	24	has
+T5	AmountComparison	29	34	least
+T6	Ability	35	43	capacity
+T7	ContainBeComposedOf	48	55	holding
+T8	Uptake	48	55	holding
+T9	PhasesOfWater	56	61	water
+T10	Soil	63	67	silt
+T11	NaturalMaterial	68	72	clay
+T12	Soil	68	72	clay
+T13	Soil	73	77	sand
+T14	GranularSolids	73	77	sand
+T15	PlantNutrients	78	83	humus
+T16	Soil	78	83	humus

@@ -1,0 +1,5 @@
+Which equation is a balanced chemical equation?
+2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr
+NO + Cl_{2} -> NOCl
+CaCO_{3} -> CaO + 2CO_{2}
+2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al

@@ -1,0 +1,38 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	GroupsOfScientists	18	28	scientists
+T4	Communicate	29	34	offer
+T5	StateOfBeing	35	37	as
+T6	AmountComparison	42	46	most
+T7	TemporalProperty	47	53	recent
+T8	ResponseType	54	65	explanation
+T9	Relevant	66	71	as to
+T10	Cause	72	75	why
+T11	RelativeNumber	76	80	many
+T12	Plant	81	87	plants
+T13	Animal	92	99	animals
+T14	LivingDying	100	108	died out
+T15	Extinction	100	108	died out
+T16	RelativeTime	109	111	at
+T17	RelativeTime	116	119	end
+T18	GeologicalEonsErasPeriodsEpochsAges	127	139	Mesozoic era
+T19	TerrestrialLocations	141	150	worldwide
+T20	Sickness	151	158	disease
+T21	TerrestrialLocations	159	165	global
+T22	GeographicFormations	166	174	mountain
+T23	Create	175	183	building
+T24	IncreaseDecrease	184	188	rise
+T25	Mammal	192	199	mammals
+T26	PartsOfTheFoodChain	205	211	preyed
+T27	TypeOfConsumer	205	211	preyed
+T28	RelativeDirection	212	216	upon
+T29	Plant	217	223	plants
+T30	Animal	228	235	animals
+T31	Alter	236	242	impact
+T32	Result	236	242	impact
+T33	Asteroid	249	257	asteroid
+T34	Create	258	265	created
+T35	GranularSolids	266	270	dust
+T36	LightMovement	276	283	blocked
+T37	Separation	276	283	blocked
+T38	CelestialLightOnEarth	288	296	sunlight

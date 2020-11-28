@@ -1,0 +1,32 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	ActionsForAnimals	13	20	growing
+T4	Growth	13	20	growing
+T5	ActionsForAgriculture	13	20	growing
+T6	RelativeNumber	21	25	some
+T7	Plant	26	32	plants
+T8	Goal	33	36	for
+T9	Experimentation	40	50	experiment
+T10	Identify	56	63	notices
+T11	Observe	56	63	notices
+T12	Size	64	69	small
+T13	Color	70	75	white
+T14	VisualProperty	76	81	spots
+T15	RelativeLocations	82	84	on
+T16	PlantPart	89	95	leaves
+T17	LevelOfInclusion	97	102	Which
+T18	ScientificTools	103	107	tool
+T19	Require	108	114	should
+T20	Use	119	122	use
+T21	Goal	123	125	to
+T22	Uptake	126	129	get
+T23	Quality	132	138	better
+T24	QualityComparison	132	138	better
+T25	Observe	139	143	look
+T26	PrepositionalDirections	144	146	at
+T27	VisualProperty	151	156	spots
+T28	TemperatureMeasuringTools	158	169	thermometer
+T29	ViewingTools	170	179	hand lens
+T30	LiquidHoldingContainersRecepticles	180	198	graduated cylinder
+T31	VolumeMeasuringTool	180	198	graduated cylinder
+T32	MassMeasuringTool	199	206	balance

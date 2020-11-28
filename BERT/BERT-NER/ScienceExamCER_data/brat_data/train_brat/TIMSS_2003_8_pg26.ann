@@ -1,0 +1,15 @@
+T1	GranularSolids	2	8	powder
+T2	ContainBeComposedOf	9	16	made up
+T3	LevelOfInclusion	20	24	both
+T4	Color	25	30	white
+T5	ObjectQuantification	31	37	specks
+T6	Color	42	47	black
+T7	ObjectQuantification	48	54	specks
+T8	StateOfBeing	55	57	is
+T9	ProbabilityAndCertainty	58	64	likely
+T10	StateOfBeing	68	70	be
+T11	Mixtures	73	81	solution
+T12	ChemicalProperty	84	88	pure
+T13	Compound	89	97	compound
+T14	Mixtures	100	107	mixture
+T15	Element	111	118	element

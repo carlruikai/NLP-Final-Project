@@ -1,0 +1,25 @@
+T1	Mammal	0	4	Deer
+T2	ActionsForAnimals	5	8	eat
+T3	Consumption	5	8	eat
+T4	Comparisons	9	18	different
+T5	Exemplar	19	24	types
+T6	Plant	28	34	plants
+T7	RelativeLocations	35	37	in
+T8	EcosystemsEnvironment	41	50	ecosystem
+T9	LevelOfInclusion	52	57	Which
+T10	Method	58	64	method
+T11	ProbabilityAndCertainty	65	70	would
+T12	Quality	71	75	best
+T13	QualityComparison	71	75	best
+T14	Indicate	76	80	show
+T15	Communicate	76	80	show
+T16	PercentUnit	85	96	percentages
+T17	Plant	104	109	plant
+T18	Exemplar	110	115	types
+T19	RelativeLocations	116	118	in
+T20	Mammal	123	127	deer
+T21	Nutrition	128	132	diet
+T22	Representation	134	143	pie chart
+T23	Representation	144	153	bar graph
+T24	Representation	154	164	line graph
+T25	Representation	165	176	scatterplot

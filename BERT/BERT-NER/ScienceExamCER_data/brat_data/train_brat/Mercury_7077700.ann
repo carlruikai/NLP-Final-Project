@@ -1,0 +1,26 @@
+T1	SolidMatter	5	9	book
+T2	Position	10	17	sitting
+T3	RelativeLocations	18	20	on
+T4	Shape	23	27	flat
+T5	PartsOfABuilding	28	33	table
+T6	Start	34	40	starts
+T7	Move	44	48	move
+T8	Position	49	61	horizontally
+T9	StateOfBeing	66	68	is
+T10	AmountComparison	69	73	most
+T11	ProbabilityAndCertainty	74	80	likely
+T12	Move	81	87	moving
+T13	Cause	88	95	because
+T14	Force	98	112	balanced force
+T15	StateOfBeing	116	121	being
+T16	ActUponSomething	122	129	applied
+T17	PullingForces	133	149	frictional force
+T18	StateOfBeing	153	158	being
+T19	PushingActions	159	166	exerted
+T20	Comparisons	171	181	unbalanced
+T21	Force	182	187	force
+T22	StateOfBeing	191	196	being
+T23	ActUponSomething	197	204	applied
+T24	Gravity	208	227	gravitational force
+T25	StateOfBeing	231	236	being
+T26	PushingActions	237	244	exerted

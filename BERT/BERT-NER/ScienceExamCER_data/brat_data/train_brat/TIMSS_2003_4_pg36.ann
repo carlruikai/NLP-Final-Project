@@ -1,0 +1,17 @@
+T1	Size	0	5	Large
+T2	Numbers	6	13	amounts
+T3	MetalSolids	17	23	metals
+T4	Exemplar	24	28	like
+T5	MetalSolids	29	33	iron
+T6	MetalSolids	38	46	aluminum
+T7	StateOfBeing	47	50	are
+T8	VerbsForLocate	51	56	found
+T9	RelativeLocations	57	59	in
+T10	LivingDying	60	64	dead
+T11	Plant	65	70	trees
+T12	PhasesOfWater	71	76	water
+T13	Animal	77	83	animal
+T14	AnimalPart	84	89	bones
+T15	PartsOfTheSkeletalSystem	84	89	bones
+T16	ManMadeGeographicFormations	90	99	oil wells
+T17	Rock	100	105	rocks

@@ -1,0 +1,28 @@
+T1	ScientificTheoryExperimentationAndHistory	2	9	science
+T2	GroupsOfScientists	10	15	class
+T3	TypesOfEvent	10	15	class
+T4	StateOfBeing	16	18	is
+T5	PerformAnActivity	19	25	taking
+T6	TypesOfEvent	28	38	field trip
+T7	RelativeDirection	39	41	to
+T8	ExamplesOfHabitats	44	50	forest
+T9	Goal	51	53	to
+T10	Observe	54	61	observe
+T11	PerformingResearch	54	61	observe
+T12	Examine	66	71	study
+T13	PerformingResearch	66	71	study
+T14	Bird	72	77	birds
+T15	LevelOfInclusion	79	84	Which
+T16	ScientificTools	85	89	tool
+T17	ProbabilityAndCertainty	90	95	would
+T18	StateOfBeing	96	98	be
+T19	AmountComparison	99	103	most
+T20	Quality	104	111	helpful
+T21	Observe	116	125	observing
+T22	PerformingResearch	116	125	observing
+T23	Bird	126	131	birds
+T24	VolumeMeasuringTool	133	140	beakers
+T25	ViewingTools	141	151	binoculars
+T26	ObservationInstrumentsTelescopeBinoculars	141	151	binoculars
+T27	SafetyEquipment	152	166	safety goggles
+T28	ViewingTools	167	178	microscopes

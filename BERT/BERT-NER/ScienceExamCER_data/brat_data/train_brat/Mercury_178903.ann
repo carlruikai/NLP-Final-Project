@@ -1,0 +1,17 @@
+T1	RelativeDirection	0	2	To
+T2	Help	3	7	help
+T3	LivingDying	11	18	survive
+T4	NaturalSelection	11	18	survive
+T5	LivingThing	23	31	organism
+T6	ContainBeComposedOf	32	35	has
+T7	BacteriaPart	38	45	capsule
+T8	BacteriaPart	47	56	endospore
+T9	BacteriaPart	62	66	pili
+T10	LevelOfInclusion	71	76	which
+T11	Group	77	82	group
+T12	LivingThing	93	101	organism
+T13	Associate	102	108	belong
+T14	Bacteria	110	118	bacteria
+T15	AnimalAdditionalCategories	119	126	mollusk
+T16	Insect	127	133	insect
+T17	Reptile	134	141	reptile

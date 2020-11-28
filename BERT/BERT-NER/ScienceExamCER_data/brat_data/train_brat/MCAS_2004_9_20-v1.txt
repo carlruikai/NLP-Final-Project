@@ -1,0 +1,5 @@
+A bowling ball with a mass of 8.0 kg rolls down a bowling lane at 2.0 m/s. What is the momentum of the bowling ball?
+4.0 kg x m/s
+6.0 kg x m/s
+10.0 kg x m/s
+16.0 kg x m/s

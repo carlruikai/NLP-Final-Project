@@ -1,0 +1,56 @@
+T1	Scientists	2	9	student
+T2	Use	10	14	used
+T3	CardinalNumber	15	18	two
+T4	NUMBER	15	18	two
+T5	Length	19	23	long
+T6	ElectricityAndCircuits	24	29	wires
+T7	MetalSolids	24	29	wires
+T8	Result	30	32	to
+T9	Touch	33	40	connect
+T10	LightProducingObject	43	52	lightbulb
+T11	RelativeDirection	53	55	to
+T12	ElectricalEnergySource	58	65	battery
+T13	Scientists	71	78	student
+T14	Observe	79	86	noticed
+T15	RelativeTime	95	99	soon
+T16	Comparisons	100	102	as
+T17	Circuits	107	114	circuit
+T18	StateOfBeing	115	118	was
+T19	Succeed	119	127	complete
+T20	DistanceComparison	131	137	nearby
+T21	MagneticDirectionMeasuringTool	138	145	compass
+T22	Start	146	153	started
+T23	Move	157	162	point
+T24	Position	157	162	point
+T25	RelativeDirection	159	161	in
+T26	Directions	168	177	direction
+T27	Comparisons	178	183	other
+T28	Comparisons	184	188	than
+T29	CardinalDirectionsNorthEastSouthWest	189	194	north
+T30	MagneticDirectionMeasuringTool	200	207	compass
+T31	Move	208	215	pointed
+T32	Position	208	215	pointed
+T33	RelativeDirection	210	212	in
+T34	Comparisons	221	230	different
+T35	Directions	231	240	direction
+T36	Cause	241	248	because
+T37	StateOfBeing	252	255	was
+T38	Response	256	264	reacting
+T39	RelativeDirection	265	267	to
+T40	ThermalEnergy	272	276	heat
+T41	Create	277	285	produced
+T42	Cause	286	288	by
+T43	LightProducingObject	293	302	lightbulb
+T44	Light	293	298	light
+T45	Create	310	318	produced
+T46	Cause	319	321	by
+T47	LightProducingObject	326	335	lightbulb
+T48	ElectricalEnergy	337	351	electric field
+T49	Create	352	360	produced
+T50	Cause	361	363	by
+T51	ElectricalEnergySource	368	375	battery
+T52	MagneticForce	377	391	magnetic field
+T53	MagneticEnergy	377	391	magnetic field
+T54	Create	392	400	produced
+T55	Cause	401	403	by
+T56	ElectricalEnergy	408	424	electric current

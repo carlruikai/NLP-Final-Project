@@ -1,0 +1,27 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	Group	9	14	group
+T4	Animal	18	25	animals
+T5	RelativeLocations	26	31	below
+T6	StateOfBeing	32	35	are
+T7	LevelOfInclusion	36	39	all
+T8	PartsOfAGroup	47	54	members
+T9	Quality	55	59	well
+T10	Adaptation	60	67	adapted
+T11	RelativeDirection	68	70	to
+T12	LivingDying	71	77	living
+T13	RelativeLocations	74	76	in
+T14	ExamplesOfHabitats	83	89	forest
+T15	EcosystemsEnvironment	90	99	ecosystem
+T16	Mammal	101	112	field mouse
+T17	Mammal	114	120	rabbit
+T18	Bird	122	130	pheasant
+T19	Bird	131	135	gull
+T20	Amphibian	137	146	tree frog
+T21	Insect	148	159	grasshopper
+T22	Mammal	160	166	coyote
+T23	Mammal	168	176	antelope
+T24	Mammal	178	183	bison
+T25	Mammal	184	192	squirrel
+T26	Mammal	194	198	deer
+T27	Bird	200	210	woodpecker

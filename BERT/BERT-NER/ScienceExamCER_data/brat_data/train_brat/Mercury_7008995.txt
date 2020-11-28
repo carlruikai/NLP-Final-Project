@@ -1,0 +1,5 @@
+Sonar equipment sends waves into deep water and measures the
+time delay of the reflected waves.
+refraction of the transmitted waves.
+direction of the transmitted waves.
+interference of the transmitted and reflected waves.

@@ -1,0 +1,35 @@
+T1	GeologicalEonsErasPeriodsEpochsAges	0	26	The Late Heavy Bombardment
+T2	StateOfBeing	27	30	was
+T3	MarkersOfTime	33	39	period
+T4	TemporalProperty	43	52	extensive
+T5	Comet	53	58	comet
+T6	FormChangingActions	59	65	impact
+T7	Result	59	65	impact
+T8	RelativeLocations	66	68	on
+T9	InnerPlanets	69	74	Earth
+T10	LOCATION	69	74	Earth
+T11	ProbabilityAndCertainty	75	80	about
+T12	CardinalNumber	81	92	3.8 billion
+T13	TimeUnit	93	98	years
+T14	Year	93	98	years
+T15	RelativeTime	99	102	ago
+T16	Human	104	114	Scientists
+T17	GroupsOfScientists	104	114	Scientists
+T18	Believe	115	122	believe
+T19	MarkersOfTime	128	134	period
+T20	Create	135	143	provided
+T21	LevelOfInclusion	144	148	much
+T22	Matter	156	162	matter
+T23	RelativeTime	163	166	now
+T24	DATE	163	166	now
+T25	VerbsForLocate	167	172	found
+T26	RelativeLocations	173	175	in
+T27	LevelOfInclusion	176	181	which
+T28	LayersOfTheEarth	182	186	part
+T29	InnerPlanets	194	199	Earth
+T30	LOCATION	194	199	Earth
+T31	SystemAndFunctions	200	206	system
+T32	LayersOfTheEarth	208	212	core
+T33	LayersOfTheEarth	213	219	mantle
+T34	EarthPartsGrossGroundAtmosphere	220	230	atmosphere
+T35	LayersOfTheEarth	231	242	hydrosphere

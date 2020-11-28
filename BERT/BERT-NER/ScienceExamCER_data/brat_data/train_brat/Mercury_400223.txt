@@ -1,0 +1,5 @@
+The chemical equation below shows a reaction of copper (Cu) with silver nitrate (AgNO_{3}) yielding silver (Ag) and copper(II) nitrate (Cu(NO_{3})_{2}) Cu + 2AgNO_{3} -> 2Ag + Cu(NO_{3})_{2} Silver and copper(II) nitrate are called the
+reactants.
+products.
+catalysts.
+inhibitors.

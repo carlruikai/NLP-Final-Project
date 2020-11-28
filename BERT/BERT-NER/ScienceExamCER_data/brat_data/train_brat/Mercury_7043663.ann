@@ -1,0 +1,28 @@
+T1	Distance	4	12	distance
+T2	RelativeDirection	13	17	from
+T3	InnerPlanets	18	23	Earth
+T4	LOCATION	18	23	Earth
+T5	RelativeDirection	24	26	to
+T6	Star	31	34	Sun
+T7	ProbabilityAndCertainty	38	43	about
+T8	NUMBER	44	55	150,000,000
+T9	DistanceUnit	56	58	km
+T10	Representation	65	77	abbreviation
+T11	PerformAnActivity	78	80	do
+T12	Human	81	91	scientists
+T13	GroupsOfScientists	81	91	scientists
+T14	Use	92	95	use
+T15	Represent	99	107	describe
+T16	Distance	113	121	distance
+T17	SpeedUnit	123	140	meters per second
+T18	SpeedUnit	142	145	m/s
+T19	DistanceUnit	147	157	light-year
+T20	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	147	157	light-year
+T21	DistanceUnit	159	161	ly
+T22	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	159	161	ly
+T23	DistanceUnit	163	180	astronomical unit
+T24	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	163	180	astronomical unit
+T25	DistanceUnit	182	184	AU
+T26	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	182	184	AU
+T27	ElectricalUnit	186	206	electromagnetic unit
+T28	ElectricalUnit	208	211	EMU

@@ -1,0 +1,20 @@
+T1	StateOfBeing	5	7	is
+T2	ImportanceComparison	12	17	major
+T3	OrganicProcesses	18	26	function
+T4	Human	34	39	human
+T5	ExcretorySystem	40	56	excretory system
+T6	StopRemove	58	67	eliminate
+T7	ExcretoryActions	58	67	eliminate
+T8	Toxins	68	73	waste
+T9	Matter	74	83	materials
+T10	Response	84	91	respond
+T11	RelativeDirection	92	94	to
+T12	Cause	95	102	stimuli
+T13	DigestionActions	103	113	break down
+T14	Nutrition	114	118	food
+T15	PropertyOfMotion	119	131	mechanically
+T16	DigestionActions	132	138	absorb
+T17	ActionsForNutrition	132	138	absorb
+T18	Nutrition	139	148	nutrients
+T19	RelativeDirection	149	153	from
+T20	Nutrition	154	158	food

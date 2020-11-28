@@ -1,0 +1,37 @@
+T1	StateOfBeing	5	7	is
+T2	Quality	12	16	best
+T3	QualityComparison	12	16	best
+T4	Method	17	25	practice
+T5	PerformAnActivity	29	35	follow
+T6	RelativeTime	36	40	when
+T7	Succeed	41	51	completing
+T8	Experimentation	55	65	experiment
+T9	Use	67	72	using
+T10	Safety	73	80	caution
+T11	RelativeTime	81	85	when
+T12	Touch	86	94	handling
+T13	Temperature	95	98	hot
+T14	ManmadeObjects	99	108	glassware
+T15	StopRemove	109	120	turning off
+T16	HeatingAppliance	121	128	burners
+T17	CookingToolsFood	121	128	burners
+T18	RelativeTime	129	133	when
+T19	StateOfBeing	138	141	are
+T20	Negations	142	145	not
+T21	Use	146	151	using
+T22	Examine	157	165	studying
+T23	PerformingResearch	157	165	studying
+T24	ManmadeLocations	166	169	lab
+T25	SystemProcessStages	170	180	procedures
+T26	TemporalProperty	181	186	prior
+T27	PerformAnActivity	190	200	conducting
+T28	Experimentation	205	215	experiment
+T29	Communicate	216	224	checking
+T30	Verify	216	224	checking
+T31	CombineAdd	225	229	with
+T32	Occupation	235	242	teacher
+T33	Relevant	243	245	on
+T34	SystemProcessStages	250	259	procedure
+T35	CleanUp	263	273	dispose of
+T36	StopRemove	263	273	dispose of
+T37	Compound	274	283	chemicals

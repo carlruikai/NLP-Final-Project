@@ -1,0 +1,26 @@
+T1	Currents	4	24	Great Ocean Conveyer
+T2	Currents	25	38	ocean current
+T3	SystemAndFunctions	39	45	system
+T4	LiquidMovement	46	50	runs
+T5	CardinalDirectionsNorthEastSouthWest	51	56	north
+T6	PrepositionalDirections	57	64	through
+T7	SpecificNamedBodiesOfWater	69	77	Atlantic
+T8	RelativeDirection	78	82	from
+T9	EarthPartsGrossGroundAtmosphere	87	104	equatorial region
+T10	Currents	114	121	current
+T11	StateOfBeing	122	125	got
+T12	Harm	126	135	disrupted
+T13	NationalityOrigin	137	151	North American
+T14	NationalityOrigin	156	164	European
+T15	EcosystemsEnvironment	165	173	climates
+T16	ProbabilityAndCertainty	174	179	would
+T17	ChangeInto	180	186	become
+T18	WeatherDescriptions	187	194	rainier
+T19	Comparisons	187	194	rainier
+T20	Temperature	196	202	colder
+T21	Comparisons	196	202	colder
+T22	WeatherDescriptions	204	211	windier
+T23	Comparisons	204	211	windier
+T24	AmountComparison	213	217	more
+T25	Wetness	218	223	humid
+T26	WeatherDescriptions	218	223	humid

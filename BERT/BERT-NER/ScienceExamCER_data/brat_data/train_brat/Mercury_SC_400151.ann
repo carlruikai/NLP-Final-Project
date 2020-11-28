@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Mixtures	6	13	mixture
+T3	AbilityAvailability	14	17	can
+T4	StateOfBeing	18	20	be
+T5	Difficulty	21	27	easily
+T6	Separate	28	37	separated
+T7	Cause	38	40	by
+T8	CombineAdd	41	47	adding
+T9	PhasesOfWater	48	53	water
+T10	LiquidMatter	48	53	water
+T11	Move	58	65	pouring
+T12	PrepositionalDirections	69	76	through
+T13	FiltrationTool	79	92	coffee filter
+T14	NutritiveSubstancesForAnimalsOrPlants	94	99	sugar
+T15	GranularSolids	94	99	sugar
+T16	Minerals	104	108	salt
+T17	GranularSolids	104	108	salt
+T18	Minerals	104	108	salt
+T19	GranularSolids	104	108	salt
+T20	Soil	118	122	sand
+T21	GranularSolids	118	122	sand
+T22	NutritiveSubstancesForAnimalsOrPlants	123	128	sugar
+T23	GranularSolids	123	128	sugar
+T24	GranularSolids	133	144	baking soda
+T25	MetalSolids	145	157	iron filings
+T26	Soil	162	166	sand
+T27	GranularSolids	162	166	sand

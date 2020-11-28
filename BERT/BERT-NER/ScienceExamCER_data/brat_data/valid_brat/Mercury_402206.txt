@@ -1,0 +1,5 @@
+Traveling in opposite directions, buses A and B are passing each other at the relative speed of 25 km/h, while a passenger on bus A walks toward the back of the bus at the speed of 5 km/h. What is the velocity of the passenger on bus A relative to bus B?
+20 km/h in the direction of bus A
+20 km/h in the direction of bus B
+30 km/h in the direction of bus A
+30 km/h in the direction of bus B

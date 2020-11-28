@@ -1,0 +1,29 @@
+T1	RelativeTime	0	4	When
+T2	Human	7	13	person
+T3	StateOfBeing	14	16	is
+T4	Sickness	17	25	infected
+T5	Cause	26	30	with
+T6	TypesOfIllness	35	44	influenza
+T7	Sickness	45	50	virus
+T8	ImmuneSystem	56	69	immune system
+T9	Help	70	77	defends
+T10	HumanPart	82	86	body
+T11	Cause	87	94	through
+T12	CellProcesses	97	110	cell-mediated
+T13	ImmuneSystem	111	117	immune
+T14	Response	118	126	response
+T15	LevelOfInclusion	128	133	Which
+T16	PartsOfTheImmuneSystem	134	145	immune cell
+T17	StateOfBeing	146	148	is
+T18	Cause	149	160	responsible
+T19	Help	165	175	protecting
+T20	Preserve	165	175	protecting
+T21	HumanPart	180	184	body
+T22	RelativeDirection	185	189	from
+T23	TypesOfIllness	194	203	influenza
+T24	Sickness	204	209	virus
+T25	Sickness	210	219	infection
+T26	Cell	221	231	phagocytes
+T27	PartsOfEndocrineSystem	232	244	B lymphocyte
+T28	PartsOfEndocrineSystem	246	265	helper T lymphocyte
+T29	PartsOfEndocrineSystem	267	289	cytotoxic T lymphocyte

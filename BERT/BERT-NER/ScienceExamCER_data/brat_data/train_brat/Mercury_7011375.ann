@@ -1,0 +1,14 @@
+T1	Measurements	4	11	measure
+T2	Numbers	19	25	amount
+T3	Light	29	34	light
+T4	Uptake	35	43	received
+T5	RelativeLocations	44	46	on
+T6	InnerPlanets	47	52	Earth
+T7	Source	53	57	from
+T8	Star	60	64	star
+T9	StateOfBeing	65	67	is
+T10	Classify	68	73	known
+T11	CelestialMeasurements	77	85	parallax
+T12	CelestialMeasurements	87	95	redshift
+T13	CelestialMeasurements	97	115	absolute magnitude
+T14	CelestialMeasurements	117	135	apparent magnitude

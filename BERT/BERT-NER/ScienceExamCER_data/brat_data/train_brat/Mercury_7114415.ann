@@ -1,0 +1,32 @@
+T1	Source	0	9	According
+T2	FossilRecordTimeline	17	30	fossil record
+T3	TemporalProperty	36	41	first
+T4	ORDINAL	36	41	first
+T5	Mammal	42	48	horses
+T6	StateOfBeing	49	53	were
+T7	Size	54	61	smaller
+T8	Comparisons	62	66	than
+T9	RelativeTime	67	73	modern
+T10	Taxonomy	74	81	species
+T11	RelativeTime	83	93	Throughout
+T12	MarkersOfTime	94	98	time
+T13	Mammal	100	106	horses
+T14	Speed	112	121	gradually
+T15	Changes	122	129	changed
+T16	Result	130	132	to
+T17	ChangeInto	133	139	become
+T18	Quality	140	146	better
+T19	QualityComparison	140	146	better
+T20	ActionsForAnimals	147	154	hunters
+T21	Goal	156	167	in order to
+T22	LivingDying	168	179	re-populate
+T23	InnerPlanets	184	189	Earth
+T24	LOCATION	184	189	Earth
+T25	Result	191	193	in
+T26	Response	194	202	response
+T27	Alter	209	217	altering
+T28	EcosystemsEnvironment	218	229	environment
+T29	Result	231	233	to
+T30	ChangeInto	234	240	become
+T31	Quality	241	247	useful
+T32	Human	252	258	humans

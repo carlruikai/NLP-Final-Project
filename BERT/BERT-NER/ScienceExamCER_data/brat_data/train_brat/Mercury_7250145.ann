@@ -1,0 +1,10 @@
+T1	RelativeLocations	0	2	In
+T2	PlantPart	8	22	leaf structure
+T3	StateOfBeing	23	25	is
+T4	PlantPart	26	47	photosynthetic tissue
+T5	VerbsForLocate	48	53	found
+T6	PlantCellPart	55	62	cuticle
+T7	PlantPart	63	78	upper epidermis
+T8	PlantCellPart	79	88	mesophyll
+T9	PlantPart	79	88	mesophyll
+T10	PlantPart	89	104	vascular bundle

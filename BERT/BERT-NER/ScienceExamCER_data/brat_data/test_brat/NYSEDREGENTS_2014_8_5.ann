@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	4	Most
+T2	PartsOfEndocrineSystem	5	13	hormones
+T3	StateOfBeing	14	17	are
+T4	Create	18	26	produced
+T5	Cause	27	29	by
+T6	LevelOfInclusion	30	35	which
+T7	Human	36	41	human
+T8	AnimalSystemsProcesses	42	54	organ system
+T9	DigestiveSystem	56	65	digestive
+T10	EndocrineSystem	66	75	endocrine
+T11	RespiratorySystem	76	87	respiratory
+T12	NervousSystem	88	95	nervous

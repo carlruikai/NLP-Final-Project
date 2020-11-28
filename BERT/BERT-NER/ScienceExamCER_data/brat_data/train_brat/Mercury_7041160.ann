@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Energy	6	12	energy
+T3	NaturalResources	13	21	resource
+T4	StateOfBeing	22	24	is
+T5	Negations	25	28	non
+T6	Rarity	29	38	renewable
+T7	FossilFuel	40	43	oil
+T8	OtherEnergyResources	44	49	solar
+T9	OtherEnergyResources	50	55	water
+T10	PhasesOfWater	50	55	water
+T11	OtherEnergyResources	56	60	wind
+T12	WeatherPhenomena	56	60	wind

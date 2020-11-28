@@ -1,0 +1,40 @@
+T1	RelativeTime	0	6	During
+T2	RelativeTime	11	16	early
+T3	YearNumerals	17	22	1990s
+T4	Human	24	30	people
+T5	Start	31	36	began
+T6	Use	37	42	using
+T7	SystemOfCommunication	43	53	cell phone
+T8	Communicate	58	69	communicate
+T9	Create	75	86	development
+T10	SystemOfCommunication	94	104	cell phone
+T11	StateOfBeing	105	108	was
+T12	AmountComparison	109	113	most
+T13	ProbabilityAndCertainty	114	120	likely
+T14	Response	123	131	response
+T15	RelativeDirection	132	134	to
+T16	Require	139	143	need
+T17	GroupsOfOrganisms	147	154	society
+T18	StateOfBeing	158	160	be
+T19	AbilityAvailability	161	165	able
+T20	Communicate	169	180	communicate
+T21	RelativeTime	181	185	when
+T22	Sickness	186	190	sick
+T23	PoorHealth	186	190	sick
+T24	Create	192	199	provide
+T25	Safety	202	207	safer
+T26	Comparisons	202	207	safer
+T27	Method	208	214	method
+T28	Communicate	218	231	communicating
+T29	Create	233	240	provide
+T30	AmountComparison	241	245	more
+T31	Employment	246	250	jobs
+T32	RelativeLocations	251	253	in
+T33	SystemOfCommunication	258	271	communication
+T34	BusinessIndustry	272	280	industry
+T35	StateOfBeing	282	284	be
+T36	AbilityAvailability	285	289	able
+T37	Communicate	293	304	communicate
+T38	RelativeTime	305	309	when
+T39	RelativeLocations	310	319	away from
+T40	ManmadeLocations	320	324	home

@@ -1,0 +1,11 @@
+T1	StateOfBeing	5	7	is
+T2	Create	8	14	formed
+T3	RelativeTime	15	19	when
+T4	AtomicProperties	22	29	neutral
+T5	ElementalComponents	30	34	atom
+T6	AmountChangingActions	35	40	gains
+T7	AtomComponents	44	52	electron
+T8	Mixtures	56	63	mixture
+T9	Element	67	71	iron
+T10	ElementalComponents	74	82	molecule
+T11	MetalSolids	85	90	metal

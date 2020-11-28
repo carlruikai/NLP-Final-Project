@@ -1,0 +1,35 @@
+T1	ParticleMovement	0	7	Falling
+T2	ParticleMovement	12	18	rising
+T3	EarthPartsGrossGroundAtmosphere	19	22	air
+T4	PhasesOfWater	27	32	water
+T5	ElementalComponents	33	42	molecules
+T6	RelativeLocations	43	49	inside
+T7	WeatherPhenomena	53	59	clouds
+T8	StateOfBeing	60	63	are
+T9	Believe	64	72	believed
+T10	StateOfBeing	64	66	be
+T11	VariablesControls	79	86	factors
+T12	Cause	79	86	factors
+T13	RelativeLocations	87	89	in
+T14	Create	94	103	formation
+T15	WeatherPhenomena	107	116	lightning
+T16	LevelOfInclusion	118	123	Which
+T17	Exemplar	124	128	kind
+T18	TransferEnergy	132	147	energy transfer
+T19	StateOfBeing	148	150	is
+T20	Occur	151	163	taking place
+T21	Result	164	166	to
+T22	Cause	167	172	cause
+T23	WeatherPhenomena	178	196	weather phenomenon
+T24	ElectricalEnergy	198	208	electrical
+T25	RelativeDirection	209	211	to
+T26	ThermalEnergy	212	219	thermal
+T27	ThermalEnergy	212	219	thermal
+T28	RelativeDirection	228	230	to
+T29	Energy	231	241	mechanical
+T30	Energy	242	250	chemical
+T31	RelativeDirection	251	253	to
+T32	Energy	254	264	mechanical
+T33	Energy	254	264	mechanical
+T34	RelativeDirection	276	278	to
+T35	ElectricalEnergy	279	289	electrical

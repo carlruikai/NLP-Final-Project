@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	14	property
+T3	Minerals	20	27	mineral
+T4	AbilityAvailability	28	31	can
+T5	StateOfBeing	32	34	be
+T6	Identify	35	45	determined
+T7	Method	51	53	by
+T8	Observe	54	61	looking
+T9	PrepositionalDirections	62	64	at
+T10	MineralProperties	69	75	luster
+T11	VisualProperty	69	75	luster
+T12	Mass	76	80	mass
+T13	PhysicalProperty	81	87	weight
+T14	Mass	81	87	weight
+T15	Hardness	88	96	hardness
+T16	MineralProperties	88	96	hardness

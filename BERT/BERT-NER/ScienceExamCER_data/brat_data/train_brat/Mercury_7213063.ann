@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ObjectQuantification	6	11	layer
+T3	EarthPartsGrossGroundAtmosphere	19	29	atmosphere
+T4	LayersOfTheEarth	19	29	atmosphere
+T5	ContainBeComposedOf	30	38	contains
+T6	AmountComparison	43	51	greatest
+T7	Numbers	52	58	amount
+T8	PhasesOfWater	62	73	water vapor
+T9	LayersOfTheEarth	75	87	thermosphere
+T10	AtmosphericLayers	75	87	thermosphere
+T11	LayersOfTheEarth	88	98	mesosphere
+T12	AtmosphericLayers	88	98	mesosphere
+T13	LayersOfTheEarth	99	111	stratosphere
+T14	AtmosphericLayers	99	111	stratosphere
+T15	LayersOfTheEarth	112	123	troposphere
+T16	AtmosphericLayers	112	123	troposphere

@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Represent	23	30	defines
+T4	Indicate	23	30	defines
+T5	Compound	33	41	compound
+T6	Comparisons	43	52	different
+T7	Substances	53	63	substances
+T8	CombineAdd	64	69	mixed
+T9	Relations	70	78	together
+T10	ElementalComponents	79	84	atoms
+T11	ElementalComponents	89	98	molecules
+T12	CombineAdd	99	104	mixed
+T13	Relations	105	113	together
+T14	ElementalComponents	114	119	atoms
+T15	Comparisons	123	132	different
+T16	Element	133	141	elements
+T17	CombineAdd	142	150	combined
+T18	Relations	151	159	together
+T19	ElementalComponents	160	165	atoms
+T20	Comparisons	173	177	same
+T21	Element	178	185	element
+T22	CombineAdd	186	194	combined
+T23	Relations	195	203	together

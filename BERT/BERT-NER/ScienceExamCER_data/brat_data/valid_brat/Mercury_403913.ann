@@ -1,0 +1,18 @@
+T1	InnerPlanets	0	5	Earth
+T2	LOCATION	0	5	Earth
+T3	StateOfBeing	6	8	is
+T4	ContainBeComposedOf	9	13	made
+T5	Comparisons	17	26	different
+T6	ObjectQuantification	27	33	layers
+T7	ContainBeComposedOf	39	43	have
+T8	Comparisons	44	51	varying
+T9	Property	52	67	characteristics
+T10	LevelOfInclusion	69	74	Which
+T11	StateOfBeing	75	77	is
+T12	Size	82	90	thickest
+T13	Width	82	90	thickest
+T14	ObjectQuantification	91	96	layer
+T15	LayersOfTheEarth	102	108	mantle
+T16	LayersOfTheEarth	113	123	inner core
+T17	LayersOfTheEarth	128	138	outer core
+T18	LayersOfTheEarth	143	148	crust

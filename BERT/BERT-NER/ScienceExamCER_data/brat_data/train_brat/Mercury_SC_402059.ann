@@ -1,0 +1,37 @@
+T1	RelativeLocations	0	2	In
+T2	Experimentation	6	16	experiment
+T3	Scientists	20	29	scientist
+T4	Classify	30	35	named
+T5	Communicate	30	35	named
+T6	Scientists	36	42	Pavlov
+T7	ExamplesOfSounds	43	47	rang
+T8	Use	43	47	rang
+T9	SoundProducingObject	50	54	bell
+T10	RelativeTime	55	61	before
+T11	ActionsForNutrition	65	68	fed
+T12	Mammal	73	77	dogs
+T13	LevelOfInclusion	79	84	which
+T14	Cause	85	89	made
+T15	Mammal	94	98	dogs
+T16	ActionsForAnimals	99	104	drool
+T17	RelativeTime	106	110	Soon
+T18	Mammal	115	119	dogs
+T19	ProbabilityAndCertainty	120	125	would
+T20	ActionsForAnimals	126	131	drool
+T21	RelativeTime	132	136	when
+T22	Senses	142	147	heard
+T23	SoundProducingObject	152	156	bell
+T24	LevelOfInclusion	158	162	even
+T25	Negations	175	178	not
+T26	Uptake	179	186	receive
+T27	LevelOfInclusion	187	190	any
+T28	Nutrition	191	195	food
+T29	Exemplar	202	206	type
+T30	Response	210	218	response
+T31	Mammal	227	231	dogs
+T32	Event	232	239	exhibit
+T33	InheritedBehavior	244	252	instinct
+T34	Inheritance	256	265	inherited
+T35	Property	266	271	trait
+T36	LearnedBehavior	274	290	learned behavior
+T37	Behaviors	293	311	conscious behavior

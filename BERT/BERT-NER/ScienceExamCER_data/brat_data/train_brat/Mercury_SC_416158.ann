@@ -1,0 +1,29 @@
+T1	StateOfBeing	5	8	are
+T2	CardinalNumber	13	16	two
+T3	NUMBER	13	16	two
+T4	ImportanceComparison	17	21	main
+T5	SystemAndFunctions	22	26	jobs
+T6	SkeletalSystem	34	49	skeletal system
+T7	Help	51	58	support
+T8	Help	63	70	protect
+T9	Preserve	63	70	protect
+T10	AnimalPart	75	79	body
+T11	DigestionActions	80	86	digest
+T12	Nutrition	87	91	food
+T13	Transportation	96	101	carry
+T14	Communicate	102	110	messages
+T15	AnimalPart	119	123	body
+T16	StopRemove	124	134	get rid of
+T17	Toxins	135	141	wastes
+T18	Help	146	152	defend
+T19	AnimalPart	157	161	body
+T20	RelativeDirection	162	166	from
+T21	Sickness	167	174	disease
+T22	SensoryTerms	175	180	sense
+T23	Changes	181	188	changes
+T24	RelativeLocations	189	191	in
+T25	EcosystemsEnvironment	196	207	environment
+T26	Transportation	212	217	carry
+T27	Nutrition	218	222	food
+T28	PrepositionalDirections	223	230	through
+T29	AnimalPart	235	239	body

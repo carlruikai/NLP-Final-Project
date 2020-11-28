@@ -1,0 +1,5 @@
+A device that converts light energy into electricity used in many handheld calculators is a
+battery.
+photocell.
+photo generator.
+photovoltaic cell.

@@ -1,0 +1,5 @@
+The gravitational force between two objects depends on the distance between the objects and each object's
+mass
+volume
+pressure
+temperature

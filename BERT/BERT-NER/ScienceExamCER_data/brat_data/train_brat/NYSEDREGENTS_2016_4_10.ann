@@ -1,0 +1,20 @@
+T1	RelativeNumber	0	4	Some
+T2	Bird	5	10	birds
+T3	LivingDying	11	15	live
+T4	RelativeLocations	16	18	in
+T5	ExamplesOfHabitats	21	27	forest
+T6	RelativeNumber	32	36	many
+T7	Plant	44	49	trees
+T8	RelativeLocations	50	52	in
+T9	ExamplesOfHabitats	57	63	forest
+T10	StateOfBeing	64	67	are
+T11	Harm	68	76	cut down
+T12	Habitat	82	89	shelter
+T13	Bird	98	103	birds
+T14	ProbabilityAndCertainty	104	108	will
+T15	AmountChangingActions	109	117	decrease
+T16	IncreaseDecrease	109	117	decrease
+T17	AmountChangingActions	118	126	increase
+T18	IncreaseDecrease	118	126	increase
+T19	WaitStay	127	133	remain
+T20	Comparisons	138	142	same

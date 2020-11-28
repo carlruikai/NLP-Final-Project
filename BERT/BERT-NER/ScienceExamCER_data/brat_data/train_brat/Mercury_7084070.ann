@@ -1,0 +1,42 @@
+T1	LevelOfInclusion	0	13	The following
+T2	ResponseType	14	24	statements
+T3	StateOfBeing	25	28	are
+T4	RelativeDirection	29	33	from
+T5	WrittenMedia	37	44	article
+T6	RelativeLocations	45	47	in
+T7	PhysicalActivity	50	57	fitness
+T8	SystemOfCommunication	58	66	magazine
+T9	WrittenMedia	58	66	magazine
+T10	LevelOfInclusion	68	73	Which
+T11	LevelOfInclusion	77	82	these
+T12	StateOfBeing	83	85	is
+T13	ResponseType	89	96	opinion
+T14	PhysicalActivity	98	106	Exercise
+T15	AmountChangingActions	107	116	increases
+T16	IncreaseDecrease	107	116	increases
+T17	PartsOfTheMuscularSystem	117	123	muscle
+T18	Mass	124	128	mass
+T19	Frequency	130	137	Regular
+T20	PhysicalActivity	138	146	exercise
+T21	AmountChangingActions	147	154	reduces
+T22	WaitStay	155	162	resting
+T23	Position	155	162	resting
+T24	PartsOfTheCirculatorySystem	163	168	heart
+T25	PartsOfEndocrineSystem	163	168	heart
+T26	MeasuringSpeed	169	173	rate
+T27	Human	175	181	People
+T28	Require	182	188	should
+T29	PhysicalActivity	189	197	exercise
+T30	Cause	198	205	because
+T31	Cause	209	214	makes
+T32	SensoryTerms	220	224	feel
+T33	Quality	225	231	better
+T34	QualityComparison	225	231	better
+T35	LevelOfInclusion	233	238	Those
+T36	PhysicalActivity	243	251	exercise
+T37	Frequency	252	261	regularly
+T38	AbilityAvailability	262	265	can
+T39	AmountChangingActions	266	274	increase
+T40	IncreaseDecrease	266	274	increase
+T41	RelativeTime	281	290	life span
+T42	LivingDying	281	290	life span

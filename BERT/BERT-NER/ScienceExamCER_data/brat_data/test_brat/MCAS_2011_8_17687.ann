@@ -1,0 +1,41 @@
+T1	BusinessIndustry	2	14	movie studio
+T2	ProbabilityAndCertainty	15	19	will
+T3	Use	20	23	use
+T4	CardinalNumber	24	27	two
+T5	NUMBER	24	27	two
+T6	Method	28	35	methods
+T7	Communicate	39	52	communication
+T8	ElectricAppliance	54	64	television
+T9	SystemOfCommunication	54	64	television
+T10	SystemOfCommunication	73	81	Internet
+T11	TechnologicalInstrument	73	81	Internet
+T12	RelativeDirection	83	85	to
+T13	Advertising	86	95	advertise
+T14	Age	98	101	new
+T15	PopularMedia	102	107	movie
+T16	LevelOfInclusion	109	114	Which
+T17	LevelOfInclusion	118	131	the following
+T18	Require	132	136	must
+T19	LevelOfInclusion	137	141	both
+T20	Method	142	149	methods
+T21	Communicate	153	166	communication
+T22	Use	167	170	use
+T23	Result	171	182	in order to
+T24	Indicate	183	187	show
+T25	Advertising	192	206	advertisements
+T26	RelativeDirection	207	209	to
+T27	Audiences	210	217	viewers
+T28	PrepositionalDirections	218	224	around
+T29	TerrestrialLocations	225	234	the world
+T30	SystemAndFunctions	236	243	systems
+T31	VerbsForLocate	247	253	locate
+T32	Audiences	254	261	viewers
+T33	SystemAndFunctions	262	270	networks
+T34	Release	274	282	transmit
+T35	EnergyWaves	283	290	signals
+T36	PerformAnActivity	291	299	printing
+T37	Create	303	309	create
+T38	Representation	314	320	images
+T39	ComputingDevice	321	329	software
+T40	Identify	333	339	search
+T41	Representation	344	350	images

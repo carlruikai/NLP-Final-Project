@@ -1,0 +1,14 @@
+T1	GroupsOfScientists	0	10	Scientists
+T2	AbilityAvailability	11	14	can
+T3	Identify	15	23	identify
+T4	Element	27	34	element
+T5	Method	35	37	by
+T6	Observe	38	45	looking
+T7	PrepositionalDirections	46	48	at
+T8	PhysicalProperty	53	62	structure
+T9	Pattern	53	62	structure
+T10	RelativeNumber	68	74	single
+T11	ElementalComponents	75	79	atom
+T12	AtomComponents	81	88	neutron
+T13	ElementalComponents	90	98	molecule
+T14	AtomComponents	100	108	electron

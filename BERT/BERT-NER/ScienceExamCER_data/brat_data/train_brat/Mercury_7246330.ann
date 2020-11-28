@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Communicate	15	23	explains
+T4	Method	24	27	how
+T5	GeographicFormations	30	36	trench
+T6	AbilityAvailability	37	40	can
+T7	Create	41	45	form
+T8	CardinalNumber	47	50	two
+T9	NUMBER	47	50	two
+T10	TectonicPlates	51	64	oceanic plate
+T11	ChangeInLocation	66	74	convergi
+T12	Touch	66	76	converging
+T13	CardinalNumber	77	80	two
+T14	NUMBER	77	80	two
+T15	TectonicPlates	81	98	continental plate
+T16	Touch	100	110	converging
+T17	ChangeInLocation	100	108	convergi
+T18	CardinalNumber	111	114	two
+T19	NUMBER	111	114	two
+T20	TectonicPlates	115	132	continental plate
+T21	ChangeInLocation	134	143	diverging
+T22	Separate	134	143	diverging
+T23	CardinalNumber	144	147	two
+T24	NUMBER	144	147	two
+T25	TectonicPlates	148	161	oceanic plate
+T26	ChangeInLocation	163	172	diverging
+T27	Separate	163	172	diverging

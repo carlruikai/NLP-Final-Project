@@ -1,0 +1,43 @@
+T1	OtherEnergyResources	0	7	Ethanol
+T2	OrganicCompounds	0	7	Ethanol
+T3	StateOfBeing	8	10	is
+T4	OtherEnergyResources	14	30	alternative fuel
+T5	Create	31	35	made
+T6	Source	36	40	from
+T7	Plant	41	45	corn
+T8	StateOfBeing	52	54	is
+T9	CardinalNumber	55	58	one
+T10	NUMBER	55	58	one
+T11	Quality	66	77	unfavorable
+T12	Result	78	85	effects
+T13	Use	89	94	using
+T14	OtherEnergyResources	95	102	ethanol
+T15	OrganicCompounds	95	102	ethanol
+T16	StateOfBeing	103	105	as
+T17	NaturalResources	108	112	fuel
+T18	AmountChangingActions	114	123	decreased
+T19	IncreaseDecrease	114	123	decreased
+T20	Cost	124	128	cost
+T21	NaturalResources	132	136	fuel
+T22	Create	137	144	product
+T23	PropertyOfProduction	137	144	product
+T24	AmountChangingActions	148	156	decrease
+T25	IncreaseDecrease	148	156	decrease
+T26	Agriculture	160	169	farm land
+T27	ManmadeLocations	160	169	farm land
+T28	AbilityAvailability	170	179	available
+T29	Nutrition	184	188	food
+T30	PropertyOfProduction	189	196	product
+T31	Create	189	196	product
+T32	AmountChangingActions	200	208	increase
+T33	IncreaseDecrease	200	208	increase
+T34	ChangesToResources	216	227	consumption
+T35	Use	216	227	consumption
+T36	FossilFuel	231	242	fossil fuel
+T37	AmountChangingActions	244	253	increased
+T38	IncreaseDecrease	244	253	increased
+T39	EnvironmentalDamageDestruction	254	270	carbon footprint
+T40	Cause	271	275	from
+T41	Use	276	283	driving
+T42	Transportation	276	283	driving
+T43	LandVehicle	284	295	automobiles

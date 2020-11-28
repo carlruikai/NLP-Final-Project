@@ -1,0 +1,16 @@
+T1	Exemplar	5	9	form
+T2	Energy	13	19	energy
+T3	StateOfBeing	20	22	is
+T4	StateOfBeing	23	28	being
+T5	Use	29	33	used
+T6	RelativeTime	34	38	when
+T7	Human	41	47	person
+T8	PushingActions	48	54	pushes
+T9	NaturalMaterial	57	63	wooden
+T10	ObjectQuantification	64	69	block
+T11	PrepositionalDirections	70	76	across
+T12	PartsOfABuilding	81	86	floor
+T13	Energy	88	98	mechanical
+T14	MagneticEnergy	99	107	magnetic
+T15	SoundEnergy	108	113	sound
+T16	ElectricalEnergy	114	124	electrical

@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Event	23	29	events
+T4	RelativeTime	30	36	during
+T5	CellProcesses	37	44	meiosis
+T6	Help	45	56	contributes
+T7	Cause	45	56	contributes
+T8	AmountComparison	57	61	most
+T9	RelativeDirection	62	64	to
+T10	GeneticProperty	69	78	variation
+T11	RelativeLocations	79	85	within
+T12	Taxonomy	88	95	species
+T13	GeneticProcesses	97	104	pairing
+T14	CellsAndGenetics	108	119	chromosomes
+T15	Genetics	108	119	chromosomes
+T16	Create	120	128	creation
+T17	CellsAndGenetics	132	147	haploid gametes
+T18	Divide	148	159	segregation
+T19	Genetics	163	170	alleles
+T20	Separate	171	181	separation
+T21	Genetics	185	195	chromatids
+T22	PartsOfAChromosome	185	195	chromatids

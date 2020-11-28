@@ -1,0 +1,5 @@
+Which energy type is common enough in Nevada to make a significant contribution to the renewable energy needs of the state?
+coal
+geothermal
+natural gas
+petroleum

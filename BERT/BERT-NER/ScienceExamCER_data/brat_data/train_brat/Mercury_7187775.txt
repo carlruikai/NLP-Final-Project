@@ -1,0 +1,5 @@
+Franklin wants to know how fast he runs different distances. He uses a stopwatch to measure the time it takes him to complete a 50-meter, 100-meter, and 200-meter race. How can he calculate his speed for each race?
+Add the distances and the times.
+Divide the distances by the times.
+Multiply the distances by the times.
+Subtract the distances from the times.

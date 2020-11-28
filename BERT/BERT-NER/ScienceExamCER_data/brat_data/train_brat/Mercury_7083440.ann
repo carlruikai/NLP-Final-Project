@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	AnimalSystemsProcesses	6	17	body system
+T3	StateOfBeing	18	20	is
+T4	AmountComparison	21	25	most
+T5	Alter	26	34	affected
+T6	Cause	35	37	by
+T7	Sickness	40	47	disease
+T8	Cause	53	59	causes
+T9	AnimalPart	64	69	bones
+T10	PartsOfTheSkeletalSystem	64	69	bones
+T11	StateOfBeing	73	79	become
+T12	ResistanceStrength	80	84	weak
+T13	Rigidity	89	96	brittle
+T14	Hardness	89	96	brittle
+T15	ExcretorySystem	98	107	excretory
+T16	MuscularSystem	108	116	muscular
+T17	SkeletalSystem	117	125	skeletal
+T18	NervousSystem	126	133	nervous

@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	3	All
+T2	LivingThing	4	13	organisms
+T3	ContainBeComposedOf	14	21	contain
+T4	Genetics	22	25	DNA
+T5	Genetics	30	33	RNA
+T6	StateOfBeing	40	43	are
+T7	SystemParts	48	56	subunits
+T8	Genetics	60	63	DNA
+T9	Genetics	68	71	RNA
+T10	Complexity	73	79	simple
+T11	NutritiveSubstancesForAnimalsOrPlants	80	86	sugars
+T12	Genetics	87	98	amino acids
+T13	PartsOfDNA	87	98	amino acids
+T14	NutritiveSubstancesForAnimalsOrPlants	99	112	carbohydrates
+T15	PartsOfDNA	113	124	nucleotides
+T16	PartsOfRNA	113	124	nucleotides

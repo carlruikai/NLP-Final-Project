@@ -1,0 +1,33 @@
+T1	OrganicProcesses	0	14	Life processes
+T2	Require	15	22	require
+T3	Energy	23	29	energy
+T4	ChemicalProperty	31	42	Biochemical
+T5	OrganicProcesses	43	52	processes
+T6	Require	53	60	involve
+T7	Rarity	61	69	specific
+T8	Reactions	70	79	reactions
+T9	LevelOfInclusion	81	86	Which
+T10	StateOfBeing	87	89	is
+T11	Property	92	106	characteristic
+T12	ChemicalProperty	110	121	biochemical
+T13	OrganicProcesses	122	131	processes
+T14	Rarity	132	138	common
+T15	LevelOfInclusion	142	145	all
+T16	Animal	146	153	animals
+T17	PerformAnActivity	155	163	function
+T18	StateOfBeing	164	166	at
+T19	LevelOfInclusion	167	170	any
+T20	AcidityUnit	171	173	pH
+T21	PH	171	173	pH
+T22	AmountComparison	174	179	level
+T23	ThermalEnergy	180	184	heat
+T24	Release	185	193	released
+T25	StateOfBeing	189	191	as
+T26	PartsOfChemicalReactions	199	206	product
+T27	Use	207	210	use
+T28	LevelOfInclusion	211	215	only
+T29	CellProcesses	216	237	anaerobic respiration
+T30	Numbers	238	244	amount
+T31	Energy	248	254	energy
+T32	AbsorbEnergy	255	263	absorbed
+T33	CombineAdd	255	263	absorbed

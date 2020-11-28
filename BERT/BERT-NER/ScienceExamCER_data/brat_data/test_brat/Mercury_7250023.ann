@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	3	All
+T2	Cell	4	9	cells
+T3	Cell	11	22	prokaryotic
+T4	Monera	11	22	prokaryotic
+T5	Cell	27	37	eukaryotic
+T6	Eukaryote	27	37	eukaryotic
+T7	ContainBeComposedOf	39	43	have
+T8	RelativeNumber	44	49	a few
+T9	Comparisons	50	56	common
+T10	Property	57	65	features
+T11	LevelOfInclusion	67	72	Which
+T12	Cell	73	77	cell
+T13	Property	78	85	feature
+T14	StateOfBeing	86	88	is
+T15	VerbsForLocate	89	94	found
+T16	RelativeLocations	95	97	in
+T17	LevelOfInclusion	98	102	both
+T18	Cell	103	114	prokaryotic
+T19	Monera	103	114	prokaryotic
+T20	Cell	119	134	eukaryotic cell
+T21	Eukaryote	119	129	eukaryotic
+T22	AnimalCellPart	137	145	ribosome
+T23	PlantCellPart	137	145	ribosome
+T24	BacteriaPart	137	145	ribosome
+T25	PlantPart	146	166	chloroplast membrane
+T26	AnimalCellPart	167	174	nucleus
+T27	PlantCellPart	167	174	nucleus
+T28	AnimalCellPart	175	196	endoplasmic reticulum
+T29	PlantCellPart	175	196	endoplasmic reticulum

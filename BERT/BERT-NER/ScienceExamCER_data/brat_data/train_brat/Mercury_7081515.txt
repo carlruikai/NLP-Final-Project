@@ -1,0 +1,5 @@
+The number of squirrels in a certain ecosystem changes over time. These changes can be represented as a number of connected data points. Which method would a student most likely use to show this information?
+pie chart
+line graph
+pictogram
+data table

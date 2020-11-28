@@ -1,0 +1,18 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	Taxonomy	9	24	taxonomic group
+T4	StateOfBeing	25	28	are
+T5	LivingThing	29	38	organisms
+T6	VerbsForLocate	39	44	found
+T7	ContainBeComposedOf	50	55	share
+T8	Property	60	74	characteristic
+T9	Preserve	78	85	storing
+T10	Genetics	86	105	hereditary material
+T11	RelativeLocations	106	108	in
+T12	RelativeNumber	111	117	single
+T13	ObjectQuantification	118	122	loop
+T14	Genetics	126	129	DNA
+T15	Bacteria	131	139	bacteria
+T16	Fungi	140	145	fungi
+T17	Plant	146	152	plants
+T18	Animal	153	160	animals

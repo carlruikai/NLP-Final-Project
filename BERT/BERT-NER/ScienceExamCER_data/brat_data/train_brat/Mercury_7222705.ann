@@ -1,0 +1,35 @@
+T1	LevelOfInclusion	0	7	Certain
+T2	Fossils	8	15	fossils
+T3	AbilityAvailability	16	19	can
+T4	StateOfBeing	20	22	be
+T5	Use	23	27	used
+T6	Result	28	30	to
+T7	Help	31	35	help
+T8	Identify	36	45	determine
+T9	Age	50	53	age
+T10	Rock	61	65	rock
+T11	ObjectQuantification	66	71	layer
+T12	RelativeLocations	72	74	in
+T13	LevelOfInclusion	75	80	which
+T14	OtherOrganismProperties	85	92	fossils
+T15	Fossils	85	92	fossils
+T16	StateOfBeing	93	96	are
+T17	VerbsForLocate	97	102	found
+T18	LevelOfInclusion	104	109	Which
+T19	Exemplar	110	114	type
+T20	Fossils	118	124	fossil
+T21	StateOfBeing	125	127	is
+T22	Quality	128	132	best
+T23	QualityComparison	128	132	best
+T24	Use	136	139	use
+T25	RelativeTime	140	144	when
+T26	Create	145	151	making
+T27	AnalyzingResearch	157	170	determination
+T28	Identify	157	170	determination
+T29	Mammal	172	185	marine mammal
+T30	Fossils	186	192	fossil
+T31	BodiesOfWater	193	198	swamp
+T32	SeedlessVascular	199	203	fern
+T33	Fossils	204	210	fossil
+T34	TraceFossil	211	223	trace fossil
+T35	FossilTypesIndexFossil	224	236	index fossil

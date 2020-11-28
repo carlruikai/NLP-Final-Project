@@ -1,0 +1,31 @@
+T1	PropertyOfMotion	4	10	motion
+T2	CelestialMovement	4	10	motion
+T3	InnerPlanets	14	19	Earth
+T4	StateOfBeing	20	22	is
+T5	Cause	23	34	responsible
+T6	RelativeNumber	39	46	several
+T7	CelestialEvents	47	62	celestial event
+T8	LevelOfInclusion	65	70	Which
+T9	LevelOfInclusion	74	87	the following
+T10	Event	88	94	events
+T11	StateOfBeing	95	97	is
+T12	Cause	98	104	caused
+T13	InnerPlanets	108	113	Earth
+T14	CelestialMovement	114	123	revolving
+T15	PrepositionalDirections	124	130	around
+T16	Star	135	138	sun
+T17	TimeUnit	144	148	days
+T18	RelativeLocations	149	151	in
+T19	TimeUnit	154	158	year
+T20	Year	154	158	year
+T21	TimeUnit	163	168	hours
+T22	RelativeLocations	169	171	in
+T23	TimeUnit	174	177	day
+T24	Changes	182	189	changes
+T25	RelativeLocations	190	192	in
+T26	EarthPartsGrossGroundAtmosphere	197	207	atmosphere
+T27	InnerPlanets	211	216	Earth
+T28	Position	221	229	position
+T29	Constellation	237	251	constellations
+T30	RelativeLocations	252	254	in
+T31	TheUniverseUniverseAndItsParts	255	260	space

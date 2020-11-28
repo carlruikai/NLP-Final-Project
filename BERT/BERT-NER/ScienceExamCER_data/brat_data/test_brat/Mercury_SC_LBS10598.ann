@@ -1,0 +1,18 @@
+T1	PhasesOfWater	3	6	ice
+T2	SolidMatter	3	6	ice
+T3	GeometricSpatialObjects	7	11	cube
+T4	PhaseChangingActions	12	17	melts
+T5	RelativeTime	22	26	then
+T6	PhaseChangingActions	27	37	evaporates
+T7	PhasesOfWater	43	46	ice
+T8	SolidMatter	43	46	ice
+T9	GeometricSpatialObjects	47	51	cube
+T10	PhasesOfWater	60	71	water vapor
+T11	GaseousMatter	66	71	vapor
+T12	ContainBeComposedOf	72	76	have
+T13	Comparisons	81	85	same
+T14	Mass	86	90	mass
+T15	PhysicalProperty	92	99	density
+T16	PhysicalProperty	101	107	volume
+T17	Size	101	107	volume
+T18	Temperature	109	120	temperature

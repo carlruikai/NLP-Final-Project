@@ -1,0 +1,28 @@
+T1	QualityComparison	5	14	advantage
+T2	StateOfBeing	15	17	is
+T3	AmountChangingActions	18	24	gained
+T4	Cause	25	27	by
+T5	Use	28	33	using
+T6	ObservationInstrumentsTelescopeBinoculars	34	49	radio telescope
+T7	Comparisons	51	64	as opposed to
+T8	ViewingTools	65	82	optical telescope
+T9	ObservationInstrumentsTelescopeBinoculars	65	83	optical telescopes
+T10	Observe	85	91	viewed
+T11	Representation	92	98	images
+T12	StateOfBeing	99	102	are
+T13	VisualProperty	103	110	clearer
+T14	Use	111	120	operation
+T15	StateOfBeing	121	123	is
+T16	AmountComparison	124	128	less
+T17	Complexity	129	136	complex
+T18	Ability	137	144	ability
+T19	Observe	148	151	see
+T20	PrepositionalDirections	152	159	through
+T21	WeatherPhenomena	160	166	clouds
+T22	Particles	171	175	dust
+T23	GranularSolids	171	175	dust
+T24	Ability	176	183	ability
+T25	Require	187	191	take
+T26	RelativeNumber	195	199	less
+T27	AmountComparison	195	199	less
+T28	RelativeLocations	200	205	space

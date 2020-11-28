@@ -1,0 +1,42 @@
+T1	TypeOfConsumer	0	10	Herbivores
+T2	Evolution	16	23	evolved
+T3	RelativeLocations	24	26	on
+T4	OtherDescriptionsForPlantsBiennialLeafyEtc	27	33	grassy
+T5	TypesOfTerrestrialEcosystems	34	40	plains
+T6	StateOfBeing	41	44	are
+T7	ProbabilityAndCertainty	45	51	likely
+T8	OrganicProcesses	55	64	naturally
+T9	Choose	65	71	select
+T10	Property	76	82	traits
+T11	Comparisons	83	92	different
+T12	Comparisons	93	97	than
+T13	TypeOfConsumer	98	108	herbivores
+T14	Evolution	114	121	evolved
+T15	RelativeLocations	122	124	in
+T16	Forests	125	137	rain forests
+T17	LevelOfInclusion	139	144	Which
+T18	Property	145	150	trait
+T19	StateOfBeing	151	153	is
+T20	TypesOfTerrestrialEcosystems	156	162	plains
+T21	TypeOfConsumer	163	172	herbivore
+T22	AmountComparison	173	177	most
+T23	ProbabilityAndCertainty	178	184	likely
+T24	Development	188	195	develop
+T25	RelativeTime	196	200	over
+T26	ArithmeticMeasure	201	210	thousands
+T27	TimeUnit	214	219	years
+T28	Year	214	219	years
+T29	Length	221	225	long
+T30	AnimalPart	226	230	legs
+T31	ActionsForAnimals	235	242	running
+T32	Move	235	242	running
+T33	Texture	243	248	sharp
+T34	AnimalPart	249	254	claws
+T35	ActionsForAnimals	259	267	climbing
+T36	StructuralAdaptation	268	279	webbed feet
+T37	ActionsForAnimals	284	292	swimming
+T38	StructuralAdaptation	293	308	prehensile tail
+T39	ActionsForAnimals	313	320	hanging
+T40	Position	313	320	hanging
+T41	RelativeDirection	321	325	from
+T42	Plant	326	331	trees

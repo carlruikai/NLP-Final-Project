@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PlantPart	6	10	part
+T3	Plant	16	21	plant
+T4	StateOfBeing	22	24	is
+T5	Use	25	29	used
+T6	Result	30	32	to
+T7	AbsorbEnergy	33	39	absorb
+T8	CombineAdd	33	39	absorb
+T9	CelestialLightOnEarth	40	48	sunlight
+T10	RelativeTime	49	55	during
+T11	CellProcesses	56	70	photosynthesis
+T12	PlantProcesses	56	70	photosynthesis
+T13	PlantPart	72	76	leaf
+T14	PlantPart	77	81	root
+T15	PlantPart	82	86	seed
+T16	PlantPart	87	93	flower

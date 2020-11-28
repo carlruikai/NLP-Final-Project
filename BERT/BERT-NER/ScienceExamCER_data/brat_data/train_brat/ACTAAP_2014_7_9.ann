@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Method	6	12	method
+T3	AbilityAvailability	13	18	could
+T4	StateOfBeing	19	21	be
+T5	Use	22	26	used
+T6	Goal	27	29	to
+T7	Separate	30	38	separate
+T8	Mixtures	41	49	solution
+T9	GranularSolids	53	63	table salt
+T10	PhasesOfWater	68	73	water
+T11	LiquidMatter	68	73	water
+T12	Mixtures	75	81	mixing
+T13	Separate	82	90	settling
+T14	SeparatingMixtures	91	101	filtration
+T15	SeparatingMixtures	102	113	evaporation
+T16	PhaseChangingActions	102	113	evaporation

@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	AnimalSystemsProcesses	6	12	system
+T3	Help	13	21	supports
+T4	AnimalPart	26	30	body
+T5	Help	32	40	protects
+T6	Preserve	32	40	protects
+T7	RelativeLocations	41	49	internal
+T8	AnimalPart	50	56	organs
+T9	Create	62	67	makes
+T10	Blood	68	73	blood
+T11	Cell	74	79	cells
+T12	MuscularSystem	81	96	muscular system
+T13	CirculatorySystem	97	115	circulatory system
+T14	NervousSystem	116	130	nervous system
+T15	SkeletalSystem	131	146	skeletal system

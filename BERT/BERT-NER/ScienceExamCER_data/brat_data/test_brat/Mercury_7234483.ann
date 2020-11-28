@@ -1,0 +1,33 @@
+T1	Currents	4	11	current
+T2	DATE	4	11	current
+T3	ImportanceComparison	13	21	dominant
+T4	ScientificTheoryExperimentationAndHistory	22	28	theory
+T5	Source	36	42	origin
+T6	LivingThing	46	50	life
+T7	RelativeLocations	51	53	on
+T8	InnerPlanets	54	59	Earth
+T9	LOCATION	54	59	Earth
+T10	Require	60	70	depends on
+T11	DigestiveSubstances	71	90	prebiotic substance
+T12	Development	97	106	developed
+T13	LevelOfInclusion	107	112	which
+T14	Property	113	121	property
+T15	TemporalProperty	122	127	first
+T16	ORDINAL	122	127	first
+T17	Stability	129	135	stable
+T18	Separate	136	146	separation
+T19	RelativeDirection	147	151	from
+T20	EcosystemsEnvironment	158	169	environment
+T21	Create	170	178	assembly
+T22	ChangeInto	179	183	into
+T23	Preserve	184	200	self-replicating
+T24	SystemParts	201	211	structures
+T25	Preserve	212	219	storage
+T26	Property	223	229	traits
+T27	RelativeLocations	230	232	in
+T28	ChemicalProperty	233	251	chemically encoded
+T29	PhysicalProperty	252	256	form
+T30	Collect	257	269	accumulation
+T31	Energy	273	279	energy
+T32	Preserve	280	287	storing
+T33	ElementalComponents	288	297	molecules

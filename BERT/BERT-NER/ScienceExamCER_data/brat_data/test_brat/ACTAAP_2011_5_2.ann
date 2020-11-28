@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	13	process
+T3	Use	14	18	uses
+T4	PlantNutrients	19	25	carbon
+T5	Element	19	25	carbon
+T6	RelativeDirection	26	30	from
+T7	EarthPartsGrossGroundAtmosphere	35	38	air
+T8	Result	39	41	to
+T9	Create	42	46	make
+T10	Nutrition	47	51	food
+T11	Plant	56	62	plants
+T12	Growth	64	70	growth
+T13	RespirationActions	71	82	respiration
+T14	TypesOfChemicalReactions	83	96	decomposition
+T15	CellProcesses	97	111	photosynthesis
+T16	PlantProcesses	97	111	photosynthesis

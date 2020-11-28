@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	3	All
+T2	LevelOfInclusion	7	12	these
+T3	StateOfBeing	13	16	are
+T4	Method	17	21	ways
+T5	WaitStay	25	29	stay
+T6	Safety	30	34	safe
+T7	RelativeLocations	35	41	around
+T8	ElectricalEnergy	42	53	electricity
+T9	Negations	54	60	except
+T10	WaitStay	61	68	staying
+T11	PrepositionalDirections	69	78	away from
+T12	TechnologicalComponent	79	90	power lines
+T13	Use	92	97	using
+T14	ClothesTextiles	98	103	cords
+T15	Quality	107	111	good
+T16	StateOfBeing	112	121	condition
+T17	MechanicalMovement	123	131	plugging
+T18	CombineAdd	123	131	plugging
+T19	RelativeNumber	132	136	many
+T20	Appliance	137	147	appliances
+T21	RelativeDirection	148	152	into
+T22	CardinalNumber	153	156	one
+T23	NUMBER	153	156	one
+T24	Device	157	163	outlet
+T25	WaitStay	165	172	keeping
+T26	ElectricalEnergy	173	184	electricity
+T27	PrepositionalDirections	185	194	away from
+T28	PhasesOfWater	195	200	water
+T29	LiquidMatter	195	200	water

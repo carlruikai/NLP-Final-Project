@@ -1,0 +1,30 @@
+T1	ClothesTextiles	2	6	shoe
+T2	Create	7	19	manufacturer
+T3	BusinessIndustry	7	19	manufacturer
+T4	Frequency	20	28	randomly
+T5	Choose	29	36	selects
+T6	PERCENT	37	40	10%
+T7	CardinalNumber	37	39	10
+T8	Products	48	58	production
+T9	RelativeDirection	59	63	from
+T10	LevelOfInclusion	64	68	each
+T11	RelativeTime	69	74	shift
+T12	LevelOfInclusion	76	80	Each
+T13	LevelOfInclusion	84	89	these
+T14	ClothesTextiles	90	95	shoes
+T15	StateOfBeing	96	98	is
+T16	Examine	99	106	checked
+T17	Verify	99	106	checked
+T18	Verify	110	116	ensure
+T19	StateOfBeing	125	127	is
+T20	Quality	128	137	correctly
+T21	ProbabilityAndCertainty	128	137	correctly
+T22	Create	138	142	made
+T23	StateOfBeing	149	151	is
+T24	Event	157	164	process
+T25	Classify	165	171	called
+T26	Communicate	165	171	called
+T27	PartsOfABusiness	173	188	quality control
+T28	PartsOfABusiness	189	209	product distribution
+T29	PartsOfABusiness	210	230	production selection
+T30	PartsOfABusiness	231	255	research and development

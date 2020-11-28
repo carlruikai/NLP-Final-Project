@@ -1,0 +1,30 @@
+T1	ManmadeLocations	2	12	greenhouse
+T2	StateOfBeing	13	15	is
+T3	Use	16	20	used
+T4	StateOfBeing	21	23	as
+T5	Representation	26	31	model
+T6	EarthPartsGrossGroundAtmosphere	39	49	atmosphere
+T7	LevelOfInclusion	51	56	Which
+T8	LevelOfInclusion	60	73	the following
+T9	AbilityAvailability	74	80	cannot
+T10	StateOfBeing	81	83	be
+T11	PerformAnActivity	84	96	demonstrated
+T12	Represent	84	96	demonstrated
+T13	Cause	97	99	by
+T14	Representation	104	109	model
+T15	Energy	111	117	energy
+T16	Use	118	122	used
+T17	PhaseChangingActions	126	135	evaporate
+T18	PhasesOfWater	136	141	water
+T19	LiquidMatter	136	141	water
+T20	Changes	142	149	changes
+T21	Compound	153	167	greenhouse gas
+T22	Spectra	170	182	light energy
+T23	Uptake	183	190	trapped
+T24	StateOfBeing	191	193	as
+T25	ThermalEnergy	194	205	heat energy
+T26	Energy	199	205	energy
+T27	Collect	218	227	builds up
+T28	RelativeLocations	228	230	in
+T29	ManmadeLocations	235	245	greenhouse
+T30	EarthPartsGrossGroundAtmosphere	246	249	air

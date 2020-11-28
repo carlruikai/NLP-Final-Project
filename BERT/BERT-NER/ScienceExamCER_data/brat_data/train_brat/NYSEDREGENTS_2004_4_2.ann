@@ -1,0 +1,15 @@
+T1	Precipitation	0	5	Sleet
+T2	PartsOfWaterCycle	7	11	rain
+T3	Precipitation	7	11	rain
+T4	Precipitation	13	17	snow
+T5	Precipitation	23	27	hail
+T6	StateOfBeing	28	31	are
+T7	Exemplar	32	37	forms
+T8	ConstructiveDestructiveForces	41	48	erosion
+T9	NaturalPhenomena	41	48	erosion
+T10	PartsOfWaterCycle	49	60	evaporation
+T11	PhaseChangingActions	49	60	evaporation
+T12	BodiesOfWater	61	72	groundwater
+T13	TypesOfWaterInBodiesOfWater	61	72	groundwater
+T14	PartsOfWaterCycle	73	86	precipitation
+T15	Precipitation	73	86	precipitation

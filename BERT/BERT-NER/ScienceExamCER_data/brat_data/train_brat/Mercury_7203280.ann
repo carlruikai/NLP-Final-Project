@@ -1,0 +1,26 @@
+T1	Device	0	16	Sulfur scrubbers
+T2	StateOfBeing	17	20	are
+T3	Device	21	28	devices
+T4	CombineAdd	29	38	installed
+T5	RelativeLocations	29	31	in
+T6	PropertyOfProduction	42	52	coal-fired
+T7	ManmadeLocations	53	65	power plants
+T8	Device	67	83	Sulfur scrubbers
+T9	AmountChangingActions	84	90	reduce
+T10	Release	95	103	emission
+T11	Compound	107	121	sulfur dioxide
+T12	EcosystemsEnvironment	128	141	environmental
+T13	Problem	142	149	problem
+T14	StateOfBeing	150	153	are
+T15	Device	154	170	sulfur scrubbers
+T16	AmountComparison	171	175	most
+T17	ProbabilityAndCertainty	176	182	likely
+T18	PerformAnActivity	183	189	trying
+T19	Communicate	193	200	address
+T20	OrganicCompounds	202	207	ozone
+T21	ConstructiveDestructiveForces	208	215	erosion
+T22	NaturalPhenomena	208	215	erosion
+T23	Precipitation	216	225	acid rain
+T24	PH	216	220	acid
+T25	Nutrition	226	234	nutrient
+T26	EnvironmentalDamageDestruction	235	241	runoff

@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	WeatherPhenomena	6	23	weather condition
+T3	Rarity	24	32	commonly
+T4	Occur	33	39	occurs
+T5	PrepositionalDirections	40	45	along
+T6	WeatherPhenomena	48	58	cold front
+T7	WeatherDescriptions	60	65	clear
+T8	Sky	66	71	skies
+T9	PartsOfWaterCycle	72	85	precipitation
+T10	Precipitation	72	85	precipitation
+T11	Temperature	86	90	warm
+T12	Temperature	91	103	temperatures
+T13	Wetness	104	107	dry
+T14	EarthPartsGrossGroundAtmosphere	108	111	air

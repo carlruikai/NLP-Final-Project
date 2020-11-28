@@ -1,0 +1,41 @@
+T1	PERSON	0	4	Liam
+T2	LivingDying	5	10	lives
+T3	RelativeLocations	11	13	in
+T4	NorthernHemisphereLocations	18	37	Northern Hemisphere
+T5	InnerPlanets	41	46	Earth
+T6	ActionsForAnimals	51	56	plays
+T7	RelativeLocations	57	59	in
+T8	Precipitation	64	68	snow
+T9	RelativeTime	69	71	in
+T10	Months	72	80	December
+T11	Human	86	92	friend
+T12	LivingDying	93	98	lives
+T13	RelativeLocations	99	101	in
+T14	SouthernHemisphereLocations	106	125	Southern Hemisphere
+T15	InnerPlanets	129	134	Earth
+T16	ActionsForAnimals	139	144	plays
+T17	RelativeLocations	145	147	at
+T18	TerrestrialLocations	152	157	beach
+T19	RelativeTime	158	160	in
+T20	Months	161	169	December
+T21	StateOfBeing	176	178	is
+T22	Quality	183	187	best
+T23	QualityComparison	183	187	best
+T24	ResponseType	188	199	explanation
+T25	Cause	204	207	why
+T26	StateOfBeing	210	212	is
+T27	ProbabilityAndCertainty	216	224	possible
+T28	CelestialMovement	226	230	tilt
+T29	InnerPlanets	234	239	Earth
+T30	Position	240	251	on its axis
+T31	CelestialMovement	252	260	rotation
+T32	InnerPlanets	264	269	Earth
+T33	Position	270	281	on its axis
+T34	CelestialMovement	282	292	revolution
+T35	InnerPlanets	296	301	Earth
+T36	PrepositionalDirections	302	308	around
+T37	Star	313	316	Sun
+T38	CelestialMovement	317	327	revolution
+T39	Moon	335	339	Moon
+T40	PrepositionalDirections	340	346	around
+T41	InnerPlanets	347	352	Earth

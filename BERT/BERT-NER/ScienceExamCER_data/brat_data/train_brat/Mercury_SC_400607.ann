@@ -1,0 +1,27 @@
+T1	Age	0	5	Young
+T2	Bird	6	12	robins
+T3	ActionsForAnimals	13	18	build
+T4	Create	13	18	build
+T5	Comparisons	23	27	same
+T6	Exemplar	28	33	kinds
+T7	ExamplesOfHabitats	37	42	nests
+T8	GeneticRelations	49	56	parents
+T9	ActionsForAnimals	57	62	build
+T10	Create	57	62	build
+T11	Unknown	63	70	even if
+T12	Age	75	80	young
+T13	Bird	81	86	birds
+T14	PerformAnActivity	87	91	have
+T15	Negations	92	97	never
+T16	Observe	98	102	seen
+T17	GeneticRelations	109	116	parents
+T18	ActionsForAnimals	117	122	build
+T19	Create	117	122	build
+T20	ExamplesOfHabitats	125	129	nest
+T21	StateOfBeing	133	135	is
+T22	Exemplar	142	149	example
+T23	LearnedBehavior	155	171	learned behavior
+T24	InheritedBehavior	176	194	inherited behavior
+T25	PhysicalProperty	198	221	physical characteristic
+T26	Uptake	223	231	acquired
+T27	Property	232	246	characteristic

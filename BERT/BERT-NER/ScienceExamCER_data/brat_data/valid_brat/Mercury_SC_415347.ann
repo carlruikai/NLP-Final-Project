@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	LearnedBehavior	11	27	learned behavior
+T4	Mammal	31	34	dog
+T5	Use	35	39	uses
+T6	PartsOfTheDigestiveSystem	44	50	tongue
+T7	ActionsForAnimals	54	59	drink
+T8	Consumption	54	59	drink
+T9	Bird	63	68	robin
+T10	Touch	69	74	holds
+T11	Uptake	69	74	holds
+T12	PlantPart	77	83	branch
+T13	Use	84	88	with
+T14	AnimalPart	93	97	feet
+T15	Mammal	101	111	chimpanzee
+T16	ActionsForAnimals	112	116	digs
+T17	Goal	117	120	for
+T18	Insect	121	129	termites
+T19	Use	130	134	with
+T20	PlantPart	137	142	stick
+T21	Animal	146	150	worm
+T22	Move	151	156	moves
+T23	RelativeDirection	157	159	to
+T24	RelativeLocations	164	167	top
+T25	NaturalPhenomena	171	178	flooded
+T26	LiquidMovement	171	178	flooded
+T27	Soil	179	185	ground

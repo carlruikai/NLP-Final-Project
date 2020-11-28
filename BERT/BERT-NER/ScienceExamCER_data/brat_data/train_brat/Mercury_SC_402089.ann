@@ -1,0 +1,38 @@
+T1	Aquatic	0	15	Stout beardfish
+T2	LivingDying	16	20	live
+T3	RelativeLocations	21	23	in
+T4	Depth	28	32	deep
+T5	EarthPartsGrossGroundAtmosphere	33	38	ocean
+T6	BodiesOfWater	33	38	ocean
+T7	LivingDying	45	49	live
+T8	Distance	53	56	far
+T9	PrepositionalDirections	57	61	down
+T10	RelativeLocations	67	72	there
+T11	StateOfBeing	73	75	is
+T12	Negations	76	78	no
+T13	Light	79	84	light
+T14	LevelOfInclusion	86	91	Which
+T15	Property	92	106	characteristic
+T16	ProbabilityAndCertainty	107	112	would
+T17	Quality	113	117	best
+T18	QualityComparison	113	117	best
+T19	Help	118	122	help
+T20	Aquatic	123	138	stout beardfish
+T21	LivingDying	142	149	survive
+T22	NaturalSelection	142	149	survive
+T23	RelativeLocations	150	152	in
+T24	MeasuresOfAmountOfLight	157	161	dark
+T25	AnimalPart	165	170	mouth
+T26	PartsOfTheDigestiveSystem	165	170	mouth
+T27	ContainBeComposedOf	171	175	full
+T28	AnimalPart	179	187	bristles
+T29	Color	190	206	brightly colored
+T30	AnimalPart	207	211	body
+T31	Ability	216	223	ability
+T32	ActionsForAnimals	227	231	swim
+T33	Speed	232	239	quickly
+T34	CardinalNumber	240	243	two
+T35	NUMBER	240	243	two
+T36	AnimalPart	244	252	whiskers
+T37	VerbsForLocate	258	264	locate
+T38	Nutrition	265	269	food

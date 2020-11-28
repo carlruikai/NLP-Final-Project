@@ -1,0 +1,20 @@
+T1	Method	0	3	How
+T2	PerformAnActivity	4	6	do
+T3	Temperature	7	11	warm
+T4	Currents	12	25	ocean current
+T5	Move	27	31	move
+T6	RelativeDirection	32	34	to
+T7	Comparisons	35	41	cooler
+T8	Temperature	35	41	cooler
+T9	BodiesOfWater	42	47	ocean
+T10	Locations	48	55	regions
+T11	InnerPlanets	59	64	Earth
+T12	LOCATION	59	64	Earth
+T13	Cause	66	68	by
+T14	TransferEnergy	69	79	conduction
+T15	Cause	80	82	by
+T16	TransferEnergy	83	93	convection
+T17	Cause	94	96	by
+T18	PhaseChangingActions	97	108	evaporation
+T19	Cause	109	111	by
+T20	ReleaseEnergy	112	121	radiation

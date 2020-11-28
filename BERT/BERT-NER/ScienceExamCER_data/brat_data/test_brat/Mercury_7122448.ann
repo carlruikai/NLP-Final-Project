@@ -1,0 +1,25 @@
+T1	Planet	0	7	Planets
+T2	RelativeLocations	8	10	in
+T3	SolarSystem	15	27	solar system
+T4	StateOfBeing	28	31	are
+T5	RelativeLocations	32	34	in
+T6	Stability	35	43	constant
+T7	PropertyOfMotion	44	50	motion
+T8	CelestialMovement	44	50	motion
+T9	VariablesControls	57	63	factor
+T10	Cause	64	67	has
+T11	AmountComparison	72	80	greatest
+T12	Result	81	87	effect
+T13	PrepositionalDirections	88	90	on
+T14	CelestialMovement	95	101	orbits
+T15	Planet	109	116	planets
+T16	Size	122	126	size
+T17	Planet	134	141	planets
+T18	Gravity	142	160	gravitational pull
+T19	Star	168	171	Sun
+T20	Composition	176	187	composition
+T21	Planet	195	202	planets
+T22	ElectricalEnergy	203	228	electromagnetic radiation
+T23	MagneticEnergy	203	228	electromagnetic radiation
+T24	RelativeDirection	229	233	from
+T25	Star	238	241	Sun

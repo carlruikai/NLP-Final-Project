@@ -1,0 +1,30 @@
+T1	Position	4	12	position
+T2	Locations	4	12	position
+T3	PartsOfTheDigestiveSystem	20	25	liver
+T4	PartsOfTheCirculatorySystem	20	25	liver
+T5	PartsOfEndocrineSystem	20	25	liver
+T6	RelativeLocations	26	28	in
+T7	CirculatorySystem	33	51	circulatory system
+T8	IncreaseDecrease	52	61	maximizes
+T9	Ability	66	73	ability
+T10	ExcretoryActions	77	83	filter
+T11	Separate	77	83	filter
+T12	RelativeDirection	84	87	out
+T13	Safety	88	95	harmful
+T14	Harm	88	95	harmful
+T15	Compound	96	105	chemicals
+T16	RelativeTime	106	116	as soon as
+T17	Move	122	127	enter
+T18	CombineAdd	122	127	enter
+T19	Blood	132	143	bloodstream
+T20	Blood	145	150	Blood
+T21	Move	151	158	travels
+T22	RelativeDirection	159	161	to
+T23	PartsOfTheDigestiveSystem	166	171	liver
+T24	PartsOfTheCirculatorySystem	166	171	liver
+T25	PartsOfEndocrineSystem	166	171	liver
+T26	RelativeDirection	172	176	from
+T27	NervousSystem	181	195	nervous system
+T28	DigestiveSystem	197	213	digestive system
+T29	ImmuneSystem	215	228	immune system
+T30	ExcretorySystem	230	246	excretory system

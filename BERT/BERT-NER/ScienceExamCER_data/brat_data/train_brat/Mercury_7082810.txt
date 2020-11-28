@@ -1,0 +1,5 @@
+A bowling ball sitting motionless on a table exerts a downward force on the table. The force exerted by the table must be
+equal to the force of the ball.
+continually changing with the ball.
+greater than the force of the ball.
+less than the force of the ball.

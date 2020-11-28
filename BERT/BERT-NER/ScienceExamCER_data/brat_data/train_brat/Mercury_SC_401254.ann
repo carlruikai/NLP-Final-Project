@@ -1,0 +1,12 @@
+T1	RelativeTime	0	4	When
+T2	FossilFuel	5	8	oil
+T3	LiquidMatter	5	8	oil
+T4	PhasesOfWater	13	18	water
+T5	LiquidMatter	13	18	water
+T6	StateOfBeing	19	22	are
+T7	CombineAdd	23	37	mixed together
+T8	Create	44	48	form
+T9	StateOfMatter	51	54	gas
+T10	StateOfMatter	56	61	solid
+T11	Compound	63	71	compound
+T12	Mixtures	73	83	suspension

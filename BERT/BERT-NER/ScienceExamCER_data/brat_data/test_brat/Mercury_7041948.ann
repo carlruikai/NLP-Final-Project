@@ -1,0 +1,32 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Quality	16	20	best
+T4	QualityComparison	16	20	best
+T5	Represent	21	30	describes
+T6	ElementalComponents	34	38	atom
+T7	ContainBeComposedOf	39	43	with
+T8	AtomicProperties	47	60	atomic number
+T9	CardinalNumber	64	66	20
+T10	NUMBER	64	66	20
+T11	ElementalComponents	72	76	atom
+T12	ContainBeComposedOf	77	80	has
+T13	CardinalNumber	81	83	20
+T14	NUMBER	81	83	20
+T15	AtomComponents	84	91	protons
+T16	ElementalComponents	97	101	atom
+T17	ContainBeComposedOf	102	105	has
+T18	CardinalNumber	106	108	20
+T19	NUMBER	106	108	20
+T20	AtomComponents	109	117	neutrons
+T21	Calculations	123	129	sum of
+T22	Numbers	134	140	number
+T23	AtomComponents	144	151	protons
+T24	AtomComponents	156	165	electrons
+T25	CardinalNumber	169	171	20
+T26	NUMBER	169	171	20
+T27	Calculations	177	183	sum of
+T28	Numbers	188	194	number
+T29	AtomComponents	198	205	protons
+T30	AtomComponents	210	218	neutrons
+T31	CardinalNumber	222	224	20
+T32	NUMBER	222	224	20

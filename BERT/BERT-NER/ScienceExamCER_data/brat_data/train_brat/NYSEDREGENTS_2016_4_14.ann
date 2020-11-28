@@ -1,0 +1,20 @@
+T1	Numbers	4	10	number
+T2	CelestialLightOnEarth	14	22	daylight
+T3	TIME	14	22	daylight
+T4	TimeUnit	23	28	hours
+T5	RelativeLocations	29	31	in
+T6	States	32	40	New York
+T7	LOCATION	32	46	New York State
+T8	Changes	47	54	changes
+T9	Relations	55	59	with
+T10	SeasonsFallAutumnWinterSpringSummer	64	70	season
+T11	Year	78	82	year
+T12	Moon	83	87	Moon
+T13	Changes	90	98	changing
+T14	VisualProperty	99	109	appearance
+T15	Directions	110	119	direction
+T16	WeatherPhenomena	127	131	wind
+T17	Move	132	138	arriva
+T18	TypesOfEvent	132	139	arrival
+T19	QualityComparison	145	151	severe
+T20	WeatherPhenomena	152	157	storm

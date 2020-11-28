@@ -1,0 +1,30 @@
+T1	RelativeTime	0	4	When
+T2	Human	5	15	astronauts
+T3	Occupation	5	15	astronauts
+T4	Move	16	22	walked
+T5	RelativeLocations	23	25	on
+T6	Moon	30	34	Moon
+T7	Use	41	45	used
+T8	PhysicalProperty	46	54	weighted
+T9	ManmadeObjects	55	60	boots
+T10	ClothesTextiles	55	60	boots
+T11	Result	61	63	to
+T12	Help	64	68	help
+T13	Move	74	78	walk
+T14	Cause	79	85	due to
+T15	AmountComparison	90	95	lower
+T16	Gravity	96	114	gravitational pull
+T17	Comparisons	121	131	difference
+T18	Relations	132	139	between
+T19	InnerPlanets	140	145	Earth
+T20	LOCATION	140	145	Earth
+T21	Moon	154	158	Moon
+T22	Cause	159	171	accounts for
+T23	Comparisons	176	186	difference
+T24	RelativeLocations	187	189	in
+T25	Gravity	190	197	gravity
+T26	PhysicalProperty	199	206	density
+T27	Size	207	215	diameter
+T28	Mass	216	220	mass
+T29	PhysicalProperty	221	227	volume
+T30	Size	221	227	volume

@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Speed	28	32	slow
+T5	GeographicFormationProcess	33	40	process
+T6	Changes	46	53	changes
+T7	InnerPlanets	54	59	Earth
+T8	EarthPartsGrossGroundAtmosphere	62	69	surface
+T9	NaturalPhenomena	71	79	flooding
+T10	LiquidMovement	71	79	flooding
+T11	NaturalPhenomena	80	90	earthquake
+T12	WeatherPhenomena	91	95	wind
+T13	ConstructiveDestructiveForces	96	103	erosion
+T14	NaturalPhenomena	96	103	erosion
+T15	NaturalPhenomena	104	121	volcanic eruption

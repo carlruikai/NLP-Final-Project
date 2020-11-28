@@ -1,0 +1,16 @@
+T1	RelativeTime	0	6	During
+T2	LevelOfInclusion	7	12	which
+T3	SeasonsFallAutumnWinterSpringSummer	13	19	season
+T4	TimeUnit	27	31	year
+T5	Year	27	31	year
+T6	ProbabilityAndCertainty	32	37	would
+T7	Mammal	40	46	rabbit
+T8	MammalAnimalPart	49	52	fur
+T9	StateOfBeing	53	55	be
+T10	Size	56	64	thickest
+T11	Comparisons	56	64	thickest
+T12	Texture	56	64	thickest
+T13	SeasonsFallAutumnWinterSpringSummer	66	70	fall
+T14	SeasonsFallAutumnWinterSpringSummer	71	77	spring
+T15	SeasonsFallAutumnWinterSpringSummer	78	84	summer
+T16	SeasonsFallAutumnWinterSpringSummer	85	91	winter

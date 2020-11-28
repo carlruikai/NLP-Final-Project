@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	StateOfBeing	16	18	is
+T4	ImportanceComparison	21	26	MAJOR
+T5	Problem	27	34	mistake
+T6	RelativeLocations	35	37	in
+T7	Experimentation	42	61	experimental design
+T8	VariablesControls	65	72	control
+T9	Group	73	78	group
+T10	StateOfBeing	79	82	was
+T11	Negations	83	86	not
+T12	Use	87	91	used
+T13	Comparisons	97	101	same
+T14	Exemplar	102	106	type
+T15	LiquidHoldingContainersRecepticles	110	113	pot
+T16	Soil	118	122	soil
+T17	StateOfBeing	123	126	was
+T18	Use	127	131	used
+T19	LevelOfInclusion	133	137	Each
+T20	Plant	138	143	plant
+T21	Uptake	144	152	received
+T22	Comparisons	157	161	same
+T23	Numbers	162	168	amount
+T24	PhasesOfWater	172	177	water
+T25	LiquidMatter	172	177	water
+T26	RelativeNumber	179	187	Too much
+T27	WordsForData	188	192	data
+T28	StateOfBeing	198	200	be
+T29	Collect	201	210	collected
+T30	PerformingResearch	201	210	collected
+T31	RelativeTime	211	213	in
+T32	CardinalNumber	214	219	three
+T33	TimeUnit	220	225	weeks

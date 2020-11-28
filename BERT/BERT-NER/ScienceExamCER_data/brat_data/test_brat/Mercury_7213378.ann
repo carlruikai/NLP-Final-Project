@@ -1,0 +1,10 @@
+T1	ObjectQuantification	2	8	sample
+T2	Element	12	18	sulfur
+T3	Substances	12	18	sulfur
+T4	Create	19	24	forms
+T5	Minerals	25	33	crystals
+T6	RelativeTime	34	38	when
+T7	PhaseChangingActions	42	47	melts
+T8	PhaseChangingActions	49	56	freezes
+T9	PhaseChangingActions	58	68	evaporates
+T10	PhaseChangingActions	70	79	condenses

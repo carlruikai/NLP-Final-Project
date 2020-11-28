@@ -1,0 +1,31 @@
+T1	LevelOfInclusion	2	9	certain
+T2	Sickness	10	17	disease
+T3	PartsOfTheNervousSystem	25	36	spinal cord
+T4	AbilityAvailability	37	40	can
+T5	StateOfBeing	41	43	be
+T6	Inheritance	44	53	passed on
+T7	Transportation	44	53	passed on
+T8	RelativeDirection	54	58	from
+T9	Mammal	61	64	dog
+T10	RelativeDirection	65	67	to
+T11	WordsForOffspring	72	81	offspring
+T12	Sickness	88	95	disease
+T13	AbilityAvailability	96	99	can
+T14	Cause	100	109	result in
+T15	Mammal	114	117	dog
+T16	PartsOfTheMuscularSystem	120	127	muscles
+T17	StateOfBeing	128	136	becoming
+T18	ResistanceStrength	137	141	weak
+T19	Cause	143	153	leading to
+T20	TypesOfIllness	154	163	paralysis
+T21	StateOfBeing	161	163	is
+T22	Exemplar	176	183	example
+T23	TypesOfIllness	190	200	infectious
+T24	Sickness	201	208	disease
+T25	RespiratorySystem	212	223	respiratory
+T26	Sickness	224	231	disease
+T27	Inheritance	236	245	inherited
+T28	TypesOfIllness	236	245	inherited
+T29	Sickness	246	253	disease
+T30	EcosystemsEnvironment	258	271	environmental
+T31	Sickness	272	279	disease

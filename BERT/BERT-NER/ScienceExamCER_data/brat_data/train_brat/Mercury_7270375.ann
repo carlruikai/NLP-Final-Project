@@ -1,0 +1,54 @@
+T1	Cell	0	10	Stem cells
+T2	StateOfBeing	11	14	are
+T3	Cell	15	20	cells
+T4	AbilityAvailability	26	29	can
+T5	Differentiate	30	43	differentiate
+T6	ChangeInto	44	48	into
+T7	RelativeNumber	49	53	many
+T8	Comparisons	54	63	different
+T9	Exemplar	64	69	kinds
+T10	Cell	73	78	cells
+T11	GroupsOfScientists	80	90	Scientists
+T12	Identify	96	106	discovered
+T13	Discovery	96	106	discovered
+T14	EcosystemsEnvironment	116	127	environment
+T15	Help	128	138	supporting
+T16	Preserve	128	138	supporting
+T17	Cell	143	148	cells
+T18	Alter	149	159	influences
+T19	Cause	149	159	influences
+T20	Cell	160	169	stem-cell
+T21	CellProcesses	170	185	differentiation
+T22	Differentiate	170	185	differentiation
+T23	Exemplar	191	198	example
+T24	Cell	200	210	stem cells
+T25	ActionsForAnimals	211	216	grown
+T26	Growth	211	216	grown
+T27	RelativeLocations	217	219	on
+T28	ResistanceStrength	220	226	strong
+T29	Rigidity	228	236	flexible
+T30	ObjectPart	237	245	surfaces
+T31	ChangeInto	246	252	became
+T32	Cell	253	264	muscle cell
+T33	PartsOfTheMuscularSystem	253	264	muscle cell
+T34	AmountComparison	272	276	most
+T35	ProbabilityAndCertainty	277	283	likely
+T36	Occur	284	292	happened
+T37	Cell	296	306	stem cells
+T38	ActionsForAnimals	307	312	grown
+T39	Growth	307	312	grown
+T40	RelativeLocations	313	315	on
+T41	Hardness	318	322	hard
+T42	Rigidity	324	329	rigid
+T43	ObjectPart	330	337	surface
+T44	ChangeInto	344	350	became
+T45	Cell	351	362	nerve cells
+T46	PartsOfTheNervousSystem	351	362	nerve cells
+T47	ChangeInto	369	375	became
+T48	Blood	376	391	red blood cells
+T49	ChangeInto	398	404	became
+T50	Cell	405	415	bone cells
+T51	PartsOfTheSkeletalSystem	405	415	bone cells
+T52	ChangeInto	422	428	became
+T53	Cell	429	438	skin cell
+T54	PartsOfTheIntegumentarySystem	429	438	skin cell

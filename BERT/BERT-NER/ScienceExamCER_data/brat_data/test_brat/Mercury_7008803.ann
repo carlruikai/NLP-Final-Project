@@ -1,0 +1,13 @@
+T1	Create	4	13	formation
+T2	ElementalComponents	20	30	ionic bond
+T3	MolecularProperties	20	30	ionic bond
+T4	Require	31	39	involves
+T5	ContainBeComposedOf	31	38	involve
+T6	ParticleMovement	44	52	transfer
+T7	AtomComponents	56	65	electrons
+T8	ParticleMovement	67	74	sharing
+T9	AtomComponents	78	86	neutrons
+T10	ParticleMovement	88	96	transfer
+T11	AtomComponents	100	108	neutrons
+T12	ParticleMovement	110	117	sharing
+T13	AtomComponents	121	128	protons

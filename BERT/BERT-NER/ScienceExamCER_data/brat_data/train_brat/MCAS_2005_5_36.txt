@@ -1,0 +1,5 @@
+Which weather instrument measures air pressure?
+thermometer
+anemometer
+rain gauge
+barometer

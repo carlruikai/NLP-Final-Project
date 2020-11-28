@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	StateOfBeing	15	17	is
+T4	Exemplar	27	34	example
+T5	LearnedBehavior	38	54	learned behavior
+T6	Mammal	58	62	bear
+T7	ActionsForAnimals	63	74	hibernating
+T8	RelativeLocations	71	73	in
+T9	SeasonsFallAutumnWinterSpringSummer	82	88	winter
+T10	Arachnid	91	97	spider
+T11	ActionsForAnimals	98	106	spinning
+T12	ExamplesOfHabitats	109	112	web
+T13	RelativeLocations	113	115	in
+T14	Plant	118	122	tree
+T15	Insect	125	134	butterfly
+T16	ActionsForAnimals	135	144	migrating
+T17	Move	135	144	migrating
+T18	RelativeDirection	145	147	to
+T19	CardinalDirectionsNorthEastSouthWest	152	157	south
+T20	Mammal	160	163	dog
+T21	ActionsForAnimals	164	174	scratching
+T22	PrepositionalDirections	167	169	at
+T23	PartsOfABuilding	180	184	door
+T24	Goal	185	187	to
+T25	Move	188	190	go
+T26	RelativeDirection	191	194	out

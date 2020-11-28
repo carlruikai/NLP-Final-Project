@@ -1,0 +1,54 @@
+T1	Human	0	10	Scientists
+T2	GroupsOfScientists	0	10	Scientists
+T3	VerbsForLocate	11	16	found
+T4	Discovery	11	16	found
+T5	ConcludingResearch	17	25	evidence
+T6	WordsForData	17	25	evidence
+T7	TemporalProperty	29	33	past
+T8	NaturalPhenomena	34	50	glacial activity
+T9	RelativeLocations	51	53	in
+T10	States	54	67	Massachusetts
+T11	LOCATION	54	67	Massachusetts
+T12	LevelOfInclusion	69	74	Which
+T13	LevelOfInclusion	78	91	the following
+T14	ConcludingResearch	92	103	conclusions
+T15	StateOfBeing	104	106	is
+T16	Quality	107	111	best
+T17	QualityComparison	107	111	best
+T18	Help	112	121	supported
+T19	ConcludingResearch	112	121	supported
+T20	Cause	122	124	by
+T21	ConcludingResearch	130	138	evidence
+T22	WordsForData	130	138	evidence
+T23	BodiesOfWater	140	143	Sea
+T24	AmountComparison	144	150	levels
+T25	StateOfBeing	151	155	were
+T26	RelativeNumber	156	160	much
+T27	AmountComparison	161	167	higher
+T28	RelativeTime	168	170	in
+T29	DATE	171	179	the past
+T30	RelativeTime	175	179	past
+T31	EcosystemsEnvironment	185	192	climate
+T32	RelativeLocations	193	195	on
+T33	InnerPlanets	196	201	Earth
+T34	Changes	206	213	changed
+T35	TemporalProperty	214	223	over time
+T36	LevelOfInclusion	225	230	Total
+T37	Numbers	231	238	numbers
+T38	LivingThing	242	251	organisms
+T39	RelativeLocations	252	254	on
+T40	InnerPlanets	255	260	Earth
+T41	LOCATION	255	260	Earth
+T42	Changes	266	273	changed
+T43	TemporalProperty	274	283	over time
+T44	LevelOfInclusion	289	294	total
+T45	Numbers	295	301	amount
+T46	ThermalEnergy	305	314	radiation
+T47	RelativeDirection	315	319	from
+T48	Star	324	327	Sun
+T49	StateOfBeing	328	331	was
+T50	RelativeNumber	332	336	much
+T51	AmountComparison	337	343	higher
+T52	RelativeTime	344	346	in
+T53	DATE	347	355	the past
+T54	RelativeTime	351	355	past

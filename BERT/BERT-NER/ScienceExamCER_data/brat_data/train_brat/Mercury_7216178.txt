@@ -1,0 +1,5 @@
+Which disease is correctly paired with the cause of the disease?
+athlete's foot - fungi
+malaria - viruses
+influenza - bacteria
+pneumonia - protists

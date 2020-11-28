@@ -1,0 +1,13 @@
+T1	RelativeLocations	0	2	In
+T2	SolarSystem	7	19	solar system
+T3	Moon	21	26	moons
+T4	CelestialMovement	27	32	orbit
+T5	Planet	33	40	planets
+T6	LevelOfInclusion	42	47	Which
+T7	LevelOfInclusion	51	56	these
+T8	Planet	60	67	planets
+T9	CelestialMovement	68	73	orbit
+T10	Star	79	82	Sun
+T11	Comet	83	97	Halley's comet
+T12	Asteroid	102	115	asteroid belt
+T13	BlackHole	118	128	black hole

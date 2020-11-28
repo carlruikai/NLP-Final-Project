@@ -1,0 +1,23 @@
+T1	Scientists	2	11	scientist
+T2	Create	12	22	working on
+T3	Age	25	28	new
+T4	ManmadeObjects	29	36	package
+T5	Representation	37	43	design
+T6	Goal	44	49	wants
+T7	Use	53	56	use
+T8	Material	59	67	material
+T9	StateOfBeing	73	75	is
+T10	RelativeNumber	76	82	highly
+T11	PropertyOfProduction	83	93	recyclable
+T12	ChemicalProperty	95	108	biodegradable
+T13	Cost	114	125	inexpensive
+T14	Quality	131	135	best
+T15	QualityComparison	131	135	best
+T16	Material	136	144	material
+T17	ManmadeObjects	153	160	package
+T18	Representation	161	167	design
+T19	StateOfBeing	168	170	is
+T20	MetalSolids	171	179	aluminum
+T21	NaturalMaterial	181	190	cardboard
+T22	SyntheticMaterial	192	199	plastic
+T23	SyntheticMaterial	201	206	glass

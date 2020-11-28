@@ -1,0 +1,31 @@
+T1	RelativeLocations	0	2	In
+T2	Method	8	11	way
+T3	PerformAnActivity	12	14	do
+T4	Transportation	15	22	transit
+T5	SystemAndFunctions	23	30	systems
+T6	Exemplar	32	39	such as
+T7	LandVehicle	40	45	buses
+T8	Help	47	54	benefit
+T9	GroupsOfOrganisms	55	62	society
+T10	Cause	64	66	by
+T11	AmountChangingActions	67	75	reducing
+T12	Numbers	80	86	amount
+T13	EnvironmentalDamageDestruction	90	99	pollution
+T14	Cause	100	102	by
+T15	AmountChangingActions	103	113	increasing
+T16	IncreaseDecrease	103	113	increasing
+T17	Numbers	118	124	number
+T18	LandVehicle	128	131	car
+T19	MoneyTerms	132	137	sales
+T20	Cause	138	140	by
+T21	AmountChangingActions	141	151	increasing
+T22	IncreaseDecrease	141	151	increasing
+T23	Numbers	156	162	amount
+T24	Compound	166	180	carbon dioxide
+T25	RelativeLocations	181	183	in
+T26	EarthPartsGrossGroundAtmosphere	188	191	air
+T27	Cause	192	194	by
+T28	StopRemove	195	206	eliminating
+T29	OpportunitiesAndTheirExtent	211	222	possibility
+T30	Problem	226	235	accidents
+T31	TypesOfEvent	226	235	accidents

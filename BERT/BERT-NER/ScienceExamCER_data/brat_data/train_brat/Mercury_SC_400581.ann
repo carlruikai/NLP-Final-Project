@@ -1,0 +1,23 @@
+T1	ThermalEnergy	0	15	Solar radiation
+T2	PerformAnActivity	16	19	has
+T3	PartsOfWaterCycle	22	26	part
+T4	RelativeLocations	27	29	in
+T5	Cycles	34	45	water cycle
+T6	Cause	46	48	by
+T7	Alter	49	58	affecting
+T8	EarthPartsGrossGroundAtmosphere	59	64	ocean
+T9	BodiesOfWater	59	64	ocean
+T10	TidesHighTideLowTide	65	70	tides
+T11	Help	72	79	helping
+T12	Uptake	87	97	absorption
+T13	CombineAdd	87	97	absorption
+T14	TypesOfWaterInBodiesOfWater	101	112	groundwater
+T15	Choose	114	125	determining
+T16	Cause	114	125	determining
+T17	Exemplar	130	134	type
+T18	WeatherPhenomena	138	144	clouds
+T19	Create	145	151	formed
+T20	Changes	153	161	changing
+T21	PhasesOfWater	162	167	water
+T22	RelativeDirection	168	170	to
+T23	GaseousMatter	173	178	vapor

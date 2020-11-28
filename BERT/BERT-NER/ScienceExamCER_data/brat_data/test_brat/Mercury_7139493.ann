@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	AmountComparison	9	13	most
+T4	ProbabilityAndCertainty	14	20	likely
+T5	Cause	21	32	responsible
+T6	Insect	41	51	chinch bug
+T7	Ability	54	61	ability
+T8	LivingDying	65	72	survive
+T9	NaturalSelection	65	72	survive
+T10	TemporalProperty	73	81	repeated
+T11	Safety	82	90	exposure
+T12	ChemicalProduct	94	106	insecticides
+T13	OtherOrganismProperties	108	125	species diversity
+T14	GeneticProperty	126	143	genetic diversity
+T15	EcosystemsEnvironment	144	153	ecosystem
+T16	Complexity	154	163	diversity
+T17	GroupsOfOrganisms	164	174	population
+T18	GeneticRelations	175	184	diversity

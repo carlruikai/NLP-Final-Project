@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Animal	6	12	animal
+T3	Development	13	21	develops
+T4	RelativeLocations	22	28	inside
+T5	GeneticRelations	33	39	mother
+T6	RelativeTime	40	46	before
+T7	StateOfBeing	50	52	is
+T8	Birth	53	57	born
+T9	LivingDying	58	63	alive
+T10	Insect	65	74	Butterfly
+T11	Mammal	75	78	Cat
+T12	Bird	79	83	Duck
+T13	Amphibian	84	88	Frog

@@ -1,0 +1,17 @@
+T1	Require	0	12	In order for
+T2	Sedimentary	13	22	sediments
+T3	Result	23	25	to
+T4	ChangeInto	26	32	become
+T5	Rock	33	37	rock
+T6	Sedimentary	43	52	sediments
+T7	StateOfBeing	53	56	are
+T8	Rarity	57	66	generally
+T9	CombineAdd	67	72	mixed
+T10	ChemicalProperty	78	85	organic
+T11	Matter	86	94	material
+T12	Move	96	104	returned
+T13	ChangeInLocation	96	104	returned
+T14	RelativeDirection	105	107	to
+T15	Source	114	121	origins
+T16	ConstructiveDestructiveForces	123	132	compacted
+T17	PhaseChangingActions	134	143	liquefied

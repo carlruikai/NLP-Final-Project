@@ -1,0 +1,5 @@
+A cat jumps when startled by a loud noise. This is an example of an organism
+sensing and responding to its external environment
+sensing and responding to its internal environment
+changing and controlling its external environment
+changing and controlling its internal environment

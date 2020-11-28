@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PhysicalActivity	6	14	activity
+T3	Exemplar	21	28	example
+T4	Quality	34	38	good
+T5	Health	39	45	health
+T6	LearnedBehavior	46	51	habit
+T7	Observe	53	61	watching
+T8	ElectricAppliance	62	72	television
+T9	SystemOfCommunication	62	72	television
+T10	Consumption	73	80	smoking
+T11	ManmadeObjects	81	91	cigarettes
+T12	ActionsForAnimals	92	98	eating
+T13	Consumption	92	98	eating
+T14	Foods	99	104	candy
+T15	PhysicalActivity	105	115	exercising
+T16	LevelOfInclusion	116	121	every
+T17	TimeUnit	122	125	day

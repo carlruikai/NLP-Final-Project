@@ -1,0 +1,16 @@
+T1	Scientists	2	9	student
+T2	PushingActions	10	16	pushes
+T3	NaturalMaterial	19	25	wooden
+T4	ObjectQuantification	26	31	block
+T5	PrepositionalDirections	32	38	across
+T6	ObjectQuantification	41	46	sheet
+T7	ConstructionTools	50	59	sandpaper
+T8	LevelOfInclusion	61	66	Which
+T9	Property	67	81	characteristic
+T10	ObjectQuantification	89	94	block
+T11	AmountChangingActions	95	104	increases
+T12	IncreaseDecrease	95	104	increases
+T13	Hardness	106	114	hardness
+T14	Mass	115	119	mass
+T15	Size	120	124	size
+T16	Temperature	125	136	temperature

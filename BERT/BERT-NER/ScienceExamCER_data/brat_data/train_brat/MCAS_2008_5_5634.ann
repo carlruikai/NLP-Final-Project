@@ -1,0 +1,32 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	9	22	the following
+T3	Quality	23	27	best
+T4	QualityComparison	23	27	best
+T5	Communicate	28	36	explains
+T6	Cause	37	40	why
+T7	RelativeNumber	41	45	many
+T8	Taxonomy	46	53	species
+T9	Bird	57	62	birds
+T10	RelativeLocations	63	65	in
+T11	GeopoliticalLocations	66	77	New England
+T12	LOCATION	66	77	New England
+T13	ActionsForAnimals	78	81	fly
+T14	CardinalDirectionsNorthEastSouthWest	82	87	south
+T15	SeasonsFallAutumnWinterSpringSummer	96	102	winter
+T16	TimeUnit	103	109	months
+T17	VerbsForLocate	114	118	find
+T18	Locations	121	126	place
+T19	ActionsForAnimals	130	139	hibernate
+T20	Move	143	147	move
+T21	PrepositionalDirections	148	157	away from
+T22	ResistanceStrength	158	164	strong
+T23	CelestialLightOnEarth	165	173	sunlight
+T24	VerbsForLocate	177	181	find
+T25	EcosystemsEnvironment	185	196	environment
+T26	ContainBeComposedOf	197	201	with
+T27	AmountComparison	202	206	more
+T28	Nutrition	207	211	food
+T29	Move	215	219	move
+T30	PrepositionalDirections	220	229	away from
+T31	PhysicalProperty	230	237	crowded
+T32	EcosystemsEnvironment	238	250	environments

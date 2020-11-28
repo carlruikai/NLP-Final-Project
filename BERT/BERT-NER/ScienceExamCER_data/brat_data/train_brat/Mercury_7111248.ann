@@ -1,0 +1,40 @@
+T1	CardinalNumber	0	3	One
+T2	NUMBER	0	3	One
+T3	DistanceUnit	4	21	astronomical unit
+T4	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	4	21	astronomical unit
+T5	StateOfBeing	22	24	is
+T6	Calculations	29	36	average
+T7	Distance	37	45	distance
+T8	RelativeLocations	46	53	between
+T9	InnerPlanets	58	63	Earth
+T10	LOCATION	58	63	Earth
+T11	Star	72	75	Sun
+T12	Unit	82	86	unit
+T13	StateOfBeing	87	89	is
+T14	AmountComparison	90	94	most
+T15	Frequency	95	100	often
+T16	Use	101	105	used
+T17	Represent	109	117	describe
+T18	Distance	122	130	distance
+T19	RelativeLocations	131	138	between
+T20	LevelOfInclusion	139	144	which
+T21	CardinalNumber	145	148	two
+T22	NUMBER	145	148	two
+T23	GeometricSpatialObjects	149	156	objects
+T24	Goal	149	156	objects
+T25	RelativeDirection	158	162	from
+T26	Galaxy	163	169	galaxy
+T27	RelativeDirection	170	172	to
+T28	Galaxy	173	179	galaxy
+T29	RelativeDirection	180	184	from
+T30	OuterPlanets	185	191	Saturn
+T31	RelativeDirection	192	194	to
+T32	InnerPlanets	195	202	Mercury
+T33	RelativeDirection	203	207	from
+T34	Star	212	215	Sun
+T35	RelativeDirection	216	218	to
+T36	Star	219	235	Proxima Centauri
+T37	RelativeDirection	236	240	from
+T38	Constellation	245	255	Big Dipper
+T39	RelativeDirection	256	258	to
+T40	Constellation	263	276	Little Dipper

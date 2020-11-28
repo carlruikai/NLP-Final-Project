@@ -1,0 +1,28 @@
+T1	Comparisons	0	9	Different
+T2	Unit	10	30	units of measurement
+T3	StateOfBeing	31	34	are
+T4	AmountComparison	35	39	more
+T5	Quality	40	46	useful
+T6	RelativeLocations	47	49	in
+T7	LevelOfInclusion	50	54	some
+T8	Event	55	62	setting
+T9	Comparisons	64	68	than
+T10	RelativeLocations	69	71	in
+T11	Comparisons	72	78	others
+T12	LevelOfInclusion	80	85	Which
+T13	Unit	86	105	unit of measurement
+T14	StateOfBeing	106	108	is
+T15	AmountComparison	109	113	most
+T16	Use	114	118	used
+T17	RelativeTime	119	123	when
+T18	AnalyzingResearch	124	133	comparing
+T19	Comparisons	124	133	comparing
+T20	Distance	134	143	distances
+T21	RelativeLocations	144	150	within
+T22	SolarSystem	155	167	solar system
+T23	DistanceUnit	173	177	mile
+T24	DistanceUnit	182	191	kilometer
+T25	DistanceUnit	196	206	light year
+T26	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	196	206	light year
+T27	DistanceUnit	211	228	astronomical unit
+T28	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	211	228	astronomical unit

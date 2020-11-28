@@ -1,0 +1,34 @@
+T1	Human	0	4	Drew
+T2	Believe	5	10	knows
+T3	InnerPlanets	16	21	Earth
+T4	LOCATION	16	21	Earth
+T5	StateOfBeing	22	24	is
+T6	CelestialMovement	25	31	tilted
+T7	Position	32	43	on its axis
+T8	LevelOfInclusion	48	52	also
+T9	Believe	53	58	knows
+T10	CelestialMovement	64	68	tilt
+T11	StateOfBeing	69	71	is
+T12	Cause	72	83	responsible
+T13	SeasonsFallAutumnWinterSpringSummer	92	98	season
+T14	Locations	106	112	region
+T15	RelativeLocations	110	112	on
+T16	InnerPlanets	116	121	Earth
+T17	ProbabilityAndCertainty	122	126	will
+T18	Occur	127	137	experience
+T19	RelativeTime	139	143	When
+T20	SouthernHemisphereLocations	148	158	South Pole
+T21	StateOfBeing	159	161	is
+T22	CelestialMovement	162	168	tilted
+T23	PrepositionalDirections	169	175	toward
+T24	Star	180	183	Sun
+T25	SeasonsFallAutumnWinterSpringSummer	190	196	season
+T26	ProbabilityAndCertainty	197	201	will
+T27	StateOfBeing	205	207	be
+T28	RelativeLocations	208	210	in
+T29	NorthernHemisphereLocations	211	218	Florida
+T30	States	211	218	Florida
+T31	SeasonsFallAutumnWinterSpringSummer	220	224	fall
+T32	SeasonsFallAutumnWinterSpringSummer	225	231	spring
+T33	SeasonsFallAutumnWinterSpringSummer	232	238	summer
+T34	SeasonsFallAutumnWinterSpringSummer	239	245	winter

@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	ImportanceComparison	22	26	main
+T5	SystemAndFunctions	27	35	function
+T6	PlantCellPart	41	50	cell wall
+T7	BacteriaPart	41	50	cell wall
+T8	Create	55	59	make
+T9	Nutrition	60	64	food
+T10	Preserve	68	73	store
+T11	PhasesOfWater	74	79	water
+T12	Create	83	90	provide
+T13	Help	91	98	support
+T14	PhysicalProperty	91	98	support
+T15	Cause	102	106	make
+T16	Plant	111	116	plant
+T17	Color	117	122	green

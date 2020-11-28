@@ -1,0 +1,5 @@
+The speed of sound is generally greatest in
+solids and lowest in liquids.
+solids and lowest in gases.
+gases and lowest in liquids.
+gases and lowest in solids.

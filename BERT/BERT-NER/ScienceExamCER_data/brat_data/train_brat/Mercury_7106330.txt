@@ -1,0 +1,5 @@
+A meteorologist records data for a city on a certain date. The data includes temperature, cloud cover, wind speed, barometric pressure, and wind direction. Which method should the meteorologist use to record this data for a quick reference?
+a written description
+a table
+a station model
+a weather map

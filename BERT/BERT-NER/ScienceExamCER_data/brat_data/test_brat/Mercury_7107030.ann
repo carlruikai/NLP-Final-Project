@@ -1,0 +1,31 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Event	6	13	process
+T3	ProbabilityAndCertainty	14	18	will
+T4	Complexity	19	27	directly
+T5	Cause	28	37	result in
+T6	ChemicalProperty	38	45	organic
+T7	Matter	46	52	matter
+T8	StateOfBeing	53	58	being
+T9	CombineAdd	59	64	added
+T10	RelativeDirection	65	67	to
+T11	Soil	72	76	soil
+T12	PhasesOfWater	78	83	water
+T13	PhaseChangingActions	84	92	freezing
+T14	RelativeLocations	89	91	in
+T15	GapsAndCracks	96	102	cracks
+T16	Rock	106	111	rocks
+T17	GeographicFormations	112	120	glaciers
+T18	BodiesOfWater	112	120	glaciers
+T19	GeographicFormationProcess	121	132	carving out
+T20	GeographicFormations	135	141	valley
+T21	BodiesOfWater	142	147	river
+T22	PhasesOfWater	148	153	water
+T23	ConstructiveDestructiveForces	154	161	eroding
+T24	NaturalPhenomena	154	161	eroding
+T25	PartsOfBodiesOfWater	166	171	banks
+T26	BodiesOfWater	177	183	stream
+T27	Bacteria	184	192	bacteria
+T28	ChemicalChange	193	206	breaking down
+T29	Death	207	211	dead
+T30	LivingDying	207	211	dead
+T31	Matter	212	218	matter

@@ -1,0 +1,9 @@
+T1	RelativeTime	0	4	When
+T2	PhasesOfWater	5	8	ice
+T3	SolidMatter	5	8	ice
+T4	PhaseChangingActions	9	14	melts
+T5	ChangeInto	19	26	becomes
+T6	StateOfMatter	29	32	gas
+T7	StateOfMatter	34	39	solid
+T8	StateOfMatter	41	47	liquid
+T9	StateOfMatter	49	55	plasma

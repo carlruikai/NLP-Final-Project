@@ -1,0 +1,14 @@
+T1	Goal	0	11	In order to
+T2	Create	12	19	produce
+T3	Light	20	25	light
+T4	ElementalComponents	31	36	atoms
+T5	RelativeLocations	37	43	inside
+T6	LightProducingObject	46	56	light bulb
+T7	TransferEnergy	57	66	transform
+T8	ElectricalEnergy	67	84	electrical energy
+T9	ChangeInto	85	89	into
+T10	Energy	90	104	kinetic energy
+T11	ElectricalEnergy	106	131	electromagnetic radiation
+T12	MagneticEnergy	106	131	electromagnetic radiation
+T13	Energy	133	148	chemical energy
+T14	ThermalEnergy	150	161	heat energy

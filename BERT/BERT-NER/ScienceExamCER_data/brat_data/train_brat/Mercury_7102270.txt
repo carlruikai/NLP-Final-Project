@@ -1,0 +1,5 @@
+Which type of activity would most likely be included on a weather map?
+satellite
+seismic
+volcanic
+hurricane

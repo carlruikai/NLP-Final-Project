@@ -1,0 +1,15 @@
+T1	Human	4	9	human
+T2	HumanPart	10	14	body
+T3	Uptake	15	19	gets
+T4	Energy	24	30	energy
+T5	Require	34	39	needs
+T6	ActionsForAnimals	44	50	growth
+T7	Growth	44	50	growth
+T8	ActionsForAnimals	55	61	repair
+T9	Help	55	61	repair
+T10	Complexity	62	70	directly
+T11	RelativeDirection	71	75	from
+T12	Soil	76	80	soil
+T13	Nutrition	81	85	food
+T14	CelestialLightOnEarth	86	94	sunlight
+T15	PhasesOfWater	95	100	water

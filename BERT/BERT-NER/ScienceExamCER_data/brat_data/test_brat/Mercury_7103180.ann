@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	EcosystemsEnvironment	6	11	biome
+T3	ContainBeComposedOf	12	15	has
+T4	AmountComparison	20	24	most
+T5	Plant	25	35	vegetation
+T6	TypesOfTerrestrialEcosystems	37	43	desert
+T7	TypesOfTerrestrialEcosystems	44	50	forest
+T8	TypesOfTerrestrialEcosystems	51	60	grassland
+T9	TypesOfTerrestrialEcosystems	61	67	tundra

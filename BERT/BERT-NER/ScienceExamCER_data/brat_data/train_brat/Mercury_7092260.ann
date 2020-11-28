@@ -1,0 +1,65 @@
+T1	Age	0	3	New
+T2	TechnologicalInstrument	4	14	technology
+T3	RelativeLocations	15	17	in
+T4	RelativeNumber	18	22	some
+T5	LevelOfInclusion	18	22	some
+T6	Countries	23	32	countries
+T7	Relevant	33	43	focuses on
+T8	MedicalTerms	44	62	medical procedures
+T9	TheUniverseUniverseAndItsParts	67	72	space
+T10	Examine	73	84	exploration
+T11	RelativeLocations	86	88	In
+T12	Comparisons	89	94	other
+T13	Countries	95	104	countries
+T14	Age	106	109	new
+T15	TechnologicalInstrument	110	120	technology
+T16	Relevant	121	131	focuses on
+T17	AvoidReject	132	142	preventing
+T18	StopRemove	132	142	preventing
+T19	Sickness	143	150	disease
+T20	ActionsForAnimals	155	162	feeding
+T21	ActionsForNutrition	155	162	feeding
+T22	AmountChangingActions	166	176	increasing
+T23	IncreaseDecrease	166	176	increasing
+T24	GroupsOfOrganisms	177	187	population
+T25	LevelOfInclusion	189	194	Which
+T26	ResponseType	195	204	statement
+T27	Quality	205	209	best
+T28	QualityComparison	205	209	best
+T29	Communicate	210	218	explains
+T30	Cause	219	222	why
+T31	Countries	223	232	countries
+T32	Examine	233	238	focus
+T33	PrepositionalDirections	239	241	on
+T34	Comparisons	242	251	different
+T35	Exemplar	252	257	types
+T36	Age	261	264	new
+T37	TechnologicalInstrument	265	275	technology
+T38	Discovery	277	299	Technological advances
+T39	StateOfBeing	300	303	are
+T40	Negations	304	307	not
+T41	Quality	308	317	effective
+T42	RelativeLocations	318	320	in
+T43	RelativeNumber	321	325	some
+T44	LevelOfInclusion	321	325	some
+T45	GroupsOfOrganisms	326	337	populations
+T46	Require	339	344	Needs
+T47	BeliefKnowledge	349	358	attitudes
+T48	Viewpoint	349	358	attitudes
+T49	Alter	359	368	influence
+T50	Cause	359	368	influence
+T51	Discovery	369	394	technological development
+T52	MedicalTerms	396	403	Medical
+T53	Discovery	404	412	advances
+T54	StateOfBeing	413	416	are
+T55	Negations	417	420	not
+T56	ImportanceComparison	421	430	important
+T57	RelativeLocations	431	433	in
+T58	RelativeNumber	434	438	some
+T59	LevelOfInclusion	434	438	some
+T60	Countries	439	448	countries
+T61	TechnologicalInstrument	450	460	Technology
+T62	StateOfBeing	461	463	is
+T63	Cost	464	475	inexpensive
+T64	RelativeLocations	464	466	in
+T65	Countries	479	499	developing countries

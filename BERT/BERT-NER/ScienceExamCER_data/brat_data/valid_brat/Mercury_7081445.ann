@@ -1,0 +1,44 @@
+T1	NaturalPhenomena	3	13	earthquake
+T2	RelativeLocations	14	16	in
+T3	InnerPlanets	21	26	Earth
+T4	LOCATION	21	26	Earth
+T5	LayersOfTheEarth	29	34	crust
+T6	RelativeLocations	35	40	under
+T7	EarthPartsGrossGroundAtmosphere	45	50	ocean
+T8	BodiesOfWater	45	50	ocean
+T9	Release	51	59	releases
+T10	EnergyWaves	60	70	sound wave
+T11	SoundEnergy	60	65	sound
+T12	LevelOfInclusion	73	78	Which
+T13	ResponseType	79	88	statement
+T14	ProbabilityAndCertainty	89	99	accurately
+T15	Communicate	100	109	describes
+T16	Method	110	113	how
+T17	EnergyWaves	118	128	sound wave
+T18	SoundEnergy	118	123	sound
+T19	Separate	130	136	spread
+T20	Separate	130	136	spread
+T21	RelativeDirection	150	152	in
+T22	LevelOfInclusion	153	156	all
+T23	Directions	157	167	directions
+T24	PrepositionalDirections	168	177	away from
+T25	Source	184	190	source
+T26	WaitStay	197	203	remain
+T27	Uptake	204	211	trapped
+T28	DistanceComparison	212	216	near
+T29	Source	221	227	source
+T30	Cause	228	230	by
+T31	Pressure	231	245	water pressure
+T32	Move	252	258	travel
+T33	LevelOfInclusion	259	265	mostly
+T34	RelativeDirection	266	278	horizontally
+T35	PrepositionalDirections	279	284	along
+T36	EarthPartsGrossGroundAtmosphere	289	294	ocean
+T37	BodiesOfWater	289	294	ocean
+T38	PartsOfBodiesOfWater	295	300	floor
+T39	LightMovement	307	313	travel
+T40	LevelOfInclusion	314	320	mostly
+T41	RelativeDirection	321	327	upward
+T42	PrepositionalDirections	328	334	toward
+T43	ObjectPart	339	346	surface
+T44	PhasesOfWater	354	359	water

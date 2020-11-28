@@ -1,0 +1,42 @@
+T1	Scientists	2	9	student
+T2	PerformAnActivity	10	18	conducts
+T3	Experimentation	22	32	experiment
+T4	Use	33	37	with
+T5	Angiosperm	38	44	potato
+T6	Foods	38	44	potato
+T7	ObjectQuantification	45	51	slices
+T8	TypesOfWaterInBodiesOfWater	56	66	salt water
+T9	Scientists	72	79	student
+T10	Goal	80	85	wants
+T11	Identify	89	98	determine
+T12	AmountComparison	104	110	higher
+T13	Numbers	111	124	concentration
+T14	Minerals	128	132	salt
+T15	GranularSolids	128	132	salt
+T16	ProbabilityAndCertainty	133	137	will
+T17	Alter	138	144	affect
+T18	Numbers	149	155	amount
+T19	PhasesOfWater	159	164	water
+T20	LiquidMatter	159	164	water
+T21	Angiosperm	167	173	potato
+T22	Foods	167	173	potato
+T23	ObjectQuantification	174	179	slice
+T24	Uptake	180	187	absorbs
+T25	CombineAdd	180	187	absorbs
+T26	LevelOfInclusion	189	194	Which
+T27	ScientificTools	195	199	tool
+T28	ProbabilityAndCertainty	200	205	would
+T29	StateOfBeing	206	208	be
+T30	Quality	209	213	best
+T31	QualityComparison	209	213	best
+T32	Examine	217	224	compare
+T33	Comparisons	217	224	compare
+T34	Mass	229	235	masses
+T35	Angiosperm	243	249	potato
+T36	Foods	243	249	potato
+T37	ObjectQuantification	250	256	slices
+T38	MassMeasuringTool	260	267	balance
+T39	DistanceMeasuringTools	270	275	ruler
+T40	ViewingTools	278	288	microscope
+T41	LiquidHoldingContainersRecepticles	291	309	graduated cylinder
+T42	VolumeMeasuringTool	291	309	graduated cylinder

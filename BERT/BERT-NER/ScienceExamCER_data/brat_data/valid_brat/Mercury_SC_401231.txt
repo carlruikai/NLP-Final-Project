@@ -1,0 +1,5 @@
+Many leaves appear green because the leaves
+resist green light.
+bend all colors except green.
+reflect green light.
+reflect all colors except green.

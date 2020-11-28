@@ -1,0 +1,5 @@
+In humans, the gene for a free earlobe [E] is dominant over the gene for an attached earlobe [e]. If one parent has a free earlobe [ Ee ] and the other parent has an attached earlobe ( ee ), what is the probability that their offspring will have an attached earlobe?
+0%
+25%
+50%
+100%

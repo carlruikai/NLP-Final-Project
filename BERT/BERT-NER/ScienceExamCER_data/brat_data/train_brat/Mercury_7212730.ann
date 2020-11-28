@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Cause	23	26	has
+T4	AmountComparison	31	39	greatest
+T5	Result	40	46	effect
+T6	PrepositionalDirections	47	49	on
+T7	MeasuringSpeed	54	59	speed
+T8	PropertyOfMotion	54	59	speed
+T9	RelativeTime	60	62	at
+T10	LevelOfInclusion	63	68	which
+T11	SoundEnergy	69	74	sound
+T12	Move	75	82	travels
+T13	PrepositionalDirections	83	90	through
+T14	GaseousMatter	93	96	gas
+T15	Ability	102	109	ability
+T16	AtomComponents	113	122	electrons
+T17	Move	126	132	travel
+T18	PrepositionalDirections	133	140	through
+T19	Substances	143	149	medium
+T20	PropertiesOfWaves	154	163	frequency
+T21	EnergyWaves	171	175	wave
+T22	PropertiesOfWaves	180	189	amplitude
+T23	EnergyWaves	197	201	wave
+T24	Distance	206	215	proximity
+T25	ElementalComponents	223	232	molecules
+T26	Substances	240	246	medium

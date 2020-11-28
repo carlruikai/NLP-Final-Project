@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	13	process
+T3	Cause	14	20	causes
+T4	PlantPart	25	31	leaves
+T5	Plant	37	42	plant
+T6	ChangeInto	46	52	become
+T7	Size	53	59	larger
+T8	Comparisons	53	59	larger
+T9	Alter	61	67	repair
+T10	Help	61	67	repair
+T11	Growth	68	74	growth
+T12	TypesOfChemicalReactions	75	88	decomposition
+T13	PlantProcesses	89	100	germination

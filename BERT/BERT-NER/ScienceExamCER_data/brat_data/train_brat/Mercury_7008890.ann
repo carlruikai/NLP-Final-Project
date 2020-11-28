@@ -1,0 +1,12 @@
+T1	Energy	0	6	Energy
+T2	RelativeDirection	7	11	from
+T3	Star	16	19	Sun
+T4	Move	20	27	reaches
+T5	Touch	20	27	reaches
+T6	InnerPlanets	28	33	Earth
+T7	LOCATION	28	33	Earth
+T8	Cause	34	36	by
+T9	ReleaseEnergy	37	46	radiation
+T10	TransferEnergy	48	58	conduction
+T11	TransferEnergy	60	70	convection
+T12	PhysicalChange	72	89	thermal expansion

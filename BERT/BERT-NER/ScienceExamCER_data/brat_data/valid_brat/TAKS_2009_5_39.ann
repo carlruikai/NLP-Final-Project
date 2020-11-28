@@ -1,0 +1,51 @@
+T1	Bird	0	5	Crows
+T2	StateOfBeing	6	9	are
+T3	VerbsForLocate	10	15	found
+T4	RelativeLocations	16	26	throughout
+T5	RelativeNumber	27	31	many
+T6	ObjectPart	32	37	parts
+T7	TerrestrialLocations	41	50	the world
+T8	StateOfBeing	57	60	are
+T9	Color	61	66	black
+T10	Bird	67	72	birds
+T11	ContainBeComposedOf	73	77	with
+T12	Quality	78	87	excellent
+T13	Senses	88	95	hearing
+T14	RelativeLocations	97	99	In
+T15	TerrestrialLocations	104	108	wild
+T16	LivingDying	114	118	live
+T17	CardinalNumber	123	126	six
+T18	CardinalNumber	130	135	seven
+T19	TimeUnit	136	141	years
+T20	Year	136	141	years
+T21	RelativeNumber	143	147	Some
+T22	LevelOfInclusion	143	147	Some
+T23	Bird	148	153	crows
+T24	RelativeLocations	154	156	in
+T25	Countries	157	162	Japan
+T26	FormChangingActions	163	167	open
+T27	Foods	168	185	hard-shelled nuts
+T28	Cause	186	188	by
+T29	LocationChangingActions	189	197	dropping
+T30	RelativeLocations	203	214	in front of
+T31	Move	215	221	moving
+T32	LandVehicle	222	226	cars
+T33	LevelOfInclusion	228	233	Which
+T34	LevelOfInclusion	237	242	these
+T35	StateOfBeing	243	245	is
+T36	LearnedBehavior	248	264	learned behavior
+T37	ContainBeComposedOf	266	272	Having
+T38	Quality	273	282	excellent
+T39	Senses	283	290	hearing
+T40	LivingDying	291	297	Living
+T41	CardinalNumber	298	301	six
+T42	CardinalNumber	305	310	seven
+T43	TimeUnit	311	316	years
+T44	Year	311	316	years
+T45	LocationChangingActions	317	325	Dropping
+T46	Foods	326	330	nuts
+T47	RelativeLocations	331	342	in front of
+T48	LandVehicle	343	347	cars
+T49	ContainBeComposedOf	348	354	Having
+T50	Color	355	360	black
+T51	BirdAnimalPart	361	369	feathers

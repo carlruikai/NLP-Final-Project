@@ -1,0 +1,5 @@
+Which trait of a pet dog is inherited?
+The dog avoids a pet cat.
+The dog jumps on a sofa.
+The dog rolls over on command.
+The dog drools when it smells food.

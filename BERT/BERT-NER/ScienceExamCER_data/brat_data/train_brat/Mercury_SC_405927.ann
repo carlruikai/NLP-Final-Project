@@ -1,0 +1,27 @@
+T1	Cause	0	3	Why
+T2	StateOfBeing	4	7	are
+T3	OtherEnergyResources	8	25	alternative fuels
+T4	StateOfBeing	26	31	being
+T5	Use	32	36	used
+T6	RelativeLocations	37	39	in
+T7	RelativeNumber	40	44	some
+T8	LevelOfInclusion	40	44	some
+T9	LandVehicle	45	56	automobiles
+T10	OtherEnergyResources	58	75	Alternative fuels
+T11	StateOfBeing	76	79	are
+T12	RelativeLocations	80	82	at
+T13	LevelOfInclusion	83	88	every
+T14	ManmadeLocations	89	100	gas station
+T15	FossilFuel	102	110	Gasoline
+T16	Source	111	116	comes
+T17	Rarity	124	131	limited
+T18	NaturalResources	132	140	resource
+T19	OtherEnergyResources	142	159	Alternative fuels
+T20	Create	160	165	cause
+T21	EnvironmentalDamageDestruction	166	175	pollution
+T22	VehicularSystemsParts	177	192	Gasoline engine
+T23	StateOfBeing	194	197	are
+T24	Comparisons	198	201	too
+T25	Cost	202	211	expensive
+T26	Require	212	214	to
+T27	Create	215	219	make

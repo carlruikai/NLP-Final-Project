@@ -1,0 +1,40 @@
+T1	Precipitation	0	9	Acid rain
+T2	PH	0	4	Acid
+T3	ContainBeComposedOf	10	13	has
+T4	AcidityUnit	16	18	pH
+T5	PH	16	18	pH
+T6	AmountComparison	19	24	below
+T7	NUMBER	25	28	5.6
+T8	Precipitation	35	39	rain
+T9	AbilityAvailability	40	43	can
+T10	Harm	44	50	damage
+T11	Soil	51	55	soil
+T12	BodiesOfWater	57	62	lakes
+T13	Plant	64	69	crops
+T14	Agriculture	64	69	crops
+T15	ManmadeLocations	75	84	buildings
+T16	Precipitation	86	95	Acid rain
+T17	PH	86	90	Acid
+T18	StateOfBeing	96	98	is
+T19	Create	99	105	caused
+T20	Cause	106	108	by
+T21	LevelOfInclusion	109	112	all
+T22	LevelOfInclusion	116	129	the following
+T23	Negations	130	136	except
+T24	PropertyOfProduction	137	147	industrial
+T25	GaseousMatter	148	157	emissions
+T26	Source	158	162	from
+T27	ManmadeLocations	163	172	factories
+T28	FossilFuel	174	178	coal
+T29	StateOfBeing	184	186	is
+T30	Use	187	193	burned
+T31	Result	194	196	to
+T32	Create	197	204	produce
+T33	ThermalEnergy	205	209	heat
+T34	Energy	214	219	power
+T35	LandVehicle	221	231	automobile
+T36	Toxins	232	239	exhaust
+T37	ElectricityGeneration	241	260	nuclear power plant
+T38	ElectricalEnergySource	241	260	nuclear power plant
+T39	Create	267	274	produce
+T40	ThermalEnergy	275	284	radiation

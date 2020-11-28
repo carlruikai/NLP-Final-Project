@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	AnimalSystemsProcesses	12	24	body systems
+T4	StateOfBeing	25	28	are
+T5	AmountComparison	29	33	most
+T6	Complexity	34	42	directly
+T7	Require	43	51	involved
+T8	RelativeTime	52	56	when
+T9	Human	59	65	person
+T10	StateOfBeing	66	68	is
+T11	Move	69	76	walking
+T12	MuscularSystem	78	86	muscular
+T13	NervousSystem	91	98	nervous
+T14	ExcretorySystem	99	108	excretory
+T15	RespiratorySystem	113	124	respiratory
+T16	CirculatorySystem	125	136	circulatory
+T17	EndocrineSystem	141	150	endocrine
+T18	DigestiveSystem	151	160	digestive
+T19	ReproductiveSystem	165	177	reproductive

@@ -1,0 +1,13 @@
+T1	LocationChangingActions	4	12	floating
+T2	GaseousMovement	4	12	floating
+T3	Shape	13	18	arrow
+T4	RelativeLocations	19	21	on
+T5	MagneticDirectionMeasuringTool	24	31	compass
+T6	Frequency	32	38	always
+T7	Indicate	39	45	points
+T8	Move	39	45	points
+T9	PrepositionalDirections	46	53	towards
+T10	CardinalDirectionsNorthEastSouthWest	58	62	west
+T11	CardinalDirectionsNorthEastSouthWest	64	68	east
+T12	CardinalDirectionsNorthEastSouthWest	70	75	south
+T13	CardinalDirectionsNorthEastSouthWest	77	82	north

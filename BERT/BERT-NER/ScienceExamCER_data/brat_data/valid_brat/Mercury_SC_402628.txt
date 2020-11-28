@@ -1,0 +1,5 @@
+Which tool would a student use to measure wind speed?
+compass
+barometer
+anemometer
+weather vane

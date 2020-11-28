@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	CardinalNumber	6	9	two
+T3	NUMBER	6	9	two
+T4	PhysicalActivity	10	20	activities
+T5	StateOfBeing	21	24	are
+T6	PerformAnActivity	25	36	carried out
+T7	RelativeLocations	37	39	by
+T8	LevelOfInclusion	40	43	all
+T9	Taxonomy	44	51	species
+T10	LivingThing	55	68	living things
+T11	Create	70	74	make
+T12	Nutrition	75	79	food
+T13	StopRemove	84	93	eliminate
+T14	Toxins	94	99	waste
+T15	ActionsForAnimals	100	109	hibernate
+T16	Consumption	114	121	take in
+T17	Nutrition	122	131	nutrients
+T18	Growth	132	136	grow
+T19	Reproduction	141	150	reproduce
+T20	ActionsForAnimals	151	158	migrate
+T21	Move	151	158	migrate
+T22	Identify	163	167	seek
+T23	Habitat	168	175	shelter

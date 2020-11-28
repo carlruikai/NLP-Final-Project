@@ -1,0 +1,16 @@
+T1	Property	0	6	Traits
+T2	StateOfBeing	7	10	are
+T3	Move	11	22	transferred
+T4	RelativeDirection	23	27	from
+T5	GeneticRelations	28	38	generation
+T6	RelativeDirection	39	41	to
+T7	GeneticRelations	42	52	generation
+T8	Cause	53	60	through
+T9	PartsOfTheReproductiveSystem	65	70	sperm
+T10	LevelOfInclusion	71	75	only
+T11	PartsOfTheReproductiveSystem	76	79	egg
+T12	LevelOfInclusion	80	84	only
+T13	PartsOfTheReproductiveSystem	85	90	sperm
+T14	PartsOfTheReproductiveSystem	99	102	egg
+T15	PartsOfEndocrineSystem	103	109	testes
+T16	PartsOfTheReproductiveSystem	103	109	testes

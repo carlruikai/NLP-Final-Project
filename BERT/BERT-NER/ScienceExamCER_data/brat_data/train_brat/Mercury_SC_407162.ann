@@ -1,0 +1,23 @@
+T1	ImportanceComparison	4	11	primary
+T2	Cause	12	18	reason
+T3	Plant	24	30	plants
+T4	StateOfBeing	31	34	are
+T5	ImportanceComparison	35	44	important
+T6	EcosystemsEnvironment	52	61	ecosystem
+T7	StateOfBeing	62	64	is
+T8	Cause	65	72	because
+T9	Create	78	85	provide
+T10	Energy	86	92	energy
+T11	PartsOfTheFoodChain	97	106	consumers
+T12	Require	108	117	depend on
+T13	Comparisons	118	123	other
+T14	LivingThing	124	133	organisms
+T15	Habitat	138	145	shelter
+T16	DigestionActions	147	157	break down
+T17	Death	158	162	dead
+T18	LivingDying	158	162	dead
+T19	Animal	163	169	animal
+T20	Matter	170	176	matter
+T21	Consumption	178	185	consume
+T22	Nutrition	186	195	nutrients
+T23	Energy	200	206	energy

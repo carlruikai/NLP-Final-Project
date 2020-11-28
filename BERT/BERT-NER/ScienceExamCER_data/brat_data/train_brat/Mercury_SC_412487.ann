@@ -1,0 +1,22 @@
+T1	Scientists	2	11	scientist
+T2	StateOfBeing	8	10	is
+T3	Measurements	15	24	measuring
+T4	Examine	15	24	measuring
+T5	Numbers	29	35	amount
+T6	PropertyOfMotion	39	47	movement
+T7	Move	39	47	movement
+T8	PrepositionalDirections	48	53	along
+T9	GeographicFormations	56	61	fault
+T10	LevelOfInclusion	63	68	Which
+T11	ScientificTools	69	73	tool
+T12	StateOfBeing	74	76	is
+T13	Quality	77	81	best
+T14	QualityComparison	77	81	best
+T15	Use	82	86	used
+T16	Goal	87	90	for
+T17	Identify	91	97	making
+T18	Measurements	103	114	measurement
+T19	PressureMeasuringTool	116	125	barometer
+T20	TimeMeasuringTools	126	135	stopwatch
+T21	DistanceMeasuringTools	136	147	meter stick
+T22	ViewingTools	148	163	magnifying lens

@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	AmountComparison	30	34	most
+T5	ProbabilityAndCertainty	35	43	accurate
+T6	Verify	35	43	accurate
+T7	Measurements	44	55	measurement
+T8	Length	64	70	length
+T9	GeometricSpatialObjects	77	83	object
+T10	StateOfBeing	89	91	is
+T11	NUMBER	101	105	15.0
+T12	DistanceUnit	106	107	m
+T13	Length	108	112	long
+T14	NUMBER	114	119	15.35
+T15	DistanceUnit	120	121	m
+T16	NUMBER	122	126	15.2
+T17	DistanceUnit	127	128	m
+T18	NUMBER	129	134	14.55
+T19	DistanceUnit	135	136	m
+T20	NUMBER	137	141	14.5
+T21	DistanceUnit	142	143	m

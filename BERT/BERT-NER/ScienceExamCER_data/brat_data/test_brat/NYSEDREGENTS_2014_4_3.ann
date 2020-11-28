@@ -1,0 +1,12 @@
+T1	StateOfBeing	4	13	condition
+T2	EarthPartsGrossGroundAtmosphere	21	24	air
+T3	TerrestrialLocations	25	33	outdoors
+T4	RelativeTime	34	36	at
+T5	LevelOfInclusion	39	46	certain
+T6	TimesOfDayDayNight	47	58	time of day
+T7	StateOfBeing	59	61	is
+T8	Classify	62	67	known
+T9	PullingForces	71	79	friction
+T10	Light	80	85	light
+T11	Force	86	91	force
+T12	WeatherPhenomena	92	99	weather

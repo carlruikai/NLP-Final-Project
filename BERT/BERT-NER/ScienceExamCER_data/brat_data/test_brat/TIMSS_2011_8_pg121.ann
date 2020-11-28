@@ -1,0 +1,19 @@
+T1	Bacteria	0	8	Bacteria
+T2	Move	14	19	enter
+T3	CombineAdd	14	19	enter
+T4	AnimalPart	24	28	body
+T5	StateOfBeing	29	32	are
+T6	StopRemove	33	42	destroyed
+T7	Cause	43	45	by
+T8	LevelOfInclusion	46	51	which
+T9	Exemplar	52	56	type
+T10	Cell	60	65	cells
+T11	PartsOfTheImmuneSystem	67	83	white blood cell
+T12	Blood	67	84	white blood cells
+T13	Blood	85	100	red blood cells
+T14	PartsOfTheExcretorySystem	101	107	kidney
+T15	PartsOfEndocrineSystem	101	107	kidney
+T16	Cell	108	113	cells
+T17	AnimalPart	114	118	lung
+T18	PartsOfTheRespiratorySystem	114	118	lung
+T19	Cell	119	124	cells

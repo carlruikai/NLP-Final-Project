@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ArcheologicalProcessTechnique	6	15	technique
+T3	Method	6	15	technique
+T4	Help	20	26	helped
+T5	Human	27	37	scientists
+T6	GroupsOfScientists	27	37	scientists
+T7	AmountComparison	38	42	more
+T8	ProbabilityAndCertainty	43	53	accurately
+T9	Identify	54	63	determine
+T10	Age	68	71	age
+T11	Fossils	75	82	fossils
+T12	Create	87	91	draw
+T13	ConcludingResearch	87	91	draw
+T14	ConcludingResearch	92	103	conclusions
+T15	Relevant	104	109	about
+T16	Changes	110	117	changes
+T17	RelativeLocations	118	120	in
+T18	LivingThing	121	130	organisms
+T19	TemporalProperty	131	140	over time
+T20	ArcheologicalProcessTechnique	142	164	time-lapse photography
+T21	ArcheologicalProcessTechnique	165	183	radioactive dating
+T22	ObservationTechniques	184	203	electron microscopy
+T23	ObservationTechniques	204	218	color staining

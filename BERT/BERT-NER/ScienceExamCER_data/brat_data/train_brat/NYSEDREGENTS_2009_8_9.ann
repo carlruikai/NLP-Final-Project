@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Energy	6	12	energy
+T3	Source	13	19	source
+T4	StateOfBeing	20	22	is
+T5	Classify	23	33	considered
+T6	Rarity	34	46	nonrenewable
+T7	FossilFuel	48	51	oil
+T8	OtherEnergyResources	52	64	moving water
+T9	PhasesOfWater	59	64	water
+T10	CelestialLightOnEarth	65	73	sunlight
+T11	OtherEnergyResources	65	73	sunlight
+T12	OtherEnergyResources	74	81	biomass

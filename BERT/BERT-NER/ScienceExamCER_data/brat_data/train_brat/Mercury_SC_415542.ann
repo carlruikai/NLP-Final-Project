@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	GenericTerms	15	22	objects
+T4	ContainBeComposedOf	23	26	has
+T5	AmountComparison	31	39	greatest
+T6	Mass	40	44	mass
+T7	ManmadeObjects	46	51	brick
+T8	ManmadeObjects	52	63	soccer ball
+T9	ManmadeObjects	64	72	note pad
+T10	ManmadeObjects	73	80	quarter

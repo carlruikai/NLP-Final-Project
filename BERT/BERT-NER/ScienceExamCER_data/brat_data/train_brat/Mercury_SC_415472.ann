@@ -1,0 +1,17 @@
+T1	RelativeLocations	0	5	Where
+T2	ProbabilityAndCertainty	6	11	would
+T3	Animal	12	19	animals
+T4	Plant	24	30	plants
+T5	AmountComparison	34	38	most
+T6	Alter	39	47	affected
+T7	Cause	48	50	by
+T8	NaturalPhenomena	53	58	flood
+T9	LiquidMovement	53	58	flood
+T10	Height	60	63	low
+T11	Locations	64	69	areas
+T12	Height	70	74	high
+T13	Locations	75	80	areas
+T14	Temperature	81	85	warm
+T15	Locations	86	91	areas
+T16	Temperature	92	96	cold
+T17	Locations	97	102	areas

@@ -1,0 +1,5 @@
+When a red bull (RR) is bred with a white cow (WW), a roan calf (RW) is sometimes produced. If a roan bull (RW) is bred with a roan cow (RW), what is the most likely outcome of the offspring?
+1 red, 1 white, and 2 roan
+0 red, 1 white, and 3 roan
+2 red, 2 white, and 0 roan
+0 red, 0 white, and 4 roan

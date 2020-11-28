@@ -1,0 +1,42 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Quality	6	10	best
+T3	QualityComparison	6	10	best
+T4	Represent	11	20	describes
+T5	CardinalNumber	21	24	two
+T6	NUMBER	21	24	two
+T7	AnimalSystemsProcesses	25	37	organ system
+T8	PerformAnActivity	39	46	working
+T9	Relations	47	55	together
+T10	Help	59	63	help
+T11	Help	64	72	maintain
+T12	Preserve	64	72	maintain
+T13	CellProcesses	73	84	homeostasis
+T14	Homeostasis	73	84	homeostasis
+T15	PartsOfTheReproductiveSystem	90	109	reproductive organs
+T16	Create	110	117	produce
+T17	Result	110	117	produce
+T18	Cell	118	126	sex cell
+T19	PartsOfTheNervousSystem	133	139	nerves
+T20	Transportation	140	145	carry
+T21	Communicate	146	153	signals
+T22	Indicate	146	153	signals
+T23	RelativeDirection	154	158	from
+T24	AnimalPart	163	166	eye
+T25	RelativeDirection	167	169	to
+T26	PartsOfTheNervousSystem	174	179	brain
+T27	PartsOfTheSkeletalSystem	185	190	bones
+T28	PartsOfTheMuscularSystem	195	202	muscles
+T29	HumanPart	210	214	hand
+T30	PerformAnActivity	215	219	work
+T31	Relations	220	228	together
+T32	PushingActions	232	236	grip
+T33	ManmadeObjects	239	245	pencil
+T34	PartsOfTheMuscularSystem	251	258	muscles
+T35	AnimalPart	266	271	chest
+T36	PushingActions	272	279	tighten
+T37	PushingActions	283	287	push
+T38	MuscularSystemActions	283	287	push
+T39	Compound	288	302	carbon dioxide
+T40	RelativeDirection	303	306	out
+T41	PartsOfTheRespiratorySystem	314	319	lungs
+T42	PartsOfTheExcretorySystem	314	319	lungs

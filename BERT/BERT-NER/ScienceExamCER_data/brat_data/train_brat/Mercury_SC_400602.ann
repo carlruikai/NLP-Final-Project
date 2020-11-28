@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Event	6	13	process
+T3	Cause	14	20	causes
+T4	Light	21	26	light
+T5	LightMovement	30	34	bend
+T6	Create	39	43	form
+T7	WavePerception	46	53	rainbow
+T8	PropertiesOfWaves	55	64	frequency
+T9	SoundEnergy	65	74	resonance
+T10	LightMovement	75	85	refraction
+T11	LightMovement	86	96	reflection

@@ -1,0 +1,25 @@
+T1	SystemProcessStages	4	10	stages
+T2	RelativeLocations	11	13	in
+T3	LifeCycle	18	28	life cycle
+T4	LivingThing	35	43	organism
+T5	StateOfBeing	44	47	are
+T6	Indicate	48	53	shown
+T7	RelativeLocations	54	59	below
+T8	Birth	61	66	birth
+T9	Growth	70	76	growth
+T10	Development	80	91	development
+T11	Reproduction	95	107	reproduction
+T12	Death	111	116	death
+T13	RelativeLocations	117	119	In
+T14	LevelOfInclusion	120	125	which
+T15	LifeCycle	126	136	life cycle
+T16	SystemProcessStages	137	142	stage
+T17	ProbabilityAndCertainty	143	147	will
+T18	Age	150	153	new
+T19	LivingThing	154	162	organism
+T20	StateOfBeing	163	165	be
+T21	Create	166	170	made
+T22	Growth	172	178	growth
+T23	Development	179	190	development
+T24	Reproduction	191	203	reproduction
+T25	Death	204	209	death

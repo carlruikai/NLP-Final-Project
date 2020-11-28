@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Relevant	16	21	about
+T4	ElectromagneticSpectrum	26	50	electromagnetic spectrum
+T5	StateOfBeing	51	53	is
+T6	ProbabilityAndCertainty	54	62	accurate
+T7	ElectromagneticSpectrum	64	69	Gamma
+T8	EnergyWaves	70	75	waves
+T9	LightMovement	76	82	travel
+T10	Speed	83	89	faster
+T11	Comparisons	90	94	than
+T12	ElectromagneticSpectrum	95	100	radio
+T13	EnergyWaves	101	106	waves
+T14	ElectromagneticSpectrum	108	119	Ultraviolet
+T15	EnergyWaves	120	125	waves
+T16	Create	126	130	make
+T17	AmountComparison	134	138	most
+T18	LevelOfInclusion	134	138	most
+T19	ElectromagneticSpectrum	146	154	spectrum
+T20	ElectromagneticSpectrum	156	162	X-rays
+T21	EnergyWaves	158	162	rays
+T22	LightMovement	163	169	travel
+T23	Speed	170	176	slower
+T24	Comparisons	177	181	than
+T25	ElectromagneticSpectrum	182	190	infrared
+T26	EnergyWaves	191	196	waves
+T27	ElectromagneticSpectrum	198	211	Visible light
+T28	EnergyWaves	212	217	waves
+T29	StateOfBeing	218	221	are
+T30	Size	224	229	small
+T31	ObjectPart	230	234	part
+T32	LevelOfInclusion	230	234	part
+T33	Spectra	242	250	spectrum

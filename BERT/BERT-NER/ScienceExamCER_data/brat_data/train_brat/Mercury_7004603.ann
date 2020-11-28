@@ -1,0 +1,27 @@
+T1	RelativeTime	0	4	When
+T2	RelativeNumber	5	13	too much
+T3	Minerals	14	18	salt
+T4	StateOfBeing	19	21	is
+T5	Identify	22	30	detected
+T6	RelativeLocations	31	33	in
+T7	Blood	38	49	bloodstream
+T8	PartsOfTheNervousSystem	55	60	brain
+T9	EndocrineActions	61	69	secretes
+T10	PartsOfEndocrineSystem	72	79	hormone
+T11	Help	85	90	helps
+T12	AnimalPart	95	99	body
+T13	Preserve	100	106	retain
+T14	PhasesOfWater	107	112	water
+T15	Cause	113	115	by
+T16	AmountChangingActions	116	124	reducing
+T17	Numbers	129	135	amount
+T18	PartsOfTheExcretorySystem	139	144	urine
+T19	Create	145	153	produced
+T20	StateOfBeing	157	159	is
+T21	Exemplar	166	173	example
+T22	FeedbackMechanism	179	192	feedback loop
+T23	LearnedBehavior	197	205	acquired
+T24	Property	206	211	trait
+T25	Homeostasis	215	223	balanced
+T26	EcosystemsEnvironment	224	233	ecosystem
+T27	OrganismRelationships	237	259	symbiotic relationship

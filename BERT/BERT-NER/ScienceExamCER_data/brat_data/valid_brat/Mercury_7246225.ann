@@ -1,0 +1,34 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	ConcludingResearch	14	22	evidence
+T4	WordsForData	14	22	evidence
+T5	ProbabilityAndCertainty	23	28	would
+T6	Human	31	40	geologist
+T7	Scientists	31	40	geologist
+T8	Require	41	45	need
+T9	Help	49	56	support
+T10	ConcludingResearch	49	56	support
+T11	GeologicTheories	57	78	plate tectonic theory
+T12	Plant	80	85	plant
+T13	Fossils	86	93	fossils
+T14	StateOfBeing	99	102	are
+T15	Comparisons	103	110	similar
+T16	Size	114	118	size
+T17	ConstructiveDestructiveForces	123	133	weathering
+T18	NaturalPhenomena	123	133	weathering
+T19	ConstructiveDestructiveForces	138	145	erosion
+T20	NaturalPhenomena	138	145	erosion
+T21	PartsOfBodiesOfWater	149	158	coastline
+T22	TerrestrialLocations	149	159	coastlines
+T23	Age	160	163	new
+T24	LayersOfTheEarth	164	169	crust
+T25	Create	170	176	formed
+T26	Cause	177	179	by
+T27	TerrestrialLocations	184	193	sea floor
+T28	FormChangingActions	194	203	spreading
+T29	Separate	194	203	spreading
+T30	Rock	204	209	rocks
+T31	ContainBeComposedOf	210	214	with
+T32	Comparisons	215	224	different
+T33	PhysicalProperty	225	233	physical
+T34	VisualProperty	234	245	appearances

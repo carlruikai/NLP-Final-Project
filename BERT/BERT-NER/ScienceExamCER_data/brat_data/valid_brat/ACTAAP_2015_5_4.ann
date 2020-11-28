@@ -1,0 +1,56 @@
+T1	Scientists	2	9	student
+T2	Observe	10	18	observes
+T3	PerformingResearch	10	18	observes
+T4	Cell	19	24	cells
+T5	RelativeLocations	25	27	in
+T6	GenericTerms	31	37	object
+T7	Use	41	46	using
+T8	ViewingTools	49	59	microscope
+T9	Scientists	65	72	student
+T10	Believe	73	79	thinks
+T11	Hypothesizing	73	79	thinks
+T12	GenericTerms	89	95	object
+T13	StateOfBeing	96	99	was
+T14	ObjectPart	100	104	part
+T15	LivingThing	110	122	living thing
+T16	LevelOfInclusion	124	129	Which
+T17	ResponseType	130	139	statement
+T18	Communicate	140	148	explains
+T19	Cause	149	152	why
+T20	Biology	153	164	cell theory
+T21	AbilityAvailability	165	168	can
+T22	StateOfBeing	169	171	be
+T23	Use	172	176	used
+T24	Verify	180	187	support
+T25	ConcludingResearch	180	187	support
+T26	Scientists	192	199	student
+T27	Believe	202	210	thinking
+T28	Hypothesizing	202	210	thinking
+T29	Biology	212	223	Cell theory
+T30	StateOfBeing	224	227	was
+T31	Create	228	237	developed
+T32	Use	238	243	using
+T33	ViewingTools	246	256	microscope
+T34	Biology	258	269	Cell theory
+T35	StateOfBeing	270	273	was
+T36	Create	274	283	developed
+T37	Examine	287	292	study
+T38	PerformingResearch	287	292	study
+T39	LivingThing	293	306	living things
+T40	Biology	308	319	Cell theory
+T41	Communicate	320	326	states
+T42	LevelOfInclusion	332	335	all
+T43	LivingThing	336	349	living things
+T44	StateOfBeing	350	353	are
+T45	ContainBeComposedOf	354	358	made
+T46	Cell	362	367	cells
+T47	Biology	369	380	Cell theory
+T48	Communicate	381	387	states
+T49	GroupsOfScientists	393	403	scientists
+T50	ProbabilityAndCertainty	404	407	may
+T51	Classify	408	416	classify
+T52	GenericTerms	417	423	things
+T53	StateOfBeing	424	426	as
+T54	LivingDying	427	433	living
+T55	Comparisons	434	436	or
+T56	LivingDying	437	446	nonliving

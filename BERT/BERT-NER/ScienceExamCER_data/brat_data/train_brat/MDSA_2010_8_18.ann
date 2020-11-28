@@ -1,0 +1,23 @@
+T1	Human	0	5	Human
+T2	HumanPart	6	12	bodies
+T3	ContainBeComposedOf	13	17	have
+T4	Complexity	18	25	complex
+T5	SystemParts	26	36	structures
+T6	Help	42	49	support
+T7	Growth	50	56	growth
+T8	LivingDying	61	69	survival
+T9	NaturalSelection	61	69	survival
+T10	StateOfBeing	76	78	is
+T11	AmountComparison	83	87	most
+T12	Complexity	88	93	basic
+T13	SystemParts	94	103	structure
+T14	Human	111	116	human
+T15	HumanPart	117	121	body
+T16	Help	127	135	supports
+T17	Growth	136	142	growth
+T18	LivingDying	147	155	survival
+T19	NaturalSelection	147	155	survival
+T20	Cell	159	163	cell
+T21	AnimalPart	166	172	tissue
+T22	AnimalPart	176	181	organ
+T23	AnimalSystemsProcesses	185	197	organ system

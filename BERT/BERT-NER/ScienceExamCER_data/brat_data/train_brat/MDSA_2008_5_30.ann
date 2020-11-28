@@ -1,0 +1,25 @@
+T1	RelativeLocations	0	2	On
+T2	InnerPlanets	3	8	Earth
+T3	LOCATION	3	8	Earth
+T4	PhasesOfWater	10	15	water
+T5	AbilityAvailability	16	19	can
+T6	StateOfBeing	20	22	be
+T7	StateOfMatter	25	30	solid
+T8	StateOfMatter	34	40	liquid
+T9	Comparisons	42	44	or
+T10	StateOfMatter	47	50	gas
+T11	LevelOfInclusion	52	57	Which
+T12	Energy	58	64	energy
+T13	Source	65	71	source
+T14	Cause	72	75	has
+T15	AmountComparison	80	88	greatest
+T16	Result	89	98	influence
+T17	Alter	89	98	influence
+T18	PrepositionalDirections	99	101	on
+T19	StateOfMatter	106	121	state of matter
+T20	PhasesOfWater	125	130	water
+T21	Star	136	139	sun
+T22	WeatherPhenomena	144	148	wind
+T23	Currents	149	162	ocean current
+T24	MetalSolids	168	173	metal
+T25	LayersOfTheEarth	174	178	core

@@ -1,0 +1,15 @@
+T1	Safety	0	7	Harmful
+T2	Harm	0	7	Harmful
+T3	EnergyWaves	8	24	ultraviolet rays
+T4	RelativeDirection	25	29	from
+T5	Star	34	37	Sun
+T6	StateOfBeing	38	41	are
+T7	ImportanceComparison	42	51	primarily
+T8	AbsorbEnergy	52	60	absorbed
+T9	CombineAdd	52	60	absorbed
+T10	Cause	61	63	by
+T11	Particles	64	68	dust
+T12	GranularSolids	64	68	dust
+T13	OrganicCompounds	70	75	ozone
+T14	GeographicFormations	77	88	land masses
+T15	PhasesOfWater	90	101	water vapor

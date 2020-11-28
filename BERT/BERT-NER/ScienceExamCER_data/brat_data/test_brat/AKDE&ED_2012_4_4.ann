@@ -1,0 +1,30 @@
+T1	Scientists	0	17	Benjamin Franklin
+T2	PERSON	0	17	Benjamin Franklin
+T3	Create	18	26	invented
+T4	RelativeNumber	27	31	many
+T5	Comparisons	32	41	different
+T6	GenericTerms	42	48	things
+T7	RelativeLocations	50	55	Among
+T8	ManmadeObjects	60	70	inventions
+T9	Discovery	60	70	inventions
+T10	StateOfBeing	71	75	were
+T11	Device	76	91	bifocal glasses
+T12	Device	97	110	lightning rod
+T13	Exemplar	118	122	type
+T14	Element	126	130	iron
+T15	MetalSolids	126	130	iron
+T16	HeatingAppliance	131	136	stove
+T17	CookingToolsFood	131	136	stove
+T18	LevelOfInclusion	138	143	Which
+T19	OtherHumanProperties	144	160	personal quality
+T20	AmountComparison	161	165	most
+T21	ProbabilityAndCertainty	166	172	likely
+T22	Cause	173	176	led
+T23	Create	184	193	invention
+T24	Discovery	184	193	invention
+T25	LevelOfInclusion	197	202	these
+T26	GenericTerms	203	209	things
+T27	OtherHumanProperties	211	216	humor
+T28	OtherHumanProperties	217	224	honesty
+T29	OtherHumanProperties	225	234	curiosity
+T30	OtherHumanProperties	235	245	leadership

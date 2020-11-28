@@ -1,0 +1,24 @@
+T1	Human	0	6	Humans
+T2	ContainBeComposedOf	7	11	have
+T3	AnimalSystemsProcesses	14	25	body system
+T4	Help	31	36	helps
+T5	Transportation	40	47	deliver
+T6	Nutrition	48	57	nutrients
+T7	OrganicCompounds	62	70	hormones
+T8	ExcretoryActions	72	78	remove
+T9	StopRemove	72	78	remove
+T10	AmountComparison	79	85	excess
+T11	Toxins	86	92	wastes
+T12	Transportation	98	106	exchange
+T13	GaseousMatter	107	112	gases
+T14	LevelOfInclusion	114	119	Which
+T15	AnimalSystemsProcesses	120	131	body system
+T16	StateOfBeing	132	134	is
+T17	AmountComparison	135	139	most
+T18	Cause	140	151	responsible
+T19	LevelOfInclusion	156	161	these
+T20	OrganicProcesses	162	171	functions
+T21	ExcretorySystem	173	182	excretory
+T22	CirculatorySystem	183	194	circulatory
+T23	RespiratorySystem	195	206	respiratory
+T24	ReproductiveSystem	207	219	reproductive

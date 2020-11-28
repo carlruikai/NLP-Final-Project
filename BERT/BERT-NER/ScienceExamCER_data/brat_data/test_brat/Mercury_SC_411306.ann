@@ -1,0 +1,23 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	Comparisons	5	14	different
+T4	Exemplar	15	20	types
+T5	Plant	24	30	plants
+T6	ContainBeComposedOf	31	35	have
+T7	Property	36	51	characteristics
+T8	Comparisons	52	61	in common
+T9	LevelOfInclusion	63	68	Which
+T10	Property	69	83	characteristic
+T11	LevelOfInclusion	87	91	most
+T12	Plant	92	98	plants
+T13	ContainBeComposedOf	99	104	share
+T14	Comparisons	99	104	share
+T15	Size	110	114	size
+T16	PlantPart	124	129	roots
+T17	Shape	134	139	shape
+T18	PlantPart	149	155	leaves
+T19	Color	160	165	color
+T20	PlantPart	175	182	flowers
+T21	Composition	187	196	structure
+T22	Pattern	187	196	structure
+T23	Cell	206	211	cells

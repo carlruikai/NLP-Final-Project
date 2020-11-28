@@ -1,0 +1,25 @@
+T1	LivingDying	0	6	Living
+T2	Cell	7	12	cells
+T3	GeneticProcesses	13	23	synthesize
+T4	Create	13	23	synthesize
+T5	Length	24	28	long
+T6	ObjectQuantification	29	35	chains
+T7	Genetics	39	50	amino acids
+T8	PartsOfDNA	39	50	amino acids
+T9	Classify	51	57	called
+T10	NutritiveSubstancesForAnimalsOrPlants	58	66	proteins
+T11	LevelOfInclusion	68	73	Which
+T12	Substances	74	83	substance
+T13	Create	84	92	provides
+T14	WordsForData	97	108	information
+T15	Require	109	115	needed
+T16	ProbabilityAndCertainty	119	128	correctly
+T17	GeneticProcesses	129	137	sequence
+T18	Genetics	142	153	amino acids
+T19	PartsOfDNA	142	153	amino acids
+T20	RelativeTime	154	160	during
+T21	GeneticProcesses	161	178	protein synthesis
+T22	Genetics	180	183	ATP
+T23	Genetics	184	188	mRNA
+T24	Genetics	189	193	tRNA
+T25	Genetics	194	197	DNA

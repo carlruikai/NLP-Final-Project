@@ -1,0 +1,37 @@
+T1	FossilTypesIndexFossil	0	13	Index fossils
+T2	Help	14	18	help
+T3	Human	19	29	scientists
+T4	GroupsOfScientists	19	29	scientists
+T5	Hypothesizing	30	38	estimate
+T6	Age	43	46	age
+T7	Rock	52	56	rock
+T8	Cause	57	64	because
+T9	FossilTypesIndexFossil	65	77	index fossil
+T10	Taxonomy	78	85	species
+T11	LevelOfInclusion	86	90	only
+T12	Occur	91	98	existed
+T13	Comparisons	105	115	relatively
+T14	TemporalProperty	116	121	short
+T15	MarkersOfTime	122	126	time
+T16	Occur	133	141	happened
+T17	RelativeDirection	142	144	to
+T18	Taxonomy	149	156	species
+T19	StateOfBeing	162	165	are
+T20	RelativeTime	166	169	now
+T21	DATE	166	169	now
+T22	Use	170	174	used
+T23	FossilTypesIndexFossil	178	191	index fossils
+T24	ChangeInto	198	204	became
+T25	LivingDying	205	212	extinct
+T26	Extinction	205	212	extinct
+T27	Changes	219	226	changed
+T28	Nutrition	233	238	diets
+T29	ActionsForAnimals	245	248	hid
+T30	RelativeLocations	249	251	in
+T31	Sedimentary	252	268	marine sediments
+T32	ActionsForAnimals	275	283	migrated
+T33	BehavioralAdaptation	275	283	migrated
+T34	Move	275	283	migrated
+T35	RelativeDirection	284	286	to
+T36	Age	287	290	new
+T37	EcosystemsEnvironment	291	303	environments

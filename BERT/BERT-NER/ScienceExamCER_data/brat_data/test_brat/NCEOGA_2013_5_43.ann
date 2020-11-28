@@ -1,0 +1,30 @@
+T1	Require	5	9	must
+T2	Occur	10	15	occur
+T3	RelativeTime	16	22	before
+T4	WeatherPhenomena	23	29	clouds
+T5	AbilityAvailability	30	33	can
+T6	Create	34	38	form
+T7	PhasesOfWater	40	51	Water vapor
+T8	Require	52	56	must
+T9	ChangeInto	57	60	get
+T10	Temperature	61	67	warmer
+T11	Comparisons	61	67	warmer
+T12	PhasesOfWater	69	80	Water vapor
+T13	Require	81	85	must
+T14	AmountChangingActions	86	90	lose
+T15	ThermalEnergy	91	102	heat energy
+T16	Precipitation	104	117	Precipitation
+T17	Require	118	122	must
+T18	Start	123	128	begin
+T19	LocationChangingActions	132	136	fall
+T20	LiquidMovement	141	144	run
+T21	PrepositionalDirections	145	148	off
+T22	PartsOfWaterCycle	150	163	Transpiration
+T23	PlantProcesses	150	163	Transpiration
+T24	Require	164	168	must
+T25	AmountChangingActions	169	172	add
+T26	CombineAdd	169	172	add
+T27	PhasesOfWater	173	184	water vapor
+T28	RelativeDirection	185	187	to
+T29	EarthPartsGrossGroundAtmosphere	192	202	atmosphere
+T30	LayersOfTheEarth	192	202	atmosphere

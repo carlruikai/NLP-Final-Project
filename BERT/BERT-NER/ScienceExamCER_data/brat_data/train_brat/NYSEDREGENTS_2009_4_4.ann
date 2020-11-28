@@ -1,0 +1,20 @@
+T1	RelativeTime	0	4	When
+T2	PhasesOfWater	8	11	ice
+T3	SolidMatter	8	11	ice
+T4	GeometricSpatialObjects	12	16	cube
+T5	PhaseChangingActions	17	22	melts
+T6	StateOfMatter	28	43	state of matter
+T7	Changes	44	51	changes
+T8	RelativeDirection	52	56	from
+T9	StateOfMatter	59	62	gas
+T10	RelativeDirection	63	65	to
+T11	StateOfMatter	68	74	liquid
+T12	StateOfMatter	75	80	solid
+T13	RelativeDirection	81	83	to
+T14	StateOfMatter	86	92	liquid
+T15	StateOfMatter	86	92	liquid
+T16	RelativeDirection	100	102	to
+T17	StateOfMatter	105	110	solid
+T18	StateOfMatter	105	110	solid
+T19	RelativeDirection	117	119	to
+T20	StateOfMatter	122	125	gas

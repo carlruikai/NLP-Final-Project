@@ -1,0 +1,24 @@
+T1	PERSON	0	4	Kate
+T2	Observe	5	9	sees
+T3	LunarPhases	12	21	full moon
+T4	ProbabilityAndCertainty	23	28	About
+T5	Method	29	32	how
+T6	RelativeNumber	33	37	much
+T7	MarkersOfTime	38	42	time
+T8	ProbabilityAndCertainty	43	47	will
+T9	Occur	48	53	go by
+T10	RelativeTime	54	60	before
+T11	TemporalProperty	65	69	next
+T12	LunarPhases	70	79	full moon
+T13	DURATION	81	89	one week
+T14	CardinalNumber	81	84	one
+T15	TimeUnit	85	89	week
+T16	DURATION	90	99	two weeks
+T17	CardinalNumber	90	93	two
+T18	TimeUnit	94	99	weeks
+T19	DURATION	100	109	one month
+T20	CardinalNumber	100	103	one
+T21	TimeUnit	104	109	month
+T22	DURATION	110	118	one year
+T23	CardinalNumber	110	113	one
+T24	TimeUnit	114	118	year

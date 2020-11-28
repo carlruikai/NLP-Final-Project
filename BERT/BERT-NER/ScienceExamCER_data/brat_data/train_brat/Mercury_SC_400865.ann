@@ -1,0 +1,14 @@
+T1	Event	5	10	event
+T2	Occur	11	18	happens
+T3	RelativeTime	19	21	in
+T4	Frequency	24	29	daily
+T5	Cycles	30	35	cycle
+T6	GeographicFormations	37	43	cliffs
+T7	ConstructiveDestructiveForces	44	49	erode
+T8	BodiesOfWater	50	56	rivers
+T9	NaturalPhenomena	57	62	flood
+T10	LiquidMovement	57	62	flood
+T11	GeographicFormations	63	72	volcanoes
+T12	NaturalPhenomena	73	78	erupt
+T13	TidesHighTideLowTide	79	83	high
+T14	TidesHighTideLowTide	88	96	low tide

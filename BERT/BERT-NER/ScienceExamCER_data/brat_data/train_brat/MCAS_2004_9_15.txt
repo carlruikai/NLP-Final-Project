@@ -1,0 +1,5 @@
+A 72 W navigation unit on a commercial aircraft has a 24 V power supply and uses 3 A of electric current. What is the electrical resistance of the navigation unit?
+4 ohms
+8 ohms
+13 ohms
+22 ohms

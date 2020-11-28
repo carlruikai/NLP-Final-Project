@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	RelativeLocations	6	14	external
+T3	Cause	15	23	stimulus
+T4	Cause	24	30	causes
+T5	Plant	33	38	plant
+T6	Move	42	46	bend
+T7	PrepositionalDirections	47	53	toward
+T8	Light	60	65	light
+T9	Source	66	72	source
+T10	MagneticForce	75	89	magnetic field
+T11	MagneticEnergy	75	89	magnetic field
+T12	ObjectQuantification	92	97	spray
+T13	PhasesOfWater	101	106	water
+T14	Source	109	115	source
+T15	WeatherPhenomena	119	123	wind

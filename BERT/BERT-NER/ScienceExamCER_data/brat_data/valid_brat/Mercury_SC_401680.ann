@@ -1,0 +1,45 @@
+T1	Source	0	8	Based on
+T2	ResponseType	9	17	analysis
+T3	Depth	21	25	deep
+T4	ArcheologicalProcessTechnique	26	34	ice core
+T5	RelativeDirection	36	40	from
+T6	TypesOfTerrestrialEcosystems	45	51	Arctic
+T7	Scientists	53	63	scientists
+T8	ConcludingResearch	64	72	theorize
+T9	RelativeTime	78	83	early
+T10	Human	84	90	humans
+T11	Cause	91	97	caused
+T12	EnvironmentalDamageDestruction	98	111	air pollution
+T13	LevelOfInclusion	113	118	These
+T14	Scientists	119	129	scientists
+T15	AbilityAvailability	130	133	can
+T16	Verify	134	143	make sure
+T17	WordsForData	150	154	data
+T18	StateOfBeing	155	157	is
+T19	Verify	158	165	correct
+T20	ProbabilityAndCertainty	158	165	correct
+T21	Cause	166	168	by
+T22	Examine	169	178	analyzing
+T23	AnalyzingResearch	169	178	analyzing
+T24	LevelOfInclusion	179	183	only
+T25	PhaseChangingActions	184	190	melted
+T26	ArcheologicalProcessTechnique	191	199	ice core
+T27	Examine	202	211	analyzing
+T28	AnalyzingResearch	202	211	analyzing
+T29	AmountComparison	212	216	more
+T30	Comparisons	217	221	than
+T31	CardinalNumber	222	225	one
+T32	NUMBER	222	225	one
+T33	ArcheologicalProcessTechnique	226	234	ice core
+T34	Examine	236	245	comparing
+T35	Comparisons	236	245	comparing
+T36	WordsForData	252	256	data
+T37	Believe	264	272	expected
+T38	Hypothesizing	264	272	expected
+T39	Result	273	280	results
+T40	Examine	282	291	comparing
+T41	Comparisons	282	291	comparing
+T42	WordsForData	298	302	data
+T43	RelativeTime	306	312	modern
+T44	EnvironmentalDamageDestruction	313	322	pollution
+T45	AmountComparison	323	329	levels

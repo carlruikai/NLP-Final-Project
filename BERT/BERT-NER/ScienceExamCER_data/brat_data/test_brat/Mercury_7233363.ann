@@ -1,0 +1,27 @@
+T1	Human	0	10	Scientists
+T2	GroupsOfScientists	0	10	Scientists
+T3	Examine	11	16	track
+T4	Composition	20	23	icy
+T5	CelestialObject	24	30	object
+T6	ContainBeComposedOf	31	35	with
+T7	CelestialMovement	39	44	orbit
+T8	LevelOfInclusion	50	56	ranges
+T9	RelativeDirection	57	61	from
+T10	Asteroid	66	77	Kuiper Belt
+T11	LOCATION	66	77	Kuiper Belt
+T12	RelativeDirection	78	80	to
+T13	Directions	83	87	path
+T14	RelativeLocations	88	95	between
+T15	InnerPlanets	96	101	Earth
+T16	LOCATION	96	101	Earth
+T17	Star	110	113	Sun
+T18	Method	115	118	How
+T19	ProbabilityAndCertainty	119	124	would
+T20	CelestialObject	130	136	object
+T21	QualityComparison	137	141	best
+T22	Classify	145	155	classified
+T23	AnalyzingResearch	145	155	classified
+T24	Asteroid	160	168	asteroid
+T25	Comet	171	176	comet
+T26	Meteor	179	185	meteor
+T27	Star	188	192	star

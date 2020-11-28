@@ -1,0 +1,25 @@
+T1	Use	4	7	use
+T2	SystemOfCommunication	15	23	Internet
+T3	TechnologicalInstrument	15	23	Internet
+T4	Changes	28	35	changed
+T5	LivingDying	36	40	life
+T6	RelativeNumber	45	49	many
+T7	Human	50	56	people
+T8	Cause	57	59	by
+T9	Complexity	60	68	directly
+T10	Permit	69	77	allowing
+T11	Create	86	91	build
+T12	Size	92	98	bigger
+T13	Comparisons	92	98	bigger
+T14	ManmadeLocations	99	105	houses
+T15	Communicate	107	118	communicate
+T16	Comparisons	119	125	faster
+T17	Speed	119	125	faster
+T18	MechanicalMovement	127	132	drive
+T19	Transportation	127	132	drive
+T20	Size	133	139	larger
+T21	Comparisons	133	139	larger
+T22	LandVehicle	140	144	cars
+T23	ActionsForAnimals	146	149	eat
+T24	Consumption	146	149	eat
+T25	Foods	150	159	junk food

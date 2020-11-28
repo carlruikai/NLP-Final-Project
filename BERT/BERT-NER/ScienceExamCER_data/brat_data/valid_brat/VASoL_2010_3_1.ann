@@ -1,0 +1,16 @@
+T1	Fungi	0	4	Mold
+T2	StateOfBeing	5	7	is
+T3	Frequency	8	13	often
+T4	VerbsForLocate	14	19	found
+T5	Growth	20	27	growing
+T6	RelativeLocations	28	30	on
+T7	Age	31	34	old
+T8	Foods	35	40	bread
+T9	RelativeLocations	42	44	In
+T10	FoodChain	47	57	food chain
+T11	Fungi	59	63	mold
+T12	StateOfBeing	64	66	is
+T13	PartsOfTheFoodChain	74	84	decomposer
+T14	PartsOfTheFoodChain	85	93	producer
+T15	PartsOfTheFoodChain	94	102	consumer
+T16	TypeOfConsumer	103	112	scavenger

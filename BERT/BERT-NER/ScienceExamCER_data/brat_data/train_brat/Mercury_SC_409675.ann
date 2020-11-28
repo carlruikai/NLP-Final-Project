@@ -1,0 +1,41 @@
+T1	Scientists	2	11	scientist
+T2	LocationChangingActions	12	15	put
+T3	RelativeNumber	16	23	several
+T4	Comparisons	24	33	different
+T5	Plant	34	40	plants
+T6	RelativeLocations	41	43	in
+T7	PhysicalProperty	46	52	sealed
+T8	LiquidHoldingContainersRecepticles	53	62	container
+T9	LevelOfInclusion	64	69	Every
+T10	TimeUnit	70	74	hour
+T11	Examine	80	87	checked
+T12	Element	92	98	oxygen
+T13	RelativeLocations	99	101	in
+T14	LiquidHoldingContainersRecepticles	106	115	container
+T15	Observe	119	122	see
+T16	Changes	129	136	changed
+T17	Method	138	141	How
+T18	PerformAnActivity	142	145	did
+T19	Element	150	156	oxygen
+T20	RelativeLocations	157	159	in
+T21	LiquidHoldingContainersRecepticles	164	173	container
+T22	AmountComparison	174	178	most
+T23	ProbabilityAndCertainty	179	185	likely
+T24	Changes	186	192	change
+T25	Numbers	198	204	amount
+T26	Element	208	214	oxygen
+T27	AmountChangingActions	215	224	increased
+T28	IncreaseDecrease	215	224	increased
+T29	Numbers	230	236	amount
+T30	Element	240	246	oxygen
+T31	AmountChangingActions	247	256	decreased
+T32	IncreaseDecrease	247	256	decreased
+T33	Element	262	268	oxygen
+T34	StateOfBeing	269	272	was
+T35	ChangeInto	273	289	transformed into
+T36	PhasesOfWater	290	295	water
+T37	LiquidMatter	290	295	water
+T38	Element	301	307	oxygen
+T39	StateOfBeing	308	311	was
+T40	ChangeInto	312	328	transformed into
+T41	Compound	329	343	carbon dioxide

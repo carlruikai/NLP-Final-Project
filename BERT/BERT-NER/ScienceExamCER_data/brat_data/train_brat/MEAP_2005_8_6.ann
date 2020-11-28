@@ -1,0 +1,57 @@
+T1	EcosystemsEnvironment	0	13	Environmental
+T2	Group	14	27	organizations
+T3	Communicate	33	38	asked
+T4	BusinessIndustry	39	49	businesses
+T5	PerformAnActivity	53	64	take action
+T6	Goal	65	67	to
+T7	AmountChangingActions	68	74	reduce
+T8	Toxins	75	80	waste
+T9	ManmadeObjects	75	80	waste
+T10	LevelOfInclusion	82	87	Which
+T11	LevelOfInclusion	91	104	the following
+T12	Changes	105	112	changes
+T13	AbilityAvailability	113	118	could
+T14	ManmadeLocations	121	129	business
+T15	PerformAnActivity	130	134	make
+T16	Goal	135	146	in order to
+T17	ChangeInto	147	153	become
+T18	StateOfBeing	147	153	become
+T19	AmountComparison	154	158	more
+T20	PropertyOfProduction	160	184	environmentally friendly
+T21	Buy	187	195	Purchase
+T22	LevelOfInclusion	196	200	only
+T23	Alter	201	209	recycled
+T24	Preserve	201	209	recycled
+T25	NaturalMaterial	210	215	paper
+T26	NaturalMaterial	210	215	paper
+T27	Products	226	234	products
+T28	RelativeTime	236	240	When
+T29	Create	241	247	making
+T30	ManmadeObjects	248	259	photocopies
+T31	Representation	248	259	photocopies
+T32	ActUponSomething	261	266	print
+T33	RelativeLocations	267	269	on
+T34	LevelOfInclusion	270	274	only
+T35	CardinalNumber	275	278	one
+T36	NUMBER	275	278	one
+T37	ObjectPart	279	283	side
+T38	NaturalMaterial	291	296	paper
+T39	Buy	298	306	Purchase
+T40	NaturalMaterial	307	311	wood
+T41	Products	312	320	products
+T42	Create	321	333	manufactured
+T43	BusinessIndustry	321	333	manufactured
+T44	LevelOfInclusion	334	338	only
+T45	RelativeLocations	339	341	in
+T46	Comparisons	342	347	other
+T47	Countries	348	357	countries
+T48	RelativeTime	359	363	When
+T49	CombineAdd	364	371	packing
+T50	ManmadeObjects	372	377	boxes
+T51	Use	379	382	use
+T52	SyntheticMaterial	383	392	Styrofoam
+T53	Substances	394	400	filler
+T54	Negations	401	411	instead of
+T55	Age	412	415	old
+T56	SystemOfCommunication	416	426	newspapers
+T57	WrittenMedia	416	426	newspapers

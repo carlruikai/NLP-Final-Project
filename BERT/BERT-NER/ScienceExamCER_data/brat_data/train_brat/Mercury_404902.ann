@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Classification	15	21	groups
+T4	ContainBeComposedOf	22	30	contains
+T5	OtherOrganismProperties	31	44	single-celled
+T6	LivingThing	45	54	organisms
+T7	Bird	56	61	birds
+T8	Plant	62	68	plants
+T9	Fungi	69	75	fungus
+T10	Animal	76	83	animals

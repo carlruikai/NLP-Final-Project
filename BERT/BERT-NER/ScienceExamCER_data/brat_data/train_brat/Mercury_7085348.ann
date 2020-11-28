@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Create	15	23	provides
+T4	Quality	28	32	best
+T5	QualityComparison	28	32	best
+T6	ConcludingResearch	33	41	evidence
+T7	WordsForData	33	41	evidence
+T8	EcosystemsEnvironment	51	62	environment
+T9	InnerPlanets	66	71	Earth
+T10	LOCATION	66	71	Earth
+T11	Changes	76	83	changed
+T12	TemporalProperty	84	88	over
+T13	ArithmeticMeasure	89	97	millions
+T14	TimeUnit	101	106	years
+T15	PropertyOfMotion	108	114	active
+T16	Move	115	124	migration
+T17	GeographicFormations	128	138	sand dunes
+T18	VisualProperty	139	147	polished
+T19	VisualProperty	148	158	appearance
+T20	Rock	162	166	rock
+T21	ObjectPart	167	175	surfaces
+T22	FossilTypesIndexFossil	176	190	marine fossils
+T23	VerbsForLocate	191	196	found
+T24	Discovery	191	196	found
+T25	RelativeLocations	197	199	in
+T26	FossilLocationImplicationsOfLocationEXMarineAnimalFossilsInTheGrandCanyon	200	209	mountains
+T27	GeographicFormations	200	209	mountains
+T28	AnimalPart	210	215	bones
+T29	Animal	219	226	animals
+T30	VerbsForLocate	227	232	found
+T31	Discovery	227	232	found
+T32	RelativeLocations	233	235	on
+T33	TerrestrialLocations	240	246	ground

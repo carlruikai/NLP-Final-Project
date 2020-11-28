@@ -1,0 +1,27 @@
+T1	Size	2	7	large
+T2	StateOfMatter	9	14	solid
+T3	Shape	15	24	spherical
+T4	CelestialObject	25	29	body
+T5	RelativeLocations	30	32	in
+T6	SolarSystem	37	49	solar system
+T7	StateOfBeing	50	52	is
+T8	Classify	53	63	classified
+T9	Moon	69	73	moon
+T10	LevelOfInclusion	75	80	Which
+T11	Property	81	95	characteristic
+T12	CelestialObject	103	107	body
+T13	Cause	108	113	gives
+T14	Classification	122	136	classification
+T15	CelestialMovement	141	148	rotates
+T16	Position	149	160	on its axis
+T17	Negations	165	170	lacks
+T18	StateOfMatter	171	177	liquid
+T19	PhasesOfWater	178	183	water
+T20	LiquidMatter	178	183	water
+T21	CelestialMovement	188	194	orbits
+T22	DistanceComparison	197	203	nearby
+T23	Planet	204	210	planet
+T24	LightMovement	215	223	reflects
+T25	Light	224	229	light
+T26	RelativeDirection	230	234	from
+T27	Star	237	241	star

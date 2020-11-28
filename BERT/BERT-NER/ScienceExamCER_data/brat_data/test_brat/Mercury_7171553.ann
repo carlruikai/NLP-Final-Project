@@ -1,0 +1,25 @@
+T1	CardinalNumber	0	5	Three
+T2	NUMBER	0	5	Three
+T3	StarTypes	6	19	main sequence
+T4	Star	20	25	stars
+T5	StateOfBeing	30	35	being
+T6	Examine	36	44	compared
+T7	Comparisons	36	44	compared
+T8	LevelOfInclusion	46	51	Which
+T9	Property	52	66	characteristic
+T10	ProbabilityAndCertainty	67	72	would
+T11	LevelOfInclusion	73	78	these
+T12	CardinalNumber	79	84	three
+T13	NUMBER	79	84	three
+T14	Star	85	90	stars
+T15	AmountComparison	91	95	most
+T16	ProbabilityAndCertainty	96	102	likely
+T17	ContainBeComposedOf	103	107	have
+T18	Comparisons	108	117	in common
+T19	Composition	119	139	chemical composition
+T20	Distance	140	148	distance
+T21	RelativeDirection	149	153	from
+T22	InnerPlanets	154	159	Earth
+T23	LOCATION	154	159	Earth
+T24	Temperature	160	171	temperature
+T25	Brightness	172	182	brightness

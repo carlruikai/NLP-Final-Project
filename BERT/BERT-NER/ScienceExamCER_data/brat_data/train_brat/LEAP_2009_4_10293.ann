@@ -1,0 +1,27 @@
+T1	Human	0	11	Mrs. Tucker
+T2	ActUponSomething	12	17	gives
+T3	CombineAdd	12	17	gives
+T4	GroupsOfScientists	22	27	class
+T5	TypesOfEvent	22	27	class
+T6	ObjectQuantification	28	35	samples
+T7	Comparisons	39	48	different
+T8	Soil	49	53	soil
+T9	Exemplar	54	59	types
+T10	LevelOfInclusion	61	66	Which
+T11	Actions	67	73	action
+T12	Quality	74	78	best
+T13	QualityComparison	74	78	best
+T14	Help	79	84	helps
+T15	PERSON	85	92	Tanisha
+T16	Classify	93	101	identify
+T17	Identify	93	101	identify
+T18	LevelOfInclusion	102	106	each
+T19	Soil	107	111	soil
+T20	Exemplar	112	116	type
+T21	SensoryTerms	118	126	smelling
+T22	SensoryTerms	130	138	touching
+T23	Touch	130	138	touching
+T24	Mass	142	150	weighing
+T25	Measurements	142	150	weighing
+T26	Measurements	154	163	measuring
+T27	Examine	154	163	measuring

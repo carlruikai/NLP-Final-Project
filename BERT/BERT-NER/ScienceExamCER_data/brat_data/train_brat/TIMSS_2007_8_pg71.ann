@@ -1,0 +1,14 @@
+T1	Cell	0	5	Cells
+T2	TransferEnergy	11	18	conduct
+T3	Communicate	19	27	messages
+T4	StateOfBeing	28	31	are
+T5	Classify	32	37	known
+T6	Cell	41	50	skin cell
+T7	PartsOfTheIntegumentarySystem	41	50	skin cell
+T8	Cell	52	63	nerve cells
+T9	PartsOfTheNervousSystem	52	63	nerve cells
+T10	Blood	64	69	blood
+T11	Cell	70	75	cells
+T12	PartsOfTheExcretorySystem	76	82	kidney
+T13	PartsOfEndocrineSystem	76	82	kidney
+T14	Cell	83	88	cells

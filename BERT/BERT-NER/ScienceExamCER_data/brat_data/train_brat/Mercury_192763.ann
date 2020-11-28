@@ -1,0 +1,13 @@
+T1	StateOfBeing	5	7	is
+T2	Source	12	18	source
+T3	FossilFuel	22	27	fuels
+T4	Exemplar	28	35	such as
+T5	FossilFuel	36	40	coal
+T6	FossilFuel	45	56	natural gas
+T7	TemporalProperty	58	62	once
+T8	LivingDying	63	69	living
+T9	LivingThing	70	79	organisms
+T10	BodiesOfWater	80	97	cold-water oceans
+T11	NaturalPhenomena	98	106	erupting
+T12	GeographicFormations	107	116	volcanoes
+T13	NaturalPhenomena	117	129	forest fires

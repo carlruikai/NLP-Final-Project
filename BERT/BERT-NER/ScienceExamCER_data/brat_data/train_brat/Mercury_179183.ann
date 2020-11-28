@@ -1,0 +1,22 @@
+T1	OrganicProcesses	4	11	process
+T2	RelativeLocations	12	14	by
+T3	LevelOfInclusion	15	20	which
+T4	LivingThing	21	30	organisms
+T5	ContainBeComposedOf	31	35	with
+T6	Quality	36	45	favorable
+T7	GeneticProperty	46	56	variations
+T8	Reproduction	57	66	reproduce
+T9	StateOfBeing	67	69	at
+T10	Comparisons	70	76	higher
+T11	MeasuringSpeed	77	82	rates
+T12	Numbers	77	82	rates
+T13	Comparisons	83	87	than
+T14	LevelOfInclusion	88	93	those
+T15	Negations	94	101	without
+T16	GeneticProperty	107	117	variations
+T17	StateOfBeing	118	120	is
+T18	Evolution	121	141	disruptive selection
+T19	Evolution	143	160	natural selection
+T20	NaturalSelection	143	160	natural selection
+T21	Evolution	162	178	sexual selection
+T22	Evolution	180	201	directional selection

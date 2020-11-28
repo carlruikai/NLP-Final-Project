@@ -1,0 +1,25 @@
+T1	Problem	2	17	negative effect
+T2	Create	25	34	invention
+T3	Use	39	42	use
+T4	ManmadeObjects	46	51	paper
+T5	StateOfBeing	52	54	is
+T6	AmountChangingActions	59	68	increased
+T7	IncreaseDecrease	59	68	increased
+T8	Use	69	72	use
+T9	SyntheticMaterial	76	81	glass
+T10	LiquidHoldingContainersRecepticles	82	89	bottles
+T11	AmountChangingActions	91	100	increased
+T12	IncreaseDecrease	91	100	increased
+T13	Numbers	101	107	number
+T14	Plant	111	116	trees
+T15	StopRemove	117	125	cut down
+T16	AmountChangingActions	127	136	decreased
+T17	IncreaseDecrease	127	136	decreased
+T18	EnvironmentalDamageDestruction	137	146	pollution
+T19	RelativeLocations	147	149	in
+T20	ManmadeLocations	150	161	trash dumps
+T21	AmountChangingActions	163	172	decreased
+T22	IncreaseDecrease	163	172	decreased
+T23	Numbers	173	179	amount
+T24	WrittenMedia	183	188	books
+T25	Examine	192	196	read

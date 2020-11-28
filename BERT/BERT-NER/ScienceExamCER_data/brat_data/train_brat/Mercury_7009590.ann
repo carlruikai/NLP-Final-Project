@@ -1,0 +1,26 @@
+T1	Occur	5	11	occurs
+T2	RelativeTime	12	14	if
+T3	AnimalPart	19	23	body
+T4	PartsOfTheExcretorySystem	26	38	renal system
+T5	StopRemove	39	44	fails
+T6	PerformAnActivity	48	52	work
+T7	RespirationActions	54	66	Gas exchange
+T8	StateOfBeing	67	69	is
+T9	Ability	70	78	impaired
+T10	Blood	80	85	Blood
+T11	MuscularSystemActions	86	97	oxygenation
+T12	Negations	98	100	no
+T13	TemporalProperty	101	107	longer
+T14	Occur	108	114	occurs
+T15	Metabolism	116	131	Metabolic waste
+T16	Collect	132	141	builds up
+T17	RelativeLocations	142	144	in
+T18	Blood	149	154	blood
+T19	Nutrition	156	165	Nutrients
+T20	StateOfBeing	166	169	are
+T21	Negations	170	172	no
+T22	TemporalProperty	173	179	longer
+T23	CirculationActions	180	191	transported
+T24	Transportation	180	191	transported
+T25	RelativeDirection	192	194	to
+T26	AnimalPart	195	201	organs

@@ -1,0 +1,33 @@
+T1	GroupsOfScientists	0	10	Scientists
+T2	Examine	16	25	monitored
+T3	Observe	16	25	monitored
+T4	Numbers	30	36	amount
+T5	PH	40	44	acid
+T6	Substances	40	44	acid
+T7	Precipitation	45	53	rainfall
+T8	RelativeLocations	47	49	in
+T9	GeopoliticalLocations	57	73	Frederick County
+T10	States	75	83	Maryland
+T11	RelativeTime	85	90	since
+T12	DATE	91	95	1982
+T13	Human	97	103	Humans
+T14	RelativeLocations	104	106	in
+T15	GeopoliticalLocations	107	123	Frederick County
+T16	StateOfBeing	124	127	are
+T17	Alter	128	136	affected
+T18	Cause	137	139	by
+T19	PH	140	149	acid rain
+T20	Precipitation	140	149	acid rain
+T21	Cause	150	157	because
+T22	PH	158	167	acid rain
+T23	Precipitation	158	167	acid rain
+T24	Alter	168	174	alters
+T25	WeatherPhenomena	175	179	wind
+T26	Pattern	180	188	patterns
+T27	EarthPartsGrossGroundAtmosphere	189	192	air
+T28	Temperature	193	205	temperatures
+T29	Quality	210	217	quality
+T30	PhasesOfWater	221	226	water
+T31	LiquidMatter	221	226	water
+T32	Numbers	231	237	amount
+T33	Precipitation	241	254	precipitation

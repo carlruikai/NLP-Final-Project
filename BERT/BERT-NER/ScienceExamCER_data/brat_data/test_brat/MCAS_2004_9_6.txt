@@ -1,0 +1,5 @@
+Two workers are using a scaffold. One worker weighs 180 lbs. and the other weighs 200 lbs. Impact effects are assumed to increase the live load of the workers' weight by 25 percent. What is the resultant maximum live load, in pounds, that can be expected from the two workers supported by the scaffold?
+380 lbs.
+475 lbs.
+625 lbs.
+950 lbs.

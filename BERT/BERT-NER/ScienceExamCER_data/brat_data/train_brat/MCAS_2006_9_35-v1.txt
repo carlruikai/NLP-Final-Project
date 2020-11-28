@@ -1,0 +1,5 @@
+What is the frequency of ocean waves that have a speed of 18 m/s and a wavelength of 50 m?
+0.18 Hz
+0.36 Hz
+2.8 Hz
+9.0 Hz

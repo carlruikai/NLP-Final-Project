@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	Complexity	18	26	directly
+T5	Create	27	33	formed
+T6	Cause	34	48	as a result of
+T7	ConstructiveDestructiveForces	49	59	weathering
+T8	NaturalPhenomena	49	59	weathering
+T9	ConstructiveDestructiveForces	64	71	erosion
+T10	NaturalPhenomena	64	71	erosion
+T11	Minerals	73	81	crystals
+T12	Sedimentary	82	91	sediments
+T13	Igneous	92	99	igneous
+T14	Rock	100	105	rocks
+T15	Metamorphic	106	117	metamorphic
+T16	Rock	118	123	rocks

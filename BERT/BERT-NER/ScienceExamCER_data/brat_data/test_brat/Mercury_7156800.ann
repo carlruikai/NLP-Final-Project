@@ -1,0 +1,49 @@
+T1	Genetics	0	7	Peptide
+T2	DigestiveSubstances	0	7	Peptide
+T3	MolecularProperties	8	13	bonds
+T4	RelativeLocations	14	16	in
+T5	NutritiveSubstancesForAnimalsOrPlants	17	25	proteins
+T6	AbilityAvailability	26	29	can
+T7	StateOfBeing	30	32	be
+T8	DigestionActions	33	44	broken down
+T9	Cause	45	47	by
+T10	DigestiveSubstances	52	58	enzyme
+T11	NutritiveSubstancesForAnimalsOrPlants	52	58	enzyme
+T12	DigestiveSubstances	59	68	peptidase
+T13	PERSON	70	76	Adrian
+T14	Buy	77	83	orders
+T15	Foods	86	95	hamburger
+T16	Foods	100	112	French fries
+T17	Meals	117	122	lunch
+T18	CombineAdd	127	131	adds
+T19	Foods	132	138	cheese
+T20	Foods	143	153	mayonnaise
+T21	RelativeDirection	154	156	to
+T22	Foods	161	170	hamburger
+T23	RelativeTime	176	180	then
+T24	ActionsForAnimals	181	185	sits
+T25	Position	181	185	sits
+T26	RelativeDirection	186	190	down
+T27	ActionsForAnimals	194	197	eat
+T28	Consumption	194	197	eat
+T29	Meals	198	203	lunch
+T30	CombineAdd	204	208	with
+T31	Human	213	220	friends
+T32	LevelOfInclusion	222	227	Which
+T33	Substances	228	237	structure
+T34	ProbabilityAndCertainty	238	243	would
+T35	AmountComparison	244	248	most
+T36	ProbabilityAndCertainty	249	255	likely
+T37	Result	256	262	result
+T38	Cause	263	267	from
+T39	Actions	272	278	action
+T40	DigestiveSubstances	282	291	peptidase
+T41	RelativeLocations	292	294	in
+T42	PERSON	295	301	Adrian
+T43	PartsOfTheDigestiveSystem	304	319	small intestine
+T44	NutritiveSubstancesForAnimalsOrPlants	321	326	lipid
+T45	DigestiveSubstances	327	334	glucose
+T46	NutritiveSubstancesForAnimalsOrPlants	327	334	glucose
+T47	PartsOfDNA	335	345	amino acid
+T48	NutritiveSubstancesForAnimalsOrPlants	335	345	amino acid
+T49	OrganicCompounds	346	357	hydrocarbon

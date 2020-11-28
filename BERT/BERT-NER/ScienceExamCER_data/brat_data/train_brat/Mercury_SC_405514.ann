@@ -1,0 +1,42 @@
+T1	Scientists	2	9	student
+T2	Method	10	15	plans
+T3	Create	19	25	design
+T4	Age	28	31	new
+T5	ManmadeObjects	32	47	toothpaste tube
+T6	ProbabilityAndCertainty	53	57	will
+T7	CombineAdd	58	62	give
+T8	Create	58	62	give
+T9	Comparisons	67	71	same
+T10	Numbers	72	78	amount
+T11	ManmadeObjects	82	92	toothpaste
+T12	LevelOfInclusion	93	98	every
+T13	MarkersOfTime	99	103	time
+T14	StateOfBeing	107	109	is
+T15	PushingActions	110	118	squeezed
+T16	LevelOfInclusion	120	125	Which
+T17	Require	126	132	should
+T18	Scientists	137	144	student
+T19	PerformAnActivity	145	147	do
+T20	TemporalProperty	148	153	first
+T21	ORDINAL	148	153	first
+T22	RelativeTime	154	158	when
+T23	Create	159	168	designing
+T24	Age	173	176	new
+T25	ManmadeObjects	177	181	tube
+T26	Create	183	187	make
+T27	WordsForData	190	194	data
+T28	Representation	195	200	table
+T29	Numbers	204	211	amounts
+T30	ManmadeObjects	215	225	toothpaste
+T31	Collect	226	232	gather
+T32	Create	233	241	building
+T33	Material	242	251	materials
+T34	Create	252	258	create
+T35	Representation	259	265	models
+T36	Age	269	272	old
+T37	ManmadeObjects	273	289	toothpaste tubes
+T38	Create	290	294	draw
+T39	Representation	290	294	draw
+T40	RelativeNumber	295	300	a few
+T41	ProbabilityAndCertainty	301	309	possible
+T42	Goal	310	319	solutions

@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Adaptation	6	16	adaptation
+T3	ProbabilityAndCertainty	17	21	will
+T4	Communicate	22	26	warn
+T5	Animal	27	36	predators
+T6	Negations	37	40	not
+T7	ActionsForAnimals	44	47	eat
+T8	Consumption	44	47	eat
+T9	Animal	51	57	animal
+T10	Color	59	72	bright colors
+T11	VisualProperty	73	80	bulging
+T12	AnimalPart	81	85	eyes
+T13	Shape	86	102	geometric shapes
+T14	Toxins	103	112	poisonous
+T15	EndocrineActions	113	123	secretions

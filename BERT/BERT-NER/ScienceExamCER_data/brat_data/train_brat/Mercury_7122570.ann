@@ -1,0 +1,15 @@
+T1	Unit	5	9	unit
+T2	PerformAnActivity	10	12	do
+T3	Human	13	23	scientists
+T4	GroupsOfScientists	13	23	scientists
+T5	Use	24	27	use
+T6	Measurements	31	38	measure
+T7	Distance	43	51	distance
+T8	RelativeLocations	52	59	between
+T9	Star	60	65	stars
+T10	DistanceUnit	67	77	light-year
+T11	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	67	77	light-year
+T12	DistanceUnit	78	91	angstrom unit
+T13	DistanceUnit	92	109	astronomical unit
+T14	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	92	109	astronomical unit
+T15	CelestialMeasurements	110	128	apparent magnitude

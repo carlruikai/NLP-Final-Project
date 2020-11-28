@@ -1,0 +1,5 @@
+At what time on a sunny day will the shadow of the school's flagpole be the shortest?
+sunrise
+noon
+mid-afternoon
+sunset

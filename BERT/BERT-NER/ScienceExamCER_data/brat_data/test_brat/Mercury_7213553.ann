@@ -1,0 +1,15 @@
+T1	LandVehicle	3	13	automobile
+T2	VehicularSystemsParts	14	20	engine
+T3	Changes	21	31	transforms
+T4	Energy	32	47	chemical energy
+T5	FossilFuel	51	55	fuel
+T6	ImportanceComparison	56	65	primarily
+T7	ChangeInto	66	70	into
+T8	ElectricalEnergy	71	88	electrical energy
+T9	Spectra	93	105	light energy
+T10	ElectricalEnergy	107	124	electrical energy
+T11	Energy	129	146	mechanical energy
+T12	ThermalEnergy	148	162	thermal energy
+T13	Spectra	167	179	light energy
+T14	ThermalEnergy	181	195	thermal energy
+T15	Energy	200	217	mechanical energy

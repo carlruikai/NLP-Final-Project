@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	Negations	18	21	not
+T5	Exemplar	25	32	example
+T6	PhysicalChange	38	62	physical change of state
+T7	PhaseChanges	38	62	physical change of state
+T8	PhaseChangingActions	64	71	boiling
+T9	CombineAdd	72	80	stirring
+T10	PhaseChangingActions	81	89	freezing
+T11	PhaseChangingActions	90	101	evaporating

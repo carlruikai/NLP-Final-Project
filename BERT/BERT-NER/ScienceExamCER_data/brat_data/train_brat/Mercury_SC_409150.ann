@@ -1,0 +1,41 @@
+T1	PERSON	0	7	Kendall
+T2	Examine	8	15	studied
+T3	PerformingResearch	8	15	studied
+T4	Method	20	24	ways
+T5	LevelOfInclusion	28	33	which
+T6	Human	34	39	human
+T7	AnimalSystemsProcesses	40	52	body systems
+T8	PerformAnActivity	53	57	work
+T9	Relations	58	66	together
+T10	Examine	71	79	compared
+T11	Comparisons	71	79	compared
+T12	RespiratorySystem	84	95	respiratory
+T13	CirculatorySystem	100	118	circulatory system
+T14	LevelOfInclusion	124	129	which
+T15	Method	130	133	way
+T16	StateOfBeing	134	137	are
+T17	LevelOfInclusion	138	143	these
+T18	CardinalNumber	144	147	two
+T19	NUMBER	144	147	two
+T20	AnimalSystemsProcesses	148	155	systems
+T21	Comparisons	156	163	similar
+T22	LevelOfInclusion	184	188	both
+T23	Transportation	189	194	bring
+T24	Element	195	201	oxygen
+T25	GaseousMatter	195	201	oxygen
+T26	RelativeDirection	202	204	to
+T27	AnimalPart	209	213	body
+T28	LevelOfInclusion	220	224	both
+T29	LocationChangingActions	225	229	send
+T30	Transportation	225	229	send
+T31	Communicate	230	238	messages
+T32	RelativeDirection	239	241	to
+T33	AnimalPart	246	250	body
+T34	LevelOfInclusion	257	261	both
+T35	DigestionActions	262	268	digest
+T36	Nutrition	269	278	nutrients
+T37	AnimalPart	287	291	body
+T38	LevelOfInclusion	298	302	both
+T39	CirculationActions	303	313	pump blood
+T40	PrepositionalDirections	314	321	through
+T41	AnimalPart	326	330	body

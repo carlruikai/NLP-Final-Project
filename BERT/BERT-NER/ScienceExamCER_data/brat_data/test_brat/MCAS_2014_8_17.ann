@@ -1,0 +1,38 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Exemplar	29	36	example
+T5	Reproduction	40	60	asexual reproduction
+T6	Reptile	62	69	Turtles
+T7	ActionsForAnimals	70	73	lay
+T8	Reproduction	74	84	fertilized
+T9	PrenatalOrganismStates	85	89	eggs
+T10	RelativeLocations	90	92	in
+T11	ExamplesOfHabitats	95	98	pit
+T12	TerrestrialLocations	95	98	pit
+T13	RelativeLocations	99	101	in
+T14	Soil	106	110	sand
+T15	PlantPart	112	117	Seeds
+T16	Create	118	122	form
+T17	Development	118	122	form
+T18	RelativeLocations	123	125	in
+T19	PlantPart	126	136	pine cones
+T20	RelativeTime	137	142	after
+T21	PlantPart	143	149	pollen
+T22	Touch	150	157	reaches
+T23	PlantPart	162	167	cones
+T24	Aquatic	169	173	Fish
+T25	Release	174	181	release
+T26	PartsOfTheReproductiveSystem	182	190	egg cell
+T27	PartsOfTheReproductiveSystem	196	207	sperm cells
+T28	RelativeLocations	208	210	at
+T29	ObjectPart	215	222	surface
+T30	PhasesOfWater	230	235	water
+T31	LiquidMatter	230	235	water
+T32	Plant	237	242	Trees
+T33	LocationChangingActions	243	247	send
+T34	RelativeDirection	248	251	out
+T35	PlantPart	252	271	rootlike extensions
+T36	Create	277	284	produce
+T37	Age	285	288	new
+T38	PlantPart	289	294	stems

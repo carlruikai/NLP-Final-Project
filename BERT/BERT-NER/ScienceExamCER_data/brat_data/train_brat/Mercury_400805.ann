@@ -1,0 +1,18 @@
+T1	Element	0	9	Manganese
+T2	ContainBeComposedOf	10	13	has
+T3	AtomicProperties	17	30	atomic number
+T4	NUMBER	34	36	25
+T5	AtomicProperties	44	55	atomic mass
+T6	NUMBER	59	61	55
+T7	MassUnit	62	65	amu
+T8	RelativeNumber	71	75	many
+T9	Particles	76	85	particles
+T10	AtomComponents	76	85	particles
+T11	StateOfBeing	86	89	are
+T12	VerbsForLocate	90	95	found
+T13	RelativeLocations	96	98	in
+T14	AtomComponents	103	110	nucleus
+T15	NUMBER	112	114	25
+T16	NUMBER	115	117	30
+T17	NUMBER	118	120	55
+T18	NUMBER	121	123	80

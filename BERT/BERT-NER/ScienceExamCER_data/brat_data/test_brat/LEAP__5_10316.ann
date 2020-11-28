@@ -1,0 +1,15 @@
+T1	StateOfBeing	5	7	is
+T2	Rarity	10	16	common
+T3	Use	17	20	use
+T4	Minerals	28	35	mineral
+T5	Minerals	36	44	graphite
+T6	Create	49	53	make
+T7	SyntheticMaterial	54	59	glass
+T8	SolidMatter	54	59	glass
+T9	StateOfBeing	56	58	as
+T10	Source	65	71	source
+T11	Element	75	79	iron
+T12	Create	83	87	make
+T13	ManmadeObjects	88	100	pencil leads
+T14	StateOfBeing	101	103	as
+T15	ChemicalProduct	106	123	household cleaner

@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	BodiesOfWater	23	29	stream
+T4	Property	30	45	characteristics
+T5	AmountComparison	46	50	most
+T6	Complexity	51	59	directly
+T7	Alter	60	67	affects
+T8	BodiesOfWater	68	74	stream
+T9	ChangeInLocation	75	86	depositions
+T10	PartsOfBodiesOfWater	88	96	gradient
+T11	Height	97	106	elevation
+T12	Position	107	111	base
+T13	AmountComparison	112	117	level
+T14	PhasesOfWater	118	123	water
+T15	Quality	124	131	quality

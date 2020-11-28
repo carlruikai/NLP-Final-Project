@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	InnerPlanets	23	28	Earth
+T4	LOCATION	23	28	Earth
+T5	ObjectQuantification	29	35	layers
+T6	ContainBeComposedOf	36	39	has
+T7	AmountComparison	44	52	greatest
+T8	PhysicalProperty	53	60	density
+T9	LayersOfTheEarth	62	67	crust
+T10	LayersOfTheEarth	68	74	mantle
+T11	LayersOfTheEarth	75	85	inner core
+T12	LayersOfTheEarth	86	96	outer core

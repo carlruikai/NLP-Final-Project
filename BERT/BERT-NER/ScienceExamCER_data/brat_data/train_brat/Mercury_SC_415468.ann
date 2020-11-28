@@ -1,0 +1,17 @@
+T1	AmountComparison	0	5	Heavy
+T2	Precipitation	6	11	rains
+T3	Cause	12	17	cause
+T4	NaturalPhenomena	18	26	flooding
+T5	RelativeLocations	23	25	in
+T6	GeographicFormations	32	38	valley
+T7	LevelOfInclusion	40	45	Which
+T8	Animal	46	53	animals
+T9	ProbabilityAndCertainty	54	59	would
+T10	AmountComparison	60	64	most
+T11	ProbabilityAndCertainty	65	71	likely
+T12	LivingDying	72	78	thrive
+T13	Succeed	72	78	thrive
+T14	Mammal	80	90	porcupines
+T15	Aquatic	91	97	otters
+T16	Mammal	98	102	deer
+T17	Mammal	103	107	mice

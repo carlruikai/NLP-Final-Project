@@ -1,0 +1,26 @@
+T1	PlantPart	4	9	cones
+T2	Gymnosperm	15	29	jack pine tree
+T3	Require	30	37	require
+T4	RelativeNumber	38	43	great
+T5	Numbers	44	51	amounts
+T6	ThermalEnergy	55	59	heat
+T7	Result	60	62	to
+T8	Release	63	70	release
+T9	PlantPart	77	82	seeds
+T10	RelativeTime	84	88	When
+T11	StateOfBeing	89	92	are
+T12	Gymnosperm	93	107	jack pine tree
+T13	PlantPart	108	113	seeds
+T14	AmountComparison	114	118	most
+T15	ProbabilityAndCertainty	119	125	likely
+T16	Release	126	134	released
+T17	RelativeTime	136	142	during
+T18	NaturalPhenomena	145	150	flood
+T19	LiquidMovement	145	150	flood
+T20	RelativeTime	151	156	after
+T21	NaturalPhenomena	159	163	fire
+T22	RelativeTime	164	170	during
+T23	NaturalPhenomena	173	180	drought
+T24	WeatherPhenomena	173	180	drought
+T25	RelativeTime	181	186	after
+T26	Sickness	189	196	disease

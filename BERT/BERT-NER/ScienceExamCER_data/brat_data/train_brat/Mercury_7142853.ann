@@ -1,0 +1,32 @@
+T1	PlantProcesses	0	20	Secondary succession
+T2	EnvironmentalPhenomena	0	20	Secondary succession
+T3	StateOfBeing	21	23	is
+T4	OrganicProcesses	26	33	process
+T5	Create	39	52	reestablishes
+T6	Alter	39	52	reestablishes
+T7	TemporalProperty	55	65	previously
+T8	Uptake	66	75	colonized
+T9	Negations	77	80	but
+T10	Harm	81	90	disturbed
+T11	Comparisons	91	93	or
+T12	PoorHealth	94	101	damaged
+T13	Harm	94	101	damaged
+T14	Habitat	102	109	habitat
+T15	LevelOfInclusion	111	116	Which
+T16	ProbabilityAndCertainty	117	121	will
+T17	AmountComparison	122	126	most
+T18	ProbabilityAndCertainty	127	133	likely
+T19	Cause	134	143	result in
+T20	Uptake	144	156	colonization
+T21	Cause	157	159	by
+T22	Size	160	165	large
+T23	TypeOfConsumer	166	176	herbivores
+T24	TypeOfConsumer	181	191	carnivores
+T25	Plant	193	201	saplings
+T26	Plant	206	211	trees
+T27	Angiosperm	212	219	grasses
+T28	Plant	224	230	shrubs
+T29	Protist	231	238	lichens
+T30	Bryophyte	243	249	mosses
+T31	Plant	250	259	seedlings
+T32	Plant	264	270	bushes

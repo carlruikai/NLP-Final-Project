@@ -1,0 +1,5 @@
+Which word best describes the speed of a cart that has a positive velocity and a negative acceleration?
+slow
+fast
+decreasing
+increasing

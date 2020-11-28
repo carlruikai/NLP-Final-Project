@@ -1,0 +1,28 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Group	6	11	group
+T3	LivingThing	15	24	organisms
+T4	ProbabilityAndCertainty	25	30	would
+T5	LevelOfInclusion	31	34	all
+T6	StateOfBeing	35	37	be
+T7	VerbsForLocate	38	43	found
+T8	LivingDying	44	50	living
+T9	RelativeLocations	47	49	in
+T10	TypesOfTerrestrialEcosystems	56	64	tropical
+T11	Forests	65	76	rain forest
+T12	Reptile	78	85	Lizards
+T13	Insect	87	94	insects
+T14	Angiosperm	96	102	cacti,
+T15	Mammal	103	112	kangaroos
+T16	Plant	113	118	Vines
+T17	Angiosperm	120	124	palm
+T18	Plant	125	130	trees
+T19	Amphibian	132	141	tree frog
+T20	Mammal	144	151	monkeys
+T21	Plant	152	162	Evergreens
+T22	Mammal	164	169	moose
+T23	Mammal	171	178	weasels
+T24	Mammal	180	184	mink
+T25	Protist	185	192	Lichens
+T26	Bryophyte	194	200	mosses
+T27	Mammal	202	209	caribou
+T28	Mammal	211	221	polar bear

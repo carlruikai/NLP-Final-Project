@@ -1,0 +1,22 @@
+T1	Human	0	4	Mark
+T2	PERSON	0	4	Mark
+T3	Goal	5	10	wants
+T4	Create	14	18	make
+T5	Foods	19	27	lemonade
+T6	Human	36	43	friends
+T7	Use	48	52	uses
+T8	PhasesOfWater	53	58	water
+T9	LiquidMatter	53	58	water
+T10	Foods	60	71	lemon juice
+T11	NutritiveSubstancesForAnimalsOrPlants	77	82	sugar
+T12	GranularSolids	77	82	sugar
+T13	LevelOfInclusion	84	89	Which
+T14	LevelOfInclusion	93	98	these
+T15	Quality	99	103	best
+T16	QualityComparison	99	103	best
+T17	Represent	104	113	describes
+T18	Foods	118	126	lemonade
+T19	Mixtures	130	137	mixture
+T20	MetalSolids	140	145	metal
+T21	Element	149	156	element
+T22	Compound	159	167	compound

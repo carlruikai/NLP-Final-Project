@@ -1,0 +1,15 @@
+T1	Energy	4	10	energy
+T2	Uptake	11	19	obtained
+T3	RelativeDirection	20	24	from
+T4	Nutrition	25	29	food
+T5	StateOfBeing	30	32	is
+T6	Measurements	33	41	measured
+T7	Identify	33	41	measured
+T8	RelativeLocations	42	44	in
+T9	Unit	45	50	units
+T10	Classify	51	57	called
+T11	PowerUnit	58	63	watts
+T12	EnergyUnit	64	72	Calories
+T13	TemperatureUnit	73	80	degrees
+T14	GeometricUnit	73	80	degrees
+T15	MassUnit	81	87	pounds

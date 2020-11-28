@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Representation	6	13	diagram
+T3	Quality	14	18	best
+T4	QualityComparison	14	18	best
+T5	Communicate	19	24	shows
+T6	Method	20	23	how
+T7	Energy	29	35	energy
+T8	TransferEnergy	36	41	flows
+T9	PrepositionalDirections	42	49	through
+T10	Complexity	52	58	simple
+T11	FoodChain	59	69	food chain
+T12	PlantPart	71	77	Leaves
+T13	Insect	81	92	Caterpillar
+T14	Bird	96	100	Bird
+T15	Plant	101	105	Tree
+T16	Bird	109	113	Bird
+T17	Insect	117	128	Caterpillar
+T18	PlantPart	129	135	Leaves
+T19	Plant	139	143	Tree
+T20	Insect	147	158	Caterpillar
+T21	Insect	147	158	Caterpillar
+T22	PlantPart	174	180	Leaves
+T23	Bird	184	188	Bird

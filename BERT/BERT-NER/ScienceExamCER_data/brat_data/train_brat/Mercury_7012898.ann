@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	StateOfBeing	16	18	is
+T4	Quality	23	27	best
+T5	QualityComparison	23	27	best
+T6	Represent	28	39	description
+T7	Galaxy	47	63	Milky Way galaxy
+T8	Group	67	77	collection
+T9	GaseousMatter	81	86	gases
+T10	Relations	87	100	held together
+T11	Cause	101	103	by
+T12	Inertia	104	111	inertia
+T13	Group	114	119	group
+T14	Planet	123	130	planets
+T15	CelestialMovement	131	140	revolving
+T16	PrepositionalDirections	141	147	around
+T17	RelativeNumber	150	156	single
+T18	Star	157	161	star
+T19	Group	164	174	collection
+T20	Star	178	183	stars
+T21	GaseousMatter	188	193	gases
+T22	ContainBeComposedOf	194	198	with
+T23	Star	203	206	Sun
+T24	StateOfBeing	207	209	as
+T25	ObjectPart	214	220	center
+T26	Group	223	228	group
+T27	Star	232	237	stars
+T28	Particles	239	243	dust
+T29	GranularSolids	239	243	dust
+T30	Planet	249	256	planets
+T31	Relations	257	270	held together
+T32	Cause	271	273	by
+T33	Gravity	274	281	gravity

@@ -1,0 +1,37 @@
+T1	RelativeTime	0	4	When
+T2	HumanPart	7	13	finger
+T3	StateOfBeing	14	16	is
+T4	Injuries	17	20	cut
+T5	CirculationActions	25	31	bleeds
+T6	Blood	33	42	platelets
+T7	Blood	47	53	plasma
+T8	NutritiveSubstancesForAnimalsOrPlants	54	62	proteins
+T9	Move	63	67	move
+T10	RelativeDirection	68	70	to
+T11	Injuries	75	78	cut
+T12	StopRemove	82	86	stop
+T13	CirculationActions	91	99	bleeding
+T14	RelativeTime	101	103	As
+T15	LevelOfInclusion	104	109	these
+T16	Move	110	114	move
+T17	RelativeDirection	115	117	to
+T18	Injuries	122	125	cut
+T19	EndocrineActions	132	142	stimulates
+T20	Cause	132	142	stimulates
+T21	AmountComparison	143	147	more
+T22	Blood	148	157	platelets
+T23	NutritiveSubstancesForAnimalsOrPlants	162	170	proteins
+T24	Move	174	178	move
+T25	RelativeDirection	179	181	to
+T26	Injuries	186	189	cut
+T27	StopRemove	193	197	stop
+T28	CirculationActions	202	210	bleeding
+T29	Exemplar	217	221	type
+T30	SystemAndFunctions	225	234	mechanism
+T31	StateOfBeing	231	233	is
+T32	StateOfBeing	238	243	being
+T33	Represent	244	255	illustrated
+T34	FeedbackMechanism	257	274	negative feedback
+T35	FeedbackMechanism	275	292	positive feedback
+T36	FeedbackMechanism	293	312	regulatory feedback
+T37	FeedbackMechanism	313	333	stimulation feedback

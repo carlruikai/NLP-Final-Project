@@ -1,0 +1,28 @@
+T1	LevelOfInclusion	0	3	All
+T2	Metabolism	4	22	metabolic function
+T3	StateOfBeing	24	33	fall into
+T4	CardinalNumber	34	37	one
+T5	NUMBER	34	37	one
+T6	CardinalNumber	41	44	two
+T7	NUMBER	41	44	two
+T8	Classification	45	55	categories
+T9	ChemicalChange	59	72	breaking down
+T10	DigestionActions	59	72	breaking down
+T11	OrganicProcesses	73	80	process
+T12	Metabolism	82	91	catabolic
+T13	Comparisons	93	95	or
+T14	Create	98	109	building up
+T15	Collect	98	109	building up
+T16	OrganicProcesses	110	117	process
+T17	Metabolism	119	127	anabolic
+T18	LevelOfInclusion	130	135	Which
+T19	StateOfBeing	136	138	is
+T20	Exemplar	142	149	example
+T21	Metabolism	156	164	anabolic
+T22	OrganicProcesses	165	172	process
+T23	RespirationActions	174	185	respiration
+T24	GeneticProcesses	186	203	protein synthesis
+T25	Element	204	210	oxygen
+T26	Transportation	211	220	transport
+T27	NutritiveSubstancesForAnimalsOrPlants	221	233	carbohydrate
+T28	DigestionActions	234	243	digestion

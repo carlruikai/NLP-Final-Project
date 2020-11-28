@@ -1,0 +1,5 @@
+When a battery operated train is turned on, it moves along the track. Which best identifies the order of the types of energy used to make the train move?
+mechanical, chemical, electrical
+electrical, chemical, mechanical
+electrical, mechanical, chemical
+chemical, electrical, mechanical

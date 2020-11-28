@@ -1,0 +1,18 @@
+T1	PullingActions	4	8	pull
+T2	Gravity	12	19	gravity
+T3	RelativeLocations	20	22	on
+T4	InnerPlanets	23	28	Earth
+T5	LOCATION	23	28	Earth
+T6	StateOfBeing	29	31	is
+T7	Cause	32	38	caused
+T8	Pressure	42	54	air pressure
+T9	Mass	60	64	mass
+T10	InnerPlanets	68	73	Earth
+T11	LOCATION	68	73	Earth
+T12	GeographicFormations	75	84	volcanoes
+T13	NaturalPhenomena	85	93	erupting
+T14	InnerPlanets	95	100	Earth
+T15	LOCATION	95	100	Earth
+T16	CelestialMovement	103	108	orbit
+T17	PrepositionalDirections	109	115	around
+T18	Star	120	123	Sun

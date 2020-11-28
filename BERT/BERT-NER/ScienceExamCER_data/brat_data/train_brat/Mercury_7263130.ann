@@ -1,0 +1,27 @@
+T1	Human	4	9	human
+T2	HumanPart	10	14	body
+T3	DigestionActions	15	24	processes
+T4	StopRemove	29	39	eliminates
+T5	Nutrition	40	44	food
+T6	Toxins	45	50	waste
+T7	Use	51	56	using
+T8	AnimalPart	61	67	organs
+T9	ExcretorySystem	75	91	excretory system
+T10	LevelOfInclusion	93	98	Which
+T11	AnimalCellPart	99	108	organelle
+T12	PlantCellPart	99	108	organelle
+T13	PerformAnActivity	109	117	performs
+T14	Comparisons	120	127	similar
+T15	OrganicProcesses	128	136	function
+T16	RelativeLocations	137	139	in
+T17	Human	140	146	humans
+T18	RelativeLocations	147	149	at
+T19	Cell	154	162	cellular
+T20	SystemProcessStages	163	168	level
+T21	AnimalCellPart	170	183	mitochondrion
+T22	PlantCellPart	170	183	mitochondrion
+T23	AnimalCellPart	184	205	endoplasmic reticulum
+T24	PlantCellPart	184	205	endoplasmic reticulum
+T25	AnimalCellPart	206	214	lysosome
+T26	AnimalCellPart	215	228	Golgi complex
+T27	PlantCellPart	215	228	Golgi complex

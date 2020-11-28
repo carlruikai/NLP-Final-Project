@@ -1,0 +1,5 @@
+An engineer measured the time it takes sound to travel through samples of different materials. All of the samples were identical in shape and size. The measurements were made using ultrasonic waves with a frequency of 5 megahertz. Which question was the engineer most likely trying to answer?
+In which material does sound travel fastest?
+In which material does sound travel farthest?
+Does frequency affect the distance sound travels?
+Does the shape of the medium affect the speed of sound?

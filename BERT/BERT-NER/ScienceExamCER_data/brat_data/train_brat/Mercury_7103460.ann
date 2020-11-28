@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	WeatherPhenomena	6	15	condition
+T3	StateOfBeing	16	18	is
+T4	Associate	19	29	associated
+T5	LevelOfInclusion	35	39	most
+T6	WeatherPhenomena	40	50	warm front
+T7	WeatherPhenomena	53	60	tornado
+T8	Create	61	71	formations
+T9	RelativeNumber	72	75	low
+T10	Temperature	76	88	temperatures
+T11	PropertyOfMotion	89	96	violent
+T12	GaseousMatter	97	105	air mass
+T13	ChangeInLocation	106	116	collisions
+T14	Touch	106	116	collisions
+T15	WeatherPhenomena	117	122	cloud
+T16	Create	123	133	formations
+T17	Transportation	134	142	bringing
+T18	Precipitation	143	156	precipitation

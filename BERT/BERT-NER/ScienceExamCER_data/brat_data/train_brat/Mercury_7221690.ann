@@ -1,0 +1,29 @@
+T1	RelativeTime	0	6	During
+T2	LevelOfInclusion	7	12	which
+T3	PhaseChanges	13	28	change of state
+T4	Particles	36	45	particles
+T5	AtomComponents	36	45	particles
+T6	Substances	51	60	substance
+T7	Move	61	65	move
+T8	RelativeDirection	66	70	from
+T9	StateOfBeing	71	76	being
+T10	Rigidity	77	91	tightly packed
+T11	Relations	92	100	together
+T12	RelativeDirection	92	94	to
+T13	ContainBeComposedOf	104	110	having
+T14	AmountComparison	111	115	more
+T15	Stability	116	123	freedom
+T16	PropertyOfMotion	127	135	movement
+T17	Move	127	135	movement
+T18	StateOfMatter	139	144	solid
+T19	ChangeInto	145	153	becoming
+T20	StateOfMatter	156	162	liquid
+T21	StateOfMatter	165	168	gas
+T22	ChangeInto	169	177	becoming
+T23	StateOfMatter	180	185	solid
+T24	StateOfMatter	188	191	gas
+T25	ChangeInto	192	200	becoming
+T26	StateOfMatter	203	209	liquid
+T27	StateOfMatter	203	209	liquid
+T28	ChangeInto	219	227	becoming
+T29	StateOfMatter	230	235	solid

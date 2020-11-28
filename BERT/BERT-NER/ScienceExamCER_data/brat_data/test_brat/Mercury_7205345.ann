@@ -1,0 +1,37 @@
+T1	RelativeTime	0	4	When
+T2	GranularSolids	5	15	table salt
+T3	Compound	17	21	NaCl
+T4	StateOfBeing	23	25	is
+T5	Create	26	34	produced
+T6	LevelOfInclusion	36	41	which
+T7	LevelOfInclusion	45	58	the following
+T8	Quality	59	63	best
+T9	QualityComparison	59	63	best
+T10	Communicate	64	73	describes
+T11	Actions	78	85	actions
+T12	Element	93	99	sodium
+T13	Element	101	103	Na
+T14	Element	109	117	chlorine
+T15	Element	119	121	Cl
+T16	ElementalComponents	123	128	atoms
+T17	Element	130	136	Sodium
+T18	ElementalComponents	137	142	atoms
+T19	StopRemove	143	150	replace
+T20	Element	151	159	chlorine
+T21	ElementalComponents	160	165	atoms
+T22	Element	167	173	Sodium
+T23	Element	178	186	chlorine
+T24	ElementalComponents	187	192	atoms
+T25	CombineAdd	193	196	mix
+T26	Relations	197	205	together
+T27	Element	207	213	Sodium
+T28	ElementalComponents	214	219	atoms
+T29	PhaseChangingActions	220	228	dissolve
+T30	Divide	220	228	dissolve
+T31	RelativeLocations	229	231	in
+T32	Element	232	240	chlorine
+T33	ElementalComponents	241	246	atoms
+T34	Element	248	254	Sodium
+T35	Element	259	267	chlorine
+T36	ElementalComponents	268	273	atoms
+T37	ChemicalChange	274	289	bond chemically

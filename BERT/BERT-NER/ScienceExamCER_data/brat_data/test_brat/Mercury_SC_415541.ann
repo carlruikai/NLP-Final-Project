@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	GenericTerms	15	22	objects
+T4	ProbabilityAndCertainty	23	27	will
+T5	AmountComparison	28	32	most
+T6	ProbabilityAndCertainty	33	39	likely
+T7	LocationChangingActions	40	45	float
+T8	LiquidMovement	40	45	float
+T9	RelativeLocations	46	48	in
+T10	PhasesOfWater	49	54	water
+T11	LiquidMatter	49	54	water
+T12	SyntheticMaterial	56	61	glass
+T13	SolidMatter	56	61	glass
+T14	ManmadeObjects	62	68	marble
+T15	MetalSolids	69	74	steel
+T16	ManmadeObjects	75	79	ball
+T17	Hardness	80	84	hard
+T18	SyntheticMaterial	85	91	rubber
+T19	ManmadeObjects	92	96	ball
+T20	ManmadeObjects	97	114	table tennis ball

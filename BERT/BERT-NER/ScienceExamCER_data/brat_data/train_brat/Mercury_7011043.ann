@@ -1,0 +1,61 @@
+T1	Scientists	2	9	student
+T2	PerformAnActivity	10	18	performs
+T3	Experimentation	22	32	experiment
+T4	Result	41	48	results
+T5	StateOfBeing	49	52	are
+T6	Indicate	53	58	shown
+T7	RelativeLocations	59	64	below
+T8	RelativeTime	66	72	Before
+T9	Element	74	78	Iron
+T10	MetalSolids	74	86	Iron filings
+T11	StateOfBeing	87	90	are
+T12	Color	91	96	brown
+T13	Size	98	103	small
+T14	Magnetic	109	117	magnetic
+T15	Compound	119	133	Copper sulfate
+T16	ObjectQuantification	134	142	crystals
+T17	StateOfBeing	143	146	are
+T18	Color	147	151	blue
+T19	Rigidity	153	160	brittle
+T20	Hardness	153	160	brittle
+T21	Negations	166	169	not
+T22	Magnetic	170	178	magnetic
+T23	RelativeTime	180	185	After
+T24	Element	191	197	copper
+T25	MetalSolids	191	197	copper
+T26	Create	198	204	formed
+T27	StateOfBeing	205	208	was
+T28	Color	209	216	reddish
+T29	StateOfMatter	218	223	solid
+T30	Negations	229	232	not
+T31	Magnetic	233	241	magnetic
+T32	Compound	243	255	Iron sulfide
+T33	Mixtures	256	264	solution
+T34	StateOfBeing	265	268	was
+T35	Color	269	278	colorless
+T36	Negations	283	286	not
+T37	Magnetic	287	295	magnetic
+T38	LevelOfInclusion	297	302	Which
+T39	ResponseType	303	312	statement
+T40	Verify	313	321	supports
+T41	ConcludingResearch	313	321	supports
+T42	Reactions	329	346	chemical reaction
+T43	Occur	347	357	took place
+T44	Changes	359	366	Changes
+T45	RelativeLocations	367	369	in
+T46	Color	370	375	color
+T47	Occur	376	384	occurred
+T48	Age	388	391	new
+T49	Substances	392	401	substance
+T50	StateOfBeing	402	405	was
+T51	Create	406	412	formed
+T52	PhysicalChange	416	431	physical change
+T53	RelativeLocations	432	434	in
+T54	Element	439	443	iron
+T55	MetalSolids	439	443	iron
+T56	Occur	444	452	occurred
+T57	TemporalProperty	458	466	original
+T58	Substances	467	477	substances
+T59	StateOfBeing	478	482	were
+T60	Occur	483	490	present
+T61	RelativeTime	491	496	after

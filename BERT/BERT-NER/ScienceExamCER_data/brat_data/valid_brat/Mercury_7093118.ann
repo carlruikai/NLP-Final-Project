@@ -1,0 +1,23 @@
+T1	FossilFuel	0	8	Gasoline
+T2	LandVehicle	13	17	cars
+T3	StateOfBeing	18	20	is
+T4	Create	21	29	produced
+T5	RelativeDirection	30	34	from
+T6	FossilFuel	35	46	fossil fuel
+T7	Use	49	54	Using
+T8	FossilFuel	55	63	gasoline
+T9	AbilityAvailability	64	67	can
+T10	AmountComparison	68	72	most
+T11	ProbabilityAndCertainty	73	79	likely
+T12	Cause	80	87	lead to
+T13	LevelOfInclusion	88	93	which
+T14	EcosystemsEnvironment	94	107	environmental
+T15	Problem	108	115	problem
+T16	EnvironmentalDamageDestruction	117	129	soil erosion
+T17	PhasesOfWater	130	135	water
+T18	LiquidMatter	130	135	water
+T19	EnvironmentalDamageDestruction	136	145	pollution
+T20	LivingThing	146	154	wildlife
+T21	LivingDying	155	165	extinction
+T22	Extinction	155	165	extinction
+T23	EnvironmentalDamageDestruction	166	180	global warming

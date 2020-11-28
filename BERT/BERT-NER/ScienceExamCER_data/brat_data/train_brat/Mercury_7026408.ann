@@ -1,0 +1,40 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	Locations	5	10	areas
+T4	TerrestrialLocations	14	23	the world
+T5	StateOfBeing	24	27	are
+T6	Occur	28	40	experiencing
+T7	AmountComparison	41	45	more
+T8	TypesOfTerrestrialEcosystems	46	52	desert
+T9	Comparisons	53	57	like
+T10	StateOfBeing	58	68	conditions
+T11	Changes	75	81	change
+T12	AmountComparison	82	86	most
+T13	Help	87	93	favors
+T14	LivingDying	94	102	survival
+T15	NaturalSelection	94	102	survival
+T16	Taxonomy	106	113	species
+T17	ContainBeComposedOf	114	118	with
+T18	Ability	123	130	ability
+T19	PerformAnActivity	134	136	do
+T20	LevelOfInclusion	137	142	which
+T21	LevelOfInclusion	146	159	the following
+T22	Consumption	161	168	consume
+T23	Size	169	174	large
+T24	Numbers	175	182	amounts
+T25	Nutrition	186	190	food
+T26	StateOfBeing	191	197	become
+T27	OtherOrganismProperties	198	205	dormant
+T28	TemporalProperty	210	214	long
+T29	MarkersOfTime	215	222	periods
+T30	SensoryTerms	223	228	sense
+T31	ElectromagneticSpectrum	229	237	infrared
+T32	ElectromagneticSpectrum	242	259	ultraviolet light
+T33	PlantProcesses	260	269	transpire
+T34	PhasesOfWater	270	275	water
+T35	PrepositionalDirections	276	283	through
+T36	AnimalPart	288	292	skin
+T37	PartsOfTheIntegumentarySystem	288	292	skin
+T38	RelativeDirection	293	295	to
+T39	EarthPartsGrossGroundAtmosphere	300	310	atmosphere
+T40	LayersOfTheEarth	300	310	atmosphere

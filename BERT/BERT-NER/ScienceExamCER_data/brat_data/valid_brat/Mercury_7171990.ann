@@ -1,0 +1,29 @@
+T1	Cell	0	11	Muscle cell
+T2	PartsOfTheMuscularSystem	0	11	Muscle cell
+T3	ContainBeComposedOf	13	17	have
+T4	Ability	22	29	ability
+T5	Preserve	33	38	store
+T6	Release	43	50	release
+T7	Size	51	56	large
+T8	Numbers	57	64	amounts
+T9	Energy	68	74	energy
+T10	LevelOfInclusion	76	81	Which
+T11	AnimalPart	82	86	body
+T12	OrganicProcesses	87	95	function
+T13	StateOfBeing	96	98	is
+T14	Quality	99	103	best
+T15	QualityComparison	99	103	best
+T16	PerformAnActivity	104	110	served
+T17	Cause	111	113	by
+T18	Release	119	126	release
+T19	Energy	130	136	energy
+T20	ActUponSomething	138	148	exchanging
+T21	Transportation	138	148	exchanging
+T22	GaseousMatter	149	154	gases
+T23	Move	155	161	moving
+T24	AnimalPart	162	172	body parts
+T25	DigestionActions	173	182	absorbing
+T26	ActionsForNutrition	173	182	absorbing
+T27	Nutrition	183	192	nutrients
+T28	Transportation	193	200	sending
+T29	PartsOfTheNervousSystem	201	215	nerve impulses

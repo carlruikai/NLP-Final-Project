@@ -1,0 +1,5 @@
+An escalator at a shopping mall is 10 m long and moves at a constant speed of 0.5 m/s. If Jose steps onto the escalator at the bottom while it is moving, how long will it take him to travel the 10 m?
+5 s
+10 s
+15 s
+20 s

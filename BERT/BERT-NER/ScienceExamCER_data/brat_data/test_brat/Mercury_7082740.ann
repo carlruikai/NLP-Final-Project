@@ -1,0 +1,11 @@
+T1	RelativeTime	0	4	When
+T2	CardinalNumber	5	8	two
+T3	NUMBER	5	8	two
+T4	Element	9	17	nitrogen
+T5	ElementalComponents	18	23	atoms
+T6	CombineAdd	24	31	combine
+T7	Create	38	42	form
+T8	Mixtures	45	52	mixture
+T9	Compound	54	62	compound
+T10	ElementalComponents	64	72	molecule
+T11	LiquidMatter	74	80	liquid

@@ -1,0 +1,14 @@
+T1	Moon	4	8	Moon
+T2	Cause	9	12	has
+T3	AmountComparison	17	25	greatest
+T4	Result	26	32	effect
+T5	PrepositionalDirections	33	35	on
+T6	InnerPlanets	36	41	Earth
+T7	LOCATION	36	41	Earth
+T8	TimeUnit	44	48	year
+T9	Year	44	48	year
+T10	SeasonsFallAutumnWinterSpringSummer	49	56	seasons
+T11	BodiesOfWater	57	62	ocean
+T12	TidesHighTideLowTide	63	68	tides
+T13	CelestialLightOnEarth	69	77	daylight
+T14	TimeUnit	78	83	hours

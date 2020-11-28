@@ -1,0 +1,50 @@
+T1	OuterPlanets	0	6	Uranus
+T2	StateOfBeing	7	9	is
+T3	CardinalNumber	10	13	one
+T4	NUMBER	10	13	one
+T5	OuterPlanets	21	33	outer planet
+T6	SolarSystem	42	54	solar system
+T7	Calculations	60	67	average
+T8	Distance	68	76	distance
+T9	OuterPlanets	80	86	Uranus
+T10	RelativeDirection	87	91	from
+T11	Star	96	99	Sun
+T12	StateOfBeing	100	102	is
+T13	NUMBER	103	115	2.87 billion
+T14	DistanceUnit	116	126	kilometers
+T15	LevelOfInclusion	128	133	Which
+T16	Quality	134	138	best
+T17	QualityComparison	134	138	best
+T18	Communicate	139	147	explains
+T19	Cause	148	151	why
+T20	OuterPlanets	152	158	Uranus
+T21	CelestialMovement	159	167	revolves
+T22	RelativeLocations	168	170	in
+T23	CelestialMovement	175	180	orbit
+T24	Negations	181	191	instead of
+T25	Move	192	198	moving
+T26	CelestialMovement	192	198	moving
+T27	RelativeDirection	199	202	out
+T28	RelativeDirection	203	207	into
+T29	TheUniverseUniverseAndItsParts	208	213	space
+T30	CelestialMovement	219	224	orbit
+T31	OuterPlanets	228	235	Neptune
+T32	LOCATION	228	235	Neptune
+T33	StopRemove	236	242	limits
+T34	OuterPlanets	243	249	Uranus
+T35	Gravity	251	258	Gravity
+T36	PullingActions	259	264	pulls
+T37	OuterPlanets	265	271	Uranus
+T38	PrepositionalDirections	272	278	toward
+T39	Star	283	286	Sun
+T40	ElectricalEnergy	288	310	Electromagnetic energy
+T41	MagneticEnergy	288	310	Electromagnetic energy
+T42	PullingActions	311	316	pulls
+T43	RelativeLocations	317	319	on
+T44	OuterPlanets	320	326	Uranus
+T45	Comparisons	328	333	Other
+T46	Planet	334	341	planets
+T47	ContainBeComposedOf	342	346	have
+T48	Comparisons	351	355	same
+T49	Mass	356	360	mass
+T50	OuterPlanets	364	370	Uranus

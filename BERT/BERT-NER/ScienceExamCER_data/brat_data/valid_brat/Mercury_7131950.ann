@@ -1,0 +1,27 @@
+T1	PERSON	0	5	Emily
+T2	Create	6	10	made
+T3	Representation	13	18	chart
+T4	ContainBeComposedOf	24	32	included
+T5	PhysicalChange	33	48	physical change
+T6	ChemicalChange	54	69	chemical change
+T7	LevelOfInclusion	72	77	Which
+T8	Changes	78	84	change
+T9	Require	85	91	should
+T10	StateOfBeing	92	94	be
+T11	Classify	95	106	categorized
+T12	StateOfBeing	107	109	as
+T13	ChemicalChange	112	127	chemical change
+T14	MetalSolids	129	133	iron
+T15	ChangeInto	134	141	becomes
+T16	StateOfBeing	134	141	becomes
+T17	ChemicalProperty	142	147	rusty
+T18	MetalSolids	150	158	gold bar
+T19	StateOfBeing	159	161	is
+T20	PhaseChangingActions	162	168	melted
+T21	BodiesOfWater	169	173	lake
+T22	PhasesOfWater	174	179	water
+T23	PhaseChangingActions	180	190	evaporates
+T24	Igneous	193	200	granite
+T25	Rock	201	205	rock
+T26	StateOfBeing	206	208	is
+T27	VisualProperty	209	217	polished

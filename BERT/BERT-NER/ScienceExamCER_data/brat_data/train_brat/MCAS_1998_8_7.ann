@@ -1,0 +1,38 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Relevant	16	21	about
+T4	Star	26	29	Sun
+T5	StateOfBeing	30	32	is
+T6	ProbabilityAndCertainty	33	37	true
+T7	Star	43	46	Sun
+T8	StateOfBeing	47	49	is
+T9	AmountComparison	52	56	very
+T10	Size	57	62	large
+T11	Star	63	67	star
+T12	Occur	73	79	exists
+T13	Distance	80	83	far
+T14	RelativeDirection	84	88	from
+T15	Galaxy	93	102	Milky Way
+T16	Galaxy	103	109	Galaxy
+T17	Star	115	118	Sun
+T18	StateOfBeing	119	121	is
+T19	RelativeLocations	122	124	at
+T20	ObjectPart	129	135	center
+T21	Galaxy	143	159	Milky Way Galaxy
+T22	Star	165	168	Sun
+T23	StateOfBeing	169	171	is
+T24	Size	174	186	medium-sized
+T25	Star	187	191	star
+T26	Distance	192	196	near
+T27	ObjectPart	201	205	edge
+T28	Galaxy	213	229	Milky Way Galaxy
+T29	Star	235	238	Sun
+T30	ContainBeComposedOf	239	242	has
+T31	Galaxy	247	256	Milky Way
+T32	RelativeNumber	261	268	several
+T33	Comparisons	269	274	other
+T34	Galaxy	275	283	galaxies
+T35	CelestialMovement	284	290	moving
+T36	RelativeLocations	287	289	in
+T37	CelestialMovement	294	300	orbits
+T38	PrepositionalDirections	301	307	around

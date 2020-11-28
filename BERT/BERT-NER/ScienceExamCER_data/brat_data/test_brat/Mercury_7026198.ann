@@ -1,0 +1,37 @@
+T1	Element	4	11	element
+T2	Element	12	19	krypton
+T3	StateOfBeing	20	22	is
+T4	StateOfMatter	25	28	gas
+T5	Indicate	34	39	shows
+T6	AmountComparison	40	46	almost
+T7	Negations	47	49	no
+T8	ChemicalProperty	50	67	chemical activity
+T9	Goal	69	71	To
+T10	Identify	72	76	find
+T11	VerbsForLocate	72	76	find
+T12	Comparisons	77	84	another
+T13	Element	85	92	element
+T14	ContainBeComposedOf	93	97	with
+T15	Comparisons	98	105	similar
+T16	Property	106	116	properties
+T17	Require	123	129	should
+T18	Scientists	132	139	student
+T19	Observe	140	144	look
+T20	RelativeLocations	149	151	on
+T21	RepresentingElementsAndMolecules	156	186	Periodic Table of the Elements
+T22	Element	191	198	element
+T23	RelativeLocations	199	201	in
+T24	Comparisons	206	210	same
+T25	Group	211	216	group
+T26	Element	220	227	element
+T27	RelativeLocations	228	230	in
+T28	Comparisons	235	239	same
+T29	Group	240	246	period
+T30	Element	250	257	element
+T31	ContainBeComposedOf	258	262	with
+T32	Comparisons	267	271	same
+T33	MolecularProperties	272	282	net charge
+T34	Element	286	293	element
+T35	ContainBeComposedOf	294	298	with
+T36	Comparisons	303	307	same
+T37	AtomicProperties	308	319	atomic mass

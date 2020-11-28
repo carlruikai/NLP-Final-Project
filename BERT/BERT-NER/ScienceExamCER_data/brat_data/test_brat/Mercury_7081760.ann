@@ -1,0 +1,31 @@
+T1	Goal	0	11	In order to
+T2	Classify	12	20	classify
+T3	TemporalProperty	23	28	newly
+T4	Identify	29	39	discovered
+T5	Discovery	29	39	discovered
+T6	LivingThing	40	48	organism
+T7	Scientists	52	61	scientist
+T8	Examine	62	74	investigates
+T9	Experimentation	62	74	investigates
+T10	PhysicalProperty	79	88	structure
+T11	Genetics	90	93	DNA
+T12	LifeCycle	99	109	life cycle
+T13	LivingThing	117	125	organism
+T14	Scientists	131	140	scientist
+T15	ProbabilityAndCertainty	141	145	will
+T16	AmountComparison	146	150	most
+T17	ProbabilityAndCertainty	151	157	likely
+T18	Use	158	161	use
+T19	Result	166	173	results
+T20	Experimentation	181	194	investigation
+T21	Create	198	207	construct
+T22	Age	208	211	new
+T23	ScientificMethod	212	229	scientific method
+T24	Alter	232	238	revise
+T25	ScientificTheoryExperimentationAndHistory	239	249	scientific
+T26	BeliefKnowledge	250	259	knowledge
+T27	Create	261	265	form
+T28	Age	266	269	new
+T29	Hypothesizing	270	280	hypotheses
+T30	ConcludingResearch	282	290	disprove
+T31	ScientificTheoryExperimentationAndHistory	291	310	scientific theories

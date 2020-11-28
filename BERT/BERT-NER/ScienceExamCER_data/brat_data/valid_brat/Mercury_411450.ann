@@ -1,0 +1,38 @@
+T1	DistanceUnit	0	18	Astronomical units
+T2	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	0	18	Astronomical units
+T3	AbilityAvailability	19	22	can
+T4	StateOfBeing	23	25	be
+T5	Use	26	30	used
+T6	Measurements	34	41	measure
+T7	Identify	34	41	measure
+T8	Distance	42	51	distances
+T9	RelativeLocations	52	59	between
+T10	CelestialObject	60	67	objects
+T11	RelativeLocations	68	70	in
+T12	TheUniverseUniverseAndItsParts	71	82	outer space
+T13	CardinalNumber	84	87	One
+T14	NUMBER	84	87	One
+T15	DistanceUnit	88	105	astronomical unit
+T16	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	88	105	astronomical unit
+T17	DistanceUnit	107	109	AU
+T18	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	107	109	AU
+T19	StateOfBeing	111	113	is
+T20	Distance	118	126	distance
+T21	RelativeLocations	127	134	between
+T22	InnerPlanets	135	140	Earth
+T23	Star	149	152	Sun
+T24	Source	154	162	Based on
+T25	WordsForData	168	179	information
+T26	ProbabilityAndCertainty	181	186	about
+T27	RelativeNumber	187	195	how many
+T28	DistanceUnit	196	214	astronomical units
+T29	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	196	214	astronomical units
+T30	StateOfBeing	215	217	is
+T31	InnerPlanets	218	222	Mars
+T32	RelativeDirection	223	227	from
+T33	Star	232	235	Sun
+T34	Numbers	237	240	0.4
+T35	Numbers	241	244	0.7
+T36	Numbers	245	248	1.0
+T37	NUMBER	249	252	1.5
+T38	Numbers	249	252	1.5

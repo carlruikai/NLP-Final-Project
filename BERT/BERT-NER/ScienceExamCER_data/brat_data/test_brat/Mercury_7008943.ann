@@ -1,0 +1,31 @@
+T1	Scientists	2	9	student
+T2	Move	10	17	walking
+T3	Speed	18	25	quickly
+T4	RelativeTime	26	31	while
+T5	Transportation	32	40	carrying
+T6	Foods	44	50	orange
+T7	RelativeLocations	51	53	on
+T8	Meals	58	63	lunch
+T9	ManmadeObjects	64	68	tray
+T10	StopRemove	69	74	stops
+T11	TemporalProperty	75	83	suddenly
+T12	Foods	89	95	orange
+T13	ProbabilityAndCertainty	96	100	will
+T14	AmountComparison	101	105	most
+T15	ProbabilityAndCertainty	106	112	likely
+T16	LocationChangingActions	113	117	roll
+T17	PrepositionalDirections	118	121	off
+T18	ManmadeObjects	126	130	tray
+T19	Cause	131	137	due to
+T20	Inertia	138	145	inertia
+T21	Foods	153	159	orange
+T22	PushingForces	161	178	centripetal force
+T23	Foods	186	192	orange
+T24	PullingForces	198	206	friction
+T25	ActUponSomething	207	213	acting
+T26	RelativeLocations	214	216	on
+T27	Foods	221	227	orange
+T28	Force	233	248	balanced forces
+T29	ActUponSomething	249	255	acting
+T30	PrepositionalDirections	256	258	on
+T31	Foods	263	269	orange

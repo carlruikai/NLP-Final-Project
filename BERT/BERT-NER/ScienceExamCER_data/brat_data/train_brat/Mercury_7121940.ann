@@ -1,0 +1,12 @@
+T1	RelativeLocations	0	2	In
+T2	GenericTerms	9	15	object
+T3	PerformAnActivity	16	20	does
+T4	Energy	21	36	chemical energy
+T5	AmountComparison	37	41	most
+T6	ProbabilityAndCertainty	42	48	likely
+T7	ChangeInto	49	63	transform into
+T8	ElectricalEnergy	64	81	electrical energy
+T9	HeatingAppliance	85	91	candle
+T10	PartsOfObservationInstruments	94	100	mirror
+T11	LightProducingObject	103	113	flashlight
+T12	ElectricAppliance	116	126	television

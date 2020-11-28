@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Event	6	11	event
+T3	StateOfBeing	12	19	becomes
+T4	AmountComparison	20	24	more
+T5	ProbabilityAndCertainty	25	31	likely
+T6	RelativeTime	32	38	during
+T7	NaturalPhenomena	41	48	drought
+T8	WeatherPhenomena	41	48	drought
+T9	RelativeLocations	49	51	in
+T10	TypesOfTerrestrialEcosystems	54	61	prairie
+T11	EcosystemsEnvironment	62	71	ecosystem
+T12	NaturalPhenomena	73	77	fire
+T13	WeatherPhenomena	78	85	tornado
+T14	NaturalPhenomena	86	95	landslide
+T15	NaturalPhenomena	96	106	earthquake

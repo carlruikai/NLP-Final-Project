@@ -1,0 +1,5 @@
+Which word best describes the physical state of an ice cube?
+gas
+solid
+liquid
+plasma

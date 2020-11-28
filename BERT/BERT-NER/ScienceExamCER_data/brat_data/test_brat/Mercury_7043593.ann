@@ -1,0 +1,24 @@
+T1	Scientists	5	12	student
+T2	Goal	13	18	wants
+T3	Measurements	22	29	measure
+T4	Examine	22	29	measure
+T5	Cost	34	44	efficiency
+T6	Quality	34	44	efficiency
+T7	LightProducingObject	51	74	incandescent light bulb
+T8	RelativeLocations	51	53	in
+T9	ManmadeLocations	80	90	laboratory
+T10	LevelOfInclusion	92	97	which
+T11	ScientificTools	98	108	instrument
+T12	ProbabilityAndCertainty	109	114	would
+T13	AmountComparison	115	119	most
+T14	ProbabilityAndCertainty	120	126	likely
+T15	StateOfBeing	127	129	be
+T16	Use	130	134	used
+T17	Goal	135	137	to
+T18	Identify	138	147	determine
+T19	ThermalEnergy	148	152	heat
+T20	AmountChangingActions	153	157	loss
+T21	LightExaminingTool	159	168	photocell
+T22	PressureMeasuringTool	169	178	barometer
+T23	TemperatureMeasuringTools	179	190	thermometer
+T24	SoundMeasuringTools	191	204	decibel meter

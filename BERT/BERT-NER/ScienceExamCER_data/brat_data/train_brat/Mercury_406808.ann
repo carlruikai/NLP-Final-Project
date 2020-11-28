@@ -1,0 +1,38 @@
+T1	States	4	14	Ohio state
+T2	Plant	15	19	tree
+T3	StateOfBeing	20	22	is
+T4	Angiosperm	27	34	buckeye
+T5	LevelOfInclusion	36	41	Which
+T6	LevelOfInclusion	45	50	these
+T7	StateOfBeing	51	53	is
+T8	Property	56	61	trait
+T9	Inheritance	70	79	inherited
+T10	Cause	80	82	by
+T11	Angiosperm	87	99	buckeye tree
+T12	RelativeLocations	100	102	in
+T13	Reproduction	107	119	reproduction
+T14	OrganicProcesses	120	127	process
+T15	Numbers	129	135	number
+T16	PlantPart	139	145	leaves
+T17	LocationChangingActions	151	155	fall
+T18	RelativeTime	156	162	during
+T19	SeasonsFallAutumnWinterSpringSummer	163	169	winter
+T20	Changes	170	176	change
+T21	RelativeLocations	177	179	in
+T22	PlantPart	180	184	leaf
+T23	Color	185	190	color
+T24	RelativeTime	191	197	during
+T25	SeasonsFallAutumnWinterSpringSummer	202	215	autumn season
+T26	Exemplar	216	220	type
+T27	Minerals	224	231	mineral
+T28	StateOfBeing	237	239	is
+T29	ActionsForNutrition	240	248	absorbed
+T30	CombineAdd	240	248	absorbed
+T31	RelativeDirection	249	253	from
+T32	Soil	258	262	soil
+T33	Numbers	263	269	amount
+T34	PhasesOfWater	273	278	water
+T35	StateOfBeing	284	286	is
+T36	AbilityAvailability	287	296	available
+T37	Growth	301	307	growth
+T38	ActionsForAgriculture	301	307	growth

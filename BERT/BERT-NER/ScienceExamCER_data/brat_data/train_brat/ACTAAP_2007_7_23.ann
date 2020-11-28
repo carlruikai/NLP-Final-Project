@@ -1,0 +1,16 @@
+T1	StateOfBeing	5	7	is
+T2	TerrestrialLocations	10	19	worldwide
+T3	AmountChangingActions	20	28	increase
+T4	IncreaseDecrease	20	28	increase
+T5	Temperature	32	43	temperature
+T6	Classify	44	50	called
+T7	Communicate	44	50	called
+T8	WeatherPhenomena	52	69	greenhouse effect
+T9	EnvironmentalDamageDestruction	52	69	greenhouse effect
+T10	EnvironmentalDamageDestruction	70	84	global warming
+T11	OrganicCompounds	85	90	ozone
+T12	ChangesToResources	91	100	depletion
+T13	Harm	91	100	depletion
+T14	OtherEnergyResources	101	106	solar
+T15	IncreaseDecrease	107	114	heating
+T16	Temperature	107	114	heating

@@ -1,0 +1,26 @@
+T1	GroupsOfScientists	0	10	Scientists
+T2	Create	11	19	invented
+T3	LiquidMatter	22	28	liquid
+T4	StopRemove	34	41	removes
+T5	LiquidMatter	42	48	grease
+T6	Preserve	53	58	keeps
+T7	PartsOfTheExcretorySystem	63	67	skin
+T8	PartsOfTheIntegumentarySystem	63	67	skin
+T9	Hardness	68	72	soft
+T10	Method	74	77	How
+T11	AbilityAvailability	78	83	could
+T12	Discovery	89	98	discovery
+T13	AmountComparison	99	103	most
+T14	ProbabilityAndCertainty	104	110	likely
+T15	StateOfBeing	111	113	be
+T16	Use	114	118	used
+T17	Help	123	130	improve
+T18	ChemicalProduct	131	140	dish soap
+T19	IllnessPreventionCuring	144	148	cure
+T20	Sickness	151	158	disease
+T21	Create	162	166	make
+T22	ClothesTextiles	167	174	clothes
+T23	ActionsForAnimals	178	182	grow
+T24	Growth	178	182	grow
+T25	ActionsForAgriculture	178	182	grow
+T26	Plant	183	189	plants

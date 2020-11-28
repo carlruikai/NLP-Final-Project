@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Property	28	33	trait
+T5	Mammal	41	44	dog
+T6	PerformAnActivity	45	49	does
+T7	Negations	50	53	NOT
+T8	Inheritance	54	61	inherit
+T9	RelativeDirection	62	66	from
+T10	GeneticRelations	71	78	parents
+T11	Length	84	90	length
+T12	MammalAnimalPart	98	101	fur
+T13	Shape	106	111	shape
+T14	PartsOfTheRespiratorySystem	119	123	nose
+T15	Size	128	132	size
+T16	Nutrition	140	148	appetite
+T17	OtherAnimalProperties	140	148	appetite
+T18	Color	153	158	color
+T19	MammalAnimalPart	166	169	fur

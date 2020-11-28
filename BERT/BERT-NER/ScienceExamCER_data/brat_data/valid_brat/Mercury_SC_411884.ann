@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	NaturalResources	6	14	resource
+T3	Create	15	23	provides
+T4	Minerals	28	36	minerals
+T5	Plant	37	43	plants
+T6	Require	44	48	need
+T7	Result	49	51	to
+T8	Growth	52	56	grow
+T9	ActionsForAgriculture	52	56	grow
+T10	CelestialLightOnEarth	58	66	sunlight
+T11	OtherEnergyResources	58	66	sunlight
+T12	OtherEnergyResources	67	72	water
+T13	PhasesOfWater	67	72	water
+T14	PlantNutrients	73	77	soil
+T15	Soil	73	77	soil
+T16	EarthPartsGrossGroundAtmosphere	78	81	air

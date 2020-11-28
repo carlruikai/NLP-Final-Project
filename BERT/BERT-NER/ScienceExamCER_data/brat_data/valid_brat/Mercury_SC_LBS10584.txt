@@ -1,0 +1,5 @@
+Which of the following is a correct food chain?
+human -> corn -> cow
+corn -> human -> cow
+corn -> cow -> human
+cow -> human -> corn

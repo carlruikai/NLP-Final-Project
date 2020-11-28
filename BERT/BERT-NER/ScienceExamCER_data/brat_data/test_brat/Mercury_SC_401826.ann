@@ -1,0 +1,27 @@
+T1	RelativeTime	0	4	When
+T2	Use	5	10	using
+T3	HeatingAppliance	13	22	hot plate
+T4	Scientists	24	32	students
+T5	Require	33	39	should
+T6	Negations	40	43	not
+T7	Separate	44	49	leave
+T8	WaitStay	44	49	leave
+T9	HeatingAppliance	54	63	hot plate
+T10	Safety	64	74	unattended
+T11	PerformAnActivity	76	82	follow
+T12	Occupation	87	94	teacher
+T13	GuidelinesAndRules	97	109	instructions
+T14	PullingActions	111	120	pull back
+T15	PartsOfTheIntegumentarySystem	121	125	hair
+T16	Comparisons	126	128	or
+T17	ClothesTextiles	129	137	clothing
+T18	Goal	138	140	to
+T19	AvoidReject	141	146	avoid
+T20	Touch	147	154	contact
+T21	Use	156	160	wear
+T22	ResistanceStrength	161	170	insulated
+T23	SafetyEquipment	171	177	gloves
+T24	RelativeTime	178	182	when
+T25	Touch	183	190	holding
+T26	Uptake	183	190	holding
+T27	MetalSolids	191	206	metal materials

@@ -1,0 +1,5 @@
+Two identical lamps contain the same amount of different types of oil. They are allowed to burn until all the oil has been burned. Which measurement will best provide the total difference in chemical energy between the two oils?
+final weight of lamp
+original volume of oil
+time it took for lamps to use oil
+height of flame produced by lamp

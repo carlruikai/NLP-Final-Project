@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	Energy	14	20	energy
+T4	RelativeLocations	21	23	in
+T5	FossilFuel	24	32	gasoline
+T6	StateOfBeing	33	35	is
+T7	Changes	36	47	transformed
+T8	ChangeInto	48	52	into
+T9	Energy	53	70	mechanical energy
+T10	RelativeLocations	71	73	in
+T11	LandVehicle	76	86	motorcycle
+T12	VehicularSystemsParts	87	93	engine
+T13	Energy	95	103	chemical
+T14	Energy	104	111	nuclear
+T15	MagneticEnergy	112	120	magnetic
+T16	ElectricalEnergy	121	131	electrical

@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	14	function
+T3	StateOfBeing	15	17	is
+T4	SystemAndFunctions	20	24	role
+T5	FeedbackMechanism	30	45	feedback system
+T6	Cause	47	58	stimulation
+T7	Nutrition	62	70	appetite
+T8	OtherAnimalProperties	62	70	appetite
+T9	Identify	71	85	identification
+T10	OtherAnimalProperties	89	95	gender
+T11	Differentiate	96	109	determination
+T12	OtherHumanProperties	113	123	blood type
+T13	Homeostasis	124	134	regulation
+T14	EndocrineActions	124	132	regulati
+T15	ActionsForAnimals	138	144	growth
+T16	Growth	138	144	growth
+T17	RelativeLocations	145	147	in
+T18	SkeletalSystem	152	167	skeletal system

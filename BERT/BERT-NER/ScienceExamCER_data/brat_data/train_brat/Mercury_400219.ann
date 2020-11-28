@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Mammal	6	9	dog
+T3	Property	10	15	trait
+T4	StateOfBeing	16	18	is
+T5	LearnedBehavior	21	37	learned behavior
+T6	ActionsForAnimals	39	47	blinking
+T7	AnimalPart	52	56	eyes
+T8	ActionsForAnimals	57	67	scratching
+T9	SensoryTerms	71	75	itch
+T10	ActionsForAnimals	76	83	panting
+T11	Goal	84	86	to
+T12	Temperature	87	95	cool off
+T13	IncreaseDecrease	87	95	cool off
+T14	ActionsForAnimals	96	103	jumping
+T15	RelativeDirection	104	106	to
+T16	ActionsForAnimals	107	112	catch
+T17	Uptake	107	112	catch
+T18	ManmadeObjects	115	119	ball

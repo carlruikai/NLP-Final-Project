@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	16	instrument
+T3	Measurements	17	25	measures
+T4	Examine	17	25	measures
+T5	Pressure	26	46	atmospheric pressure
+T6	PressureMeasuringTool	48	57	barometer
+T7	ScientificTools	58	68	hygrometer
+T8	TemperatureMeasuringTools	69	80	thermometer
+T9	MagneticDevice	81	93	magnetometer

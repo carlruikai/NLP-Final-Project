@@ -1,0 +1,17 @@
+T1	EarthPartsGrossGroundAtmosphere	0	3	Air
+T2	RelativeLocations	4	6	in
+T3	EarthPartsGrossGroundAtmosphere	11	21	atmosphere
+T4	StateOfBeing	22	24	is
+T5	IncreaseDecrease	25	31	heated
+T6	Temperature	25	31	heated
+T7	AmountComparison	32	40	unevenly
+T8	Cause	41	43	by
+T9	Star	48	51	sun
+T10	Cause	53	60	causing
+T11	WeatherPhenomena	61	65	wind
+T12	Pattern	66	74	patterns
+T13	WeatherPhenomena	76	81	cloud
+T14	Create	82	91	formation
+T15	NaturalPhenomena	93	110	volcanic activity
+T16	PhasesOfWater	112	117	water
+T17	PhaseChangingActions	118	130	condensation

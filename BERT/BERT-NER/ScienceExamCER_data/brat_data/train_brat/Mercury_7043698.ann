@@ -1,0 +1,12 @@
+T1	RelativeNumber	0	8	How many
+T2	MarkersOfTime	9	14	times
+T3	Moon	24	28	Moon
+T4	CelestialMovement	29	35	rotate
+T5	Position	36	47	on its axis
+T6	RelativeTime	48	54	during
+T7	TimeUnit	57	68	lunar month
+T8	CardinalNumber	70	73	one
+T9	CardinalNumber	74	77	two
+T10	CardinalNumber	78	83	three
+T11	CardinalNumber	84	88	four
+T12	NUMBER	84	88	four

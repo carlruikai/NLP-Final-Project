@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GroupsOfOrganisms	6	11	group
+T3	LivingThing	15	24	organisms
+T4	AbilityAvailability	25	28	can
+T5	Create	29	33	make
+T6	Nutrition	34	38	food
+T7	Cause	39	41	by
+T8	OrganicProcesses	44	51	process
+T9	Classify	52	58	called
+T10	AnimalSystemsProcesses	59	73	chemosynthesis
+T11	TypeOfConsumer	75	85	scavengers
+T12	PartsOfTheFoodChain	86	95	producers
+T13	PartsOfTheFoodChain	96	105	consumers
+T14	PartsOfTheFoodChain	106	117	decomposers

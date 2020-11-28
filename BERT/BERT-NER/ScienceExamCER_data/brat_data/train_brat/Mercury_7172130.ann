@@ -1,0 +1,37 @@
+T1	GroupsOfScientists	0	14	Meteorologists
+T2	Classify	15	25	categorize
+T3	WeatherPhenomena	26	36	hurricanes
+T4	Use	37	45	based on
+T5	Meteorology	50	70	Saffir-Simpson scale
+T6	Meteorology	65	70	scale
+T7	Measurements	82	90	measures
+T8	Identify	82	90	measures
+T9	ResistanceStrength	95	104	intensity
+T10	Safety	109	130	destructive potential
+T11	WeatherPhenomena	134	144	hurricanes
+T12	LevelOfInclusion	146	151	Which
+T13	VariablesControls	152	158	factor
+T14	Cause	159	162	has
+T15	AmountComparison	167	171	most
+T16	ImportanceComparison	172	183	significant
+T17	Result	184	190	effect
+T18	PrepositionalDirections	191	193	on
+T19	ResistanceStrength	198	206	strength
+T20	WeatherPhenomena	212	221	hurricane
+T21	TemporalProperty	227	234	initial
+T22	Speed	235	240	speed
+T23	PropertyOfMotion	235	240	speed
+T24	WeatherPhenomena	246	255	hurricane
+T25	Directions	260	269	direction
+T26	WeatherPhenomena	279	288	hurricane
+T27	Move	289	296	rotates
+T28	Numbers	301	307	number
+T29	WeatherPhenomena	311	321	hurricanes
+T30	Occur	327	331	form
+T31	RelativeTime	332	334	in
+T32	TimeUnit	337	341	year
+T33	Year	337	341	year
+T34	Temperature	346	357	temperature
+T35	PhasesOfWater	365	370	water
+T36	RelativeLocations	371	376	below
+T37	WeatherPhenomena	381	390	hurricane

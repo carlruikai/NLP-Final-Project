@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Help	23	28	helps
+T4	PlantPart	33	39	leaves
+T5	ChemicalChange	40	50	break down
+T6	RelativeTime	51	56	after
+T7	LocationChangingActions	67	73	fallen
+T8	PrepositionalDirections	74	77	off
+T9	Plant	82	86	tree
+T10	TypeOfConsumer	88	98	meat-eater
+T11	Rock	100	105	rocks
+T12	PartsOfTheFoodChain	106	117	decomposers
+T13	Temperature	118	122	cold
+T14	Temperature	123	135	temperatures

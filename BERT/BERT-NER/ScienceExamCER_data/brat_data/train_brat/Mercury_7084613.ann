@@ -1,0 +1,25 @@
+T1	RelativeTime	0	4	When
+T2	Brightness	9	16	lighted
+T3	MeasuresOfAmountOfLight	9	16	lighted
+T4	LevelOfInclusion	17	21	half
+T5	Moon	29	33	Moon
+T6	Position	34	39	faces
+T7	Star	44	47	Sun
+T8	MeasuresOfAmountOfLight	56	60	dark
+T9	Brightness	56	60	dark
+T10	LevelOfInclusion	61	65	half
+T11	Position	66	71	faces
+T12	InnerPlanets	72	77	Earth
+T13	LOCATION	72	77	Earth
+T14	LunarPhases	83	88	phase
+T15	Moon	96	100	Moon
+T16	Observe	101	107	viewed
+T17	RelativeDirection	108	112	from
+T18	InnerPlanets	113	118	Earth
+T19	LOCATION	113	118	Earth
+T20	StateOfBeing	119	121	is
+T21	Classify	122	128	called
+T22	LunarPhases	133	142	full moon
+T23	LunarPhases	144	152	new moon
+T24	LunarPhases	154	165	waxing moon
+T25	LunarPhases	167	178	waning moon

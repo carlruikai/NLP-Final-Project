@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Event	6	12	action
+T3	AmountComparison	13	17	most
+T4	Frequency	18	23	often
+T5	Cause	24	30	causes
+T6	GeographicFormations	31	40	sinkholes
+T7	Create	44	48	form
+T8	RelativeLocations	49	51	on
+T9	EarthPartsGrossGroundAtmosphere	56	63	surface
+T10	InnerPlanets	67	72	Earth
+T11	LocationChangingActions	74	82	removing
+T12	StopRemove	74	82	removing
+T13	BodiesOfWater	83	94	groundwater
+T14	TypesOfWaterInBodiesOfWater	83	94	groundwater
+T15	Meteor	95	101	meteor
+T16	FormChangingActions	102	109	impacts
+T17	Touch	102	109	impacts
+T18	TectonicPlates	110	116	plates
+T19	ChangeInLocation	117	124	collidi
+T20	Touch	117	126	colliding
+T21	ConstructiveDestructiveForces	127	148	mechanical weathering
+T22	NaturalPhenomena	127	148	mechanical weathering

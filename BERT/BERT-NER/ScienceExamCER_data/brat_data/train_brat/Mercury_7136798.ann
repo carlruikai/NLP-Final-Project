@@ -1,0 +1,28 @@
+T1	PERSON	0	7	Garrett
+T2	Collect	8	17	collected
+T3	RelativeNumber	18	22	some
+T4	Size	23	28	large
+T5	Rock	29	34	rocks
+T6	RelativeDirection	35	39	from
+T7	BodiesOfWater	42	48	stream
+T8	DistanceComparison	49	53	near
+T9	ManmadeLocations	58	62	home
+T10	Measurements	67	75	measured
+T11	Examine	67	75	measured
+T12	Rock	80	85	rocks
+T13	RelativeLocations	86	88	on
+T14	MassMeasuringTool	91	98	balance
+T15	RelativeTime	100	104	When
+T16	PerformingResearch	108	115	records
+T17	Identify	108	115	records
+T18	Mass	120	124	mass
+T19	Rock	132	137	rocks
+T20	LevelOfInclusion	139	144	which
+T21	Unit	145	150	units
+T22	Require	151	157	should
+T23	PERSON	158	165	Garrett
+T24	Use	166	169	use
+T25	MassUnit	171	177	pounds
+T26	MassUnit	178	187	kilograms
+T27	VolumeUnit	188	200	fluid ounces
+T28	VolumeUnit	201	217	cubic centimeter

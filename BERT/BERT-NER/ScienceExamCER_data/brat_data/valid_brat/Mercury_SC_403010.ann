@@ -1,0 +1,18 @@
+T1	Products	6	11	items
+T2	StateOfBeing	12	15	are
+T3	Require	16	22	needed
+T4	Create	26	32	create
+T5	Complexity	35	41	simple
+T6	Circuits	42	49	circuit
+T7	ElectricityAndCircuits	51	55	wire
+T8	TechnologicalComponent	51	55	wire
+T9	ElectricityAndCircuits	60	66	switch
+T10	ElectricityAndCircuits	67	71	wire
+T11	TechnologicalComponent	67	71	wire
+T12	ElectricityAndCircuits	76	83	battery
+T13	ElectricalEnergySource	76	83	battery
+T14	LightProducingObject	84	94	light bulb
+T15	ElectricityAndCircuits	99	105	switch
+T16	LightProducingObject	106	116	light bulb
+T17	ElectricityAndCircuits	121	128	battery
+T18	ElectricalEnergySource	121	128	battery

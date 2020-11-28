@@ -1,0 +1,53 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	Examine	13	26	investigating
+T4	Experimentation	13	26	investigating
+T5	LightProducingObject	29	39	light bulb
+T6	Preserve	45	50	saves
+T7	Energy	51	57	energy
+T8	AbilityAvailability	62	65	can
+T9	Occur	66	70	last
+T10	WaitStay	66	70	last
+T11	RelativeDirection	71	76	up to
+T12	CardinalNumber	77	79	10
+T13	NUMBER	77	79	10
+T14	MarkersOfTime	80	85	times
+T15	TemporalProperty	86	92	longer
+T16	Comparisons	93	97	than
+T17	Comparisons	98	103	other
+T18	LightProducingObject	104	109	bulbs
+T19	Comparisons	111	116	Other
+T20	Comparisons	117	121	than
+T21	Preserve	122	128	saving
+T22	Energy	129	135	energy
+T23	LevelOfInclusion	137	142	which
+T24	StateOfBeing	143	145	is
+T25	Comparisons	146	153	another
+T26	Help	154	161	benefit
+T27	QualityComparison	154	161	benefit
+T28	Use	165	170	using
+T29	LevelOfInclusion	171	176	these
+T30	LightProducingObject	177	188	light bulbs
+T31	PhasesOfWater	190	204	Drinking water
+T32	LiquidMatter	190	204	Drinking water
+T33	WaitStay	205	210	stays
+T34	Quality	211	216	clean
+T35	AmountComparison	218	222	Less
+T36	ManmadeObjects	223	228	trash
+T37	StateOfBeing	229	231	is
+T38	LocationChangingActions	232	235	put
+T39	RelativeLocations	236	238	in
+T40	ManmadeLocations	239	248	landfills
+T41	AmountComparison	250	254	More
+T42	Nutrition	255	264	nutrients
+T43	PropertiesOfSoil	255	264	nutrients
+T44	StateOfBeing	265	268	are
+T45	CombineAdd	269	274	added
+T46	RelativeDirection	275	277	to
+T47	Soil	282	286	soil
+T48	AmountComparison	288	293	Fewer
+T49	Compound	294	303	chemicals
+T50	Move	304	307	get
+T51	RelativeDirection	308	312	into
+T52	Nutrition	317	321	food
+T53	Source	322	328	supply

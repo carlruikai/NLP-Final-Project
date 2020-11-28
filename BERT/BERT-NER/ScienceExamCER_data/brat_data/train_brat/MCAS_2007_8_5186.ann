@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Property	28	42	characteristic
+T5	LevelOfInclusion	46	49	all
+T6	ChemicalChange	50	65	chemical change
+T7	Comparisons	70	79	different
+T8	StateOfMatter	80	95	state of matter
+T9	StateOfBeing	96	98	is
+T10	Create	99	107	produced
+T11	LevelOfInclusion	109	113	Some
+T12	Mass	114	118	mass
+T13	StateOfBeing	119	121	is
+T14	ChangeInto	122	134	converted to
+T15	Energy	135	141	energy
+T16	LevelOfInclusion	143	147	Some
+T17	Exemplar	148	152	form
+T18	Light	156	161	light
+T19	StateOfBeing	162	164	is
+T20	Release	165	170	given
+T21	PrepositionalDirections	171	174	off
+T22	Age	178	181	new
+T23	Material	182	190	material
+T24	Matter	182	190	material
+T25	StateOfBeing	191	193	is
+T26	Create	194	200	formed

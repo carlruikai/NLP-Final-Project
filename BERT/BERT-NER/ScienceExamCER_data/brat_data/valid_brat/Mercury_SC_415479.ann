@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	EnvironmentalPhenomena	15	36	environmental changes
+T4	Occur	37	44	goes on
+T5	RelativeTime	45	48	for
+T6	TimeUnit	49	55	months
+T7	DURATION	49	55	months
+T8	Comparisons	56	58	or
+T9	TimeUnit	59	64	years
+T10	DURATION	59	64	years
+T11	NaturalPhenomena	66	73	drought
+T12	WeatherPhenomena	66	73	drought
+T13	NaturalPhenomena	74	79	flood
+T14	LiquidMovement	74	79	flood
+T15	NaturalPhenomena	80	89	avalanche
+T16	NaturalPhenomena	90	99	landslide

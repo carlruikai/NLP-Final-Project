@@ -1,0 +1,38 @@
+T1	Element	0	6	Carbon
+T2	RelativeLocations	4	6	on
+T3	InnerPlanets	10	15	Earth
+T4	LOCATION	10	15	Earth
+T5	StateOfBeing	16	18	is
+T6	VerbsForLocate	19	24	found
+T7	RelativeLocations	25	27	in
+T8	LevelOfInclusion	28	32	both
+T9	LivingDying	33	39	living
+T10	NonlivingPartsOfTheEnvironment	44	53	nonliving
+T11	Matter	54	60	matter
+T12	Goal	62	74	In order for
+T13	Element	75	81	carbon
+T14	StateOfBeing	85	87	be
+T15	Frequency	88	100	continuously
+T16	AbilityAvailability	101	110	available
+T17	Require	115	119	must
+T18	StateOfBeing	120	122	be
+T19	Alter	123	131	recycled
+T20	Preserve	123	131	recycled
+T21	Cause	133	140	Through
+T22	LevelOfInclusion	141	146	which
+T23	OrganicProcesses	147	154	process
+T24	StateOfBeing	155	157	is
+T25	Element	158	164	carbon
+T26	Create	165	169	made
+T27	AbilityAvailability	170	179	available
+T28	RelativeLocations	180	182	in
+T29	EarthPartsGrossGroundAtmosphere	187	197	atmosphere
+T30	LayersOfTheEarth	187	197	atmosphere
+T31	Create	199	208	formation
+T32	FossilFuel	212	223	fossil fuel
+T33	GeographicFormationProcess	225	233	layering
+T34	Soil	237	241	soil
+T35	Plant	242	247	plant
+T36	CellProcesses	248	262	photosynthesis
+T37	PlantProcesses	248	262	photosynthesis
+T38	NaturalPhenomena	263	275	forest fires

@@ -1,0 +1,70 @@
+T1	Size	2	7	small
+T2	Human	8	17	community
+T3	GroupsOfOrganisms	8	17	community
+T4	StateOfBeing	18	20	is
+T5	ActionsForAnimals	21	29	building
+T6	Create	21	29	building
+T7	TemporalProperty	36	41	first
+T8	ORDINAL	36	41	first
+T9	ManmadeLocations	42	63	water treatment plant
+T10	Negations	65	68	but
+T11	ContainBeComposedOf	69	72	has
+T12	RelativeNumber	73	80	limited
+T13	Numbers	81	88	amounts
+T14	ExamplesOfHabitats	92	96	land
+T15	MoneyTerms	101	106	money
+T16	AbilityAvailability	107	116	available
+T17	CardinalNumber	118	121	One
+T18	NUMBER	118	121	One
+T19	Group	129	136	council
+T20	PartsOfAGroup	137	144	members
+T21	Hypothesizing	145	153	suggests
+T22	IncreaseDecrease	154	162	reducing
+T23	AmountChangingActions	154	162	reducing
+T24	Cost	163	168	costs
+T25	ExamplesOfHabitats	173	177	land
+T26	Require	178	183	needs
+T27	Method	184	186	by
+T28	AvoidReject	187	198	leaving out
+T29	ManMadeGeographicFormations	203	216	aeration pond
+T30	ManmadeLocations	222	227	plant
+T31	Human	228	238	supervisor
+T32	Communicate	239	247	explains
+T33	PhysicalChange	253	261	aeration
+T34	StateOfBeing	262	264	is
+T35	Require	267	276	necessary
+T36	SystemProcessStages	277	281	step
+T37	Alter	285	293	treating
+T38	PhasesOfWater	294	308	drinking water
+T39	LiquidMatter	294	308	drinking water
+T40	StateOfBeing	315	317	is
+T41	AmountComparison	322	326	most
+T42	ImportanceComparison	327	336	important
+T43	Cause	337	343	reason
+T44	ManmadeLocations	348	352	town
+T45	Require	353	359	should
+T46	CombineAdd	360	367	include
+T47	ManMadeGeographicFormations	371	384	aeration pond
+T48	RelativeLocations	385	387	in
+T49	ManmadeLocations	394	415	water treatment plant
+T50	PhysicalChange	417	425	Aeration
+T51	StopRemove	426	431	kills
+T52	Bacteria	432	450	anaerobic bacteria
+T53	PhysicalChange	452	460	Aeration
+T54	StopRemove	461	468	removes
+T55	PhaseChangingActions	469	478	dissolved
+T56	FormChangingActions	469	478	dissolved
+T57	GaseousMatter	479	484	gases
+T58	PhysicalChange	486	494	Aeration
+T59	ChemicalProperty	495	503	oxidizes
+T60	ChemicalChange	495	503	oxidizes
+T61	PhaseChangingActions	504	513	dissolved
+T62	FormChangingActions	504	513	dissolved
+T63	MetalSolids	514	519	metal
+T64	ElementalComponents	520	524	ions
+T65	PhysicalChange	526	534	Aeration
+T66	StopRemove	535	542	removes
+T67	RelativeNumber	543	547	some
+T68	LevelOfInclusion	543	547	some
+T69	PartsOfASolution	548	556	solvents
+T70	Compound	561	570	chemicals

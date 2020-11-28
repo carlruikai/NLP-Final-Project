@@ -1,0 +1,45 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Communicate	23	32	describes
+T4	Method	33	36	how
+T5	HeatingAppliance	39	53	microwave oven
+T6	CookingToolsFood	39	53	microwave oven
+T7	IncreaseDecrease	54	59	heats
+T8	Temperature	54	59	heats
+T9	Nutrition	60	64	food
+T10	HeatingAppliance	70	74	oven
+T11	CookingToolsFood	70	74	oven
+T12	RelativeLocations	77	85	interior
+T13	LightMovement	86	94	reflects
+T14	ThermalEnergy	95	99	heat
+T15	PrepositionalDirections	100	104	onto
+T16	Nutrition	109	113	food
+T17	HeatingAppliance	119	123	oven
+T18	CookingToolsFood	119	123	oven
+T19	RelativeLocations	126	134	interior
+T20	Comparisons	136	140	like
+T21	PartsOfObservationInstruments	143	147	lens
+T22	LightMovement	149	156	focuses
+T23	ThermalEnergy	157	161	heat
+T24	PrepositionalDirections	162	166	onto
+T25	Nutrition	171	175	food
+T26	PhasesOfWater	177	182	Water
+T27	ElementalComponents	183	192	molecules
+T28	RelativeLocations	193	195	in
+T29	Nutrition	200	204	food
+T30	LightMovement	205	212	reflect
+T31	Energy	213	219	energy
+T32	RelativeDirection	220	224	from
+T33	EnergyWaves	225	234	microwave
+T34	ElectromagneticSpectrum	225	234	microwave
+T35	Energy	235	244	radiation
+T36	PhasesOfWater	246	251	Water
+T37	ElementalComponents	252	261	molecules
+T38	RelativeLocations	262	264	in
+T39	Nutrition	269	273	food
+T40	AbsorbEnergy	274	280	absorb
+T41	CombineAdd	274	280	absorb
+T42	Energy	285	291	energy
+T43	EnergyWaves	295	304	microwave
+T44	ElectromagneticSpectrum	295	304	microwave
+T45	Energy	305	314	radiation

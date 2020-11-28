@@ -1,0 +1,14 @@
+T1	StateOfBeing	0	2	At
+T2	Temperature	8	19	temperature
+T3	ChemicalProperty	25	29	pure
+T4	PhasesOfWater	30	35	water
+T5	LiquidMatter	30	35	water
+T6	PhaseChangingActions	36	40	boil
+T7	Temperature	42	45	0°C
+T8	NUMBER	42	44	0°
+T9	Temperature	46	50	32°C
+T10	NUMBER	46	49	32°
+T11	NUMBER	51	55	100°
+T12	Temperature	51	56	100°C
+T13	Temperature	57	62	212°C
+T14	NUMBER	57	60	212

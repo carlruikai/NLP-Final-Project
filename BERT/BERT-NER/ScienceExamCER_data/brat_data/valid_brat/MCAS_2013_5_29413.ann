@@ -1,0 +1,27 @@
+T1	Locations	3	7	area
+T2	Uptake	8	16	received
+T3	NUMBER	17	20	six
+T4	DistanceUnit	21	25	inch
+T5	Precipitation	31	35	snow
+T6	RelativeTime	36	42	during
+T7	SeasonsFallAutumnWinterSpringSummer	47	53	winter
+T8	RelativeTime	55	61	Before
+T9	Precipitation	66	70	snow
+T10	AbilityAvailability	71	74	can
+T11	Occur	75	83	continue
+T12	Move	75	83	continue
+T13	PrepositionalDirections	84	91	through
+T14	Cycles	96	107	water cycle
+T15	StateOfBeing	108	110	as
+T16	TypesOfWaterInBodiesOfWater	111	123	ground water
+T17	Comparisons	124	126	or
+T18	PartsOfWaterCycle	127	133	runoff
+T19	WeatherPhenomena	127	133	runoff
+T20	LiquidMovement	127	133	runoff
+T21	Require	138	142	must
+T22	TemporalProperty	143	148	first
+T23	ORDINAL	143	148	first
+T24	PhaseChangingActions	154	162	condense
+T25	PhaseChangingActions	163	172	evaporate
+T26	PhaseChangingActions	173	179	freeze
+T27	PhaseChangingActions	180	184	melt

@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	EnergyWaves	6	18	seismic wave
+T3	Event	19	29	phenomenon
+T4	VerbsForLocate	31	36	found
+T5	RelativeLocations	37	39	at
+T6	GeographicFormationParts	40	61	structural boundaries
+T7	Permit	63	69	allows
+T8	Human	70	80	scientists
+T9	GroupsOfScientists	70	80	scientists
+T10	AnalyzingResearch	84	93	interpret
+T11	RelativeLocations	98	106	interior
+T12	SystemParts	107	116	structure
+T13	InnerPlanets	120	125	Earth
+T14	LOCATION	120	125	Earth
+T15	LightMovement	127	137	refraction
+T16	EnergyWaves	141	146	waves
+T17	Create	147	157	generation
+T18	Age	161	164	new
+T19	EnergyWaves	165	170	waves
+T20	Changes	171	185	transformation
+T21	EnergyWaves	189	204	transverse wave
+T22	ChangeInto	206	210	into
+T23	EnergyWaves	211	228	longitudinal wave
+T24	Changes	230	244	transformation
+T25	EnergyWaves	248	264	mechanical waves
+T26	ChangeInto	265	269	into
+T27	EnergyWaves	270	290	electromagnetic wave

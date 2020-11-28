@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	ImportanceComparison	11	16	major
+T4	AnimalPart	17	22	organ
+T5	NervousSystem	30	44	nervous system
+T6	PartsOfTheNervousSystem	46	51	brain
+T7	PartsOfTheDigestiveSystem	52	59	stomach
+T8	PartsOfEndocrineSystem	52	59	stomach
+T9	PartsOfTheRespiratorySystem	60	64	lung
+T10	PartsOfTheSkeletalSystem	65	69	bone

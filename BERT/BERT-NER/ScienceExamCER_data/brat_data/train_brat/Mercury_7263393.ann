@@ -1,0 +1,40 @@
+T1	Scientists	0	10	Dr. Tanaka
+T2	Identify	11	21	discovered
+T3	Discovery	11	21	discovered
+T4	Age	24	27	new
+T5	Undiscovered	24	27	new
+T6	Sickness	28	33	virus
+T7	Sickness	28	33	virus
+T8	ContainBeComposedOf	45	48	has
+T9	RelativeNumber	51	57	single
+T10	ObjectQuantification	58	64	strand
+T11	OrganicCompounds	70	82	nucleic acid
+T12	Negations	84	87	but
+T13	Negations	97	100	not
+T14	Believe	101	105	know
+T15	StateOfBeing	112	114	is
+T16	Genetics	115	118	DNA
+T17	Comparisons	119	121	or
+T18	Genetics	122	125	RNA
+T19	RelativeTime	127	132	After
+T20	PerformAnActivity	133	140	running
+T21	PerformingResearch	141	146	tests
+T22	Experimentation	141	146	tests
+T23	ConcludingResearch	152	161	concludes
+T24	StateOfBeing	170	172	is
+T25	Genetics	173	176	DNA
+T26	LevelOfInclusion	178	183	Which
+T27	LevelOfInclusion	187	200	the following
+T28	ProbabilityAndCertainty	201	206	would
+T29	Cause	207	211	lead
+T30	ConcludingResearch	224	234	conclusion
+T31	ContainBeComposedOf	239	247	contains
+T32	PartsOfRNA	248	254	uracil
+T33	ContainBeComposedOf	259	267	contains
+T34	PartsOfDNA	268	275	adenine
+T35	PartsOfRNA	268	275	adenine
+T36	ContainBeComposedOf	280	288	contains
+T37	PartsOfDNA	289	296	thymine
+T38	ContainBeComposedOf	301	309	contains
+T39	PartsOfDNA	310	318	cytosine
+T40	PartsOfRNA	310	318	cytosine

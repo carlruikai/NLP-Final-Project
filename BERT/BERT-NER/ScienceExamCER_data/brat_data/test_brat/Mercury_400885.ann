@@ -1,0 +1,25 @@
+T1	LevelOfInclusion	0	5	Which
+T2	RepresentingElementsAndMolecules	6	14	equation
+T3	StateOfBeing	15	17	is
+T4	RepresentingElementsAndMolecules	20	46	balanced chemical equation
+T5	Comparisons	20	28	balanced
+T6	Compound	48	53	2NaOH
+T7	Calculations	54	55	+
+T8	Compound	56	64	CaBr_{2}
+T9	Compound	68	78	Ca(OH)_{2}
+T10	Calculations	79	80	+
+T11	Compound	81	85	NaBr
+T12	Element	86	88	NO
+T13	Calculations	89	90	+
+T14	Compound	91	97	Cl_{2}
+T15	Compound	101	105	NOCl
+T16	Compound	106	114	CaCO_{3}
+T17	Compound	118	121	CaO
+T18	Calculations	122	123	+
+T19	Compound	124	131	2CO_{2}
+T20	Compound	132	141	2AlCl_{3}
+T21	Calculations	142	143	+
+T22	Compound	144	147	3Mg
+T23	Compound	151	160	3MgCl_{2}
+T24	Calculations	161	162	+
+T25	Compound	163	166	2Al

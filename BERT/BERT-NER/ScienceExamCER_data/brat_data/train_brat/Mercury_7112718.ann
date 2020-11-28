@@ -1,0 +1,32 @@
+T1	Goal	0	11	In order to
+T2	ActionsForAnimals	12	16	grow
+T3	Growth	12	16	grow
+T4	ActionsForAgriculture	12	16	grow
+T5	CardinalNumber	17	20	two
+T6	NUMBER	17	20	two
+T7	RelativeNumber	28	33	exact
+T8	Comparisons	34	38	same
+T9	Plant	39	45	plants
+T10	Human	49	55	person
+T11	ProbabilityAndCertainty	56	61	would
+T12	Reproduction	62	71	reproduce
+T13	Reproduction	77	86	asexually
+T14	Cause	87	94	because
+T15	GeneticProperty	99	116	genetic diversity
+T16	StateOfBeing	117	119	is
+T17	AmountComparison	120	127	greater
+T18	GeneticRelations	129	138	offspring
+T19	WordsForOffspring	129	138	offspring
+T20	ProbabilityAndCertainty	139	144	would
+T21	StateOfBeing	145	147	be
+T22	Genetics	148	159	genetically
+T23	Comparisons	160	169	identical
+T24	Inheritance	171	180	recessive
+T25	GeneticProperty	171	180	recessive
+T26	Property	181	187	traits
+T27	ProbabilityAndCertainty	188	193	would
+T28	Occur	194	200	emerge
+T29	QualityComparison	202	210	negative
+T30	Property	211	217	traits
+T31	StateOfBeing	218	221	are
+T32	GeneticProcesses	222	232	suppressed

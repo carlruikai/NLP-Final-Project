@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	ProbabilityAndCertainty	15	19	will
+T4	AmountChangingActions	20	26	reduce
+T5	Gravity	31	50	gravitational force
+T6	RelativeLocations	51	58	between
+T7	CardinalNumber	59	62	two
+T8	NUMBER	59	62	two
+T9	GenericTerms	63	70	objects
+T10	AmountComparison	75	79	most
+T11	Calculations	81	88	halving
+T12	Distance	93	101	distance
+T13	RelativeLocations	102	109	between
+T14	Calculations	115	123	doubling
+T15	Distance	128	136	distance
+T16	RelativeLocations	137	144	between
+T17	Calculations	150	157	halving
+T18	Distance	162	170	distance
+T19	RelativeLocations	171	178	between
+T20	Calculations	188	196	doubling
+T21	Mass	203	207	mass
+T22	Calculations	208	216	doubling
+T23	Distance	221	229	distance
+T24	RelativeLocations	230	237	between
+T25	Calculations	247	254	halving
+T26	Mass	261	265	mass

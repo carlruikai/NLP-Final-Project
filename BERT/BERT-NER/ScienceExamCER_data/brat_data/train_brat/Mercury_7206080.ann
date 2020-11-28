@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Quality	15	19	best
+T4	QualityComparison	15	19	best
+T5	Indicate	20	29	indicates
+T6	Sedimentary	35	44	sediments
+T7	AbilityAvailability	45	48	can
+T8	StateOfBeing	49	51	be
+T9	ChangeInto	52	59	changed
+T10	Rock	65	69	rock
+T11	ObjectQuantification	71	77	layers
+T12	Sedimentary	81	90	sandstone
+T13	Igneous	91	108	igneous intrusion
+T14	Rock	110	114	lava
+T15	GeographicFormations	115	119	beds
+T16	GeographicFormations	120	129	mountains
+T17	ContainBeComposedOf	130	134	with
+T18	Metamorphic	135	141	gneiss

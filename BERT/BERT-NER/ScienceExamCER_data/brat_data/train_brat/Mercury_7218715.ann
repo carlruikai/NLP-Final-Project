@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PhaseChanges	6	18	phase change
+T3	RelativeLocations	19	21	in
+T4	EarthPartsGrossGroundAtmosphere	26	36	atmosphere
+T5	LayersOfTheEarth	26	36	atmosphere
+T6	Create	37	42	forms
+T7	WeatherPhenomena	43	49	clouds
+T8	PhaseChangingActions	51	62	evaporation
+T9	PhaseChangingActions	63	71	freezing
+T10	PhaseChangingActions	72	84	condensation
+T11	PhaseChangingActions	85	92	melting

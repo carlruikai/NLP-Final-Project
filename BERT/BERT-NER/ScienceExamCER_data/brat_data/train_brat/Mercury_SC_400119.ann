@@ -1,0 +1,28 @@
+T1	Changes	6	12	change
+T2	Occur	18	23	occur
+T3	RelativeLocations	24	26	in
+T4	ElectricityAndCircuits	31	35	wire
+T5	TechnologicalComponent	31	35	wire
+T6	Circuits	42	60	electrical circuit
+T7	StateOfBeing	66	68	is
+T8	PerformAnActivity	69	76	working
+T9	Quality	77	85	properly
+T10	ElectricityAndCircuits	91	95	wire
+T11	TechnologicalComponent	91	95	wire
+T12	ChangeInto	101	107	become
+T13	Temperature	108	114	warmer
+T14	Comparisons	108	114	warmer
+T15	ElectricityAndCircuits	120	124	wire
+T16	TechnologicalComponent	120	124	wire
+T17	AmountChangingActions	130	134	lose
+T18	LevelOfInclusion	135	139	some
+T19	Mass	147	151	mass
+T20	ElectricityAndCircuits	157	161	wire
+T21	TechnologicalComponent	157	161	wire
+T22	Create	167	171	form
+T23	ElectricalEnergy	175	189	electric field
+T24	ElectricityAndCircuits	195	199	wire
+T25	TechnologicalComponent	195	199	wire
+T26	Create	205	212	develop
+T27	Age	215	218	new
+T28	MineralProperties	219	236	crystal structure

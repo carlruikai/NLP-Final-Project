@@ -1,0 +1,19 @@
+T1	EclipseEvents	2	15	lunar eclipse
+T2	Occur	16	22	occurs
+T3	RelativeTime	23	27	when
+T4	Moon	32	36	Moon
+T5	CelestialMovement	37	43	passes
+T6	Move	37	43	passes
+T7	PrepositionalDirections	44	51	through
+T8	InnerPlanets	52	57	Earth
+T9	LOCATION	52	57	Earth
+T10	MeasuresOfAmountOfLight	60	66	shadow
+T11	EclipseEvents	70	83	lunar eclipse
+T12	AbilityAvailability	84	87	can
+T13	LevelOfInclusion	88	92	only
+T14	Occur	93	98	occur
+T15	RelativeTime	99	105	during
+T16	LunarPhases	108	117	full moon
+T17	LunarPhases	119	127	new moon
+T18	LunarPhases	129	147	first quarter moon
+T19	LunarPhases	149	166	last quarter moon

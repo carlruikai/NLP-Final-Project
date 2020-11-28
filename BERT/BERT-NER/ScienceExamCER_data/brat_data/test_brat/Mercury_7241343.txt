@@ -1,0 +1,5 @@
+When a person is infected with the influenza virus, the immune system defends the body through a cell-mediated immune response. Which immune cell is responsible for protecting the body from the influenza virus infection?
+phagocytes
+B lymphocytes
+helper T lymphocytes
+cytotoxic T lymphocytes

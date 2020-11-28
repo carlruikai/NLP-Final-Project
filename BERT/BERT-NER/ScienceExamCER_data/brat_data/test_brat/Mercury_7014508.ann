@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	27	31	been
+T4	Create	32	38	formed
+T5	RelativeLocations	39	41	on
+T6	NationalityOrigin	46	51	Asian
+T7	Continents	46	51	Asian
+T8	GeographicFormations	52	61	continent
+T9	Cause	62	64	by
+T10	CardinalNumber	65	68	two
+T11	NUMBER	65	68	two
+T12	TectonicPlates	69	86	continental plate
+T13	StateOfBeing	98	102	been
+T14	PushingActions	103	111	pressing
+T15	RelativeDirection	112	120	together
+T16	ArithmeticMeasure	125	133	millions
+T17	TimeUnit	137	142	years
+T18	Year	137	142	years
+T19	Size	144	149	large
+T20	GeographicFormations	150	156	fields
+T21	Rock	160	166	gravel
+T22	Height	169	173	tall
+T23	GeographicFormations	174	188	mountain chain
+T24	Size	189	194	large
+T25	TypesOfWaterInBodiesOfWater	195	205	freshwater
+T26	BodiesOfWater	206	211	lakes
+T27	Associate	212	218	linked
+T28	Cause	219	221	by
+T29	BodiesOfWater	222	228	rivers
+T30	VisualComparison	232	238	uneven
+T31	Width	239	248	thickness
+T32	Sedimentary	252	263	sedimentary
+T33	ObjectQuantification	264	270	layers

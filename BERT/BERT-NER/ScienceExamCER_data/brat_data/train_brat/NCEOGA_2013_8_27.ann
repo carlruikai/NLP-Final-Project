@@ -1,0 +1,16 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	PartsOfBodiesOfWater	9	21	oceanic zone
+T4	PerformAnActivity	22	24	do
+T5	Aquatic	25	30	clams
+T6	Aquatic	35	40	crabs
+T7	LivingDying	41	48	survive
+T8	Cause	49	51	by
+T9	ActionsForAnimals	52	61	burrowing
+T10	RelativeLocations	58	60	in
+T11	Soil	69	73	sand
+T12	OtherGeographicWords	75	82	oceanic
+T13	UnderwaterEcosystem	83	93	intertidal
+T14	PartsOfBodiesOfWater	94	104	deep ocean
+T15	Depth	94	98	deep
+T16	PartsOfBodiesOfWater	105	115	open ocean

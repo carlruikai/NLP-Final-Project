@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	8	11	all
+T2	Mammal	12	19	mammals
+T3	ContainBeComposedOf	20	24	have
+T4	Comparisons	25	34	in common
+T5	Differentiate	40	53	distinguishes
+T6	RelativeDirection	59	63	from
+T7	Bird	64	69	birds
+T8	AnimalPart	71	75	eyes
+T9	MammalAnimalPart	76	79	fur
+T10	PartsOfTheNervousSystem	82	87	brain
+T11	PartsOfTheCirculatorySystem	90	95	heart
+T12	PartsOfEndocrineSystem	90	95	heart

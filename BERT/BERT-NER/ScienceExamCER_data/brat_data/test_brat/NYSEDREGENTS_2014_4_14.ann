@@ -1,0 +1,19 @@
+T1	ElectricityGeneration	0	11	Solar panel
+T2	ElectricalEnergySource	0	11	Solar panel
+T3	StateOfBeing	13	16	are
+T4	Use	17	21	used
+T5	AbsorbEnergy	25	31	absorb
+T6	CombineAdd	25	31	absorb
+T7	CelestialLightOnEarth	32	40	sunlight
+T8	LevelOfInclusion	42	47	Which
+T9	Color	48	53	color
+T10	ElectricityGeneration	54	59	panel
+T11	ProbabilityAndCertainty	60	65	would
+T12	AbsorbEnergy	66	72	absorb
+T13	CombineAdd	66	72	absorb
+T14	AmountComparison	77	81	most
+T15	CelestialLightOnEarth	82	90	sunlight
+T16	Color	92	97	black
+T17	Color	98	103	green
+T18	Color	104	109	white
+T19	Color	110	116	yellow

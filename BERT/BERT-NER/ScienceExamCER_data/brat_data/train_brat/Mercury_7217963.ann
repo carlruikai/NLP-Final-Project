@@ -1,0 +1,65 @@
+T1	Cause	0	6	Due to
+T2	AmountChangingActions	11	21	increasing
+T3	IncreaseDecrease	11	21	increasing
+T4	Calculations	22	29	average
+T5	Temperature	30	41	temperature
+T6	EarthPartsGrossGroundAtmosphere	49	59	atmosphere
+T7	LayersOfTheEarth	49	59	atmosphere
+T8	SolidMatter	61	70	polar ice
+T9	PhasesOfWater	67	70	ice
+T10	ObjectQuantification	71	77	sheets
+T11	PhaseChangingActions	78	82	melt
+T12	RelativeTime	83	85	at
+T13	AmountComparison	88	95	greater
+T14	MeasuringSpeed	96	100	rate
+T15	PropertyOfMotion	96	100	rate
+T16	Comparisons	101	105	than
+T17	Create	111	115	form
+T18	LevelOfInclusion	117	122	Which
+T19	LevelOfInclusion	126	131	these
+T20	ProbabilityAndCertainty	132	136	will
+T21	StateOfBeing	137	139	be
+T22	Result	143	149	effect
+T23	Occur	157	166	continued
+T24	WaitStay	157	166	continued
+T25	PhaseChangingActions	167	174	melting
+T26	SolidMatter	178	187	polar ice
+T27	PhasesOfWater	184	187	ice
+T28	ImportanceComparison	191	196	major
+T29	BodiesOfWater	197	206	reservoir
+T30	Source	197	206	reservoir
+T31	TypesOfWaterInBodiesOfWater	210	221	fresh water
+T32	ProbabilityAndCertainty	222	226	will
+T33	AmountChangingActions	227	235	decrease
+T34	IncreaseDecrease	227	235	decrease
+T35	Plant	237	242	Plant
+T36	LivingThing	243	247	life
+T37	ProbabilityAndCertainty	248	252	will
+T38	AmountChangingActions	253	261	increase
+T39	IncreaseDecrease	253	261	increase
+T40	Cause	262	268	due to
+T41	AmountComparison	269	275	higher
+T42	BodiesOfWater	276	279	sea
+T43	AmountComparison	280	286	levels
+T44	PhasesOfWater	288	293	Water
+T45	PartsOfBodiesOfWater	294	300	runoff
+T46	WeatherPhenomena	294	300	runoff
+T47	LiquidMovement	294	300	runoff
+T48	ProbabilityAndCertainty	301	305	will
+T49	Cause	306	311	cause
+T50	AmountChangingActions	315	323	increase
+T51	IncreaseDecrease	315	323	increase
+T52	EarthPartsGrossGroundAtmosphere	327	332	ocean
+T53	BodiesOfWater	327	332	ocean
+T54	ChemicalProperty	333	341	salinity
+T55	EarthPartsGrossGroundAtmosphere	343	348	Ocean
+T56	BodiesOfWater	343	348	Ocean
+T57	LOCATION	343	348	Ocean
+T58	Temperature	349	360	temperature
+T59	ProbabilityAndCertainty	361	365	will
+T60	AmountChangingActions	366	374	decrease
+T61	IncreaseDecrease	366	374	decrease
+T62	RelativeTime	375	379	with
+T63	CombineAdd	384	392	addition
+T64	Temperature	396	400	cold
+T65	PhasesOfWater	401	406	water

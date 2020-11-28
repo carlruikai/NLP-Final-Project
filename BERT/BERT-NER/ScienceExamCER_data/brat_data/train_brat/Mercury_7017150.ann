@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	TransferEnergy	6	31	energy conversion process
+T3	Occur	32	38	occurs
+T4	RelativeTime	39	47	whenever
+T5	FossilFuel	48	52	coal
+T6	StateOfBeing	53	55	is
+T7	ChemicalChange	56	62	burned
+T8	Use	56	62	burned
+T9	Energy	64	74	mechanical
+T10	RelativeDirection	75	77	to
+T11	ElectricalEnergy	78	88	electrical
+T12	Energy	89	99	mechanical
+T13	RelativeDirection	100	102	to
+T14	ThermalEnergy	103	110	thermal
+T15	Energy	111	119	chemical
+T16	RelativeDirection	120	122	to
+T17	ElectricalEnergy	123	133	electrical
+T18	Energy	134	142	chemical
+T19	RelativeDirection	143	145	to
+T20	ThermalEnergy	146	153	thermal

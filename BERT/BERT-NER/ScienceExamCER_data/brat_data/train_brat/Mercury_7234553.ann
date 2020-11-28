@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	SystemAndFunctions	6	15	mechanism
+T3	Help	16	21	helps
+T4	PlantNutrients	22	28	carbon
+T5	Element	22	28	carbon
+T6	Cycles	32	37	cycle
+T7	GaseousMovement	32	37	cycle
+T8	RelativeDirection	38	42	from
+T9	EarthPartsGrossGroundAtmosphere	47	57	atmosphere
+T10	LayersOfTheEarth	47	57	atmosphere
+T11	RelativeDirection	58	60	to
+T12	LivingThing	61	77	living organisms
+T13	AnimalPart	79	85	tissue
+T14	TypesOfChemicalReactions	86	99	decomposition
+T15	CellProcesses	100	120	cellular respiration
+T16	CellProcesses	121	135	photosynthesis
+T17	PlantProcesses	121	135	photosynthesis
+T18	PlantProcesses	136	149	transpiration

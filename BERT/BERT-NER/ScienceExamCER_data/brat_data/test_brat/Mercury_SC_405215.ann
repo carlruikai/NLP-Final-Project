@@ -1,0 +1,24 @@
+T1	Fossils	4	11	fossils
+T2	LivingDying	15	22	extinct
+T3	Extinction	15	22	extinct
+T4	Aquatic	23	34	sea animals
+T5	Classify	35	41	called
+T6	Aquatic	42	52	trilobites
+T7	TrueFormFossil	42	52	trilobites
+T8	StateOfBeing	53	56	are
+T9	VerbsForLocate	57	62	found
+T10	RelativeLocations	63	65	in
+T11	FossilLocationImplicationsOfLocationEXMarineAnimalFossilsInTheGrandCanyon	66	70	Ohio
+T12	States	66	70	Ohio
+T13	Indicate	77	82	means
+T14	FossilLocationImplicationsOfLocationEXMarineAnimalFossilsInTheGrandCanyon	83	87	Ohio
+T15	States	83	87	Ohio
+T16	StateOfBeing	88	91	was
+T17	TemporalProperty	92	96	once
+T18	CombineAdd	97	104	covered
+T19	ContainBeComposedOf	97	104	covered
+T20	Angiosperm	108	113	grass
+T21	PhasesOfWater	115	120	water
+T22	LiquidMatter	115	120	water
+T23	ExamplesOfHabitats	122	129	forests
+T24	GeographicFormations	131	140	mountains

@@ -1,0 +1,5 @@
+A city has a temperature of 75 °F, with partly cloudy skies. Weather forecasters are predicting that the air pressure and temperature will drop during the day. Which type of weather is most likely for this area in the late afternoon?
+rainy.
+sunny.
+snowing.
+hailing.

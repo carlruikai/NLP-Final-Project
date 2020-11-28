@@ -1,0 +1,47 @@
+T1	Plant	2	7	plant
+T2	VerbsForLocate	8	15	sitting
+T3	Position	8	15	sitting
+T4	RelativeLocations	16	18	on
+T5	PartsOfABuilding	21	31	windowsill
+T6	Death	36	42	wilted
+T7	Scientists	46	53	student
+T8	Communicate	54	63	explained
+T9	Plant	73	78	plant
+T10	Death	79	85	wilted
+T11	Cause	86	93	because
+T12	StateOfBeing	97	99	is
+T13	RelativeLocations	100	102	in
+T14	MeasuresOfAmountOfLight	103	109	direct
+T15	CelestialLightOnEarth	110	118	sunlight
+T16	StateOfBeing	125	127	is
+T17	Comparisons	128	135	another
+T18	ProbabilityAndCertainty	136	144	possible
+T19	Cause	145	151	reason
+T20	Plant	156	161	plant
+T21	Death	162	168	wilted
+T22	SoundEnergy	174	179	noise
+T23	RelativeLocations	180	182	in
+T24	AbilityAvailability	187	191	room
+T25	StateOfBeing	192	195	was
+T26	AmountComparison	196	199	too
+T27	SensoryTerms	200	204	loud
+T28	RelativeLocations	206	211	There
+T29	StateOfBeing	212	215	was
+T30	RelativeNumber	216	224	too much
+T31	RelativeLocations	225	230	space
+T32	Size	225	230	space
+T33	Plant	239	244	plant
+T34	Growth	248	252	grow
+T35	ActionsForAgriculture	248	252	grow
+T36	Plant	258	263	plant
+T37	PerformAnActivity	264	266	di
+T38	Negations	268	271	not
+T39	Uptake	272	279	receive
+T40	RelativeNumber	280	286	enough
+T41	PhasesOfWater	287	292	water
+T42	RelativeLocations	294	299	There
+T43	StateOfBeing	300	303	was
+T44	RelativeNumber	304	312	too much
+T45	Compound	313	327	carbon dioxide
+T46	RelativeLocations	328	330	in
+T47	ManmadeLocations	335	339	room

@@ -1,0 +1,16 @@
+T1	RelativeLocations	0	2	In
+T2	NorthernHemisphereLocations	3	17	New York State
+T3	States	3	17	New York State
+T4	Human	22	30	observer
+T5	Scientists	22	30	observer
+T6	ProbabilityAndCertainty	31	35	will
+T7	Rarity	36	43	usually
+T8	Frequency	36	43	usually
+T9	Observe	44	47	see
+T10	Star	52	55	Sun
+T11	ApparentCelestialMovement	56	60	rise
+T12	RelativeLocations	61	63	in
+T13	CardinalDirectionsNorthEastSouthWest	68	73	north
+T14	CardinalDirectionsNorthEastSouthWest	74	79	south
+T15	CardinalDirectionsNorthEastSouthWest	80	84	east
+T16	CardinalDirectionsNorthEastSouthWest	85	89	west

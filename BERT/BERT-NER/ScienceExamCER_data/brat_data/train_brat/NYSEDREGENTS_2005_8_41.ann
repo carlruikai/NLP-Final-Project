@@ -1,0 +1,11 @@
+T1	Growth	0	6	Growth
+T2	Alter	11	17	repair
+T3	Help	11	17	repair
+T4	RelativeLocations	18	20	in
+T5	Eukaryote	21	44	multicellular organisms
+T6	StateOfBeing	45	48	are
+T7	Result	53	59	result
+T8	ExcretoryActions	63	72	excretion
+T9	MechanicalMovement	73	83	locomotion
+T10	CellProcesses	84	97	cell division
+T11	TypesOfChemicalReactions	98	111	decomposition

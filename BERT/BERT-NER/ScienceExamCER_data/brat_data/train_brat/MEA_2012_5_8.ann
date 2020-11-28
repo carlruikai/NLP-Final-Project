@@ -1,0 +1,14 @@
+T1	RelativeNumber	4	8	many
+T2	MarkersOfTime	9	14	times
+T3	PerformAnActivity	15	19	does
+T4	InnerPlanets	20	25	Earth
+T5	CelestialMovement	26	32	rotate
+T6	Position	33	44	on its axis
+T7	RelativeTime	45	47	in
+T8	CardinalNumber	48	51	one
+T9	DURATION	48	55	one day
+T10	TimeUnit	52	55	day
+T11	ArithmeticMeasure	57	61	once
+T12	ArithmeticMeasure	62	67	twice
+T13	ArithmeticMeasure	68	76	24 times
+T14	ArithmeticMeasure	77	86	365 times

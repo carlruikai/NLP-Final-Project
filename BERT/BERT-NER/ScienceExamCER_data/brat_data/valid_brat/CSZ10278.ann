@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	TransferEnergy	23	31	converts
+T4	ElectricalEnergy	32	49	electrical energy
+T5	ChangeInto	50	54	into
+T6	PropertyOfMotion	55	61	motion
+T7	Move	55	61	motion
+T8	ElectricAppliance	63	75	light switch
+T9	CookingToolsFood	76	90	electric stove
+T10	ElectricAppliance	76	90	electric stove
+T11	LightProducingObject	91	101	light bulb
+T12	ElectricAppliance	102	114	electric fan

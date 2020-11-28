@@ -1,0 +1,32 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ProbabilityAndCertainty	6	11	would
+T3	Quality	12	16	best
+T4	QualityComparison	12	16	best
+T5	Help	17	20	aid
+T6	Scientists	23	32	scientist
+T7	Identify	36	47	discovering
+T8	Discovery	36	47	discovering
+T9	Method	48	51	how
+T10	InnerPlanets	52	57	Earth
+T11	LOCATION	52	57	Earth
+T12	ProbabilityAndCertainty	58	61	may
+T13	Changes	67	74	changed
+T14	TemporalProperty	75	84	over time
+T15	VerbsForLocate	86	93	finding
+T16	ExamplesOfHabitats	98	102	nest
+T17	Bird	108	118	bald eagle
+T18	Examine	119	127	tracking
+T19	Unknown	132	142	footprints
+T20	Mammal	148	152	wolf
+T21	Examine	153	162	analyzing
+T22	AnalyzingResearch	153	162	analyzing
+T23	Reproduction	167	178	pollination
+T24	PlantProcesses	167	178	pollination
+T25	Angiosperm	184	193	sunflower
+T26	Identify	194	205	discovering
+T27	Discovery	194	205	discovering
+T28	Fossils	208	214	fossil
+T29	TrueFormFossil	220	228	seashell
+T30	RelativeLocations	229	231	in
+T31	FossilLocationImplicationsOfLocationEXMarineAnimalFossilsInTheGrandCanyon	234	245	wooded area
+T32	Forests	234	245	wooded area

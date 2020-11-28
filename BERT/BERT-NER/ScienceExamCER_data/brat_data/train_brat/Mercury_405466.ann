@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	AnimalPart	6	11	organ
+T3	StateOfBeing	12	14	is
+T4	ObjectPart	15	19	part
+T5	LevelOfInclusion	15	19	part
+T6	RespiratorySystem	27	45	respiratory system
+T7	PartsOfTheDigestiveSystem	47	54	stomach
+T8	PartsOfEndocrineSystem	47	54	stomach
+T9	PartsOfTheRespiratorySystem	55	60	lungs
+T10	PartsOfTheExcretorySystem	55	60	lungs
+T11	PartsOfTheNervousSystem	61	72	spinal cord
+T12	PartsOfTheDigestiveSystem	73	88	large intestine

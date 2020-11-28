@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	CardinalNumber	6	9	two
+T3	NUMBER	6	9	two
+T4	SolarSystem	10	22	solar system
+T5	CelestialObject	23	30	objects
+T6	ContainBeComposedOf	31	35	have
+T7	AmountComparison	40	45	least
+T8	Numbers	46	52	amount
+T9	Distance	56	64	distance
+T10	RelativeLocations	65	72	between
+T11	Star	83	86	Sun
+T12	InnerPlanets	91	95	Mars
+T13	InnerPlanets	96	101	Earth
+T14	OuterPlanets	106	113	Jupiter
+T15	Star	118	121	Sun
+T16	InnerPlanets	126	131	Earth
+T17	InnerPlanets	126	131	Earth
+T18	Moon	146	150	Moon

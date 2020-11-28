@@ -1,0 +1,36 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Quality	6	10	best
+T3	QualityComparison	6	10	best
+T4	Communicate	11	19	explains
+T5	Cause	20	23	why
+T6	Human	26	32	person
+T7	Sickness	33	41	infected
+T8	CombineAdd	42	46	with
+T9	Bacteria	47	55	bacteria
+T10	ContainBeComposedOf	60	64	have
+T11	PropertiesOfSickness	67	72	fever
+T12	HumanPart	78	82	body
+T13	StateOfBeing	83	85	is
+T14	Response	86	96	responding
+T15	StopRemove	100	109	fight off
+T16	Bacteria	114	123	bacteria.
+T17	HumanPart	128	132	body
+T18	StateOfBeing	133	135	is
+T19	Release	136	145	releasing
+T20	Toxins	146	160	waste material
+T21	RelativeDirection	161	165	from
+T22	Bacteria	170	179	bacteria.
+T23	HumanPart	184	188	body
+T24	StateOfBeing	189	191	is
+T25	Create	192	201	producing
+T26	SubstancesProducedByPlantProcesses	202	210	hormones
+T27	StopRemove	214	218	kill
+T28	Sickness	223	232	infection
+T29	HumanPart	238	242	body
+T30	StateOfBeing	243	245	is
+T31	AmountChangingActions	246	254	reducing
+T32	Blood	259	264	blood
+T33	Source	265	271	supply
+T34	RelativeDirection	272	274	to
+T35	Sickness	279	288	infection
+T36	Locations	289	293	site

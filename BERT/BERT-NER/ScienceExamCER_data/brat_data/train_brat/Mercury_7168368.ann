@@ -1,0 +1,33 @@
+T1	RelativeTime	0	4	When
+T2	PERSON	5	11	Javier
+T3	PhysicalActivity	12	21	exercises
+T4	Cell	27	38	muscle cell
+T5	PartsOfTheMuscularSystem	27	38	muscle cell
+T6	Require	40	44	need
+T7	AmountComparison	45	49	more
+T8	Element	50	56	oxygen
+T9	LevelOfInclusion	58	63	Which
+T10	ProbabilityAndCertainty	64	69	would
+T11	Help	70	74	help
+T12	PERSON	75	81	Javier
+T13	Cell	84	95	muscle cell
+T14	PartsOfTheMuscularSystem	84	95	muscle cell
+T15	Uptake	97	104	receive
+T16	AmountComparison	105	109	more
+T17	Element	110	116	oxygen
+T18	AmountChangingActions	118	128	decreasing
+T19	IncreaseDecrease	118	128	decreasing
+T20	RespirationActions	133	144	respiration
+T21	MeasuringSpeed	145	149	rate
+T22	AmountChangingActions	150	160	increasing
+T23	IncreaseDecrease	150	160	increasing
+T24	ExcretoryActions	165	177	perspiration
+T25	MeasuringSpeed	178	182	rate
+T26	AmountChangingActions	183	193	increasing
+T27	IncreaseDecrease	183	193	increasing
+T28	MeasuringSpeed	198	202	rate
+T29	CirculationActions	207	217	heart beat
+T30	AmountChangingActions	219	229	decreasing
+T31	IncreaseDecrease	219	229	decreasing
+T32	MeasuringSpeed	234	238	rate
+T33	CirculationActions	243	253	blood flow

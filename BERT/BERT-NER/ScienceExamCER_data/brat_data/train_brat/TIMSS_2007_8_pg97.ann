@@ -1,0 +1,27 @@
+T1	TimeUnit	3	13	Earth year
+T2	StateOfBeing	14	16	is
+T3	TemporalProperty	21	27	length
+T4	MarkersOfTime	31	35	time
+T5	Require	39	44	takes
+T6	Result	45	48	for
+T7	InnerPlanets	49	54	Earth
+T8	CelestialMovement	58	64	rotate
+T9	ArithmeticMeasure	65	69	once
+T10	Position	70	81	on its axis
+T11	Moon	86	90	Moon
+T12	CelestialMovement	94	101	revolve
+T13	ArithmeticMeasure	102	106	once
+T14	PrepositionalDirections	107	113	around
+T15	InnerPlanets	114	119	Earth
+T16	LOCATION	114	119	Earth
+T17	Star	124	127	Sun
+T18	CelestialMovement	131	138	revolve
+T19	ArithmeticMeasure	139	143	once
+T20	PrepositionalDirections	144	150	around
+T21	InnerPlanets	151	156	Earth
+T22	LOCATION	151	156	Earth
+T23	InnerPlanets	151	156	Earth
+T24	CelestialMovement	166	173	revolve
+T25	ArithmeticMeasure	174	178	once
+T26	PrepositionalDirections	179	185	around
+T27	Star	190	193	Sun

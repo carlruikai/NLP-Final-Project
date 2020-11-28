@@ -1,0 +1,58 @@
+T1	Mammal	2	5	cow
+T2	Amphibian	12	16	frog
+T3	ContainBeComposedOf	17	21	have
+T4	Comparisons	22	29	similar
+T5	PartsOfTheSkeletalSystem	30	34	bone
+T6	SystemParts	35	45	structures
+T7	Pattern	35	45	structures
+T8	RelativeLocations	46	48	in
+T9	AnimalPart	55	64	forelimbs
+T10	LevelOfInclusion	66	70	Both
+T11	ContainBeComposedOf	71	75	have
+T12	PartsOfTheSkeletalSystem	76	85	phalanges
+T13	PartsOfTheSkeletalSystem	87	93	radius
+T14	PartsOfTheSkeletalSystem	95	99	ulna
+T15	PartsOfTheSkeletalSystem	105	112	humerus
+T16	PartsOfTheSkeletalSystem	113	118	bones
+T17	Negations	120	127	However
+T18	Mammal	133	136	cow
+T19	Amphibian	141	145	frog
+T20	StateOfBeing	146	149	are
+T21	Animal	150	157	animals
+T22	ContainBeComposedOf	158	162	with
+T23	AmountComparison	163	167	very
+T24	Comparisons	168	177	different
+T25	LifeCycle	178	189	life cycles
+T26	RelativeDirection	190	194	from
+T27	LevelOfInclusion	195	199	each
+T28	Comparisons	200	205	other
+T29	LevelOfInclusion	207	212	Which
+T30	AmountComparison	213	217	most
+T31	ProbabilityAndCertainty	218	224	likely
+T32	Communicate	225	234	describes
+T33	Cause	235	238	why
+T34	AnimalPart	243	247	body
+T35	SystemParts	248	258	structures
+T36	LevelOfInclusion	262	267	these
+T37	Animal	268	275	animals
+T38	StateOfBeing	276	279	are
+T39	Comparisons	283	290	similar
+T40	LevelOfInclusion	292	296	Both
+T41	Occur	302	311	undergone
+T42	Comparisons	312	319	similar
+T43	Mutation	320	329	mutations
+T44	LevelOfInclusion	331	335	Both
+T45	GeneticRelations	336	350	descended from
+T46	Associate	336	350	descended from
+T47	Comparisons	353	359	common
+T48	GeneticRelations	360	368	ancestor
+T49	LevelOfInclusion	370	374	Both
+T50	Response	375	382	reacted
+T51	Comparisons	383	392	similarly
+T52	EnvironmentalPhenomena	396	418	environmental pressure
+T53	LevelOfInclusion	421	425	Both
+T54	Separate	426	436	spread out
+T55	Move	426	436	spread out
+T56	RelativeDirection	437	441	from
+T57	Comparisons	446	450	same
+T58	TerrestrialLocations	451	470	geographical region

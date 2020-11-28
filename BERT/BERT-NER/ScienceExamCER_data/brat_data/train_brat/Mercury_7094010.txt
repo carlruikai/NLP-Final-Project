@@ -1,0 +1,5 @@
+Robots can perform tasks that are dangerous for humans. What is the MAJOR limitation to the use of robots?
+The assembly pieces must be very small.
+The assembly process must remain exactly the same.
+Robots require regular maintenance.
+Robots must be provided with electricity.

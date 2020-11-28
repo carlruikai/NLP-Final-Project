@@ -1,0 +1,48 @@
+T1	RelativeTime	0	5	While
+T2	PerformAnActivity	6	16	conducting
+T3	Experimentation	20	33	investigation
+T4	Relevant	31	33	on
+T5	LightMovement	37	47	refraction
+T6	Occupation	51	58	teacher
+T7	Use	59	63	uses
+T8	Color	66	69	red
+T9	LightProducingObject	70	83	laser pointer
+T10	Goal	84	86	to
+T11	Indicate	87	91	show
+T12	Method	88	91	how
+T13	Light	98	111	beam of light
+T14	StateOfBeing	112	114	is
+T15	Alter	115	123	affected
+T16	RelativeTime	124	126	as
+T17	LightMovement	130	136	passes
+T18	PrepositionalDirections	137	144	through
+T19	RelativeNumber	145	152	several
+T20	SyntheticMaterial	153	158	glass
+T21	SolidMatter	153	158	glass
+T22	GenericTerms	159	166	objects
+T23	Occupation	172	179	teacher
+T24	Require	180	186	should
+T25	Verify	187	196	make sure
+T26	ManmadeLocations	206	210	room
+T27	StateOfBeing	211	213	is
+T28	LevelOfInclusion	214	221	totally
+T29	Brightness	222	226	dark
+T30	Light	228	233	light
+T31	Source	234	240	source
+T32	StateOfBeing	241	243	is
+T33	ElectromagneticSpectrum	244	255	ultraviolet
+T34	Light	257	270	beam of light
+T35	Negations	276	279	not
+T36	LightMovement	280	286	travel
+T37	PrepositionalDirections	287	293	toward
+T38	Scientists	298	306	students
+T39	ManmadeLocations	308	312	room
+T40	PartsOfABuilding	313	318	walls
+T41	StateOfBeing	319	322	are
+T42	Safety	323	331	shielded
+T43	ContainBeComposedOf	323	331	shielded
+T44	CombineAdd	332	336	with
+T45	ResistanceStrength	337	347	insulating
+T46	Preserve	337	347	insulating
+T47	Material	348	356	material
+T48	Matter	348	356	material

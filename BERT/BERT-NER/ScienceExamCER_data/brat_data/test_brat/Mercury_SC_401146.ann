@@ -1,0 +1,20 @@
+T1	ImportanceComparison	4	9	major
+T2	OrganicProcesses	10	18	function
+T3	PartsOfTheExcretorySystem	26	33	kidneys
+T4	PartsOfEndocrineSystem	26	33	kidneys
+T5	StateOfBeing	34	36	is
+T6	Transportation	40	48	exchange
+T7	GaseousMatter	49	54	gases
+T8	DigestionActions	56	66	break down
+T9	Nutrition	67	76	nutrients
+T10	ExcretoryActions	78	84	filter
+T11	Separate	78	84	filter
+T12	Toxins	85	91	wastes
+T13	Toxins	96	106	byproducts
+T14	Move	108	113	carry
+T15	Transportation	108	113	carry
+T16	Blood	114	119	blood
+T17	RelativeDirection	120	124	back
+T18	RelativeDirection	125	127	to
+T19	PartsOfTheCirculatorySystem	132	137	heart
+T20	PartsOfEndocrineSystem	132	137	heart

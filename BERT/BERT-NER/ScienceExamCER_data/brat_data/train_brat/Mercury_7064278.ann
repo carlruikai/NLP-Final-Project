@@ -1,0 +1,32 @@
+T1	ManmadeLocations	0	6	Street
+T2	Representation	7	11	maps
+T3	StateOfBeing	12	15	are
+T4	Exemplar	16	24	examples
+T5	Shape	28	43	two dimensional
+T6	Representation	44	50	models
+T7	LevelOfInclusion	52	57	Which
+T8	WordsForData	58	69	information
+T9	AbilityAvailability	70	76	cannot
+T10	StateOfBeing	77	79	be
+T11	Identify	80	90	determined
+T12	Use	91	96	using
+T13	Complexity	99	104	basic
+T14	Representation	105	108	map
+T15	Distance	110	118	distance
+T16	RelativeDirection	119	123	from
+T17	Locations	124	129	place
+T18	RelativeDirection	130	132	to
+T19	Locations	133	138	place
+T20	Directions	139	149	directions
+T21	Exemplar	150	157	such as
+T22	CardinalDirectionsNorthEastSouthWest	158	163	north
+T23	CardinalDirectionsNorthEastSouthWest	168	173	south
+T24	Classify	174	179	names
+T25	Classification	174	179	names
+T26	ManmadeLocations	183	191	highways
+T27	ManmadeLocations	196	201	roads
+T28	Height	202	212	elevations
+T29	Exemplar	213	220	such as
+T30	Distance	221	229	distance
+T31	RelativeLocations	230	235	above
+T32	Height	236	245	sea level

@@ -1,0 +1,32 @@
+T1	Actions	5	14	procedure
+T2	Require	15	21	should
+T3	StateOfBeing	22	24	be
+T4	PerformAnActivity	25	34	performed
+T5	RelativeTime	35	40	after
+T6	LevelOfInclusion	41	44	any
+T7	Touch	45	53	handling
+T8	Plant	59	64	plant
+T9	ObjectQuantification	65	71	sample
+T10	RelativeLocations	72	74	in
+T11	ManmadeLocations	77	80	lab
+T12	CombineAdd	82	90	applying
+T13	IllnessPreventionCuring	91	103	disinfectant
+T14	RelativeDirection	104	106	to
+T15	ManmadeObjects	111	119	counters
+T16	Move	120	128	throwing
+T17	StopRemove	120	128	throwing
+T18	PrepositionalDirections	129	133	away
+T19	Plant	134	139	plant
+T20	Material	140	148	material
+T21	Matter	140	148	material
+T22	RelativeDirection	149	151	in
+T23	ManmadeObjects	156	161	trash
+T24	CleanUp	162	169	washing
+T25	HumanPart	170	175	hands
+T26	Use	176	180	with
+T27	IllnessPreventionCuring	184	202	antibacterial soap
+T28	Move	203	210	placing
+T29	VerbsForLocate	203	210	placing
+T30	HumanPart	211	216	hands
+T31	RelativeLocations	217	222	under
+T32	ElectromagneticSpectrum	226	243	ultraviolet light

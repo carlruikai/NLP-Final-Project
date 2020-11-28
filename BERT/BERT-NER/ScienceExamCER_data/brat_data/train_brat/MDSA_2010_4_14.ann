@@ -1,0 +1,20 @@
+T1	Star	2	6	star
+T2	StateOfBeing	7	9	is
+T3	CelestialObject	12	28	celestial object
+T4	Create	34	42	produces
+T5	ThermalEnergy	51	55	heat
+T6	Light	60	65	light
+T7	LevelOfInclusion	67	72	Which
+T8	LevelOfInclusion	76	81	these
+T9	CelestialObject	82	98	celestial object
+T10	StateOfBeing	100	102	is
+T11	DistanceComparison	107	114	closest
+T12	Star	115	119	star
+T13	RelativeDirection	120	122	to
+T14	InnerPlanets	123	128	Earth
+T15	LOCATION	123	128	Earth
+T16	InnerPlanets	130	134	Mars
+T17	InnerPlanets	135	140	Venus
+T18	PERSON	135	140	Venus
+T19	Star	145	148	sun
+T20	Moon	153	157	moon

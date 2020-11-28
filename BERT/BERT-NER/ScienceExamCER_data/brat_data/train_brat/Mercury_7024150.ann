@@ -1,0 +1,13 @@
+T1	CardinalNumber	0	11	Ninety-nine
+T2	PercentUnit	12	19	percent
+T3	Mass	27	31	mass
+T4	ElementalComponents	38	42	atom
+T5	StateOfBeing	43	45	is
+T6	VerbsForLocate	46	53	located
+T7	RelativeLocations	54	56	in
+T8	Position	61	70	outermost
+T9	AtomComponents	71	83	energy level
+T10	TemporalProperty	89	94	first
+T11	AtomComponents	95	107	energy level
+T12	AtomComponents	113	127	electron cloud
+T13	AtomComponents	134	141	nucleus

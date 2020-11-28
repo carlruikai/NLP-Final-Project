@@ -1,0 +1,18 @@
+T1	StateOfBeing	5	7	is
+T2	SystemAndFunctions	12	16	role
+T3	PlantPart	20	31	chlorophyll
+T4	RelativeLocations	32	34	in
+T5	CellProcesses	35	49	photosynthesis
+T6	PlantProcesses	35	49	photosynthesis
+T7	ActionsForNutrition	51	60	absorbing
+T8	CombineAdd	51	60	absorbing
+T9	PlantNutrients	61	67	oxygen
+T10	Element	61	67	oxygen
+T11	LightMovement	68	78	reflecting
+T12	Color	79	84	green
+T13	Light	85	90	light
+T14	AbsorbEnergy	91	100	absorbing
+T15	CombineAdd	91	100	absorbing
+T16	Spectra	101	113	light energy
+T17	StopRemove	114	122	blocking
+T18	Compound	123	137	carbon dioxide

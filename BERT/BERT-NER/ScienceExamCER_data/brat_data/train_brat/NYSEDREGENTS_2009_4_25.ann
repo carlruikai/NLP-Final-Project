@@ -1,0 +1,13 @@
+T1	Color	0	5	Green
+T2	Plant	6	12	plants
+T3	Uptake	13	16	get
+T4	Energy	21	27	energy
+T5	Require	33	37	need
+T6	Result	38	40	to
+T7	Create	41	45	make
+T8	Nutrition	46	50	food
+T9	RelativeDirection	51	55	from
+T10	EarthPartsGrossGroundAtmosphere	56	59	air
+T11	CelestialLightOnEarth	60	68	sunlight
+T12	PhasesOfWater	69	74	water
+T13	Soil	75	79	soil

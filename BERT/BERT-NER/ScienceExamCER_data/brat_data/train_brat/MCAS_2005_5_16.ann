@@ -1,0 +1,21 @@
+T1	RelativeLocations	0	2	In
+T2	Cities	5	9	city
+T3	Frequency	15	20	daily
+T4	RelativeNumber	21	25	high
+T5	RelativeNumber	30	33	low
+T6	CardinalNumber	34	36	16
+T7	NUMBER	34	36	16
+T8	Temperature	37	49	temperatures
+T9	RelativeTime	50	53	for
+T10	TimeUnit	56	61	month
+T11	StateOfBeing	62	65	are
+T12	Quality	66	70	best
+T13	QualityComparison	66	70	best
+T14	Represent	71	82	represented
+T15	Use	83	85	by
+T16	LevelOfInclusion	86	91	which
+T17	LevelOfInclusion	95	108	the following
+T18	Representation	110	120	flow chart
+T19	Representation	121	131	line graph
+T20	Representation	132	142	pictograph
+T21	Representation	143	152	pie chart

@@ -1,0 +1,5 @@
+Two pool (billiard) balls collide, causing each to move in a different direction. Eventually, both come to a stop. The most important factor in causing them to stop is
+balance.
+friction.
+gravity.
+size.

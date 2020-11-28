@@ -1,0 +1,51 @@
+T1	RelativeTime	0	4	When
+T2	EnergyWaves	5	15	sound wave
+T3	ContainBeComposedOf	17	21	with
+T4	Size	22	27	large
+T5	PropertiesOfWaves	28	37	amplitude
+T6	StateOfBeing	38	41	are
+T7	Comparisons	42	50	compared
+T8	EnergyWaves	54	64	sound wave
+T9	ContainBeComposedOf	66	70	with
+T10	Size	71	76	small
+T11	PropertiesOfWaves	77	86	amplitude
+T12	LevelOfInclusion	88	93	which
+T13	LevelOfInclusion	97	110	the following
+T14	StateOfBeing	111	113	is
+T15	Validity	114	118	true
+T16	EnergyWaves	120	130	Sound wave
+T17	ContainBeComposedOf	132	136	with
+T18	Size	137	142	large
+T19	PropertiesOfWaves	143	153	amplitudes
+T20	ContainBeComposedOf	154	158	have
+T21	AmountComparison	159	163	less
+T22	Energy	164	170	energy
+T23	SensoryTerms	175	180	sound
+T24	SensoryTerms	181	188	quieter
+T25	EnergyWaves	190	200	Sound wave
+T26	ContainBeComposedOf	202	206	with
+T27	Size	207	212	large
+T28	PropertiesOfWaves	213	223	amplitudes
+T29	ContainBeComposedOf	224	228	have
+T30	AmountComparison	229	233	more
+T31	Energy	234	240	energy
+T32	SensoryTerms	245	250	sound
+T33	SensoryTerms	251	257	louder
+T34	EnergyWaves	259	269	Sound wave
+T35	ContainBeComposedOf	271	275	with
+T36	Size	276	281	large
+T37	PropertiesOfWaves	282	292	amplitudes
+T38	ContainBeComposedOf	293	297	have
+T39	Comparisons	302	306	same
+T40	Energy	307	313	energy
+T41	SensoryTerms	318	323	sound
+T42	SensoryTerms	324	331	quieter
+T43	EnergyWaves	333	343	Sound wave
+T44	ContainBeComposedOf	345	349	with
+T45	Size	350	355	large
+T46	PropertiesOfWaves	356	366	amplitudes
+T47	ContainBeComposedOf	367	371	have
+T48	Comparisons	376	380	same
+T49	Energy	381	387	energy
+T50	SensoryTerms	392	397	sound
+T51	SensoryTerms	398	404	louder

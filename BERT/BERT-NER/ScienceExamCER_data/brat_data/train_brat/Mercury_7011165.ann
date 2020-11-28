@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	StateOfBeing	15	17	is
+T4	Alter	24	32	affected
+T5	Cause	33	35	by
+T6	ActUponSomething	36	48	interactions
+T7	Relations	36	48	interactions
+T8	CombineAdd	49	53	with
+T9	EcosystemsEnvironment	58	69	environment
+T10	PhysicalProperty	71	77	weight
+T11	Mass	71	77	weight
+T12	AnimalPart	78	81	eye
+T13	Color	82	87	color
+T14	Blood	88	93	blood
+T15	Exemplar	94	98	type
+T16	OtherHumanProperties	99	109	handedness

@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	Energy	14	20	energy
+T4	StateOfBeing	21	23	is
+T5	VerbsForLocate	24	29	found
+T6	RelativeLocations	30	32	in
+T7	FossilFuel	33	44	fossil fuel
+T8	Energy	47	55	chemical
+T9	Energy	56	66	mechanical
+T10	Energy	67	74	nuclear
+T11	Light	75	82	radiant
+T12	Energy	75	82	radiant

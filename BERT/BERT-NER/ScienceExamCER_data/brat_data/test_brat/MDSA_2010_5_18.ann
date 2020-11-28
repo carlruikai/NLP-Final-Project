@@ -1,0 +1,47 @@
+T1	OtherEnergyResources	0	4	Wind
+T2	WeatherPhenomena	0	4	Wind
+T3	StateOfBeing	5	7	is
+T4	NaturalResources	10	26	natural resource
+T5	Help	32	40	benefits
+T6	QualityComparison	32	40	benefits
+T7	CardinalDirectionsNorthEastSouthWest	45	57	southeastern
+T8	PartsOfBodiesOfWater	58	63	shore
+T9	BodiesOfWater	71	85	Chesapeake Bay
+T10	GeopoliticalLocations	71	85	Chesapeake Bay
+T11	Method	87	90	How
+T12	AbilityAvailability	91	96	could
+T13	LevelOfInclusion	97	102	these
+T14	OtherEnergyResources	103	108	winds
+T15	WeatherPhenomena	103	108	winds
+T16	Quality	109	113	best
+T17	QualityComparison	109	113	best
+T18	Help	114	121	benefit
+T19	Human	122	128	humans
+T20	OtherEnergyResources	134	139	winds
+T21	WeatherPhenomena	134	139	winds
+T22	AbilityAvailability	140	145	could
+T23	LocationChangingActions	146	150	blow
+T24	GaseousMovement	146	150	blow
+T25	EnvironmentalDamageDestruction	151	161	oil spills
+T26	RelativeDirection	162	166	into
+T27	BodiesOfWater	171	174	bay
+T28	OtherEnergyResources	180	185	winds
+T29	WeatherPhenomena	180	185	winds
+T30	AbilityAvailability	186	191	could
+T31	StateOfBeing	192	194	be
+T32	ChangeInto	195	207	converted to
+T33	FossilFuel	208	219	fossil fuel
+T34	OtherEnergyResources	225	230	winds
+T35	WeatherPhenomena	225	230	winds
+T36	AbilityAvailability	231	236	could
+T37	LocationChangingActions	237	241	blow
+T38	GaseousMovement	237	241	blow
+T39	EnvironmentalDamageDestruction	242	255	air pollution
+T40	PrepositionalDirections	256	262	toward
+T41	ExamplesOfHabitats	263	267	land
+T42	OtherEnergyResources	273	278	winds
+T43	WeatherPhenomena	273	278	winds
+T44	AbilityAvailability	279	284	could
+T45	StateOfBeing	285	287	be
+T46	ChangeInto	288	300	converted to
+T47	ElectricalEnergy	301	318	electrical energy

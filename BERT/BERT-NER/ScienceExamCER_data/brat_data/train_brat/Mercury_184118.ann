@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GeographicFormations	6	22	geologic feature
+T3	StateOfBeing	23	25	is
+T4	ConcludingResearch	26	34	evidence
+T5	WordsForData	26	34	evidence
+T6	TectonicPlates	44	64	North American plate
+T7	TemporalProperty	65	69	once
+T8	ChangeInLocation	70	77	collide
+T9	Touch	70	78	collided
+T10	TectonicPlates	88	96	Eurasian
+T11	TectonicPlates	101	114	African plate
+T12	GeographicFormations	121	142	Appalachian Mountains
+T13	LOCATION	121	142	Appalachian Mountains
+T14	GeographicFormations	147	160	Mohave Desert
+T15	LOCATION	147	160	Mohave Desert
+T16	SpecificNamedBodiesOfWater	165	182	Mississippi River
+T17	LOCATION	165	182	Mississippi River
+T18	SpecificNamedBodiesOfWater	187	198	Great Lakes
+T19	LOCATION	187	198	Great Lakes

@@ -1,0 +1,14 @@
+T1	PerformAnActivity	5	7	do
+T2	Plant	8	14	plants
+T3	Uptake	15	19	take
+T4	RelativeDirection	20	24	from
+T5	EarthPartsGrossGroundAtmosphere	29	32	air
+T6	Help	38	43	helps
+T7	Create	49	53	make
+T8	Nutrition	54	58	food
+T9	PlantNutrients	60	66	oxygen
+T10	Element	60	66	oxygen
+T11	PlantNutrients	67	75	nitrogen
+T12	Element	67	75	nitrogen
+T13	Compound	76	90	carbon dioxide
+T14	Compound	91	108	hydrogen peroxide

@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Communicate	23	32	describes
+T4	Energy	37	54	mechanical energy
+T5	LandVehicle	60	64	cart
+T6	StateOfBeing	65	67	at
+T7	WaitStay	68	72	rest
+T8	RelativeLocations	73	75	at
+T9	RelativeLocations	80	83	top
+T10	ObjectPart	80	83	top
+T11	GeometricMeasurements	89	94	steep
+T12	GeographicFormations	95	99	hill
+T13	LandVehicle	105	109	cart
+T14	ContainBeComposedOf	110	113	has
+T15	Negations	114	116	no
+T16	Energy	117	134	mechanical energy
+T17	LandVehicle	140	144	cart
+T18	Energy	147	164	mechanical energy
+T19	StateOfBeing	165	167	is
+T20	LevelOfInclusion	168	171	all
+T21	Energy	172	179	kinetic
+T22	LandVehicle	185	189	cart
+T23	Energy	192	209	mechanical energy
+T24	StateOfBeing	210	212	is
+T25	LevelOfInclusion	213	216	all
+T26	Energy	217	226	potential
+T27	LandVehicle	232	236	cart
+T28	Energy	239	256	mechanical energy
+T29	StateOfBeing	257	259	is
+T30	LevelOfInclusion	260	264	half
+T31	Energy	265	274	potential
+T32	LevelOfInclusion	279	283	half
+T33	Energy	284	291	kinetic

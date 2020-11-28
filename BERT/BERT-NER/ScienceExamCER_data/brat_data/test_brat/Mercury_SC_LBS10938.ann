@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	ScientificTheoryExperimentationAndHistory	15	25	scientific
+T4	Discovery	26	34	advances
+T5	Occur	35	43	occurred
+T6	TemporalProperty	44	49	first
+T7	ORDINAL	44	49	first
+T8	Create	55	64	invention
+T9	Discovery	55	64	invention
+T10	ViewingTools	72	81	telescope
+T11	ObservationInstrumentsTelescopeBinoculars	72	81	telescope
+T12	Create	86	94	building
+T13	WaterVehicle	98	108	submarines
+T14	Uptake	113	123	generation
+T15	ElectricalEnergy	127	138	electricity
+T16	Reproduction	143	151	breeding
+T17	Plant	155	161	plants

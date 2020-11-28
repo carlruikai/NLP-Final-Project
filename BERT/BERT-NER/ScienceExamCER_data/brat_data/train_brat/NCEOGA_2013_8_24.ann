@@ -1,0 +1,25 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	ProbabilityAndCertainty	11	19	possible
+T4	QualityComparison	20	32	disadvantage
+T5	Harm	20	32	disadvantage
+T6	Use	36	41	using
+T7	OtherEnergyResources	42	55	flowing water
+T8	Result	56	58	to
+T9	Create	59	66	produce
+T10	ElectricalEnergy	67	78	electricity
+T11	EnvironmentalDamageDestruction	80	96	ecosystem damage
+T12	ChangesToResources	101	105	loss
+T13	AmountChangingActions	101	105	loss
+T14	ExamplesOfHabitats	109	113	land
+T15	AmountChangingActions	114	121	reduced
+T16	Compound	122	136	carbon dioxide
+T17	GaseousMatter	137	145	emission
+T18	LevelOfInclusion	146	150	only
+T19	Quality	151	159	suitable
+T20	AbilityAvailability	151	159	suitable
+T21	BusinessIndustry	164	174	industrial
+T22	Use	175	178	use
+T23	Create	179	186	creates
+T24	ManMadeGeographicFormations	187	197	reservoirs
+T25	BodiesOfWater	187	197	reservoirs

@@ -1,0 +1,11 @@
+T1	ThermalEnergy	0	4	Heat
+T2	Light	6	11	light
+T3	SoundEnergy	17	22	sound
+T4	StateOfBeing	23	26	are
+T5	LevelOfInclusion	27	30	all
+T6	Comparisons	31	40	different
+T7	Exemplar	41	46	forms
+T8	FossilFuel	55	59	fuel
+T9	Energy	60	66	energy
+T10	Matter	67	73	matter
+T11	ElectricalEnergy	74	85	electricity

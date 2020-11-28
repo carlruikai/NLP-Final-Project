@@ -1,0 +1,15 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	EcosystemsEnvironment	9	20	environment
+T4	StateOfBeing	21	23	is
+T5	Color	24	29	white
+T6	MammalAnimalPart	30	33	fur
+T7	Color	34	39	color
+T8	QualityComparison	43	52	advantage
+T9	Help	43	52	advantage
+T10	LivingDying	57	65	survival
+T11	TypesOfTerrestrialEcosystems	67	73	desert
+T12	TypesOfTerrestrialEcosystems	74	83	grassland
+T13	TypesOfTerrestrialEcosystems	84	97	arctic tundra
+T14	TypesOfTerrestrialEcosystems	98	114	temperate forest
+T15	Forests	98	114	temperate forest

@@ -1,0 +1,22 @@
+T1	RelativeTime	0	4	When
+T2	Move	5	11	placed
+T3	VerbsForLocate	5	11	placed
+T4	RelativeLocations	12	14	in
+T5	MeasuresOfAmountOfLight	15	21	direct
+T6	CelestialLightOnEarth	22	30	sunlight
+T7	LevelOfInclusion	32	37	which
+T8	GenericTerms	38	44	object
+T9	ProbabilityAndCertainty	45	49	will
+T10	AbsorbEnergy	50	56	absorb
+T11	CombineAdd	50	56	absorb
+T12	AmountComparison	61	65	most
+T13	Spectra	66	86	visible light energy
+T14	ObjectQuantification	90	95	piece
+T15	VisualProperty	99	104	clear
+T16	SolidMatter	105	110	glass
+T17	SolidMatter	113	121	snowball
+T18	PhasesOfWater	113	121	snowball
+T19	VisualProperty	124	129	shiny
+T20	PartsOfObservationInstruments	130	136	mirror
+T21	Color	139	144	black
+T22	ClothesTextiles	145	152	sweater

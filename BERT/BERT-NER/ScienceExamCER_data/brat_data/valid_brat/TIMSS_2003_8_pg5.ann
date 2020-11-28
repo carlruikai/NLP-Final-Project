@@ -1,0 +1,13 @@
+T1	AtomComponents	4	11	nucleus
+T2	AmountComparison	15	19	MOST
+T3	LevelOfInclusion	15	19	MOST
+T4	ElementalComponents	20	25	atoms
+T5	ContainBeComposedOf	26	34	consists
+T6	AtomComponents	38	46	neutrons
+T7	LevelOfInclusion	47	51	only
+T8	AtomComponents	52	59	protons
+T9	AtomComponents	64	72	neutrons
+T10	AtomComponents	73	80	protons
+T11	AtomComponents	85	94	electrons
+T12	AtomComponents	95	103	neutrons
+T13	AtomComponents	108	117	electrons

@@ -1,0 +1,19 @@
+T1	InnerPlanets	0	5	Earth
+T2	EarthPartsGrossGroundAtmosphere	8	18	atmosphere
+T3	LayersOfTheEarth	8	18	atmosphere
+T4	StateOfBeing	19	21	is
+T5	ContainBeComposedOf	22	26	made
+T6	RelativeNumber	30	34	many
+T7	GaseousMatter	35	40	gases
+T8	LevelOfInclusion	42	47	Which
+T9	GaseousMatter	48	51	gas
+T10	PartsOfTheFoodChain	55	64	producers
+T11	Use	65	68	use
+T12	Create	72	76	make
+T13	Nutrition	77	81	food
+T14	PlantNutrients	83	89	oxygen
+T15	Element	83	89	oxygen
+T16	Compound	90	104	carbon dioxide
+T17	PlantNutrients	105	113	nitrogen
+T18	Element	105	113	nitrogen
+T19	PhasesOfWater	114	125	water vapor

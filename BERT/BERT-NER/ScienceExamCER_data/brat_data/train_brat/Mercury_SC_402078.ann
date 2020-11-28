@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GenericTerms	6	10	item
+T3	ProbabilityAndCertainty	11	16	would
+T4	MagneticDevice	19	25	magnet
+T5	PullingActions	26	33	attract
+T6	ActUponSomething	26	33	attract
+T7	Element	35	39	iron
+T8	MetalSolids	35	39	iron
+T9	MetalSolids	40	44	nail
+T10	NaturalMaterial	45	49	wool
+T11	ClothesTextiles	50	55	cloth
+T12	NaturalMaterial	56	62	wooden
+T13	SolidMatter	56	62	wooden
+T14	ObjectQuantification	63	68	stick
+T15	SyntheticMaterial	69	74	glass
+T16	SolidMatter	69	74	glass
+T17	ManmadeObjects	75	81	marble

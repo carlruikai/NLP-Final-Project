@@ -1,0 +1,5 @@
+A scientist looks at a graph that shows the percentages of humus, clay, and sand that make up a soil. If the scientist had the total weight of each material, instead of percentages, what type of graph would be best to illustrate the data?
+bar graph
+scatterplot
+circle graph
+pictograph

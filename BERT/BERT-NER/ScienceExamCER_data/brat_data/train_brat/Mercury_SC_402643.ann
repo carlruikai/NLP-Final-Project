@@ -1,0 +1,21 @@
+T1	ManmadeObjects	9	15	switch
+T2	ElectricityAndCircuits	9	15	switch
+T3	RelativeLocations	16	18	in
+T4	Complexity	21	27	simple
+T5	Circuits	28	42	series circuit
+T6	StateOfBeing	43	45	is
+T7	Position	46	52	closed
+T8	Occur	59	66	happens
+T9	LightProducingObject	74	84	light bulb
+T10	ElectricalEnergy	94	105	electricity
+T11	StateOfBeing	106	108	is
+T12	TransferEnergy	109	116	flowing
+T13	RelativeDirection	117	119	to
+T14	Light	125	130	light
+T15	Break	131	137	cracks
+T16	Light	142	147	light
+T17	StopRemove	148	156	goes off
+T18	Light	161	166	light
+T19	StopRemove	167	176	burns out
+T20	Light	181	186	light
+T21	Start	187	195	comes on

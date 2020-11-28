@@ -1,0 +1,19 @@
+T1	RelativeTime	0	4	When
+T2	Mammal	7	10	dog
+T3	PerformAnActivity	11	19	performs
+T4	OtherProperties	22	30	specific
+T5	Actions	31	37	action
+T6	RelativeTime	35	37	on
+T7	Communicate	41	48	command
+T8	StateOfBeing	50	57	such as
+T9	ActionsForAnimals	58	65	sitting
+T10	Position	58	65	sitting
+T11	Actions	71	77	action
+T12	StateOfBeing	78	80	is
+T13	Exemplar	84	91	example
+T14	InheritedBehavior	95	113	inherited behavior
+T15	LearnedBehavior	115	131	learned behavior
+T16	OtherAnimalProperties	133	144	instinctive
+T17	Behaviors	145	153	behavior
+T18	EcosystemsEnvironment	155	168	environmental
+T19	Behaviors	169	177	behavior

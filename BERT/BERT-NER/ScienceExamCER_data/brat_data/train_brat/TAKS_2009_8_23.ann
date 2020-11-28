@@ -1,0 +1,74 @@
+T1	CardinalNumber	0	3	Two
+T2	NUMBER	0	3	Two
+T3	Scientists	4	12	students
+T4	Create	13	17	make
+T5	Foods	18	31	hot chocolate
+T6	CardinalNumber	33	36	One
+T7	NUMBER	33	36	One
+T8	Scientists	37	44	student
+T9	Move	45	50	pours
+T10	Foods	55	68	hot chocolate
+T11	RelativeDirection	69	73	into
+T12	SyntheticMaterial	76	80	foam
+T13	LiquidHoldingContainersRecepticles	81	84	cup
+T14	Comparisons	90	95	other
+T15	Scientists	96	103	student
+T16	Move	104	109	pours
+T17	Foods	114	127	hot chocolate
+T18	RelativeDirection	128	132	into
+T19	MetalSolids	135	140	metal
+T20	LiquidHoldingContainersRecepticles	141	144	cup
+T21	MetalSolids	150	155	metal
+T22	LiquidHoldingContainersRecepticles	156	159	cup
+T23	ChangeInto	160	167	becomes
+T24	StateOfBeing	160	167	becomes
+T25	Comparisons	168	171	too
+T26	Temperature	172	175	hot
+T27	Senses	179	184	touch
+T28	Touch	179	184	touch
+T29	Negations	186	189	but
+T30	SyntheticMaterial	194	198	foam
+T31	LiquidHoldingContainersRecepticles	199	202	cup
+T32	AbilityAvailability	203	206	can
+T33	StateOfBeing	207	209	be
+T34	Touch	210	214	held
+T35	Uptake	210	214	held
+T36	SensoryTerms	215	226	comfortably
+T37	Quality	232	236	best
+T38	QualityComparison	232	236	best
+T39	ResponseType	237	248	explanation
+T40	Cause	237	248	explanation
+T41	Comparisons	258	268	difference
+T42	Temperature	272	283	temperature
+T43	StateOfBeing	284	285	i
+T44	SyntheticMaterial	296	300	foam
+T45	LiquidHoldingContainersRecepticles	301	304	cup
+T46	Temperature	309	317	heats up
+T47	IncreaseDecrease	309	317	heats up
+T48	RelativeNumber	318	322	much
+T49	Speed	323	329	faster
+T50	Comparisons	330	334	than
+T51	MetalSolids	339	344	metal
+T52	LiquidHoldingContainersRecepticles	345	348	cup
+T53	ContainBeComposedOf	349	352	has
+T54	Comparisons	355	361	higher
+T55	RelativeNumber	355	361	higher
+T56	MeasurementsForHeatChange	362	375	specific heat
+T57	Comparisons	376	380	than
+T58	MetalSolids	385	390	metal
+T59	LiquidHoldingContainersRecepticles	391	394	cup
+T60	StateOfBeing	395	397	is
+T61	Quality	400	406	better
+T62	QualityComparison	400	406	better
+T63	Conductivity	407	416	conductor
+T64	ThermalEnergy	420	424	heat
+T65	Comparisons	425	429	than
+T66	MetalSolids	434	439	metal
+T67	LiquidHoldingContainersRecepticles	440	443	cup
+T68	ContainBeComposedOf	444	447	has
+T69	MeasurementsForHeatChange	450	463	specific heat
+T70	StateOfBeing	469	471	is
+T71	Comparisons	472	479	similar
+T72	RelativeDirection	480	482	to
+T73	MetalSolids	495	500	metal
+T74	LiquidHoldingContainersRecepticles	501	504	cup

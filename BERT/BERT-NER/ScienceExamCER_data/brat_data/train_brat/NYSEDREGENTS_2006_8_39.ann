@@ -1,0 +1,25 @@
+T1	StateOfBeing	5	7	is
+T2	Result	12	18	result
+T3	CellProcesses	22	42	cellular respiration
+T4	Energy	44	50	Energy
+T5	CellProcesses	55	69	cell processes
+T6	StateOfBeing	70	72	is
+T7	Release	73	81	released
+T8	Element	83	89	Oxygen
+T9	StateOfBeing	90	92	is
+T10	Release	93	101	released
+T11	CellProcesses	106	120	photosynthesis
+T12	PlantProcesses	106	120	photosynthesis
+T13	Cell	122	127	Cells
+T14	Occur	128	135	undergo
+T15	TypesOfChemicalReactions	136	149	decomposition
+T16	Separate	136	149	decomposition
+T17	Nutrition	151	160	Nutrients
+T18	StateOfBeing	161	164	are
+T19	ExcretoryActions	165	173	excreted
+T20	Result	174	176	to
+T21	AvoidReject	177	184	prevent
+T22	StopRemove	177	184	prevent
+T23	Collect	189	196	buildup
+T24	AnimalPart	200	204	body
+T25	NutritiveSubstancesForAnimalsOrPlants	205	208	fat

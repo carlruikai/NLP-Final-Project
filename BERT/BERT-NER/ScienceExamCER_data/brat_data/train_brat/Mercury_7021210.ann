@@ -1,0 +1,10 @@
+T1	PartsOfTheNervousSystem	4	9	brain
+T2	PartsOfTheNervousSystem	14	25	spinal cord
+T3	StateOfBeing	26	29	are
+T4	ObjectPart	30	35	parts
+T5	LevelOfInclusion	39	44	which
+T6	AnimalSystemsProcesses	45	56	body system
+T7	NervousSystem	58	65	nervous
+T8	ExcretorySystem	66	75	excretory
+T9	EndocrineSystem	76	85	endocrine
+T10	RespiratorySystem	86	97	respiratory

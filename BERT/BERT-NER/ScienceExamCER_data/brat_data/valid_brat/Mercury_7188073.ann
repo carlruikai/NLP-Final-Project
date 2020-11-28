@@ -1,0 +1,22 @@
+T1	Plant	0	6	Plants
+T2	ContainBeComposedOf	7	11	have
+T3	Cell	12	17	cells
+T4	PlantPart	19	26	tissues
+T5	PlantPart	28	34	organs
+T6	SystemAndFunctions	40	47	systems
+T7	Permit	53	58	allow
+T8	PerformAnActivity	67	75	function
+T9	StateOfBeing	76	78	as
+T10	LevelOfInclusion	79	87	complete
+T11	LivingThing	88	97	organisms
+T12	LevelOfInclusion	99	104	Which
+T13	PlantPart	105	110	parts
+T14	Plant	116	121	plant
+T15	PerformAnActivity	122	130	function
+T16	StateOfBeing	131	133	as
+T17	PlantPart	137	142	organ
+T18	PlantPart	144	150	leaves
+T19	PlantPart	151	157	spores
+T20	PlantPart	158	168	root hairs
+T21	PlantPart	169	180	chlorophyll
+T22	ElementalComponents	181	190	molecules

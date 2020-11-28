@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GenericTerms	6	12	object
+T3	StateOfBeing	13	15	is
+T4	Quality	20	24	best
+T5	QualityComparison	20	24	best
+T6	ElectricityAndCircuits	25	34	conductor
+T7	Conductivity	25	34	conductor
+T8	ElectricalEnergy	38	49	electricity
+T9	MetalSolids	51	56	metal
+T10	ManmadeObjects	57	61	fork
+T11	SyntheticMaterial	62	68	rubber
+T12	ClothesTextiles	69	73	boot
+T13	SyntheticMaterial	74	81	plastic
+T14	ManmadeObjects	82	87	spoon
+T15	NaturalMaterial	88	94	wooden
+T16	SolidMatter	88	94	wooden
+T17	Mammal	95	98	bat

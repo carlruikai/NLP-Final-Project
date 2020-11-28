@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Unit	6	25	unit of measurement
+T3	AbilityAvailability	26	29	can
+T4	StateOfBeing	30	32	be
+T5	Use	33	37	used
+T6	Goal	38	40	to
+T7	Represent	41	49	describe
+T8	Length	54	60	length
+T9	ManmadeObjects	66	70	desk
+T10	DistanceUnit	72	83	centimeters
+T11	MassUnit	84	89	grams
+T12	VolumeUnit	90	96	liters
+T13	TemperatureUnit	97	112	degrees Celsius

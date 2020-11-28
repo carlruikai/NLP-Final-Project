@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	SystemParts	6	15	structure
+T3	Position	16	25	surrounds
+T4	Move	16	25	surrounds
+T5	Help	30	38	protects
+T6	Preserve	30	38	protects
+T7	Animal	42	48	animal
+T8	Cell	49	53	cell
+T9	AnimalCellPart	55	62	Nucleus
+T10	PlantCellPart	55	62	Nucleus
+T11	AnimalCellPart	63	70	Vacuole
+T12	PlantCellPart	63	70	Vacuole
+T13	AnimalCellPart	71	80	Cytoplasm
+T14	PlantCellPart	71	80	Cytoplasm
+T15	BacteriaPart	71	80	Cytoplasm
+T16	AnimalCellPart	81	94	Cell membrane
+T17	PlantCellPart	81	94	Cell membrane

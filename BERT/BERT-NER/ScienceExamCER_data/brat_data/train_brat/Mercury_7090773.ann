@@ -1,0 +1,47 @@
+T1	EnvironmentalDamageDestruction	0	24	Carbon dioxide emissions
+T2	AmountChangingActions	30	39	increased
+T3	IncreaseDecrease	30	39	increased
+T4	Cause	40	46	due to
+T5	Size	47	52	large
+T6	Numbers	53	60	numbers
+T7	LandVehicle	64	75	automobiles
+T8	AmountChangingActions	80	89	increased
+T9	IncreaseDecrease	80	89	increased
+T10	EnvironmentalDamageDestruction	90	107	industrialization
+T11	BusinessIndustry	90	107	industrialization
+T12	LevelOfInclusion	109	114	Which
+T13	LevelOfInclusion	118	131	the following
+T14	StateOfBeing	136	140	been
+T15	AmountComparison	141	145	most
+T16	Alter	146	154	affected
+T17	Cause	155	157	by
+T18	AmountChangingActions	162	170	increase
+T19	IncreaseDecrease	162	170	increase
+T20	Compound	174	188	carbon dioxide
+T21	AmountComparison	189	195	levels
+T22	Ability	201	208	ability
+T23	Agriculture	212	219	farmers
+T24	Occupation	212	219	farmers
+T25	ActionsForAgriculture	223	228	plant
+T26	CombineAdd	223	228	plant
+T27	Plant	229	234	crops
+T28	Agriculture	229	234	crops
+T29	Ability	239	246	ability
+T30	GroupsOfScientists	250	260	scientists
+T31	Examine	264	269	study
+T32	PerformingResearch	264	269	study
+T33	Comparisons	270	275	other
+T34	Planet	276	283	planets
+T35	Ability	288	295	ability
+T36	InnerPlanets	299	304	Earth
+T37	Occur	308	316	continue
+T38	WaitStay	308	316	continue
+T39	Alter	317	326	recycling
+T40	Preserve	317	326	recycling
+T41	Rock	327	332	rocks
+T42	Ability	337	344	ability
+T43	InnerPlanets	348	353	Earth
+T44	Preserve	357	365	maintain
+T45	Comparisons	366	371	lower
+T46	RelativeNumber	366	371	lower
+T47	Temperature	372	384	temperatures

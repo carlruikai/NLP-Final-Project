@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Ability	6	11	skill
+T3	StateOfBeing	12	14	is
+T4	Scientists	17	26	scientist
+T5	Use	27	32	using
+T6	RelativeTime	33	37	when
+T7	Separate	38	45	sorting
+T8	Classify	38	45	sorting
+T9	Rock	46	51	rocks
+T10	RelativeDirection	52	56	into
+T11	CardinalNumber	57	60	two
+T12	NUMBER	57	60	two
+T13	Classification	61	67	groups
+T14	Group	61	67	groups
+T15	Cause	68	76	based on
+T16	VisualProperty	77	96	physical appearance
+T17	Believe	98	107	inferring
+T18	AnalyzingResearch	98	107	inferring
+T19	Classify	108	119	classifying
+T20	AnalyzingResearch	108	119	classifying
+T21	AnalyzingResearch	120	132	generalizing
+T22	Hypothesizing	133	146	hypothesizing

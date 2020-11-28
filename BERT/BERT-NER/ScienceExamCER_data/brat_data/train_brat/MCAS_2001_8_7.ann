@@ -1,0 +1,16 @@
+T1	RelativeTime	0	4	When
+T2	Igneous	5	12	igneous
+T3	Rock	13	17	rock
+T4	StateOfBeing	18	20	is
+T5	ChangeInto	21	28	changed
+T6	Metamorphic	34	45	metamorphic
+T7	Rock	46	50	rock
+T8	LevelOfInclusion	52	57	which
+T9	Exemplar	58	62	form
+T10	Energy	66	72	energy
+T11	StateOfBeing	73	75	is
+T12	GeographicFormationProcess	81	88	process
+T13	ThermalEnergy	90	94	heat
+T14	Energy	95	103	chemical
+T15	MagneticEnergy	104	112	magnetic
+T16	Spectra	113	118	light

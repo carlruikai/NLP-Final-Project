@@ -1,0 +1,37 @@
+T1	Event	6	12	action
+T2	Use	13	22	involving
+T3	SimpleMachines	25	31	pulley
+T4	SystemAndFunctions	32	38	system
+T5	Require	39	47	requires
+T6	AmountComparison	52	57	least
+T7	Numbers	58	64	amount
+T8	Force	68	73	force
+T9	Use	75	80	using
+T10	RelativeNumber	81	88	several
+T11	SimpleMachines	89	96	pulleys
+T12	Relations	97	105	together
+T13	Negations	106	116	instead of
+T14	RelativeNumber	119	125	single
+T15	SimpleMachines	126	132	pulley
+T16	Use	133	138	using
+T17	Stability	141	146	fixed
+T18	SimpleMachines	147	153	pulley
+T19	Negations	154	164	instead of
+T20	Stability	167	175	moveable
+T21	SimpleMachines	176	182	pulley
+T22	PullingActions	183	190	pulling
+T23	MechanicalMovement	183	190	pulling
+T24	Length	193	197	long
+T25	ManmadeObjects	198	202	rope
+T26	ClothesTextiles	198	202	rope
+T27	Negations	203	213	instead of
+T28	Length	216	221	short
+T29	ManmadeObjects	222	226	rope
+T30	ClothesTextiles	222	226	rope
+T31	PullingActions	227	234	pulling
+T32	MechanicalMovement	227	234	pulling
+T33	ManmadeObjects	237	241	rope
+T34	ClothesTextiles	237	241	rope
+T35	PrepositionalDirections	242	244	up
+T36	Negations	245	255	instead of
+T37	PrepositionalDirections	256	260	down

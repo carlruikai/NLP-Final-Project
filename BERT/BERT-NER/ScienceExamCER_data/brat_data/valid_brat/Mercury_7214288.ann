@@ -1,0 +1,29 @@
+T1	LOCATION	4	15	Great Basin
+T2	GeographicFormations	4	15	Great Basin
+T3	RelativeLocations	13	15	in
+T4	States	19	25	Nevada
+T5	LOCATION	19	25	Nevada
+T6	StateOfBeing	26	28	is
+T7	ContainBeComposedOf	29	42	characterized
+T8	ChangeInLocation	46	54	uplifted
+T9	Move	56	62	tilted
+T10	ObjectQuantification	63	69	blocks
+T11	Create	70	77	forming
+T12	GeographicFormations	78	92	mountain range
+T13	ChangeInLocation	98	108	downthrown
+T14	ObjectQuantification	109	115	blocks
+T15	Create	116	123	forming
+T16	PartsOfBodiesOfWater	124	130	basins
+T17	Rock	137	141	rock
+T18	Exemplar	142	146	type
+T19	StateOfBeing	147	149	is
+T20	AmountComparison	150	154	MOST
+T21	ProbabilityAndCertainty	155	161	likely
+T22	Result	162	164	to
+T23	Create	165	169	form
+T24	RelativeLocations	170	172	in
+T25	PartsOfBodiesOfWater	177	183	basins
+T26	Metamorphic	185	196	metamorphic
+T27	Sedimentary	197	208	sedimentary
+T28	Igneous	209	226	intrusive igneous
+T29	Igneous	227	244	extrusive igneous

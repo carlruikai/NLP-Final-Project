@@ -1,0 +1,29 @@
+T1	Element	0	6	Carbon
+T2	Move	7	13	cycles
+T3	PrepositionalDirections	14	21	through
+T4	RelativeNumber	22	29	several
+T5	LayersOfTheEarth	30	46	Earth subsystems
+T6	LevelOfInclusion	48	53	Which
+T7	Pattern	54	62	sequence
+T8	AmountComparison	63	67	most
+T9	Complexity	68	76	directly
+T10	Cause	77	82	leads
+T11	Move	90	97	cycling
+T12	PropertyOfMotion	90	97	cycling
+T13	Element	101	107	carbon
+T14	AbilityAvailability	113	116	can
+T15	Cause	117	126	result in
+T16	Create	131	140	formation
+T17	FossilFuel	144	153	petroleum
+T18	LayersOfTheEarth	155	164	biosphere
+T19	RelativeDirection	165	167	to
+T20	LayersOfTheEarth	168	179	lithosphere
+T21	LayersOfTheEarth	180	190	atmosphere
+T22	RelativeDirection	191	193	to
+T23	LayersOfTheEarth	194	205	lithosphere
+T24	LayersOfTheEarth	206	217	hydrosphere
+T25	RelativeDirection	218	220	to
+T26	LayersOfTheEarth	221	231	atmosphere
+T27	LayersOfTheEarth	232	241	biosphere
+T28	RelativeDirection	242	244	to
+T29	LayersOfTheEarth	245	255	atmosphere

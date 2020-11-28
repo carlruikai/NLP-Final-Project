@@ -1,0 +1,22 @@
+T1	Comparisons	0	9	Different
+T2	AnimalSystemsProcesses	10	17	systems
+T3	Human	25	30	human
+T4	HumanPart	31	35	body
+T5	PerformAnActivity	36	43	perform
+T6	Comparisons	44	53	different
+T7	OrganicProcesses	54	63	functions
+T8	LevelOfInclusion	65	70	Which
+T9	AnimalSystemsProcesses	71	77	system
+T10	Uptake	78	83	takes
+T11	Element	84	90	oxygen
+T12	RelativeDirection	91	95	from
+T13	EarthPartsGrossGroundAtmosphere	100	103	air
+T14	Goal	104	106	to
+T15	Move	110	115	moved
+T16	Transportation	110	115	moved
+T17	Cause	116	118	by
+T18	CirculatorySystem	123	141	circulatory system
+T19	RespiratorySystem	147	165	respiratory system
+T20	DigestiveSystem	170	186	digestive system
+T21	NervousSystem	191	205	nervous system
+T22	SkeletalSystem	210	225	skeletal system

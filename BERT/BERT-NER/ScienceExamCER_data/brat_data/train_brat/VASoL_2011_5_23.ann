@@ -1,0 +1,39 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Human	15	20	human
+T4	PhysicalActivity	21	31	activities
+T5	RelativeLocations	32	34	in
+T6	ExamplesOfHabitats	37	43	forest
+T7	Cause	44	47	has
+T8	Help	50	65	positive effect
+T9	PrepositionalDirections	66	68	on
+T10	EcosystemsEnvironment	73	82	ecosystem
+T11	CleanUp	84	92	Clearing
+T12	StopRemove	84	92	Clearing
+T13	ExamplesOfHabitats	97	101	land
+T14	Goal	102	104	to
+T15	ActionsForAnimals	105	110	build
+T16	Create	105	110	build
+T17	Age	111	114	new
+T18	ManmadeLocations	115	120	homes
+T19	ActionsForAgriculture	121	129	Planting
+T20	CombineAdd	121	129	Planting
+T21	Age	130	133	new
+T22	Plant	134	139	trees
+T23	RelativeLocations	140	145	where
+T24	Age	146	149	old
+T25	ObjectQuantification	150	154	ones
+T26	StateOfBeing	155	159	were
+T27	StopRemove	160	168	cut down
+T28	ActionsForAnimals	169	177	Building
+T29	Create	169	177	Building
+T30	Age	180	183	new
+T31	ManmadeLocations	184	191	highway
+T32	PrepositionalDirections	192	199	through
+T33	Locations	204	208	area
+T34	StopRemove	209	221	Cutting down
+T35	Plant	222	227	trees
+T36	Goal	228	230	to
+T37	Create	231	235	make
+T38	Agriculture	236	244	farmland
+T39	ManmadeLocations	236	244	farmland

@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Quality	13	17	best
+T4	QualityComparison	13	17	best
+T5	ResponseType	18	29	explanation
+T6	Cause	30	33	why
+T7	Fossils	38	45	remains
+T8	Size	51	56	small
+T9	Reptile	57	64	reptile
+T10	LivingDying	65	71	living
+T11	ArithmeticMeasure	72	80	millions
+T12	TimeUnit	84	89	years
+T13	Year	84	89	years
+T14	RelativeTime	90	93	ago
+T15	StateOfBeing	99	103	been
+T16	VerbsForLocate	104	109	found
+T17	Discovery	104	109	found
+T18	LevelOfInclusion	110	114	only
+T19	RelativeLocations	115	117	in
+T20	Countries	118	124	Brazil
+T21	LOCATION	118	124	Brazil
+T22	Countries	129	141	South Africa
+T23	LOCATION	129	141	South Africa
+T24	ChangeInLocation	143	153	subduction
+T25	TectonicPlates	154	169	plate tectonics
+T26	GeologicTheories	154	169	plate tectonics
+T27	Extinction	170	185	mass extinction
+T28	ChangeInLocation	186	194	convergi
+T29	PartsOfEarthLayers	197	207	boundaries

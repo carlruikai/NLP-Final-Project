@@ -1,0 +1,33 @@
+T1	TerrestrialLocations	0	9	Sea-floor
+T2	ChangeInLocation	0	19	Sea-floor spreading
+T3	Separate	10	19	spreading
+T4	Occur	20	26	occurs
+T5	RelativeLocations	27	29	at
+T6	PartsOfEarthLayers	30	50	divergent boundaries
+T7	ResponseType	58	67	statement
+T8	Quality	68	72	best
+T9	QualityComparison	68	72	best
+T10	Identify	73	83	identifies
+T11	GeographicFormationProcess	88	104	geologic process
+T12	Occur	105	117	taking place
+T13	RelativeLocations	118	120	at
+T14	Locations	125	130	point
+T15	RelativeLocations	131	136	where
+T16	TerrestrialLocations	137	146	sea-floor
+T17	ChangeInLocation	137	156	sea-floor spreading
+T18	Separate	147	156	spreading
+T19	Occur	157	163	occurs
+T20	GeographicFormations	167	173	trench
+T21	StateOfBeing	174	176	is
+T22	Create	177	184	forming
+T23	Age	185	188	new
+T24	PlanetParts	189	194	crust
+T25	LayersOfTheEarth	189	194	crust
+T26	StateOfBeing	195	197	is
+T27	Create	198	205	forming
+T28	PartsOfEarthLayers	206	219	oceanic crust
+T29	StateOfBeing	220	222	is
+T30	ChangeInLocation	223	233	subducting
+T31	TectonicPlates	236	253	continental plate
+T32	StateOfBeing	254	256	is
+T33	ChangeInLocation	257	267	subducting

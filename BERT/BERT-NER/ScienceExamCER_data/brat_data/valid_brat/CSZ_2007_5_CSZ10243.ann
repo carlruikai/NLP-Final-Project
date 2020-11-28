@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Safety	28	35	harmful
+T5	Harm	28	35	harmful
+T6	Toxins	36	41	waste
+T7	Matter	42	50	material
+T8	Separate	56	61	leave
+T9	Move	56	62	leaves
+T10	Blood	67	72	blood
+T11	Move	77	84	travels
+T12	PrepositionalDirections	85	92	through
+T13	AnimalPart	97	102	lungs
+T14	PartsOfTheRespiratorySystem	97	102	lungs
+T15	RelativeTime	103	109	before
+T16	Separate	110	117	leaving
+T17	Move	110	117	leaving
+T18	AnimalPart	122	126	body
+T19	Compound	128	131	CO2
+T20	Compound	129	131	O2
+T21	Compound	137	140	H2O
+T22	Compound	142	146	NaCl

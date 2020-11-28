@@ -1,0 +1,5 @@
+A class is testing the effect of exercise on heart rate. The heart rate of two students before exercise is compared to their heart rate after running around a track. Which procedure will most likely help the class correctly compare the results of the two students?
+test students who are the same height
+have the students run on the same day
+measure the distance each student runs
+have the students run for the same amount of time

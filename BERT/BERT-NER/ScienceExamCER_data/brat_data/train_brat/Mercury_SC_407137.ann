@@ -1,0 +1,18 @@
+T1	Plant	0	6	Plants
+T2	Use	7	10	use
+T3	Nutrition	11	20	nutrients
+T4	VerbsForLocate	21	26	found
+T5	RelativeLocations	27	29	in
+T6	Soil	30	34	soil
+T7	LevelOfInclusion	36	41	Which
+T8	LevelOfInclusion	45	50	these
+T9	AbilityAvailability	51	54	can
+T10	ChemicalChange	55	65	break down
+T11	RelativeLocations	66	68	in
+T12	Soil	69	73	soil
+T13	ChangeInto	78	84	become
+T14	Nutrition	85	94	nutrients
+T15	EarthPartsGrossGroundAtmosphere	96	99	air
+T16	PhasesOfWater	100	105	water
+T17	PlantPart	106	112	leaves
+T18	CelestialLightOnEarth	113	121	sunlight

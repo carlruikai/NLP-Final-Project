@@ -1,0 +1,28 @@
+T1	Human	2	16	lab technician
+T2	Scientists	2	16	lab technician
+T3	Move	17	23	places
+T4	VerbsForLocate	17	23	places
+T5	GroupsOfOrganisms	26	32	colony
+T6	Bacteria	36	45	bacterial
+T7	Cell	46	51	cells
+T8	RelativeLocations	52	54	in
+T9	ChemicalProperty	57	70	nutrient-rich
+T10	Growth	71	77	growth
+T11	Substances	78	84	medium
+T12	LevelOfInclusion	86	91	Which
+T13	Event	92	97	event
+T14	StateOfBeing	98	100	is
+T15	Human	105	115	technician
+T16	Scientists	105	115	technician
+T17	AmountComparison	116	120	most
+T18	ProbabilityAndCertainty	121	127	likely
+T19	Observe	131	138	observe
+T20	Use	139	143	with
+T21	ViewingTools	146	156	microscope
+T22	CellProcesses	158	171	cell division
+T23	CellProcesses	172	192	cellular respiration
+T24	ThermalEnergy	193	197	heat
+T25	Create	198	205	product
+T26	Nutrition	209	213	food
+T27	ActionsForNutrition	214	221	storage
+T28	Preserve	214	221	storage

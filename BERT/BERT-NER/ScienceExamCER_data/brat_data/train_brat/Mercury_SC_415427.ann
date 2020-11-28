@@ -1,0 +1,21 @@
+T1	PerformAnActivity	5	7	do
+T2	PartsOfTheFoodChain	8	17	producers
+T3	Require	18	22	need
+T4	Result	23	25	to
+T5	Create	26	30	make
+T6	Nutrition	31	35	food
+T7	CelestialLightOnEarth	37	45	sunlight
+T8	PlantNutrients	47	53	oxygen
+T9	Element	47	53	oxygen
+T10	Compound	59	73	carbon dioxide
+T11	CelestialLightOnEarth	74	82	sunlight
+T12	PhasesOfWater	84	89	water
+T13	Compound	95	109	carbon dioxide
+T14	PhasesOfWater	110	115	water
+T15	PlantNutrients	117	123	oxygen
+T16	Element	117	123	oxygen
+T17	Compound	129	143	carbon dioxide
+T18	PhasesOfWater	144	149	water
+T19	PlantNutrients	151	157	oxygen
+T20	Element	151	157	oxygen
+T21	CelestialLightOnEarth	163	171	sunlight

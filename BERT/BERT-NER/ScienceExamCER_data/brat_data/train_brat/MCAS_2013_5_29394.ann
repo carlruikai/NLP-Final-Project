@@ -1,0 +1,68 @@
+T1	RelativeTime	0	6	During
+T2	ScientificTheoryExperimentationAndHistory	7	14	science
+T3	TypesOfEvent	15	20	class
+T4	GroupsOfScientists	22	30	students
+T5	CombineAdd	31	39	combined
+T6	CardinalNumber	40	41	1
+T7	NUMBER	40	41	1
+T8	MassUnit	42	44	kg
+T9	MetalSolids	48	60	iron filings
+T10	CombineAdd	61	65	with
+T11	CardinalNumber	66	67	1
+T12	NUMBER	66	67	1
+T13	MassUnit	68	70	kg
+T14	Soil	74	78	sand
+T15	GranularSolids	74	78	sand
+T16	Result	79	81	to
+T17	Create	82	88	create
+T18	Mixtures	91	98	mixture
+T19	LevelOfInclusion	100	105	Which
+T20	LevelOfInclusion	109	122	the following
+T21	Method	123	130	methods
+T22	ProbabilityAndCertainty	131	136	would
+T23	StateOfBeing	137	139	be
+T24	Quality	140	144	best
+T25	QualityComparison	140	144	best
+T26	Separate	149	159	separating
+T27	MetalSolids	164	176	iron filings
+T28	RelativeDirection	177	181	from
+T29	Soil	186	190	sand
+T30	GranularSolids	186	190	sand
+T31	CombineAdd	192	196	Stir
+T32	Mixtures	201	208	mixture
+T33	RelativeDirection	209	213	into
+T34	Temperature	214	217	hot
+T35	PhasesOfWater	218	223	water
+T36	LiquidMatter	218	223	water
+T37	Result	224	226	to
+T38	PhaseChangingActions	227	235	dissolve
+T39	Divide	227	235	dissolve
+T40	Soil	240	244	sand
+T41	GranularSolids	240	244	sand
+T42	Divide	246	252	Strain
+T43	Move	246	252	Strain
+T44	Mixtures	257	264	mixture
+T45	PrepositionalDirections	265	272	through
+T46	FiltrationTool	275	287	paper filter
+T47	Result	288	290	to
+T48	Collect	291	298	collect
+T49	Soil	303	307	sand
+T50	GranularSolids	303	307	sand
+T51	PullingForces	309	313	Drag
+T52	Move	309	313	Drag
+T53	MagneticDevice	316	322	magnet
+T54	PrepositionalDirections	323	330	through
+T55	Mixtures	335	342	mixture
+T56	Result	343	345	to
+T57	PullingActions	346	353	attract
+T58	ActUponSomething	346	353	attract
+T59	MetalSolids	358	370	iron filings
+T60	Move	372	377	Shake
+T61	CombineAdd	372	377	Shake
+T62	Mixtures	382	389	mixture
+T63	Result	390	392	to
+T64	Cause	393	398	cause
+T65	MetalSolids	403	415	iron filings
+T66	Separate	419	425	settle
+T67	RelativeDirection	426	428	to
+T68	RelativeLocations	433	439	bottom

@@ -1,0 +1,34 @@
+T1	Human	0	10	Scientists
+T2	GroupsOfScientists	0	10	Scientists
+T3	Use	11	14	use
+T4	ResponseType	19	23	term
+T5	GenericTerms	19	23	term
+T6	DistanceUnit	25	35	light year
+T7	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	25	35	light year
+T8	Represent	40	48	describe
+T9	Numbers	49	52	how
+T10	MeasuringSpeed	53	57	fast
+T11	Speed	53	57	fast
+T12	Light	58	63	light
+T13	LightMovement	64	71	travels
+T14	RelativeLocations	72	74	in
+T15	TheUniverseUniverseAndItsParts	75	80	space
+T16	Distance	86	94	distance
+T17	Light	95	100	light
+T18	LightMovement	101	108	travels
+T19	RelativeTime	109	111	in
+T20	DURATION	112	120	one year
+T21	CardinalNumber	112	115	one
+T22	TimeUnit	116	120	year
+T23	Numbers	122	125	how
+T24	Size	126	131	large
+T25	Size	136	145	diameters
+T26	Comparisons	149	158	different
+T27	Star	159	164	stars
+T28	StateOfBeing	165	168	are
+T29	MarkersOfTime	174	178	time
+T30	Require	182	187	takes
+T31	Star	192	195	Sun
+T32	CelestialMovement	199	203	move
+T33	PrepositionalDirections	204	211	through
+T34	Galaxy	216	222	galaxy

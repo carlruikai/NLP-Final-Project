@@ -1,0 +1,13 @@
+T1	Force	4	9	force
+T2	Gravity	13	20	gravity
+T3	PrepositionalDirections	21	23	on
+T4	GenericTerms	27	33	object
+T5	VariablesControls	34	41	depends
+T6	ImportanceComparison	42	51	primarily
+T7	Cause	52	54	on
+T8	GenericTerms	59	65	object
+T9	PhysicalProperty	68	75	density
+T10	Mass	77	81	mass
+T11	PropertyOfMotion	83	91	momentum
+T12	PhysicalProperty	93	99	volume
+T13	Size	93	99	volume

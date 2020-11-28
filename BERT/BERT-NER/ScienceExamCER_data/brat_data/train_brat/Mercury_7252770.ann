@@ -1,0 +1,34 @@
+T1	LevelOfInclusion	0	7	Certain
+T2	PlantPart	8	15	flowers
+T3	ProbabilityAndCertainty	16	20	will
+T4	FormChangingActions	21	25	open
+T5	Move	21	25	open
+T6	RelativeTime	26	29	for
+T7	CardinalNumber	30	36	twelve
+T8	TimeUnit	37	42	hours
+T9	RelativeTime	47	51	then
+T10	Move	52	57	close
+T11	FormChangingActions	52	57	close
+T12	LevelOfInclusion	59	64	Which
+T13	Cause	65	73	stimulus
+T14	PerformAnActivity	74	76	do
+T15	PlantPart	81	88	flowers
+T16	Response	89	96	respond
+T17	RelativeDirection	97	99	to
+T18	RelativeTime	100	104	when
+T19	FormChangingActions	110	114	open
+T20	Move	110	114	open
+T21	RelativeTime	119	123	then
+T22	RelativeTime	124	128	when
+T23	Move	134	139	close
+T24	FormChangingActions	134	139	close
+T25	MarkersOfTime	149	160	time period
+T26	Light	162	167	light
+T27	AmountComparison	168	174	levels
+T28	Moon	175	179	moon
+T29	LunarPhases	180	186	phases
+T30	SeasonsFallAutumnWinterSpringSummer	187	195	seasonal
+T31	Frequency	187	195	seasonal
+T32	Temperature	196	208	temperatures
+T33	Compound	209	223	carbon dioxide
+T34	AmountComparison	224	230	levels

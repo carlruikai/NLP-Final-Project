@@ -1,0 +1,11 @@
+T1	RelativeTime	0	4	When
+T2	Create	9	13	make
+T3	ChemicalProduct	14	18	soap
+T4	ObjectQuantification	19	26	bubbles
+T5	StateOfBeing	33	35	is
+T6	RelativeLocations	36	42	inside
+T7	ObjectQuantification	47	54	bubbles
+T8	EarthPartsGrossGroundAtmosphere	56	59	Air
+T9	ChemicalProduct	60	64	Soap
+T10	PhasesOfWater	65	70	Water
+T11	Negations	71	78	Nothing

@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Compound	23	32	compounds
+T4	StateOfBeing	33	35	is
+T5	OrganicCompounds	39	55	organic compound
+T6	PhasesOfWater	57	62	water
+T7	LiquidMatter	57	62	water
+T8	Compound	64	67	H2O
+T9	OrganicCompounds	69	75	hexane
+T10	Compound	77	82	C6H14
+T11	Compound	84	91	ammonia
+T12	Compound	93	96	NH3
+T13	Compound	98	112	sulfur dioxide
+T14	Compound	114	117	SO2

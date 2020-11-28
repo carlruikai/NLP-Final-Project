@@ -1,0 +1,16 @@
+T1	InnerPlanets	0	5	Earth
+T2	CelestialMovement	8	16	rotation
+T3	CelestialMovement	18	25	turning
+T4	Position	26	37	on its axis
+T5	Cause	39	45	causes
+T6	SeasonsFallAutumnWinterSpringSummer	50	57	seasons
+T7	Changes	61	67	change
+T8	WordsRelatingToCosmologicalTheoriesExpandContract	61	67	change
+T9	Moon	73	77	Moon
+T10	ApparentCelestialMovement	81	87	appear
+T11	StateOfBeing	88	90	as
+T12	Comparisons	91	100	different
+T13	Shape	101	107	shapes
+T14	TimesOfDayDayNight	109	112	day
+T15	TimesOfDayDayNight	117	122	night
+T16	EclipseEvents	124	137	solar eclipse

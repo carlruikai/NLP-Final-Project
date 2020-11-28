@@ -1,0 +1,14 @@
+T1	Gene	0	5	Genes
+T2	StateOfBeing	6	9	are
+T3	AbilityAvailability	10	16	unable
+T4	Cause	20	29	determine
+T5	Identify	20	29	determine
+T6	Human	32	38	person
+T7	AnimalPart	41	44	eye
+T8	Color	45	50	color
+T9	OtherAnimalProperties	52	60	athletic
+T10	Ability	61	68	ability
+T11	Numbers	70	76	number
+T12	AnimalPart	80	85	teeth
+T13	Shape	87	92	shape
+T14	HumanPart	96	104	earlobes

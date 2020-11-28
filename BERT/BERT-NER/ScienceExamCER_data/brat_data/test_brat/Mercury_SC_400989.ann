@@ -1,0 +1,27 @@
+T1	ViewingTools	2	11	telescope
+T2	ObservationInstrumentsTelescopeBinoculars	2	11	telescope
+T3	ProbabilityAndCertainty	12	17	would
+T4	StateOfBeing	18	20	be
+T5	AmountComparison	21	25	most
+T6	Quality	26	32	useful
+T7	Response	36	45	answering
+T8	LevelOfInclusion	46	51	which
+T9	QuestionActivityType	52	60	question
+T10	Method	62	65	How
+T11	SpacecraftHumanRated	69	76	rockets
+T12	SpaceVehicle	69	76	rockets
+T13	Move	77	81	move
+T14	RelativeLocations	82	84	in
+T15	TheUniverseUniverseAndItsParts	85	90	space
+T16	Shape	97	102	shape
+T17	StateOfBeing	103	105	is
+T18	Human	108	113	human
+T19	Cell	114	123	skin cell
+T20	StateOfBeing	130	132	is
+T21	RelativeLocations	133	135	on
+T22	ObjectPart	140	147	surface
+T23	Moon	155	159	Moon
+T24	Method	161	164	How
+T25	Animal	168	173	worms
+T26	RespirationActions	174	181	breathe
+T27	TerrestrialLocations	182	193	underground

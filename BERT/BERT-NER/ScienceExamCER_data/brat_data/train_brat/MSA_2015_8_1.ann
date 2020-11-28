@@ -1,0 +1,36 @@
+T1	RelativeNumber	0	4	Many
+T2	GroupsOfScientists	5	15	scientists
+T3	ConcludingResearch	16	24	theorize
+T4	EnvironmentalDamageDestruction	30	44	global warming
+T5	ProbabilityAndCertainty	45	49	will
+T6	PhaseChangingActions	50	54	melt
+T7	EarthPartsGrossGroundAtmosphere	59	73	polar ice caps
+T8	ProbabilityAndCertainty	80	85	would
+T9	AmountComparison	86	90	most
+T10	ProbabilityAndCertainty	91	97	likely
+T11	Occur	98	104	happen
+T12	EarthPartsGrossGroundAtmosphere	112	126	polar ice caps
+T13	PhaseChangingActions	127	133	melted
+T14	EarthPartsGrossGroundAtmosphere	135	140	Ocean
+T15	BodiesOfWater	135	140	Ocean
+T16	AmountComparison	141	147	levels
+T17	ProbabilityAndCertainty	148	153	would
+T18	AmountChangingActions	154	162	increase
+T19	IncreaseDecrease	154	162	increase
+T20	Human	164	169	Human
+T21	GroupsOfOrganisms	170	180	population
+T22	ProbabilityAndCertainty	181	186	would
+T23	AmountChangingActions	187	195	increase
+T24	IncreaseDecrease	187	195	increase
+T25	Plant	197	207	Vegetation
+T26	RelativeLocations	208	210	in
+T27	PhasesOfWater	211	216	water
+T28	LiquidMatter	211	216	water
+T29	ProbabilityAndCertainty	217	222	would
+T30	AmountChangingActions	223	231	decrease
+T31	IncreaseDecrease	223	231	decrease
+T32	TerrestrialLocations	233	239	Global
+T33	Precipitation	240	253	precipitation
+T34	ProbabilityAndCertainty	254	259	would
+T35	AmountChangingActions	260	268	decrease
+T36	IncreaseDecrease	260	268	decrease

@@ -1,0 +1,27 @@
+T1	Require	5	11	should
+T2	Scientists	14	21	student
+T3	PerformAnActivity	22	24	do
+T4	RelativeTime	25	29	when
+T5	SyntheticMaterial	32	37	glass
+T6	SolidMatter	32	37	glass
+T7	VolumeMeasuringTool	38	44	beaker
+T8	Break	45	53	shatters
+T9	RelativeTime	54	60	during
+T10	ManmadeLocations	63	73	laboratory
+T11	Experimentation	74	84	experiment
+T12	Communicate	86	92	Notify
+T13	Occupation	97	104	teacher
+T14	CleanUp	106	111	Sweep
+T15	ObjectQuantification	116	122	pieces
+T16	RelativeDirection	123	127	into
+T17	ObjectQuantification	130	134	pile
+T18	Uptake	136	143	Pick up
+T19	ObjectQuantification	148	154	pieces
+T20	LocationChangingActions	159	164	throw
+T21	PrepositionalDirections	170	174	away
+T22	Separate	176	181	Leave
+T23	WaitStay	176	181	Leave
+T24	RelativeTime	185	190	until
+T25	Experimentation	195	205	experiment
+T26	StateOfBeing	206	208	is
+T27	Succeed	209	217	complete

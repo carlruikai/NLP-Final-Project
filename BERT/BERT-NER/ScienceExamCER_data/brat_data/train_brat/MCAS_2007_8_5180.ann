@@ -1,0 +1,25 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Locations	23	28	areas
+T4	StateOfBeing	29	31	is
+T5	AmountComparison	32	36	most
+T6	ProbabilityAndCertainty	37	43	likely
+T7	Create	47	51	form
+T8	Metamorphic	52	63	metamorphic
+T9	Rock	64	69	rocks
+T10	Exemplar	70	77	such as
+T11	Metamorphic	78	84	gneiss
+T12	Metamorphic	89	95	schist
+T13	UnderwaterEcosystem	99	108	sea floor
+T14	TerrestrialLocations	99	108	sea floor
+T15	PhysicalProperty	111	120	windblown
+T16	TypesOfTerrestrialEcosystems	121	127	desert
+T17	Locations	130	134	site
+T18	Depth	135	139	deep
+T19	TerrestrialLocations	140	151	underground
+T20	Locations	154	158	site
+T21	ActUponSomething	159	166	covered
+T22	CombineAdd	159	166	covered
+T23	Cause	167	169	by
+T24	GeographicFormations	172	179	glacier
+T25	BodiesOfWater	172	179	glacier

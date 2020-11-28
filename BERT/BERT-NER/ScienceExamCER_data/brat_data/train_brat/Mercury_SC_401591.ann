@@ -1,0 +1,20 @@
+T1	ElectricAppliance	0	10	Solar cell
+T2	AbsorbEnergy	12	18	absorb
+T3	Energy	19	25	energy
+T4	RelativeDirection	26	30	from
+T5	Star	35	38	sun
+T6	Goal	40	51	In order to
+T7	Use	52	55	use
+T8	Energy	61	67	energy
+T9	Start	71	76	power
+T10	Appliance	77	96	household appliance
+T11	ElectricAppliance	99	109	solar cell
+T12	Require	111	115	must
+T13	TransferEnergy	116	123	convert
+T14	AbsorbEnergy	128	136	absorbed
+T15	Energy	137	143	energy
+T16	ChangeInto	144	146	to
+T17	ThermalEnergy	147	151	heat
+T18	Spectra	153	158	light
+T19	Energy	160	169	radiation
+T20	ElectricalEnergy	171	182	electricity

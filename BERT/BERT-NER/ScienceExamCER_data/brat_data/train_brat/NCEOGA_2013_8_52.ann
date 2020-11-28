@@ -1,0 +1,15 @@
+T1	TypesOfIllness	0	7	Malaria
+T2	StateOfBeing	8	10	is
+T3	Rarity	13	19	common
+T4	Sickness	20	27	disease
+T5	RelativeLocations	28	30	in
+T6	RelativeNumber	31	35	many
+T7	Countries	36	45	countries
+T8	StateOfBeing	52	54	is
+T9	Cause	59	64	cause
+T10	Sickness	73	80	disease
+T11	Sickness	84	89	virus
+T12	Bacteria	92	101	bacterium
+T13	Fungi	104	110	fungus
+T14	OrganismRelationships	113	121	parasite
+T15	LivingThing	113	121	parasite

@@ -1,0 +1,33 @@
+T1	RelativeLocations	0	2	In
+T2	PartsOfTheCirculatorySystem	7	12	heart
+T3	PartsOfEndocrineSystem	7	12	heart
+T4	RelativeLocations	13	18	there
+T5	StateOfBeing	19	21	is
+T6	Group	24	29	group
+T7	Differentiate	33	44	specialized
+T8	Cell	45	50	cells
+T9	Homeostasis	56	65	regulates
+T10	Alter	56	65	regulates
+T11	Frequency	70	79	frequency
+T12	CirculationActions	87	96	heartbeat
+T13	RelativeTime	98	104	During
+T14	Difficulty	105	114	strenuous
+T15	PhysicalActivity	115	123	exercise
+T16	Group	129	134	group
+T17	Cell	138	143	cells
+T18	ProbabilityAndCertainty	144	148	will
+T19	AmountComparison	149	153	most
+T20	ProbabilityAndCertainty	154	160	likely
+T21	Cause	161	166	cause
+T22	PartsOfTheCirculatorySystem	171	179	arteries
+T23	FormChangingActions	183	189	expand
+T24	AmountChangingActions	191	199	decrease
+T25	IncreaseDecrease	191	199	decrease
+T26	CirculationActions	204	214	heart rate
+T27	AmountChangingActions	216	224	increase
+T28	IncreaseDecrease	216	224	increase
+T29	CirculationActions	229	239	heart rate
+T30	Transportation	241	245	send
+T31	AmountComparison	246	251	fewer
+T32	Communicate	252	259	signals
+T33	Indicate	252	259	signals

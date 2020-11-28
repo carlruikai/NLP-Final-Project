@@ -1,0 +1,15 @@
+T1	Force	5	10	force
+T2	StateOfBeing	11	13	is
+T3	Require	14	20	needed
+T4	Help	24	28	help
+T5	StopRemove	29	33	stop
+T6	Human	36	41	child
+T7	WordsForOffspring	36	41	child
+T8	LocationChangingActions	47	55	slipping
+T9	RelativeLocations	56	58	on
+T10	PhasesOfWater	59	62	ice
+T11	SolidMatter	59	62	ice
+T12	Gravity	64	71	gravity
+T13	PullingForces	72	80	friction
+T14	Force	81	89	electric
+T15	MagneticForce	90	98	magnetic

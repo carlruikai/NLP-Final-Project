@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	WordsForOffspring	26	32	kitten
+T4	Mammal	26	32	kitten
+T5	StateOfBeing	33	35	is
+T6	LearnedBehavior	39	53	acquired trait
+T7	Cause	54	60	due to
+T8	EcosystemsEnvironment	61	74	environmental
+T9	Actions	75	85	influences
+T10	Cause	75	85	influences
+T11	CleanUp	87	95	cleaning
+T12	AnimalPart	100	104	ears
+T13	ActionsForAnimals	105	113	sleeping
+T14	RelativeLocations	114	116	on
+T15	ManmadeObjects	119	124	chair
+T16	FormChangingActions	125	135	sharpening
+T17	AnimalPart	140	145	claws
+T18	ExamplesOfSounds	146	153	meowing
+T19	ActionsForAnimals	146	153	meowing
+T20	RelativeTime	154	158	when
+T21	StateOfBeing	162	164	is
+T22	Nutrition	165	171	hungry

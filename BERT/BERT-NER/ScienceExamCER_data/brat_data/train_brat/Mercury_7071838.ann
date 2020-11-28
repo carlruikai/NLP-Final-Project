@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	10	term
+T3	GenericTerms	6	10	term
+T4	StateOfBeing	11	13	is
+T5	Use	14	18	used
+T6	Represent	22	30	describe
+T7	PhysicalProperty	33	50	physical property
+T8	Minerals	56	63	mineral
+T9	ChemicalProperty	65	72	organic
+T10	StateOfMatter	73	78	solid
+T11	StateOfMatter	79	86	gaseous
+T12	Rock	87	100	fossiliferous

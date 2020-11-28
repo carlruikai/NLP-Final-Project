@@ -1,0 +1,51 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	Indicate	13	18	shown
+T4	Communicate	13	18	shown
+T5	ScientificTools	21	26	slide
+T6	Cell	30	35	cells
+T7	RelativeDirection	36	40	from
+T8	Taxonomy	43	50	species
+T9	PartsOfTheFoodChain	54	62	producer
+T10	RelativeLocations	63	65	in
+T11	FoodChain	68	76	food web
+T12	Scientists	82	89	student
+T13	Observe	90	98	observes
+T14	PerformingResearch	90	98	observes
+T15	Cell	108	113	cells
+T16	ContainBeComposedOf	114	118	have
+T17	PlantPart	119	131	chloroplasts
+T18	ConcludingResearch	138	148	conclusion
+T19	Relevant	149	154	about
+T20	FoodChain	159	167	food web
+T21	StateOfBeing	168	170	is
+T22	Quality	171	175	best
+T23	QualityComparison	171	175	best
+T24	Verify	176	185	supported
+T25	ConcludingResearch	176	185	supported
+T26	Cause	186	188	by
+T27	LevelOfInclusion	189	194	these
+T28	ConcludingResearch	195	203	findings
+T29	PartsOfTheFoodChain	209	218	producers
+T30	Uptake	219	226	capture
+T31	Energy	227	233	energy
+T32	RelativeDirection	234	238	from
+T33	CelestialLightOnEarth	239	247	sunlight
+T34	FoodChain	253	261	food web
+T35	StateOfBeing	262	264	is
+T36	Identify	265	270	found
+T37	VerbsForLocate	265	270	found
+T38	RelativeLocations	271	273	in
+T39	Composition	276	287	terrestrial
+T40	EcosystemsEnvironment	288	297	ecosystem
+T41	PartsOfTheFoodChain	303	312	producers
+T42	RelativeLocations	313	315	in
+T43	FoodChain	320	323	web
+T44	StateOfBeing	324	327	are
+T45	OtherOrganismProperties	328	341	single-celled
+T46	LivingThing	342	351	organisms
+T47	FoodChain	357	365	food web
+T48	ContainBeComposedOf	366	374	contains
+T49	RelativeNumber	375	379	many
+T50	TypeOfConsumer	380	390	herbivores
+T51	TypeOfConsumer	395	404	omnivores

@@ -1,0 +1,12 @@
+T1	RelativeTime	0	2	In
+T2	OrganicProcesses	7	14	process
+T3	CellProcesses	18	32	photosynthesis
+T4	PlantProcesses	18	32	photosynthesis
+T5	CelestialLightOnEarth	34	42	sunlight
+T6	StateOfBeing	43	45	is
+T7	TransferEnergy	46	55	converted
+T8	ChangeInto	46	60	converted into
+T9	Energy	61	76	chemical energy
+T10	Energy	78	92	nuclear energy
+T11	Energy	94	111	mechanical energy
+T12	Energy	113	127	kinetic energy

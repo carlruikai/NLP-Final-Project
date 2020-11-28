@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GenericTerms	6	12	object
+T3	LightMovement	13	21	refracts
+T4	Light	22	27	light
+T5	EnergyWaves	28	32	rays
+T6	NaturalMaterial	34	40	wooden
+T7	PartsOfABuilding	41	45	door
+T8	NaturalMaterial	46	55	cardboard
+T9	ManmadeObjects	56	59	box
+T10	MetalSolids	60	68	aluminum
+T11	LiquidHoldingContainersRecepticles	69	72	can
+T12	SyntheticMaterial	73	78	glass
+T13	PartsOfABuilding	79	85	window

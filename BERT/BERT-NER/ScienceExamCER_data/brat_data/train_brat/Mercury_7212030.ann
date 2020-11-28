@@ -1,0 +1,23 @@
+T1	Comparisons	0	11	Compared to
+T2	Comparisons	12	19	similar
+T3	Size	20	25	sized
+T4	Vehicle	26	51	gasoline-powered vehicles
+T5	Vehicle	53	86	electric-gasoline-hybrid vehicles
+T6	StateOfBeing	87	90	are
+T7	ImportanceComparison	91	100	primarily
+T8	Create	101	109	designed
+T9	Goal	110	112	to
+T10	Create	113	120	produce
+T11	AmountComparison	121	125	more
+T12	PowerUnit	126	136	horsepower
+T13	StopRemove	138	147	eliminate
+T14	EnvironmentalDamageDestruction	148	172	greenhouse gas emissions
+T15	PerformAnActivity	174	181	operate
+T16	PropertyOfMotion	182	195	independently
+T17	FossilFuel	199	210	fossil fuel
+T18	Create	213	220	provide
+T19	Quality	221	227	better
+T20	QualityComparison	221	227	better
+T21	FossilFuel	228	231	gas
+T22	DistanceUnit	232	239	mileage
+T23	OtherProperties	232	239	mileage

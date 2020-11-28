@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ObjectPart	6	10	part
+T3	Genetics	16	19	DNA
+T4	ElementalComponents	20	28	molecule
+T5	Represent	29	39	represents
+T6	Create	40	47	encoded
+T7	GeneticProcesses	40	47	encoded
+T8	WordsForData	48	59	information
+T9	Compound	61	70	phosphate
+T10	NutritiveSubstancesForAnimalsOrPlants	71	76	sugar
+T11	PartsOfDNA	77	84	guanine
+T12	PartsOfRNA	77	84	guanine
+T13	Element	85	93	hydrogen
+T14	MolecularProperties	94	98	bond

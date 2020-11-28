@@ -1,0 +1,15 @@
+T1	Light	0	5	Light
+T2	EnergyWaves	6	10	rays
+T3	StateOfBeing	11	14	are
+T4	LightMovement	15	22	focused
+T5	Cause	23	25	by
+T6	PartsOfObservationInstruments	30	34	lens
+T7	ViewingTools	40	46	camera
+T8	TechnologicalInstrument	40	46	camera
+T9	ObservationInstrumentsTelescopeBinoculars	40	46	camera
+T10	Cause	47	54	through
+T11	Event	59	66	process
+T12	LightMovement	70	80	reflection
+T13	LightMovement	82	92	refraction
+T14	LightMovement	94	104	dispersion
+T15	ReleaseEnergy	106	117	diffraction

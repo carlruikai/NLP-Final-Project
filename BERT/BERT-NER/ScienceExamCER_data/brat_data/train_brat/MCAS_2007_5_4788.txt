@@ -1,0 +1,5 @@
+Steel cans are separated from aluminum cans in a recycling center. Which of the following is the best way the recycling center can separate the steel cans from the aluminum cans?
+sort the cans by size
+put the cans in water
+cool the cans to a low temperature
+put the cans under an electromagnet

@@ -1,0 +1,26 @@
+T1	StateOfBeing	5	7	is
+T2	ImportanceComparison	12	19	primary
+T3	Cause	20	26	reason
+T4	Communicate	31	40	providing
+T5	Create	31	40	providing
+T6	Complexity	41	49	detailed
+T7	ProbabilityAndCertainty	51	59	accurate
+T8	Validity	51	59	accurate
+T9	PerformingResearch	60	67	records
+T10	WordsForData	60	67	records
+T11	Experimentation	73	97	scientific investigation
+T12	Create	103	107	make
+T13	ConcludingResearch	108	115	reports
+T14	QuestionActivityType	108	115	reports
+T15	Comparisons	116	122	longer
+T16	Length	116	122	longer
+T17	Result	126	133	results
+T18	AbilityAvailability	134	137	can
+T19	StateOfBeing	138	140	be
+T20	ConcludingResearch	141	150	published
+T21	PerformAnActivity	154	165	demonstrate
+T22	OtherHumanProperties	166	181	professionalism
+T23	Experimentation	185	196	experiments
+T24	AbilityAvailability	197	200	can
+T25	StateOfBeing	201	203	be
+T26	ReplicatingResearch	204	214	replicated

@@ -1,0 +1,34 @@
+T1	RelativeLocations	0	2	In
+T2	Eukaryote	3	22	eukaryotic organism
+T3	ActUponSomething	25	36	interaction
+T4	Relations	25	36	interaction
+T5	RelativeLocations	37	44	between
+T6	LevelOfInclusion	45	50	which
+T7	AnimalCellPart	51	61	organelles
+T8	PlantCellPart	51	61	organelles
+T9	StateOfBeing	62	64	is
+T10	AmountComparison	65	69	most
+T11	ImportanceComparison	70	79	important
+T12	Cell	84	88	cell
+T13	Shape	89	94	shape
+T14	ResistanceStrength	96	112	tensile strength
+T15	Communicate	118	131	communication
+T16	RelativeLocations	132	139	between
+T17	Cell	140	145	cells
+T18	AnimalCellPart	147	159	cytoskeleton
+T19	PlantCellPart	147	159	cytoskeleton
+T20	AnimalCellPart	164	177	cell membrane
+T21	PlantCellPart	164	177	cell membrane
+T22	AnimalCellPart	178	187	cytoplasm
+T23	PlantCellPart	178	187	cytoplasm
+T24	BacteriaPart	178	187	cytoplasm
+T25	AnimalCellPart	192	207	Golgi apparatus
+T26	PlantCellPart	192	207	Golgi apparatus
+T27	AnimalCellPart	208	215	nucleus
+T28	PlantCellPart	208	215	nucleus
+T29	AnimalCellPart	220	241	endoplasmic reticulum
+T30	PlantCellPart	220	241	endoplasmic reticulum
+T31	AnimalCellPart	242	250	ribosome
+T32	PlantCellPart	242	250	ribosome
+T33	BacteriaPart	242	250	ribosome
+T34	PlantCellPart	255	270	central vacuole

@@ -1,0 +1,22 @@
+T1	PERSON	0	5	Cindy
+T2	ActionsForAnimals	6	13	learned
+T3	BeliefKnowledge	6	13	learned
+T4	Plant	19	24	trees
+T5	Release	25	32	release
+T6	GaseousMatter	33	38	gases
+T7	RelativeDirection	39	43	into
+T8	EarthPartsGrossGroundAtmosphere	51	54	air
+T9	RelativeTime	55	61	during
+T10	CellProcesses	62	76	photosynthesis
+T11	PlantProcesses	62	76	photosynthesis
+T12	GaseousMatter	83	86	gas
+T13	PerformAnActivity	87	91	does
+T14	Plant	94	98	tree
+T15	Release	99	106	release
+T16	Compound	108	122	carbon dioxide
+T17	PlantNutrients	123	131	hydrogen
+T18	Element	123	131	hydrogen
+T19	PlantNutrients	132	140	nitrogen
+T20	Element	132	140	nitrogen
+T21	PlantNutrients	141	147	oxygen
+T22	Element	141	147	oxygen

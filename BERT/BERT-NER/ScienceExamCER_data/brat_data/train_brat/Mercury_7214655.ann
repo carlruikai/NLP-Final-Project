@@ -1,0 +1,39 @@
+T1	GroupsOfScientists	0	10	Scientists
+T2	PerformingResearch	11	19	recorded
+T3	Identify	11	19	recorded
+T4	Frequency	24	30	hourly
+T5	Temperature	31	42	temperature
+T6	RelativeLocations	37	39	at
+T7	ManmadeLocations	48	63	weather station
+T8	Meteorology	48	63	weather station
+T9	TimeUnit	72	77	month
+T10	Months	81	85	July
+T11	Goal	90	94	want
+T12	Speed	98	105	quickly
+T13	Measurements	106	113	measure
+T14	Identify	106	113	measure
+T15	Pattern	116	121	trend
+T16	RelativeTime	122	126	over
+T17	MarkersOfTime	127	131	time
+T18	Temperature	135	146	temperature
+T19	Changes	147	154	changes
+T20	LevelOfInclusion	156	161	Which
+T21	LevelOfInclusion	165	170	these
+T22	Representation	171	178	formats
+T23	ProbabilityAndCertainty	179	184	would
+T24	StateOfBeing	185	187	be
+T25	AmountComparison	192	196	most
+T26	Relevant	197	208	appropriate
+T27	Representation	209	223	representation
+T28	Temperature	231	242	temperature
+T29	WordsForData	243	247	data
+T30	Speed	251	258	quickly
+T31	Measurements	259	266	measure
+T32	Identify	259	266	measure
+T33	LevelOfInclusion	267	270	any
+T34	Pattern	271	276	trend
+T35	Representation	278	287	bar graph
+T36	Representation	288	298	line graph
+T37	Representation	299	308	pie chart
+T38	WordsForData	309	313	data
+T39	Representation	314	319	table

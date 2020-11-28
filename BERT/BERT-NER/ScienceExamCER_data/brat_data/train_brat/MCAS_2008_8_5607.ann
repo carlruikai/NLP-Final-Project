@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Quality	30	34	best
+T5	QualityComparison	30	34	best
+T6	Hypothesizing	35	43	estimate
+T7	Numbers	51	57	number
+T8	Star	61	66	stars
+T9	RelativeLocations	67	69	in
+T10	Rarity	72	79	typical
+T11	Galaxy	80	86	galaxy
+T12	ArithmeticMeasure	88	92	tens
+T13	ArithmeticMeasure	93	101	hundreds
+T14	ArithmeticMeasure	102	111	thousands
+T15	ArithmeticMeasure	112	120	billions

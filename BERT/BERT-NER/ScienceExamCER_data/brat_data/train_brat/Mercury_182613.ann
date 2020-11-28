@@ -1,0 +1,14 @@
+T1	GeneticRelations	0	15	Fraternal twins
+T2	ProbabilityAndCertainty	16	19	may
+T3	Comparisons	20	22	or
+T4	ProbabilityAndCertainty	23	26	may
+T5	Negations	27	30	not
+T6	ContainBeComposedOf	31	36	share
+T7	Comparisons	37	44	similar
+T8	Property	45	60	characteristics
+T9	Cause	61	67	due to
+T10	Genetics	68	90	independent assortment
+T11	Inheritance	92	113	polygenic inheritance
+T12	Inheritance	115	135	incomplete dominance
+T13	RelativeNumber	137	145	multiple
+T14	Genetics	146	153	alleles

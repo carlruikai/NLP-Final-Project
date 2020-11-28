@@ -1,0 +1,24 @@
+T1	MineralFormations	0	13	Vein deposits
+T2	ContainBeComposedOf	14	16	of
+T3	Minerals	17	21	gold
+T4	Minerals	26	32	silver
+T5	StateOfBeing	33	36	are
+T6	Frequency	37	42	often
+T7	Create	43	49	formed
+T8	RelativeLocations	50	52	in
+T9	Locations	53	58	areas
+T10	Occur	69	80	experienced
+T11	ActUponSomething	69	80	experienced
+T12	GeographicFormationProcess	87	103	geologic process
+T13	Igneous	105	122	igneous intrusion
+T14	ChangeInComposition	105	122	igneous intrusion
+T15	ChangeInLocation	123	132	transport
+T16	Transportation	123	132	transport
+T17	Cause	133	135	by
+T18	PhasesOfWater	136	141	water
+T19	LiquidMatter	136	141	water
+T20	ChangeInComposition	142	161	chemical weathering
+T21	ConstructiveDestructiveForces	151	161	weathering
+T22	ConstructiveDestructiveForces	162	172	compaction
+T23	Cause	173	175	by
+T24	Pressure	176	184	pressure

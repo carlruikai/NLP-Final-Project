@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Device	23	30	devices
+T4	Require	31	40	relies on
+T5	ElectricalEnergy	41	66	electromagnetic radiation
+T6	MagneticEnergy	41	66	electromagnetic radiation
+T7	RelativeLocations	67	69	in
+T8	EnergyWaves	74	84	radio wave
+T9	LevelOfInclusion	85	91	region
+T10	Spectra	99	107	spectrum
+T11	Use	112	121	operation
+T12	Star	123	126	sun
+T13	ColorChangingActions	127	134	tanning
+T14	HeatingAppliance	135	139	lamp
+T15	LightProducingObject	135	139	lamp
+T16	ElectricityAndCircuits	140	148	electric
+T17	LightProducingObject	149	159	light bulb
+T18	ElectricAppliance	160	178	cellular telephone
+T19	SystemOfCommunication	160	178	cellular telephone
+T20	ElectricityAndCircuits	179	187	electric
+T21	ElectricAppliance	188	195	toaster

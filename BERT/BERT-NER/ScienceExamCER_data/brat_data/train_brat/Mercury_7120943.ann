@@ -1,0 +1,34 @@
+T1	RelativeTime	0	6	During
+T2	TypesOfEvent	9	23	sporting event
+T3	Human	27	34	referee
+T4	Occupation	27	34	referee
+T5	Use	35	39	uses
+T6	SoundProducingObject	42	49	whistle
+T7	Result	50	52	to
+T8	Communicate	53	58	alert
+T9	PartsOfAGroup	63	68	teams
+T10	Start	72	77	start
+T11	StopRemove	82	86	stop
+T12	PerformAnActivity	87	94	playing
+T13	Cause	101	107	causes
+T14	SoundEnergy	112	117	sound
+T15	SensoryTerms	112	117	sound
+T16	RelativeDirection	118	122	from
+T17	Human	127	134	referee
+T18	Occupation	127	134	referee
+T19	SoundProducingObject	137	144	whistle
+T20	Move	148	154	travel
+T21	RelativeDirection	155	157	in
+T22	LevelOfInclusion	158	161	all
+T23	Directions	162	172	directions
+T24	SoundEnergy	174	184	vibrations
+T25	ParticleMovement	174	184	vibrations
+T26	RelativeLocations	181	183	on
+T27	Soil	192	198	ground
+T28	SoundEnergy	199	209	vibrations
+T29	ParticleMovement	199	209	vibrations
+T30	EarthPartsGrossGroundAtmosphere	217	220	air
+T31	GaseousMatter	217	220	air
+T32	EnergyWaves	221	233	seismic wave
+T33	Light	235	240	light
+T34	EnergyWaves	235	245	light wave

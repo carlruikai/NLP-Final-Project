@@ -1,0 +1,20 @@
+T1	LandVehicle	2	5	car
+T2	Move	6	15	traveling
+T3	RelativeLocations	12	14	in
+T4	RelativeDirection	21	34	northeasterly
+T5	Directions	35	44	direction
+T6	StateOfBeing	45	47	at
+T7	MeasuringSpeed	50	54	rate
+T8	PropertyOfMotion	50	54	rate
+T9	CardinalNumber	58	60	50
+T10	NUMBER	58	60	50
+T11	SpeedUnit	61	65	km/h
+T12	Represent	66	76	represents
+T13	LevelOfInclusion	77	82	which
+T14	LevelOfInclusion	86	99	the following
+T15	MeasuringSpeed	101	106	speed
+T16	PropertyOfMotion	101	106	speed
+T17	PropertyOfMotion	107	115	velocity
+T18	MeasuringSpeed	116	128	acceleration
+T19	PropertyOfMotion	116	128	acceleration
+T20	MeasuringSpeed	129	141	deceleration

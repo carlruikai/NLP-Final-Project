@@ -1,0 +1,22 @@
+T1	WeatherPhenomena	0	4	Wind
+T2	Changes	5	12	changes
+T3	EarthPartsGrossGroundAtmosphere	17	24	surface
+T4	InnerPlanets	28	33	Earth
+T5	LOCATION	28	33	Earth
+T6	LevelOfInclusion	35	40	Which
+T7	LevelOfInclusion	44	49	these
+T8	GeographicFormations	50	65	land formations
+T9	StateOfBeing	66	68	is
+T10	Cause	69	80	a result of
+T11	ChangeInLocation	81	95	transportation
+T12	Transportation	81	95	transportation
+T13	ChangeInLocation	100	110	deposition
+T14	Cause	111	113	by
+T15	WeatherPhenomena	114	118	wind
+T16	BodiesOfWater	122	127	delta
+T17	PartsOfBodiesOfWater	122	127	delta
+T18	GeographicFormations	130	137	glacier
+T19	BodiesOfWater	130	137	glacier
+T20	GeographicFormations	140	149	sand dune
+T21	GeographicFormations	152	160	mountain
+T22	GeographicFormationParts	161	165	peak

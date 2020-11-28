@@ -1,0 +1,16 @@
+T1	EarthPartsGrossGroundAtmosphere	0	3	Air
+T2	StateOfBeing	4	6	is
+T3	ContainBeComposedOf	7	14	made up
+T4	RelativeNumber	18	22	many
+T5	GaseousMatter	23	28	gases
+T6	LevelOfInclusion	30	35	Which
+T7	GaseousMatter	36	39	gas
+T8	StateOfBeing	40	42	is
+T9	VerbsForLocate	43	48	found
+T10	StateOfBeing	49	51	in
+T11	AmountComparison	56	64	greatest
+T12	Numbers	65	71	amount
+T13	Element	73	81	Nitrogen
+T14	Element	82	88	Oxygen
+T15	Compound	89	103	Carbon dioxide
+T16	Element	104	112	Hydrogen

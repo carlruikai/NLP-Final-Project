@@ -1,0 +1,22 @@
+T1	Method	0	3	How
+T2	PerformAnActivity	4	6	do
+T3	PartsOfTheFoodChain	7	16	producers
+T4	Uptake	17	20	get
+T5	Energy	21	27	energy
+T6	ActionsForAnimals	29	35	eating
+T7	Consumption	29	35	eating
+T8	Plant	36	42	plants
+T9	PlantPart	47	52	seeds
+T10	ActionsForAnimals	53	59	eating
+T11	Consumption	53	59	eating
+T12	Comparisons	60	65	other
+T13	Animal	66	73	animals
+T14	ChemicalChange	74	87	breaking down
+T15	LivingThing	88	97	organisms
+T16	Cause	98	105	through
+T17	LivingDying	106	111	decay
+T18	Use	112	117	using
+T19	Star	122	125	sun
+T20	Result	126	128	to
+T21	Create	129	133	make
+T22	Nutrition	134	138	food

@@ -1,0 +1,39 @@
+T1	Scientists	2	11	scientist
+T2	Method	12	17	plans
+T3	Examine	21	32	investigate
+T4	Experimentation	21	32	investigate
+T5	NervousSystem	37	51	nervous system
+T6	Aquatic	55	64	sea slugs
+T7	Require	71	77	should
+T8	Scientists	82	91	scientist
+T9	PerformAnActivity	92	94	do
+T10	TemporalProperty	95	100	first
+T11	ORDINAL	95	100	first
+T12	Create	102	109	Develop
+T13	ScientificTheoryExperimentationAndHistory	112	118	theory
+T14	Relevant	119	124	about
+T15	Aquatic	125	134	sea slugs
+T16	AbilityAvailability	140	143	can
+T17	StateOfBeing	144	146	be
+T18	PerformingResearch	147	153	tested
+T19	TypesOfEvent	147	153	tested
+T20	Move	155	157	Go
+T21	RelativeDirection	158	160	to
+T22	BodiesOfWater	165	170	ocean
+T23	Observe	174	181	observe
+T24	PerformingResearch	174	181	observe
+T25	Behaviors	186	194	behavior
+T26	Aquatic	198	207	sea slugs
+T27	Uptake	209	215	Obtain
+T28	RelativeNumber	216	223	several
+T29	Aquatic	224	233	sea slugs
+T30	PerformAnActivity	238	245	conduct
+T31	Experimentation	246	257	experiments
+T32	Use	258	262	with
+T33	Examine	269	275	Review
+T34	PerformingResearch	280	288	research
+T35	Comparisons	289	294	other
+T36	GroupsOfScientists	295	305	scientists
+T37	PerformAnActivity	311	315	done
+T38	Relevant	312	314	on
+T39	Aquatic	319	328	sea slugs

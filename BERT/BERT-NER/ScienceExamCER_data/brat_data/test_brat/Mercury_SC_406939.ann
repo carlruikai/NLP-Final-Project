@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Method	11	14	way
+T4	ObjectQuantification	22	27	piece
+T5	NaturalMaterial	31	36	paper
+T6	AbilityAvailability	37	40	can
+T7	Occur	41	51	go through
+T8	ChemicalChange	54	69	chemical change
+T9	FormChangingActions	71	75	fold
+T10	NaturalMaterial	80	85	paper
+T11	LevelOfInclusion	89	93	half
+T12	Wetness	94	98	soak
+T13	LiquidMovement	94	98	soak
+T14	NaturalMaterial	103	108	paper
+T15	RelativeLocations	109	111	in
+T16	PhasesOfWater	112	117	water
+T17	LiquidMatter	112	117	water
+T18	ChemicalChange	118	122	burn
+T19	NaturalMaterial	127	132	paper
+T20	CombineAdd	133	137	with
+T21	HeatingAppliance	138	142	fire
+T22	NaturalPhenomena	138	142	fire
+T23	FormChangingActions	143	146	cut
+T24	NaturalMaterial	151	156	paper
+T25	CombineAdd	157	161	with
+T26	ManmadeObjects	162	170	scissors

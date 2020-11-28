@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	PhysicalActivity	12	20	activity
+T4	Help	21	32	contributes
+T5	Cause	21	32	contributes
+T6	Create	40	49	formation
+T7	PH	53	62	acid rain
+T8	Precipitation	53	62	acid rain
+T9	Use	64	69	using
+T10	RelativeNumber	70	78	too much
+T11	PlantNutrients	79	89	fertilizer
+T12	RelativeLocations	90	92	in
+T13	Agriculture	93	104	agriculture
+T14	StopRemove	105	117	cutting down
+T15	Harm	105	117	cutting down
+T16	Size	118	123	large
+T17	Locations	124	129	areas
+T18	TypesOfTerrestrialEcosystems	133	148	tropical forest
+T19	Forests	133	148	tropical forest
+T20	EnvironmentalDamageDestruction	150	170	burning fossil fuels
+T21	Exemplar	171	178	such as
+T22	FossilFuel	179	183	coal
+T23	FossilFuel	188	196	gasoline
+T24	Use	197	202	using
+T25	Compound	203	212	chemicals
+T26	EnvironmentalDamageDestruction	218	231	destroy ozone
+T27	RelativeLocations	232	234	in
+T28	LayersOfTheEarth	239	251	stratosphere
+T29	AtmosphericLayers	239	251	stratosphere

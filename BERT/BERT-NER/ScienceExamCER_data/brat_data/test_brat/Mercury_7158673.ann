@@ -1,0 +1,34 @@
+T1	PERSON	0	3	Ana
+T2	StateOfBeing	4	6	is
+T3	Occupation	9	29	cross-country runner
+T4	RelativeTime	31	36	After
+T5	Succeed	37	46	finishing
+T6	TypesOfEvent	49	53	race
+T7	Observe	58	65	noticed
+T8	SensoryTerms	75	79	felt
+T9	Temperature	80	83	hot
+T10	Cause	84	90	due to
+T11	Release	95	102	release
+T12	ThermalEnergy	106	120	thermal energy
+T13	LevelOfInclusion	122	127	Which
+T14	StateOfBeing	128	130	is
+T15	AmountComparison	135	139	most
+T16	ProbabilityAndCertainty	140	146	likely
+T17	Source	147	153	source
+T18	Energy	161	175	thermal energy
+T19	PullingForces	177	185	friction
+T20	RelativeDirection	186	190	from
+T21	EarthPartsGrossGroundAtmosphere	195	198	air
+T22	ThermalEnergy	199	203	heat
+T23	StateOfBeing	204	209	being
+T24	AbsorbEnergy	210	218	absorbed
+T25	RelativeDirection	219	223	from
+T26	Star	228	231	sun
+T27	Energy	232	249	mechanical energy
+T28	StateOfBeing	250	255	being
+T29	AbsorbEnergy	256	264	absorbed
+T30	Energy	265	271	energy
+T31	Changes	272	283	conversions
+T32	Occur	284	293	occurring
+T33	RelativeLocations	290	292	in
+T34	HumanPart	301	305	body

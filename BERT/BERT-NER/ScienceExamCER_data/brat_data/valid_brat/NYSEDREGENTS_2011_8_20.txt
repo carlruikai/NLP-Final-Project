@@ -1,0 +1,5 @@
+Which sequence represents the order of development for many plants?
+seed develops inside fruit -> seed is dispersed -> seed germinates -> plant grows
+seed is dispersed -> seed develops inside fruit -> seed germinates -> plant grows
+seed germinates -> plant grows -> seed is dispersed -> seed develops inside fruit
+seed is dispersed -> plant grows -> seed germinates -> seed develops inside fruit

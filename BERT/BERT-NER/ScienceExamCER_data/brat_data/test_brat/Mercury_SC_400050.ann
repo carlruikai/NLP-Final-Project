@@ -1,0 +1,29 @@
+T1	Occur	5	12	happens
+T2	Event	5	12	happens
+T3	RelativeTime	13	17	when
+T4	Temperature	22	33	temperature
+T5	RelativeLocations	34	36	in
+T6	ManmadeLocations	41	46	house
+T7	StateOfBeing	47	49	is
+T8	Temperature	50	56	cooler
+T9	Comparisons	57	61	than
+T10	Temperature	66	77	temperature
+T11	Choose	78	86	selected
+T12	RelativeLocations	87	89	on
+T13	TemperatureMeasuringTools	94	104	thermostat
+T14	HeatingAppliance	110	117	furnace
+T15	ProbabilityAndCertainty	118	122	will
+T16	Temperature	123	131	overheat
+T17	Harm	123	131	overheat
+T18	TemperatureMeasuringTools	137	147	thermostat
+T19	ProbabilityAndCertainty	148	152	will
+T20	ChangeInto	153	159	become
+T21	Temperature	160	163	hot
+T22	HeatingAppliance	169	176	furnace
+T23	ProbabilityAndCertainty	177	181	will
+T24	OtherProperties	182	195	automatically
+T25	Start	196	203	turn on
+T26	TemperatureMeasuringTools	209	219	thermostat
+T27	ProbabilityAndCertainty	220	224	will
+T28	Create	225	233	give off
+T29	ExamplesOfSounds	236	249	beeping sound

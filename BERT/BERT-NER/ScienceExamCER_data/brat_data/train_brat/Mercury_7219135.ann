@@ -1,0 +1,17 @@
+T1	RelativeTime	0	5	Since
+T2	DATE	6	10	1961
+T3	States	12	18	Nevada
+T4	Surpass	23	26	led
+T5	Succeed	23	26	led
+T6	Countries	31	44	United States
+T7	RelativeLocations	45	47	in
+T8	Create	48	55	product
+T9	LevelOfInclusion	62	67	which
+T10	NaturalResources	68	76	resource
+T11	Element	78	82	gold
+T12	MetalSolids	78	82	gold
+T13	Element	83	90	uranium
+T14	OtherEnergyResources	91	97	lumber
+T15	PlantPart	91	97	lumber
+T16	Element	98	102	iron
+T17	MetalSolids	98	102	iron

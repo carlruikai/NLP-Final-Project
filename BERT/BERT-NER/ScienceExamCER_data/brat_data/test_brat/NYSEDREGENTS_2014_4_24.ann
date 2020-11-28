@@ -1,0 +1,21 @@
+T1	RelativeNumber	0	4	Many
+T2	Animal	5	12	animals
+T3	VisualComparison	13	26	blend in with
+T4	EcosystemsEnvironment	33	44	environment
+T5	AbilityAvailability	49	52	can
+T6	Negations	53	56	not
+T7	StateOfBeing	57	59	be
+T8	Difficulty	60	66	easily
+T9	Observe	67	71	seen
+T10	Cause	72	74	by
+T11	Animal	75	84	predators
+T12	StateOfBeing	88	90	is
+T13	Exemplar	97	104	example
+T14	LevelOfInclusion	108	113	which
+T15	Adaptation	114	124	adaptation
+T16	Communicate	126	139	communicating
+T17	ActionsForAnimals	140	151	hibernating
+T18	BehavioralAdaptation	140	151	hibernating
+T19	ActionsForAnimals	152	161	migrating
+T20	BehavioralAdaptation	152	161	migrating
+T21	StructuralAdaptation	162	174	camouflaging

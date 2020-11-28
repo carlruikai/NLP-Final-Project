@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	WordsForData	6	17	information
+T3	StateOfBeing	18	20	is
+T4	Use	21	25	used
+T5	MeteorologicalModels	31	44	station model
+T6	Frequency	46	52	yearly
+T7	Calculations	53	60	average
+T8	Precipitation	61	74	precipitation
+T9	Frequency	75	80	daily
+T10	Calculations	81	88	average
+T11	Pressure	89	108	barometric pressure
+T12	Numbers	109	115	number
+T13	WeatherPhenomena	119	128	lightning
+T14	LightMovement	129	136	strikes
+T15	WeatherPhenomena	137	141	wind
+T16	Directions	142	151	direction
+T17	RelativeLocations	152	154	in
+T18	Rarity	157	167	particular
+T19	Locations	168	173	point
+T20	MarkersOfTime	178	182	time

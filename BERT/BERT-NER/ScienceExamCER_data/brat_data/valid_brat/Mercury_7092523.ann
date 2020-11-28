@@ -1,0 +1,20 @@
+T1	TectonicPlates	3	16	oceanic plate
+T2	ChangeInLocation	17	25	subducts
+T3	RelativeLocations	26	31	under
+T4	TectonicPlates	34	51	continental plate
+T5	LevelOfInclusion	53	58	Which
+T6	LevelOfInclusion	62	67	these
+T7	GeographicFormations	68	77	landforms
+T8	AmountComparison	78	82	most
+T9	ProbabilityAndCertainty	83	89	likely
+T10	Result	90	97	results
+T11	Cause	98	102	from
+T12	ActUponSomething	107	118	interaction
+T13	Relations	107	118	interaction
+T14	LevelOfInclusion	122	127	these
+T15	TectonicPlates	128	134	plates
+T16	GeographicFormations	136	154	volcanic mountains
+T17	PartsOfEarthLayers	155	173	transform boundari
+T18	PartsOfEarthLayers	176	195	continental shelves
+T19	Comparisons	196	202	normal
+T20	GeographicFormations	203	209	faults

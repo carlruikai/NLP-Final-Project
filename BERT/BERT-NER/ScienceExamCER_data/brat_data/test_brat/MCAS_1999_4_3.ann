@@ -1,0 +1,25 @@
+T1	LifeCycle	4	14	life cycle
+T2	RelativeNumber	18	22	some
+T3	LevelOfInclusion	18	22	some
+T4	Plant	23	29	plants
+T5	Require	30	38	includes
+T6	OrganicProcesses	43	50	process
+T7	Reproduction	54	65	pollination
+T8	PlantProcesses	54	65	pollination
+T9	Reproduction	67	78	Pollination
+T10	PlantProcesses	67	78	Pollination
+T11	StateOfBeing	79	81	is
+T12	Help	82	88	helped
+T13	Cause	89	91	by
+T14	WeatherPhenomena	92	96	wind
+T15	PhasesOfWater	98	103	water
+T16	Insect	109	116	insects
+T17	Star	118	121	sun
+T18	PhasesOfWater	123	128	water
+T19	PlantPart	134	139	roots
+T20	Human	141	147	humans
+T21	Star	149	152	sun
+T22	PlantPart	158	163	stems
+T23	PlantPart	165	170	roots
+T24	WeatherPhenomena	172	176	wind
+T25	PlantPart	182	187	stems

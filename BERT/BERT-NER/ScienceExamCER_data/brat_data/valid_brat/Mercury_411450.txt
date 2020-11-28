@@ -1,0 +1,5 @@
+Astronomical units can be used to measure distances between objects in outer space. One astronomical unit (AU) is the distance between Earth and the Sun. Based on this information, about how many astronomical units is Mars from the Sun?
+0.4
+0.7
+1.0
+1.5

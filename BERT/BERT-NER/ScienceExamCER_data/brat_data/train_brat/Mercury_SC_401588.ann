@@ -1,0 +1,34 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	ActUponSomething	13	18	given
+T4	CombineAdd	13	18	given
+T5	CardinalNumber	19	24	three
+T6	NUMBER	19	24	three
+T7	Comparisons	25	36	identically
+T8	Size	37	42	sized
+T9	ObjectQuantification	43	49	blocks
+T10	LevelOfInclusion	51	55	Each
+T11	ObjectQuantification	56	61	block
+T12	StateOfBeing	62	64	is
+T13	ContainBeComposedOf	65	72	made of
+T14	Comparisons	75	84	different
+T15	Material	85	93	material
+T16	Matter	85	93	material
+T17	Property	100	114	characteristic
+T18	ObjectQuantification	122	128	blocks
+T19	Require	129	135	should
+T20	StateOfBeing	136	138	be
+T21	Examine	139	147	examined
+T22	Goal	148	150	to
+T23	Identify	151	155	find
+T24	LevelOfInclusion	160	165	which
+T25	ObjectQuantification	166	171	block
+T26	StateOfBeing	172	174	is
+T27	ContainBeComposedOf	175	182	made of
+T28	MetalSolids	183	188	metal
+T29	Color	190	195	color
+T30	PhysicalProperty	196	202	weight
+T31	Mass	196	202	weight
+T32	Texture	203	210	texture
+T33	Conductivity	211	223	conductivity
+T34	ElectricalProperty	211	223	conductivity

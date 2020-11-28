@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Event	6	13	process
+T3	Help	14	25	contributes
+T4	Cause	14	25	contributes
+T5	AmountComparison	26	30	most
+T6	Create	38	47	formation
+T7	GeographicFormations	53	61	sinkhole
+T8	TectonicPlates	63	68	plate
+T9	Move	69	77	movement
+T10	NaturalPhenomena	78	95	volcanic eruption
+T11	WeatherPhenomena	96	100	wind
+T12	ConstructiveDestructiveForces	101	108	erosion
+T13	NaturalPhenomena	101	108	erosion
+T14	ChangeInComposition	109	128	chemical weathering

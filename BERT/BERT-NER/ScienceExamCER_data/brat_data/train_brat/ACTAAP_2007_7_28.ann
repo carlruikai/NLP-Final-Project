@@ -1,0 +1,24 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Exemplar	12	19	example
+T4	TransferEnergy	23	33	conduction
+T5	Conductivity	23	33	conduction
+T6	HeatingAppliance	37	49	space heater
+T7	Start	50	59	turned on
+T8	PhasesOfWater	60	65	water
+T9	PhaseChangingActions	66	73	boiling
+T10	RelativeLocations	74	76	on
+T11	HeatingAppliance	81	86	stove
+T12	CookingToolsFood	81	86	stove
+T13	CelestialLightOnEarth	87	95	sunlight
+T14	LightMovement	96	103	shining
+T15	PrepositionalDirections	104	111	through
+T16	PartsOfABuilding	116	122	window
+T17	MetalSolids	125	130	metal
+T18	ManmadeObjects	131	136	spoon
+T19	Temperature	137	144	warming
+T20	IncreaseDecrease	137	144	warming
+T21	RelativeLocations	141	143	in
+T22	LiquidHoldingContainersRecepticles	150	153	pot
+T23	Temperature	157	160	hot
+T24	Foods	161	165	soup

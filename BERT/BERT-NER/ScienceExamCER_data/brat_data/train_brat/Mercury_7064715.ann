@@ -1,0 +1,34 @@
+T1	ImportanceComparison	3	12	important
+T2	GuidelinesAndRules	13	17	rule
+T3	Scientists	22	30	students
+T4	Believe	34	38	know
+T5	RelativeTime	39	43	when
+T6	IncreaseDecrease	44	51	heating
+T7	Temperature	44	51	heating
+T8	TechnologicalInstrument	54	63	test tube
+T9	StateOfBeing	64	66	is
+T10	Move	70	75	place
+T11	VerbsForLocate	70	75	place
+T12	ScientificTools	78	82	cork
+T13	NaturalMaterial	78	82	cork
+T14	RelativeLocations	83	85	in
+T15	GapsAndCracks	90	95	mouth
+T16	TechnologicalInstrument	103	112	test tube
+T17	Position	114	119	point
+T18	Move	114	119	point
+T19	GapsAndCracks	124	129	mouth
+T20	TechnologicalInstrument	137	146	test tube
+T21	PrepositionalDirections	147	156	away from
+T22	Comparisons	157	163	others
+T23	Touch	165	169	hold
+T24	Uptake	165	169	hold
+T25	TechnologicalInstrument	174	183	test tube
+T26	Rigidity	184	189	loose
+T27	Use	192	196	with
+T28	HumanPart	201	211	fingertips
+T29	Move	213	218	shake
+T30	TechnologicalInstrument	223	232	test tube
+T31	ResistanceStrength	233	243	forcefully
+T32	Preserve	247	251	keep
+T33	ObjectQuantification	252	260	contents
+T34	CombineAdd	261	266	mixed

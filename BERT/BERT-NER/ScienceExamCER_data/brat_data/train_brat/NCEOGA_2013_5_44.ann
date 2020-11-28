@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	13	process
+T3	Permit	14	20	allows
+T4	Color	21	26	green
+T5	Plant	27	33	plants
+T6	ActUponSomething	37	44	control
+T7	Numbers	49	55	amount
+T8	PhasesOfWater	59	64	water
+T9	Preserve	65	71	stored
+T10	RelativeLocations	72	74	in
+T11	PlantPart	81	87	leaves
+T12	CellProcesses	89	103	photosynthesis
+T13	PlantProcesses	89	103	photosynthesis
+T14	PhaseChangingActions	104	116	condensation
+T15	RespirationActions	117	128	respiration
+T16	PlantProcesses	129	142	transpiration

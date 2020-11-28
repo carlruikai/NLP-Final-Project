@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ManmadeObjects	6	15	invention
+T3	Discovery	6	15	invention
+T4	ContainBeComposedOf	16	19	has
+T5	TechnologicalInstrument	20	30	technology
+T6	Help	36	41	helps
+T7	Human	42	48	people
+T8	Preserve	49	53	keep
+T9	Nutrition	54	58	food
+T10	PropertiesOfFood	59	64	fresh
+T11	TemporalProperty	71	75	long
+T12	MarkersOfTime	76	90	period of time
+T13	ElectricAppliance	92	102	dishwasher
+T14	CoolingAppliance	103	115	refrigerator
+T15	CoolingToolsFood	103	115	refrigerator
+T16	ElectricAppliance	116	130	electric mixer
+T17	HeatingAppliance	131	145	microwave oven
+T18	CookingToolsFood	131	145	microwave oven

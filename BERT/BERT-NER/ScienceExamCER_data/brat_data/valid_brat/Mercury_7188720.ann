@@ -1,0 +1,43 @@
+T1	Cause	0	14	As a result of
+T2	Forests	15	26	rain forest
+T3	EnvironmentalDamageDestruction	27	40	deforestation
+T4	RelativeNumber	42	46	some
+T5	LevelOfInclusion	42	46	some
+T6	LivingThing	47	56	organisms
+T7	ChangesToResources	57	61	lose
+T8	AmountChangingActions	57	61	lose
+T9	Habitat	68	76	habitats
+T10	LevelOfInclusion	78	83	Which
+T11	StateOfBeing	84	86	is
+T12	Comparisons	87	91	also
+T13	Result	95	101	effect
+T14	Forests	105	116	rain forest
+T15	EnvironmentalDamageDestruction	117	130	deforestation
+T16	AmountChangingActions	134	142	decrease
+T17	IncreaseDecrease	134	142	decrease
+T18	RelativeLocations	143	145	in
+T19	MeasuringSpeed	150	154	rate
+T20	Speed	150	154	rate
+T21	EnvironmentalDamageDestruction	158	170	soil erosion
+T22	AmountChangingActions	173	181	decrease
+T23	IncreaseDecrease	173	181	decrease
+T24	RelativeLocations	182	184	in
+T25	Health	189	198	fertility
+T26	PropertiesOfSoil	189	198	fertility
+T27	Soil	206	213	topsoil
+T28	AmountChangingActions	217	225	increase
+T29	IncreaseDecrease	217	225	increase
+T30	RelativeLocations	217	219	in
+T31	ActionsForAgriculture	233	243	production
+T32	Create	233	243	production
+T33	Plant	247	253	plants
+T34	Use	254	258	used
+T35	Medicine	263	272	medicines
+T36	AmountChangingActions	276	284	increase
+T37	IncreaseDecrease	276	284	increase
+T38	RelativeLocations	276	278	in
+T39	Numbers	292	298	amount
+T40	Element	302	308	oxygen
+T41	Create	309	317	produced
+T42	RelativeLocations	318	320	in
+T43	EarthPartsGrossGroundAtmosphere	325	335	atmosphere

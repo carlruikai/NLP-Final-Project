@@ -1,0 +1,38 @@
+T1	Cause	0	3	Why
+T2	PerformAnActivity	4	6	do
+T3	Human	7	17	astronauts
+T4	Occupation	7	17	astronauts
+T5	Require	18	22	need
+T6	Element	23	29	oxygen
+T7	RelativeLocations	30	32	in
+T8	ManmadeObjects	37	46	backpacks
+T9	ClothesTextiles	56	66	spacesuits
+T10	Help	71	75	help
+T11	Human	76	86	astronauts
+T12	Occupation	76	86	astronauts
+T13	RespirationActions	87	94	breathe
+T14	RelativeLocations	95	97	in
+T15	TheUniverseUniverseAndItsParts	98	109	outer space
+T16	Help	113	117	help
+T17	PhysicalProperty	127	133	weight
+T18	Mass	127	133	weight
+T19	Human	137	147	astronauts
+T20	Occupation	137	147	astronauts
+T21	RelativeTime	148	154	during
+T22	TheUniverseUniverseAndItsParts	155	160	space
+T23	Move	161	166	walks
+T24	ActUponSomething	170	176	manage
+T25	Compound	177	191	carbon dioxide
+T26	Human	197	207	astronauts
+T27	Occupation	197	207	astronauts
+T28	RespirationActions	208	219	breathe out
+T29	CombineAdd	223	226	mix
+T30	Size	236	240	thin
+T31	Width	236	240	thin
+T32	EarthPartsGrossGroundAtmosphere	241	251	atmosphere
+T33	LayersOfTheEarth	241	251	atmosphere
+T34	Human	256	266	astronauts
+T35	Occupation	256	266	astronauts
+T36	RelativeTime	267	273	during
+T37	TheUniverseUniverseAndItsParts	274	279	space
+T38	Move	280	285	walks

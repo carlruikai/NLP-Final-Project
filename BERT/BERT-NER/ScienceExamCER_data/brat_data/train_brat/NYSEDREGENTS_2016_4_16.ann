@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GeographicFormationProcess	6	13	process
+T3	Occur	14	20	occurs
+T4	RelativeTime	21	25	when
+T5	Rock	26	31	rocks
+T6	Soil	36	40	soil
+T7	ChangeInLocation	41	46	slide
+T8	PrepositionalDirections	47	51	down
+T9	GeographicFormations	54	62	mountain
+T10	ConstructiveDestructiveForces	64	71	erosion
+T11	NaturalPhenomena	64	71	erosion
+T12	ActionsForAnimals	72	81	migration
+T13	BehavioralAdaptation	72	81	migration
+T14	Move	72	81	migration
+T15	Alter	82	91	recycling
+T16	Preserve	92	103	maintenance

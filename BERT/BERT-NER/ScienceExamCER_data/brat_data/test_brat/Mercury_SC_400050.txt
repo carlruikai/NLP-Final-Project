@@ -1,0 +1,5 @@
+What happens when the temperature in the house is cooler than the temperature selected on the thermostat?
+The furnace will overheat.
+The thermostat will become hot.
+The furnace will automatically turn on.
+The thermostat will give off a beeping sound.

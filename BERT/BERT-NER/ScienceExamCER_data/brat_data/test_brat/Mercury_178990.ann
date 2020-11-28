@@ -1,0 +1,15 @@
+T1	RelativeLocations	0	5	Where
+T2	RelativeLocations	6	8	in
+T3	Cell	13	17	cell
+T4	PerformAnActivity	18	22	does
+T5	Metabolism	23	33	glycolysis
+T6	Occur	34	39	occur
+T7	AnimalCellPart	41	50	cytoplasm
+T8	PlantCellPart	41	50	cytoplasm
+T9	BacteriaPart	41	50	cytoplasm
+T10	AnimalCellPart	51	58	nucleus
+T11	PlantCellPart	51	58	nucleus
+T12	AnimalCellPart	59	67	ribosome
+T13	PlantCellPart	59	67	ribosome
+T14	BacteriaPart	59	67	ribosome
+T15	CellsAndGenetics	68	77	chromatin

@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Property	15	30	characteristics
+T4	Quality	31	35	best
+T5	QualityComparison	31	35	best
+T6	Help	36	41	helps
+T7	GroupsOfScientists	42	52	scientists
+T8	Classify	53	61	classify
+T9	LivingThing	62	71	organisms
+T10	Size	73	77	size
+T11	Color	78	83	color
+T12	OtherAnimalProperties	84	90	gender
+T13	SystemParts	91	100	structure

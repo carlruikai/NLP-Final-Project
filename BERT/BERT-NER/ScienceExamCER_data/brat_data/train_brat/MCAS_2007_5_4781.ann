@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Cause	23	26	has
+T4	AmountComparison	31	39	greatest
+T5	Result	40	46	effect
+T6	PrepositionalDirections	47	49	on
+T7	Ability	54	61	ability
+T8	Soil	65	69	soil
+T9	ContainBeComposedOf	73	77	hold
+T10	Uptake	73	77	hold
+T11	PhasesOfWater	78	83	water
+T12	Age	89	92	age
+T13	Soil	100	104	soil
+T14	Particles	105	114	particles
+T15	Size	119	123	size
+T16	Soil	131	135	soil
+T17	Particles	136	145	particles
+T18	Color	150	155	color
+T19	Soil	163	167	soil
+T20	Particles	168	177	particles
+T21	MineralProperties	182	188	luster
+T22	Soil	196	200	soil
+T23	Particles	201	210	particles

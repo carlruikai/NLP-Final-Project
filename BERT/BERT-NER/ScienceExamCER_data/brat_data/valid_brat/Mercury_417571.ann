@@ -1,0 +1,57 @@
+T1	Bird	4	28	yellow-throated longclaw
+T2	Bird	34	38	bird
+T3	LivingDying	44	49	lives
+T4	RelativeLocations	50	52	on
+T5	Wetness	57	60	dry
+T6	TypesOfTerrestrialEcosystems	61	68	savanna
+T7	Continents	72	78	Africa
+T8	LOCATION	72	78	Africa
+T9	Observe	83	88	looks
+T10	AmountComparison	89	95	almost
+T11	ProbabilityAndCertainty	96	103	exactly
+T12	Comparisons	104	108	like
+T13	Comparisons	109	116	another
+T14	Bird	117	121	bird
+T15	Bird	127	145	western meadowlark
+T16	Continents	149	162	North America
+T17	LOCATION	149	162	North America
+T18	Negations	164	172	Although
+T19	Bird	177	182	birds
+T20	Observe	183	187	look
+T21	AmountComparison	188	192	very
+T22	Comparisons	193	200	similar
+T23	StateOfBeing	207	210	are
+T24	Negations	211	214	not
+T25	RelativeLocations	220	222	in
+T26	Comparisons	227	231	same
+T27	Taxonomy	232	241	taxonomic
+T28	Taxonomy	242	248	family
+T29	Human	250	260	Scientists
+T30	GroupsOfScientists	250	260	Scientists
+T31	Believe	261	266	think
+T32	Bird	271	276	birds
+T33	Observe	277	281	look
+T34	Comparisons	282	287	alike
+T35	Cause	288	295	because
+T36	CardinalNumber	300	303	two
+T37	NUMBER	300	303	two
+T38	Taxonomy	304	311	species
+T39	Development	312	321	developed
+T40	RelativeLocations	322	327	under
+T41	Comparisons	328	335	similar
+T42	EnvironmentalPhenomena	336	358	environmental pressure
+T43	Negations	366	372	though
+T44	Development	378	387	developed
+T45	ArithmeticMeasure	388	397	thousands
+T46	DistanceUnit	401	406	miles
+T47	Position	407	412	apart
+T48	Separate	407	412	apart
+T49	LevelOfInclusion	414	419	Which
+T50	OrganicProcesses	420	427	process
+T51	PerformAnActivity	428	432	does
+T52	Development	439	450	development
+T53	Represent	451	462	demonstrate
+T54	Evolution	464	480	sexual selection
+T55	Evolution	481	501	disruptive selection
+T56	Evolution	502	521	divergent evolution
+T57	Evolution	522	542	convergent evolution

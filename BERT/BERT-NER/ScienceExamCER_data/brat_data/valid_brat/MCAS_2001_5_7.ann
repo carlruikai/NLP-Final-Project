@@ -1,0 +1,15 @@
+T1	OrganicProcesses	2	10	function
+T2	Plant	16	21	plant
+T3	PlantPart	24	29	roots
+T4	StateOfBeing	30	32	is
+T5	Help	36	43	protect
+T6	Preserve	36	43	protect
+T7	Plant	48	53	plant
+T8	CombineAdd	55	61	absorb
+T9	PhasesOfWater	62	67	water
+T10	Minerals	72	80	minerals
+T11	StopRemove	82	88	remove
+T12	Toxins	89	103	waste products
+T13	Uptake	105	109	take
+T14	Nutrition	113	117	food
+T15	Plant	126	131	plant

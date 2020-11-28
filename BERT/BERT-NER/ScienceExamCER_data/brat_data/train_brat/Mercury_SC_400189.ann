@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	NaturalResources	15	24	resources
+T4	StateOfBeing	25	27	is
+T5	Rarity	28	37	renewable
+T6	FossilFuel	39	50	natural gas
+T7	FossilFuel	51	54	oil
+T8	FossilFuel	55	59	coal
+T9	OtherEnergyResources	60	64	wind

@@ -1,0 +1,28 @@
+T1	Plant	0	5	Trees
+T2	Use	6	9	use
+T3	Width	10	16	narrow
+T4	PlantPart	17	22	tubes
+T5	Transportation	26	35	transport
+T6	PhasesOfWater	36	41	water
+T7	LiquidMatter	36	41	water
+T8	RelativeDirection	42	48	upward
+T9	LevelOfInclusion	50	55	Which
+T10	Property	56	64	property
+T11	PhasesOfWater	68	73	water
+T12	LiquidMatter	68	73	water
+T13	Permit	74	80	allows
+T14	PhasesOfWater	85	90	water
+T15	LiquidMatter	85	90	water
+T16	LocationChangingActions	94	98	rise
+T17	RelativeLocations	99	101	in
+T18	LevelOfInclusion	102	107	these
+T19	Width	108	114	narrow
+T20	PlantPart	115	120	tubes
+T21	RelativeNumber	122	126	high
+T22	Pressure	127	141	vapor pressure
+T23	RelativeNumber	142	146	high
+T24	PhaseTransitionPoint	147	160	boiling point
+T25	MolecularProperties	161	169	cohesion
+T26	ElementalComponents	173	182	molecules
+T27	MolecularProperties	183	193	net charge
+T28	ElementalComponents	197	206	molecules

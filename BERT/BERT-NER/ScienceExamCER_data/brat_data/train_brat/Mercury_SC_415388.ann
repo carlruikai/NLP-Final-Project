@@ -1,0 +1,17 @@
+T1	TemporalProperty	4	9	first
+T2	ORDINAL	4	9	first
+T3	PartsOfWaterCycle	10	14	step
+T4	RelativeLocations	15	17	in
+T5	Cycles	22	33	water cycle
+T6	StateOfBeing	34	36	is
+T7	PartsOfWaterCycle	37	48	evaporation
+T8	PhaseChangingActions	37	48	evaporation
+T9	CombineAdd	55	60	gives
+T10	PhasesOfWater	61	66	water
+T11	Energy	71	77	energy
+T12	Result	78	80	to
+T13	PhaseChangingActions	81	90	evaporate
+T14	Star	92	95	Sun
+T15	WeatherPhenomena	96	100	wind
+T16	WeatherPhenomena	101	107	clouds
+T17	PartsOfBodiesOfWater	108	113	waves

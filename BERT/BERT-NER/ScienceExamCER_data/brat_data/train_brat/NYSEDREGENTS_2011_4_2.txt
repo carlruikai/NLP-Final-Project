@@ -1,0 +1,4 @@
+How does the length of daylight in New York State change from summer to fall?
+It decreases.
+It increases.
+It remains the same.

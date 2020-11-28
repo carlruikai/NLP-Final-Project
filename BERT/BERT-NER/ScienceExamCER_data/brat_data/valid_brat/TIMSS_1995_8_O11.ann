@@ -1,0 +1,40 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	ChemicalChange	11	26	chemical change
+T4	Element	28	35	Element
+T5	CardinalNumber	36	37	1
+T6	NUMBER	36	37	1
+T7	StateOfBeing	38	40	is
+T8	FormChangingActions	41	49	hammered
+T9	ChangeInto	50	54	into
+T10	Size	57	61	thin
+T11	Width	57	61	thin
+T12	ObjectQuantification	62	67	sheet
+T13	Element	69	76	Element
+T14	CardinalNumber	77	78	2
+T15	NUMBER	77	78	2
+T16	StateOfBeing	79	81	is
+T17	IncreaseDecrease	82	88	heated
+T18	Temperature	82	88	heated
+T19	ChangeInto	93	103	turns into
+T20	StateOfMatter	106	112	liquid
+T21	Element	114	121	Element
+T22	CardinalNumber	122	123	3
+T23	NUMBER	122	123	3
+T24	ChangeInto	124	129	turns
+T25	Color	132	140	greenish
+T26	Color	141	146	color
+T27	RelativeTime	147	149	as
+T28	WaitStay	153	157	sits
+T29	Position	153	157	sits
+T30	RelativeLocations	158	160	in
+T31	EarthPartsGrossGroundAtmosphere	161	164	air
+T32	Element	166	173	Element
+T33	CardinalNumber	174	175	4
+T34	NUMBER	174	175	4
+T35	StateOfBeing	176	178	is
+T36	FormChangingActions	179	188	ground up
+T37	ChangeInto	189	193	into
+T38	Size	196	200	fine
+T39	Texture	202	210	slippery
+T40	GranularSolids	211	217	powder

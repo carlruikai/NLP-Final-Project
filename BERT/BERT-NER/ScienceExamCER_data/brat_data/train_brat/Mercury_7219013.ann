@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	CelestialObject	6	12	object
+T3	ContainBeComposedOf	13	16	has
+T4	Gravity	19	38	gravitational force
+T5	ResistanceStrength	42	48	strong
+T6	Create	57	62	forms
+T7	ObjectPart	67	73	center
+T8	SolarSystem	81	93	solar system
+T9	InnerPlanets	95	100	Earth
+T10	DwarfPlanets	101	106	Pluto
+T11	LOCATION	101	106	Pluto
+T12	Moon	111	115	Moon
+T13	Star	120	123	Sun

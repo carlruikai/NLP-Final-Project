@@ -1,0 +1,49 @@
+T1	Insect	0	19	Monarch butterflies
+T2	Use	20	23	use
+T3	Angiosperm	24	39	milkweed plants
+T4	RelativeTime	40	46	during
+T5	LevelOfInclusion	47	50	all
+T6	LifeCycle	60	71	life stages
+T7	Angiosperm	73	88	Milkweed plants
+T8	Growth	89	93	grow
+T9	ActionsForAgriculture	89	93	grow
+T10	RelativeLocations	94	96	in
+T11	PhysicalProperty	97	101	open
+T12	Locations	102	107	areas
+T13	Exemplar	109	116	such as
+T14	TypesOfTerrestrialEcosystems	117	127	grasslands
+T15	UnderwaterEcosystem	132	140	wetlands
+T16	Comparisons	147	151	also
+T17	Frequency	152	157	often
+T18	Growth	158	162	grow
+T19	ActionsForAgriculture	158	162	grow
+T20	RelativeLocations	163	170	between
+T21	Plant	171	180	row crops
+T22	Agriculture	171	180	row crops
+T23	Source	182	187	Given
+T24	WordsForData	193	204	information
+T25	LevelOfInclusion	206	211	which
+T26	LevelOfInclusion	215	220	these
+T27	ManmadeObjects	221	236	biotechnologies
+T28	ProbabilityAndCertainty	237	242	would
+T29	Cause	243	247	pose
+T30	AmountComparison	252	260	greatest
+T31	Problem	261	267	threat
+T32	RelativeDirection	268	270	to
+T33	Insect	271	290	monarch butterflies
+T34	Create	292	303	development
+T35	Age	307	310	new
+T36	Medicine	311	322	antibiotics
+T37	Create	323	334	development
+T38	Age	338	341	new
+T39	ChemicalProduct	342	352	herbicides
+T40	Create	353	364	development
+T41	Sickness	368	375	disease
+T42	ResistanceStrength	376	385	resistant
+T43	Plant	386	391	crops
+T44	Agriculture	386	391	crops
+T45	Create	392	403	development
+T46	Insect	407	413	insect
+T47	ResistanceStrength	414	423	resistant
+T48	Plant	424	429	crops
+T49	Agriculture	424	429	crops

@@ -1,0 +1,27 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	LevelOfInclusion	12	17	these
+T4	Experimentation	18	32	investigations
+T5	ProbabilityAndCertainty	33	38	would
+T6	Representation	39	47	pictures
+T7	RelativeDirection	48	52	from
+T8	ViewingTools	55	61	camera
+T9	TechnologicalInstrument	55	61	camera
+T10	StateOfBeing	62	64	be
+T11	AmountComparison	65	69	most
+T12	Quality	70	76	useful
+T13	Examine	78	86	studying
+T14	PerformingResearch	78	86	studying
+T15	BehavioralAdaptation	87	97	bird calls
+T16	Examine	98	106	studying
+T17	PerformingResearch	98	106	studying
+T18	TypesOfChemicalReactions	107	127	exothermic reactions
+T19	Examine	128	136	studying
+T20	PerformingResearch	128	136	studying
+T21	Growth	141	147	growth
+T22	Plant	151	157	plants
+T23	Examine	158	166	studying
+T24	PerformingResearch	158	166	studying
+T25	CellProcesses	171	180	diffusion
+T26	PhysicalChange	171	180	diffusion
+T27	ElementalComponents	184	193	molecules

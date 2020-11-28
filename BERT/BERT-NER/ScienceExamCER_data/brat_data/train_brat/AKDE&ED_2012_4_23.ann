@@ -1,0 +1,28 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Quality	16	20	best
+T4	QualityComparison	16	20	best
+T5	Identify	21	31	identifies
+T6	LivingThing	34	46	living thing
+T7	Require	52	62	depends on
+T8	Comparisons	63	70	another
+T9	LivingThing	71	83	living thing
+T10	LivingDying	87	94	survive
+T11	NaturalSelection	87	94	survive
+T12	Mammal	98	102	wolf
+T13	ActionsForAnimals	103	109	drinks
+T14	Consumption	103	109	drinks
+T15	PhasesOfWater	110	115	water
+T16	LiquidMatter	110	115	water
+T17	Mammal	119	124	moose
+T18	ActionsForAnimals	125	129	eats
+T19	Consumption	125	129	eats
+T20	Plant	132	137	plant
+T21	Gymnosperm	141	152	spruce tree
+T22	Growth	153	158	grows
+T23	RelativeLocations	159	161	in
+T24	Soil	162	166	soil
+T25	Angiosperm	170	181	salmonberry
+T26	Plant	182	187	plant
+T27	AbsorbEnergy	188	195	absorbs
+T28	CelestialLightOnEarth	196	204	sunlight

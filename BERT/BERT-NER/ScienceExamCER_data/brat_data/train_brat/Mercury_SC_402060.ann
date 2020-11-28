@@ -1,0 +1,14 @@
+T1	Occur	5	12	happens
+T2	RelativeTime	13	17	when
+T3	PhasesOfWater	18	23	water
+T4	LiquidMovement	24	29	flows
+T5	PrepositionalDirections	30	34	over
+T6	Rock	37	41	rock
+T7	TemporalProperty	48	52	long
+T8	MarkersOfTime	53	67	period of time
+T9	ConstructiveDestructiveForces	69	76	erosion
+T10	NaturalPhenomena	69	76	erosion
+T11	NaturalPhenomena	77	85	flooding
+T12	LiquidMovement	77	85	flooding
+T13	ConstructiveDestructiveForces	86	94	breakage
+T14	PhaseChangingActions	95	106	evaporation

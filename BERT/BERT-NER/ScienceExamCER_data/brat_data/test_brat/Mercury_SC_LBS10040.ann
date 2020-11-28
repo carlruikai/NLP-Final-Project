@@ -1,0 +1,13 @@
+T1	PerformAnActivity	5	9	does
+T2	CellProcesses	10	24	photosynthesis
+T3	PlantProcesses	10	24	photosynthesis
+T4	Create	25	32	produce
+T5	Help	38	43	helps
+T6	Plant	44	50	plants
+T7	Growth	51	55	grow
+T8	ActionsForAgriculture	51	55	grow
+T9	PhasesOfWater	57	62	water
+T10	PlantNutrients	63	69	oxygen
+T11	Element	63	69	oxygen
+T12	NutritiveSubstancesForAnimalsOrPlants	70	77	protein
+T13	NutritiveSubstancesForAnimalsOrPlants	78	83	sugar

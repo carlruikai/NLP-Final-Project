@@ -1,0 +1,22 @@
+T1	Color	2	7	green
+T2	Plant	8	13	plant
+T3	AbsorbEnergy	14	21	absorbs
+T4	CombineAdd	14	21	absorbs
+T5	Light	22	27	light
+T6	Amphibian	31	35	frog
+T7	ActionsForAnimals	36	40	eats
+T8	Consumption	36	40	eats
+T9	Insect	41	46	flies
+T10	LevelOfInclusion	48	53	These
+T11	StateOfBeing	54	57	are
+T12	LevelOfInclusion	58	62	both
+T13	Exemplar	63	71	examples
+T14	Method	75	78	how
+T15	LivingThing	79	88	organisms
+T16	Uptake	89	95	obtain
+T17	Energy	96	102	energy
+T18	Separate	103	109	escape
+T19	Animal	110	119	predators
+T20	Reproduction	120	137	produce offspring
+T21	ExcretoryActions	138	145	excrete
+T22	Toxins	146	151	waste

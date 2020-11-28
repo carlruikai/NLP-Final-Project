@@ -1,0 +1,24 @@
+T1	Scientists	2	9	student
+T2	Examine	10	22	investigated
+T3	Experimentation	10	22	investigated
+T4	PercentUnit	27	37	percentage
+T5	Energy	41	47	energy
+T6	Uptake	48	56	obtained
+T7	RelativeDirection	57	61	from
+T8	RelativeNumber	62	69	several
+T9	Nutrition	70	74	food
+T10	Source	75	82	sources
+T11	GroupsOfOrganisms	89	99	population
+T12	Bird	103	109	eagles
+T13	LevelOfInclusion	111	116	Which
+T14	Representation	117	123	format
+T15	StateOfBeing	124	126	is
+T16	Quality	131	135	best
+T17	QualityComparison	131	135	best
+T18	Method	136	139	way
+T19	Communicate	143	150	display
+T20	WordsForData	156	161	data?
+T21	Representation	164	169	table
+T22	Representation	172	181	pie chart
+T23	Representation	184	193	bar graph
+T24	Representation	196	206	line graph

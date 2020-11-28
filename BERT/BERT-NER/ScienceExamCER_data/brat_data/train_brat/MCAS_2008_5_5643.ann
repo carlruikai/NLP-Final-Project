@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	Rock	14	18	rock
+T4	StateOfBeing	19	21	is
+T5	Create	22	28	formed
+T6	RelativeTime	29	33	when
+T7	Temperature	34	37	hot
+T8	Rock	38	42	lava
+T9	IncreaseDecrease	43	48	cools
+T10	Temperature	43	48	cools
+T11	Sedimentary	50	54	coal
+T12	Igneous	55	62	igneous
+T13	Sedimentary	63	72	limestone
+T14	Metamorphic	73	84	metamorphic

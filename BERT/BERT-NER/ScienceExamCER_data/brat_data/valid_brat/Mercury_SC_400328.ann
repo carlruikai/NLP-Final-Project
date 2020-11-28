@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GenericTerms	6	10	item
+T3	StateOfBeing	11	13	is
+T4	Use	14	18	used
+T5	Help	23	33	protection
+T6	Preserve	23	33	protection
+T7	RelativeDirection	34	38	from
+T8	Compound	39	47	chemical
+T9	LiquidMovement	48	57	splashing
+T10	DistanceMeasuringTools	59	66	compass
+T11	MagneticDirectionMeasuringTool	59	66	compass
+T12	ViewingTools	67	76	hand lens
+T13	ViewingTools	77	87	microscope
+T14	SafetyEquipment	88	102	safety goggles

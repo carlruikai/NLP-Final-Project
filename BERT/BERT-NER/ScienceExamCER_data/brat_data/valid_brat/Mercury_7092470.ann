@@ -1,0 +1,28 @@
+T1	GeographicFormations	0	16	Mount St. Helens
+T2	LOCATION	0	16	Mount St. Helens
+T3	StateOfBeing	17	20	was
+T4	Shape	23	34	cone-shaped
+T5	GeographicFormations	35	43	mountain
+T6	Create	49	55	formed
+T7	RelativeTime	56	60	when
+T8	PhaseChangingActions	61	67	molten
+T9	Matter	68	76	material
+T10	Touch	77	84	reached
+T11	EarthPartsGrossGroundAtmosphere	89	96	surface
+T12	InnerPlanets	100	105	Earth
+T13	Create	110	116	formed
+T14	ObjectQuantification	117	123	layers
+T15	Shape	125	136	Cone-shaped
+T16	GeographicFormations	137	146	mountains
+T17	Create	147	151	form
+T18	Cause	152	166	as a result of
+T19	LevelOfInclusion	167	172	which
+T20	CardinalNumber	173	176	one
+T21	NUMBER	173	176	one
+T22	LevelOfInclusion	180	185	these
+T23	NaturalPhenomena	186	192	events
+T24	WeatherPhenomena	194	204	hurricanes
+T25	NaturalPhenomena	205	216	earthquakes
+T26	NaturalPhenomena	217	235	volcanic eruptions
+T27	Sedimentary	236	244	sediment
+T28	ChangeInLocation	245	256	depositions

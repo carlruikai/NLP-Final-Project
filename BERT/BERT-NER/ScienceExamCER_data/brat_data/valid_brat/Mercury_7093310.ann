@@ -1,0 +1,26 @@
+T1	ConstructiveDestructiveForces	0	19	Constructive forces
+T2	Create	20	25	build
+T3	Age	28	31	new
+T4	GeographicFormations	32	46	mountain range
+T5	Method	48	51	How
+T6	ProbabilityAndCertainty	52	56	will
+T7	ConstructiveDestructiveForces	57	67	weathering
+T8	NaturalPhenomena	57	67	weathering
+T9	ConstructiveDestructiveForces	72	79	erosion
+T10	NaturalPhenomena	72	79	erosion
+T11	Changes	80	86	change
+T12	Property	91	99	features
+T13	GeographicFormations	107	121	mountain range
+T14	TemporalProperty	122	131	over time
+T15	GeographicFormationProcess	133	141	layering
+T16	ObjectQuantification	133	141	layering
+T17	Rock	146	151	rocks
+T18	ChangeInComposition	152	165	crystallizing
+T19	Rock	170	175	rocks
+T20	Alter	176	183	folding
+T21	FormChangingActions	176	183	folding
+T22	ObjectQuantification	188	194	layers
+T23	Rock	202	207	rocks
+T24	ConstructiveDestructiveForces	208	216	rounding
+T25	Shape	221	227	shapes
+T26	Rock	235	240	rocks

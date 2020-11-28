@@ -1,0 +1,5 @@
+Which sense is used to determine an object's texture?
+hearing
+smell
+taste
+touch

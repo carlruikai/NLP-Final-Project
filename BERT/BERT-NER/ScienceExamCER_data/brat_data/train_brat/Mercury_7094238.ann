@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ManmadeObjects	6	15	invention
+T3	Discovery	6	15	invention
+T4	ProbabilityAndCertainty	16	21	would
+T5	GroupsOfOrganisms	24	31	culture
+T6	LivingDying	32	38	living
+T7	RelativeLocations	39	44	above
+T8	GeopoliticalLocations	45	62	the Arctic Circle
+T9	AmountComparison	63	67	most
+T10	ProbabilityAndCertainty	68	74	likely
+T11	Create	75	82	develop
+T12	PhasesOfWater	84	87	ice
+T13	SolidMatter	84	87	ice
+T14	Create	88	98	production
+T15	CoolingAppliance	99	115	air conditioning
+T16	ResistanceStrength	116	125	insulated
+T17	ClothesTextiles	126	134	clothing
+T18	ActionsForAgriculture	135	143	irrigati
+T19	ManMadeGeographicFormations	146	152	canals

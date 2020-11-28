@@ -1,0 +1,19 @@
+T1	Mammal	0	4	Cows
+T2	StateOfBeing	5	8	are
+T3	Agriculture	9	13	farm
+T4	ManmadeLocations	9	13	farm
+T5	Animal	14	21	animals
+T6	ActionsForAnimals	27	30	eat
+T7	Consumption	27	30	eat
+T8	LevelOfInclusion	31	35	only
+T9	Plant	36	42	plants
+T10	LevelOfInclusion	44	49	Which
+T11	LevelOfInclusion	53	58	these
+T12	Exemplar	59	64	kinds
+T13	LivingThing	68	81	living things
+T14	StateOfBeing	82	84	is
+T15	Mammal	87	90	cow
+T16	PartsOfTheFoodChain	92	102	Decomposer
+T17	TypeOfConsumer	103	112	Herbivore
+T18	TypeOfConsumer	113	122	Carnivore
+T19	PartsOfTheFoodChain	123	131	Producer

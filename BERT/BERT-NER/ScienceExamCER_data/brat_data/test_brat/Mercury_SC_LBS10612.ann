@@ -1,0 +1,18 @@
+T1	Event	5	10	event
+T2	StateOfBeing	11	13	is
+T3	AmountComparison	14	18	most
+T4	ProbabilityAndCertainty	19	25	likely
+T5	Cause	26	37	responsible
+T6	Speed	44	49	rapid
+T7	TemporalProperty	44	49	rapid
+T8	Changes	50	56	change
+T9	RelativeLocations	57	59	at
+T10	EarthPartsGrossGroundAtmosphere	64	71	surface
+T11	InnerPlanets	75	80	Earth
+T12	LOCATION	75	80	Earth
+T13	NaturalPhenomena	85	95	earthquake
+T14	WeatherPhenomena	98	108	cold front
+T15	TectonicPlates	111	122	continental
+T16	GeographicFormations	123	130	glacier
+T17	BodiesOfWater	123	130	glacier
+T18	WeatherPhenomena	133	145	thunderstorm

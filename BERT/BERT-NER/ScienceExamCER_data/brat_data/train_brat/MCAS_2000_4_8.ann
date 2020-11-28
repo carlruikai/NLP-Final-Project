@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Animal	6	13	animals
+T3	LivingDying	14	18	live
+T4	LevelOfInclusion	19	23	part
+T5	LivingDying	33	38	lives
+T6	RelativeLocations	39	41	in
+T7	PhasesOfWater	42	47	water
+T8	LevelOfInclusion	52	56	part
+T9	RelativeLocations	57	59	on
+T10	ExamplesOfHabitats	60	64	land
+T11	Occur	70	80	go through
+T12	Development	81	94	metamorphosis
+T13	Changes	81	94	metamorphosis
+T14	Reptile	96	104	reptiles
+T15	Amphibian	105	115	amphibians
+T16	Bird	116	121	birds
+T17	Mammal	122	129	mammals

@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Use	15	19	uses
+T4	EnergyWaves	20	30	sound wave
+T5	SoundEnergy	20	25	sound
+T6	VerbsForLocate	35	41	locate
+T7	TerrestrialLocations	42	52	underwater
+T8	GenericTerms	53	60	objects
+T9	Device	62	67	radar
+T10	Device	68	73	sonar
+T11	ViewingTools	74	83	telescope
+T12	ObservationInstrumentsTelescopeBinoculars	74	83	telescope
+T13	ViewingTools	84	94	microscope

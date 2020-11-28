@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Quality	13	17	best
+T4	QualityComparison	13	17	best
+T5	Communicate	18	29	explanation
+T6	ResponseType	37	41	term
+T7	GenericTerms	37	41	term
+T8	Biology	42	49	ecology
+T9	ScientificTheoryExperimentationAndHistory	55	60	study
+T10	PerformingResearch	55	60	study
+T11	NonlivingPartsOfTheEnvironment	68	102	nonliving parts of the environment
+T12	ScientificTheoryExperimentationAndHistory	107	112	study
+T13	PerformingResearch	107	112	study
+T14	LivingDying	120	126	living
+T15	ObjectPart	127	132	parts
+T16	EcosystemsEnvironment	140	151	environment
+T17	ScientificTheoryExperimentationAndHistory	156	161	study
+T18	PerformingResearch	156	161	study
+T19	Help	169	179	protection
+T20	Preserve	169	179	protection
+T21	Create	184	189	renew
+T22	NaturalResources	195	212	natural resources
+T23	ScientificTheoryExperimentationAndHistory	217	222	study
+T24	PerformingResearch	217	222	study
+T25	LivingThing	226	235	organisms
+T26	Actions	246	258	interactions
+T27	ActUponSomething	246	258	interactions
+T28	Relations	259	263	with
+T29	EcosystemsEnvironment	268	279	environment

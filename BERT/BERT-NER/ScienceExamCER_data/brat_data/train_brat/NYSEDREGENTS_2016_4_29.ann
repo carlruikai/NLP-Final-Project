@@ -1,0 +1,17 @@
+T1	RelativeLocations	0	2	On
+T2	TypesOfEvent	5	15	field trip
+T3	Scientists	19	26	student
+T4	Touch	27	32	holds
+T5	Uptake	27	32	holds
+T6	Amphibian	35	39	frog
+T7	Communicate	44	51	reports
+T8	ContainBeComposedOf	60	63	has
+T9	Texture	64	72	slippery
+T10	AnimalPart	73	77	skin
+T11	StateOfBeing	81	83	is
+T12	Exemplar	90	97	example
+T13	Measurements	103	114	measurement
+T14	Hypothesizing	117	127	prediction
+T15	ResponseType	131	142	explanation
+T16	ConcludingResearch	131	142	explanation
+T17	Observe	146	157	observation

@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Speed	6	11	rapid
+T3	TemporalProperty	6	11	rapid
+T4	Changes	12	19	changes
+T5	StateOfBeing	20	23	are
+T6	Cause	24	30	caused
+T7	ThermalEnergy	34	38	heat
+T8	RelativeDirection	39	43	from
+T9	RelativeLocations	44	50	inside
+T10	InnerPlanets	51	56	Earth
+T11	LOCATION	51	56	Earth
+T12	NaturalPhenomena	58	68	landslides
+T13	GeographicFormations	69	78	volcanoes
+T14	NaturalPhenomena	79	89	avalanches
+T15	NaturalPhenomena	90	96	floods
+T16	LiquidMovement	90	96	floods

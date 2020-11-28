@@ -1,0 +1,20 @@
+T1	Scientists	2	12	researcher
+T2	Identify	13	23	determines
+T3	Cell	26	30	cell
+T4	ContainBeComposedOf	31	34	has
+T5	Rigidity	37	45	flexible
+T6	PlantCellPart	46	55	cell wall
+T7	BacteriaPart	46	55	cell wall
+T8	ContainBeComposedOf	56	67	composed of
+T9	OrganicCompounds	68	81	peptidoglycan
+T10	Observe	88	99	observation
+T11	IncreaseDecrease	100	107	narrows
+T12	ProbabilityAndCertainty	108	116	possible
+T13	Classification	117	132	classifications
+T14	Cell	140	144	cell
+T15	LevelOfInclusion	148	153	which
+T16	Taxonomy	154	169	taxonomic group
+T17	Archaea	171	178	archaea
+T18	Bacteria	179	187	bacteria
+T19	Fungi	188	193	fungi
+T20	Plant	194	200	plants

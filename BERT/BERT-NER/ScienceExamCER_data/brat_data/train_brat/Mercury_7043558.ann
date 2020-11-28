@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	CardinalNumber	6	9	two
+T3	NUMBER	6	9	two
+T4	AnimalSystemsProcesses	10	22	body systems
+T5	StateOfBeing	23	26	are
+T6	Require	27	35	involved
+T7	RespirationActions	39	47	inhaling
+T8	Element	48	54	oxygen
+T9	GaseousMatter	48	54	oxygen
+T10	RespirationActions	59	67	exhaling
+T11	DigestiveSubstances	68	82	carbon dioxide
+T12	Compound	68	82	carbon dioxide
+T13	EndocrineSystem	84	93	endocrine
+T14	SkeletalSystem	98	106	skeletal
+T15	ExcretorySystem	107	116	excretory
+T16	NervousSystem	121	128	nervous
+T17	CirculatorySystem	129	140	circulatory
+T18	RespiratorySystem	145	156	respiratory
+T19	DigestiveSystem	157	166	digestive
+T20	ReproductiveSystem	171	183	reproductive

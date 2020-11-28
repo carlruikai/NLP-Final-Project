@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	SystemParts	23	33	structures
+T4	StateOfBeing	34	36	is
+T5	Negations	37	40	not
+T6	Occur	41	48	present
+T7	RelativeLocations	49	51	in
+T8	Animal	52	58	animal
+T9	Cell	59	64	cells
+T10	AnimalCellPart	66	79	cell membrane
+T11	PlantCellPart	66	79	cell membrane
+T12	PlantCellPart	80	89	cell wall
+T13	BacteriaPart	80	89	cell wall
+T14	AnimalCellPart	90	103	mitochondrion
+T15	PlantCellPart	90	103	mitochondrion
+T16	AnimalCellPart	104	111	nucleus
+T17	PlantCellPart	104	111	nucleus

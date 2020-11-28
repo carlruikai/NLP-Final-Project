@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PlantPart	6	16	plant part
+T3	StateOfBeing	17	19	is
+T4	Comparisons	20	27	similar
+T5	Bird	33	37	bird
+T6	PrenatalOrganismStates	40	43	egg
+T7	PlantPart	45	49	leaf
+T8	PlantPart	50	54	root
+T9	PlantPart	55	59	seed
+T10	PlantPart	60	64	stem

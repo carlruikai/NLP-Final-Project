@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	VariablesControls	6	12	factor
+T3	Cause	6	12	factor
+T4	AmountComparison	13	17	most
+T5	ProbabilityAndCertainty	18	28	accurately
+T6	Verify	18	28	accurately
+T7	Communicate	29	38	describes
+T8	ResponseType	43	52	statement
+T9	Evolution	54	77	Survival of the fittest
+T10	NaturalSelection	54	77	Survival of the fittest
+T11	Relevant	79	93	in relation to
+T12	Evolution	94	111	natural selection
+T13	NaturalSelection	94	111	natural selection
+T14	Mutation	117	125	mutation
+T15	MeasuringSpeed	126	130	rate
+T16	Ability	135	142	ability
+T17	GeneticRelations	146	155	offspring
+T18	WordsForOffspring	146	155	offspring
+T19	Reproduction	159	168	reproduce
+T20	Numbers	173	179	amount
+T21	Nutrition	183	187	food
+T22	LivingThing	191	199	organism
+T23	Uptake	200	207	obtains
+T24	Ability	212	219	ability
+T25	Surpass	223	232	withstand
+T26	EnvironmentalPhenomena	233	255	environmental extremes

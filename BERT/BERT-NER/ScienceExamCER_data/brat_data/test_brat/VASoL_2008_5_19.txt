@@ -1,0 +1,5 @@
+Three baseball players investigate to see who can throw a baseball the farthest. They mark off an area on the playground for their investigation. Which should they keep constant?
+Height of players
+Color of the baseballs thrown
+Order in which the players throw
+Spot from which players throw

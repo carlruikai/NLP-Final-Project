@@ -1,0 +1,11 @@
+T1	Sickness	5	10	virus
+T2	SystemParts	11	20	structure
+T3	StateOfBeing	21	23	is
+T4	Comparisons	24	31	similar
+T5	SystemAndFunctions	35	43	function
+T6	AnimalCellPart	49	62	cell membrane
+T7	PlantCellPart	49	62	cell membrane
+T8	PartsOfAVirus	64	77	protein shell
+T9	PartsOfAVirus	78	94	internal protein
+T10	PartsOfAVirus	95	106	tail sheath
+T11	PartsOfAVirus	107	116	end plate

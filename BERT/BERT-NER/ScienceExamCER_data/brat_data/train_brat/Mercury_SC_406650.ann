@@ -1,0 +1,43 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	Plant	5	11	plants
+T4	Exemplar	13	17	like
+T5	Gymnosperm	18	31	redwood trees
+T6	ProbabilityAndCertainty	33	36	may
+T7	LivingDying	37	41	live
+T8	ArithmeticMeasure	46	55	thousands
+T9	TimeUnit	59	64	years
+T10	Year	59	64	years
+T11	RelativeNumber	66	70	Some
+T12	LevelOfInclusion	66	70	Some
+T13	Plant	71	77	plants
+T14	Exemplar	79	83	like
+T15	Angiosperm	88	115	black-eyed Susan wildflower
+T16	ProbabilityAndCertainty	117	120	may
+T17	LevelOfInclusion	121	125	only
+T18	LivingDying	126	130	live
+T19	RelativeNumber	131	136	a few
+T20	TimeUnit	137	142	weeks
+T21	ProbabilityAndCertainty	149	154	would
+T22	LevelOfInclusion	155	160	these
+T23	Plant	161	167	plants
+T24	AmountComparison	168	172	most
+T25	ProbabilityAndCertainty	173	179	likely
+T26	ContainBeComposedOf	180	184	have
+T27	Comparisons	185	194	in common
+T28	Require	195	206	in order to
+T29	LivingDying	207	214	survive
+T30	Use	216	221	using
+T31	PlantPart	222	227	cones
+T32	Release	232	241	spreading
+T33	PlantPart	242	247	seeds
+T34	Succeed	250	260	successful
+T35	Method	261	264	way
+T36	Reproduction	268	277	reproduce
+T37	Ability	282	289	ability
+T38	LivingDying	293	297	live
+T39	RelativeLocations	298	300	in
+T40	TypesOfTerrestrialEcosystems	305	311	desert
+T41	PlantPart	312	318	thorns
+T42	AvoidReject	322	331	keep away
+T43	Animal	332	339	animals

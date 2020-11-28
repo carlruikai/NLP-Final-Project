@@ -1,0 +1,50 @@
+T1	Plant	4	21	marsh willow herb
+T2	StateOfBeing	22	24	is
+T3	Plant	27	32	plant
+T4	NationalityOrigin	33	39	native
+T5	RelativeDirection	40	42	to
+T6	Position	47	59	northeastern
+T7	Countries	60	73	United States
+T8	Growth	78	83	grows
+T9	Quality	84	88	best
+T10	QualityComparison	84	88	best
+T11	RelativeLocations	89	91	in
+T12	Wetness	92	96	damp
+T13	Habitat	97	105	habitats
+T14	LevelOfInclusion	107	112	Which
+T15	LevelOfInclusion	116	129	the following
+T16	EnvironmentalPhenomena	130	151	environmental changes
+T17	ProbabilityAndCertainty	152	157	would
+T18	AmountComparison	158	162	most
+T19	ProbabilityAndCertainty	163	169	likely
+T20	Cause	170	175	cause
+T21	AmountChangingActions	178	186	decrease
+T22	IncreaseDecrease	178	186	decrease
+T23	Plant	194	211	marsh willow herb
+T24	GroupsOfOrganisms	212	222	population
+T25	RelativeLocations	223	225	in
+T26	Locations	229	233	area
+T27	WeatherPhenomena	237	246	rainstorm
+T28	Precipitation	237	246	rainstorm
+T29	Occur	247	254	lasting
+T30	WaitStay	247	254	lasting
+T31	RelativeNumber	255	262	several
+T32	TimeUnit	263	268	weeks
+T33	NaturalPhenomena	271	278	drought
+T34	WeatherPhenomena	271	278	drought
+T35	Occur	279	286	lasting
+T36	WaitStay	279	286	lasting
+T37	CardinalNumber	287	293	twelve
+T38	TimeUnit	294	300	months
+T39	Rarity	301	310	unusually
+T40	RelativeNumber	311	314	low
+T41	Temperature	315	327	temperatures
+T42	RelativeTime	328	334	during
+T43	TimeUnit	339	344	month
+T44	Months	348	352	July
+T45	Rarity	353	362	unusually
+T46	RelativeNumber	363	367	high
+T47	Temperature	368	380	temperatures
+T48	RelativeTime	381	387	during
+T49	TimeUnit	392	397	month
+T50	Months	401	408	January

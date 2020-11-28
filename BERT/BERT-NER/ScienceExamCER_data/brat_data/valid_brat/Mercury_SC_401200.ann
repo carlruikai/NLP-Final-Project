@@ -1,0 +1,15 @@
+T1	Actions	4	10	action
+T2	StopRemove	14	25	turning off
+T3	PhasesOfWater	30	35	water
+T4	LiquidMatter	30	35	water
+T5	RelativeTime	36	41	while
+T6	CleanUp	42	50	brushing
+T7	HumanPart	51	56	teeth
+T8	StateOfBeing	57	59	is
+T9	Exemplar	63	70	example
+T10	Alter	74	83	recycling
+T11	Preserve	74	83	recycling
+T12	Adaptation	85	95	adaptation
+T13	ChangesToResources	97	109	conservation
+T14	Preserve	97	109	conservation
+T15	OtherHumanProperties	111	126	resourcefulness

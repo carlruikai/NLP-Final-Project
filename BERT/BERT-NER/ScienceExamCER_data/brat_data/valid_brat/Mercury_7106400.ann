@@ -1,0 +1,33 @@
+T1	CombineAdd	0	6	Mixing
+T2	GranularSolids	7	18	baking soda
+T3	LiquidMatter	23	30	vinegar
+T4	Cause	31	36	makes
+T5	Temperature	41	52	temperature
+T6	Mixtures	60	68	solution
+T7	AmountChangingActions	69	77	decrease
+T8	IncreaseDecrease	69	77	decrease
+T9	Release	82	89	release
+T10	Compound	90	104	carbon dioxide
+T11	LevelOfInclusion	106	111	Which
+T12	ConcludingResearch	112	122	conclusion
+T13	Relevant	123	128	about
+T14	Experimentation	134	147	investigation
+T15	StateOfBeing	148	150	is
+T16	Negations	151	154	not
+T17	Validity	155	160	valid
+T18	CombineAdd	162	168	Mixing
+T19	Compound	173	182	chemicals
+T20	Cause	183	189	caused
+T21	AbsorbEnergy	198	204	absorb
+T22	ThermalEnergy	205	209	heat
+T23	Reactions	213	230	chemical reaction
+T24	Occur	231	241	took place
+T25	Age	243	246	New
+T26	Matter	247	255	elements
+T27	StateOfBeing	256	260	were
+T28	Create	261	267	formed
+T29	SystemProcessStages	273	282	procedure
+T30	Cause	283	289	caused
+T31	StateOfMatter	292	295	gas
+T32	StateOfBeing	299	301	be
+T33	Create	302	308	formed

@@ -1,0 +1,39 @@
+T1	ExamplesOfHabitats	0	7	Forests
+T2	StateOfBeing	13	17	been
+T3	FormChangingActions	18	21	cut
+T4	StopRemove	18	21	cut
+T5	StopRemove	26	32	burned
+T6	ChemicalChange	26	32	burned
+T7	Goal	33	35	so
+T8	ExamplesOfHabitats	45	49	land
+T9	AbilityAvailability	50	53	can
+T10	StateOfBeing	54	56	be
+T11	Use	57	61	used
+T12	ActionsForAgriculture	65	70	raise
+T13	Plant	71	76	crops
+T14	Agriculture	71	76	crops
+T15	LevelOfInclusion	78	83	Which
+T16	Result	84	95	consequence
+T17	PhysicalActivity	106	114	activity
+T18	Cause	115	119	have
+T19	PrepositionalDirections	120	122	on
+T20	EarthPartsGrossGroundAtmosphere	127	137	atmosphere
+T21	InnerPlanets	141	146	Earth
+T22	AmountChangingActions	151	158	reduces
+T23	Numbers	163	169	amount
+T24	Compound	173	187	carbon dioxide
+T25	Create	188	198	production
+T26	IncreaseDecrease	203	210	reduces
+T27	AmountChangingActions	203	210	reduces
+T28	PlantProcesses	215	235	production of oxygen
+T29	Create	215	225	production
+T30	Element	229	235	oxygen
+T31	AmountChangingActions	240	249	decreases
+T32	IncreaseDecrease	240	249	decreases
+T33	WeatherPhenomena	254	271	greenhouse effect
+T34	EnvironmentalDamageDestruction	254	271	greenhouse effect
+T35	AmountChangingActions	276	285	decreases
+T36	IncreaseDecrease	276	285	decreases
+T37	EnvironmentalDamageDestruction	286	296	pollutants
+T38	RelativeLocations	297	299	in
+T39	EarthPartsGrossGroundAtmosphere	304	307	air

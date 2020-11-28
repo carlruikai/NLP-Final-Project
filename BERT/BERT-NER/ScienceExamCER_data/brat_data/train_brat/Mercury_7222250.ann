@@ -1,0 +1,20 @@
+T1	StateOfBeing	5	7	is
+T2	OrganicProcesses	12	19	process
+T3	Event	12	19	process
+T4	Classify	20	26	called
+T5	RelativeTime	27	31	when
+T6	PH	35	39	acid
+T7	Substances	35	39	acid
+T8	PH	46	50	base
+T9	Substances	46	50	base
+T10	CombineAdd	51	58	combine
+T11	Result	59	61	to
+T12	Create	62	69	produce
+T13	PhasesOfWater	70	75	water
+T14	LiquidMatter	70	75	water
+T15	Minerals	80	84	salt
+T16	GranularSolids	80	84	salt
+T17	ChemicalProcesses	86	100	neutralization
+T18	ChemicalProcesses	101	109	dilution
+T19	ChemicalProcesses	110	119	titration
+T20	TypesOfChemicalReactions	120	137	physical reaction

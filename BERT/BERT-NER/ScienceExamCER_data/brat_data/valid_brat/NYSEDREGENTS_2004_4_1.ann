@@ -1,0 +1,20 @@
+T1	RelativeLocations	0	2	In
+T2	NorthernHemisphereLocations	3	17	New York State
+T3	States	3	17	New York State
+T4	LOCATION	3	17	New York State
+T5	TemporalProperty	23	30	longest
+T6	TimeUnit	31	49	period of daylight
+T7	CelestialLightOnEarth	41	49	daylight
+T8	Occur	50	56	occurs
+T9	RelativeTime	57	63	during
+T10	LevelOfInclusion	64	69	which
+T11	TimeUnit	70	75	month
+T12	DURATION	70	75	month
+T13	Months	77	81	June
+T14	DATE	77	81	June
+T15	Months	82	87	March
+T16	DATE	82	87	March
+T17	Months	88	96	December
+T18	DATE	88	96	December
+T19	Months	97	106	September
+T20	DATE	97	106	September

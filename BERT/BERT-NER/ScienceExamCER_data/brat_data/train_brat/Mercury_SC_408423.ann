@@ -1,0 +1,31 @@
+T1	PERSON	0	5	Marni
+T2	PhysicalActivity	6	10	runs
+T3	PerformAnActivity	6	10	runs
+T4	NUMBER	11	15	1500
+T5	DistanceUnit	16	22	meters
+T6	PrepositionalDirections	23	29	around
+T7	ManmadeLocations	34	40	school
+T8	ManmadeLocations	41	46	track
+T9	PerformAnActivity	53	57	does
+T10	Require	62	66	need
+T11	Believe	70	74	know
+T12	Goal	75	86	in order to
+T13	Identify	87	95	find out
+T14	Speed	100	105	speed
+T15	MarkersOfTime	111	115	time
+T16	RelativeDirection	116	120	from
+T17	Start	121	126	start
+T18	RelativeDirection	127	129	to
+T19	Goal	130	136	finish
+T20	Numbers	141	147	number
+T21	PhysicalActivity	151	156	steps
+T22	DistanceUnit	151	156	steps
+T23	Require	161	165	took
+T24	PartsOfTheCirculatorySystem	170	175	heart
+T25	PartsOfEndocrineSystem	170	175	heart
+T26	MeasuringSpeed	176	180	rate
+T27	RelativeLocations	177	179	at
+T28	Goal	188	199	finish line
+T29	Directions	204	213	direction
+T30	Start	218	223	began
+T31	PerformAnActivity	224	231	running

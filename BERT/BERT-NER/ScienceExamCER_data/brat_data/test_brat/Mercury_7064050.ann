@@ -1,0 +1,27 @@
+T1	EcosystemsEnvironment	7	18	environment
+T2	RelativeLocations	19	21	in
+T3	Locations	25	29	area
+T4	StateOfBeing	30	32	is
+T5	Harm	33	42	destroyed
+T6	StopRemove	33	42	destroyed
+T7	Age	46	49	new
+T8	GroupsOfOrganisms	50	59	community
+T9	LivingThing	63	72	organisms
+T10	RelativeTime	73	82	sometimes
+T11	LevelOfInclusion	73	82	sometimes
+T12	Uptake	83	88	takes
+T13	Locations	93	98	place
+T14	TemporalProperty	102	110	previous
+T15	GroupsOfOrganisms	111	122	communities
+T16	Start	128	140	introduction
+T17	Age	146	149	new
+T18	GroupsOfOrganisms	150	159	community
+T19	LivingThing	163	172	organisms
+T20	Communicate	176	181	known
+T21	StateOfBeing	182	184	as
+T22	NaturalSelection	185	194	evolution
+T23	Adaptation	196	206	adaptation
+T24	GeneticRelations	208	228	biological diversity
+T25	OtherOrganismProperties	208	228	biological diversity
+T26	Evolution	230	251	ecological succession
+T27	EnvironmentalPhenomena	230	251	ecological succession

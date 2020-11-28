@@ -1,0 +1,29 @@
+T1	Star	4	7	Sun
+T2	StateOfBeing	8	10	is
+T3	Classify	11	21	classified
+T4	Star	27	31	star
+T5	LevelOfInclusion	33	38	Which
+T6	Property	39	53	characteristic
+T7	Identify	54	64	identifies
+T8	Star	69	72	Sun
+T9	StateOfBeing	73	75	as
+T10	Star	78	82	star
+T11	Star	88	91	Sun
+T12	CelestialMovement	92	97	spins
+T13	Position	98	109	on its axis
+T14	Star	115	118	Sun
+T15	StateOfBeing	119	121	is
+T16	VerbsForLocate	122	129	located
+T17	RelativeLocations	130	137	outside
+T18	Galaxy	142	158	Milky Way galaxy
+T19	Star	164	167	Sun
+T20	StateOfBeing	168	170	is
+T21	ObjectPart	171	175	part
+T22	Constellation	183	193	Big Dipper
+T23	Star	199	202	Sun
+T24	Create	203	211	produces
+T25	Light	212	217	light
+T26	Energy	222	228	energy
+T27	RelativeLocations	229	231	in
+T28	ProduceEnergy	234	250	nuclear reaction
+T29	Reactions	234	250	nuclear reaction

@@ -1,0 +1,36 @@
+T1	PERSON	0	5	Bruce
+T2	Use	6	11	plays
+T3	SoundProducingObject	16	22	violin
+T4	LevelOfInclusion	23	28	every
+T5	Day	29	35	Friday
+T6	DATE	29	35	Friday
+T7	TimesOfDayDayNight	36	41	night
+T8	Group	50	58	symphony
+T9	RelativeTime	60	66	Before
+T10	Use	70	75	plays
+T11	PullingActions	80	86	plucks
+T12	LevelOfInclusion	87	91	each
+T13	ManmadeObjects	92	98	string
+T14	Goal	99	101	to
+T15	Observe	102	105	see
+T16	SoundProducingObject	113	119	violin
+T17	StateOfBeing	120	122	is
+T18	SensoryTerms	123	130	in tune
+T19	LevelOfInclusion	132	137	Which
+T20	StateOfBeing	138	140	is
+T21	AmountComparison	141	145	most
+T22	Cause	146	157	responsible
+T23	Create	166	176	generation
+T24	EnergyWaves	180	190	sound wave
+T25	SoundEnergy	180	185	sound
+T26	RelativeDirection	192	196	from
+T27	SoundProducingObject	201	207	violin
+T28	Material	209	217	material
+T29	SoundProducingObject	225	231	violin
+T30	Move	232	242	vibrations
+T31	ManmadeObjects	250	256	string
+T32	PropertyOfMotion	257	265	movement
+T33	Move	257	265	movement
+T34	SoundProducingObject	273	279	violin
+T35	Composition	280	291	composition
+T36	ManmadeObjects	299	305	string

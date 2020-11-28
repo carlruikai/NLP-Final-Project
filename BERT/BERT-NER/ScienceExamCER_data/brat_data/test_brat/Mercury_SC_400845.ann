@@ -1,0 +1,12 @@
+T1	WeatherPhenomena	0	9	Lightning
+T2	AbilityAvailability	10	13	can
+T3	Create	14	21	produce
+T4	LevelOfInclusion	22	25	all
+T5	LevelOfInclusion	29	34	these
+T6	Create	35	40	forms
+T7	Energy	44	50	energy
+T8	Negations	51	57	except
+T9	ThermalEnergy	58	69	heat energy
+T10	Energy	71	83	solar energy
+T11	Spectra	85	97	light energy
+T12	ElectricalEnergy	99	116	electrical energy

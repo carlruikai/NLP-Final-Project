@@ -1,0 +1,60 @@
+T1	CardinalNumber	0	3	Two
+T2	NUMBER	0	3	Two
+T3	Scientists	4	12	students
+T4	StateOfBeing	13	16	are
+T5	Communicate	17	22	asked
+T6	Goal	23	25	to
+T7	Create	26	30	make
+T8	Representation	33	38	chart
+T9	Relevant	39	41	on
+T10	ElectromagneticSpectrum	46	70	electromagnetic spectrum
+T11	Examine	72	79	Reading
+T12	RelativeDirection	80	84	left
+T13	RelativeDirection	88	93	right
+T14	CardinalNumber	95	98	one
+T15	NUMBER	95	98	one
+T16	Scientists	99	106	student
+T17	Representation	109	114	chart
+T18	Indicate	115	120	shows
+T19	Spectra	125	133	spectrum
+T20	RelativeDirection	134	138	from
+T21	EnergyWaves	139	149	gamma rays
+T22	ElectromagneticSpectrum	139	149	gamma rays
+T23	RelativeDirection	150	152	to
+T24	EnergyWaves	153	164	radio waves
+T25	ElectromagneticSpectrum	153	164	radio waves
+T26	RelativeTime	166	171	while
+T27	Comparisons	176	181	other
+T28	Scientists	182	189	student
+T29	Representation	192	197	chart
+T30	Indicate	198	203	shows
+T31	Comparisons	208	216	opposite
+T32	Occupation	225	232	teacher
+T33	Communicate	233	237	says
+T34	LevelOfInclusion	243	247	both
+T35	Representation	248	254	charts
+T36	StateOfBeing	255	258	are
+T37	Verify	259	266	correct
+T38	ProbabilityAndCertainty	259	266	correct
+T39	RelativeTime	268	272	then
+T40	Negations	281	284	not
+T41	ImportanceComparison	285	291	matter
+T42	Method	292	295	how
+T43	Scientists	300	308	students
+T44	Classify	309	314	label
+T45	PartsOfARepresentation	309	314	label
+T46	Representation	321	327	charts
+T47	StateOfBeing	335	338	are
+T48	RelativeNumber	339	347	multiple
+T49	Method	348	352	ways
+T50	PerformingResearch	356	364	organize
+T51	Pattern	356	364	organize
+T52	WordsForData	365	376	information
+T53	EnergyWaves	382	387	waves
+T54	ContainBeComposedOf	388	392	have
+T55	Comparisons	397	401	same
+T56	Property	402	412	properties
+T57	Scientists	418	426	students
+T58	StateOfBeing	431	436	being
+T59	Permit	437	447	encouraged
+T60	PerformAnActivity	451	464	do their work

@@ -1,0 +1,37 @@
+T1	RelativeLocations	0	2	In
+T2	Plant	3	13	pea plants
+T3	Genetics	19	25	allele
+T4	Texture	30	36	smooth
+T5	Plant	37	41	peas
+T6	StateOfBeing	42	44	is
+T7	GeneticProperty	45	53	dominant
+T8	Texture	55	56	S
+T9	GeneticProperty	64	76	heterozygous
+T10	Texture	77	83	smooth
+T11	Plant	84	93	pea plant
+T12	Texture	95	97	Ss
+T13	StateOfBeing	99	101	is
+T14	Reproduction	102	109	crossed
+T15	CombineAdd	110	114	with
+T16	GeneticProperty	117	127	homozygous
+T17	Texture	128	134	smooth
+T18	Plant	135	144	pea plant
+T19	Texture	146	148	SS
+T20	LevelOfInclusion	151	156	which
+T21	StateOfBeing	157	160	are
+T22	ProbabilityAndCertainty	165	173	possible
+T23	GeneticProperty	174	183	genotypes
+T24	GeneticRelations	188	197	offspring
+T25	WordsForOffspring	188	197	offspring
+T26	AbilityAvailability	198	203	could
+T27	ContainBeComposedOf	204	208	have
+T28	LevelOfInclusion	210	214	only
+T29	Texture	215	217	SS
+T30	LevelOfInclusion	218	222	only
+T31	Texture	223	225	Ss
+T32	Element	223	225	Ss
+T33	Comparisons	229	231	or
+T34	Texture	232	234	SS
+T35	Element	235	237	ss
+T36	Comparisons	238	240	or
+T37	Texture	241	243	SS

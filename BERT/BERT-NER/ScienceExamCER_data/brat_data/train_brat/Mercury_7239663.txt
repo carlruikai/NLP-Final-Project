@@ -1,0 +1,5 @@
+Electron transport in mitochondria results in a chemiosmotic gradient of which particle across the mitochondrial membrane?
+ADP
+ATP
+protons
+neutrons

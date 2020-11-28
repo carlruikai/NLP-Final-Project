@@ -1,0 +1,5 @@
+A mountain with a melting glacier has a stream with a waterfall. The waterfall fills a lake at the base of the mountain. Where is the water coldest?
+glacier
+stream
+waterfall
+lake

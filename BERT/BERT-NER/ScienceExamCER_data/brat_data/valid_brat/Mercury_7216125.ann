@@ -1,0 +1,33 @@
+T1	RelativeNumber	0	4	Many
+T2	GeopoliticalLocations	5	20	school district
+T3	StateOfBeing	22	25	are
+T4	Move	26	33	placing
+T5	VerbsForLocate	26	33	placing
+T6	LiquidHoldingContainersRecepticles	34	44	dispensers
+T7	IllnessPreventionCuring	48	62	hand sanitizer
+T8	RelativeLocations	63	65	in
+T9	ManmadeLocations	66	76	classrooms
+T10	ManmadeLocations	81	93	computer lab
+T11	LevelOfInclusion	96	101	Which
+T12	LevelOfInclusion	105	118	the following
+T13	StateOfBeing	119	121	is
+T14	AmountComparison	126	130	most
+T15	ProbabilityAndCertainty	131	137	likely
+T16	Goal	138	145	purpose
+T17	PerformAnActivity	154	162	practice
+T18	Method	154	162	practice
+T19	Preserve	164	172	conserve
+T20	PhasesOfWater	173	178	water
+T21	NaturalResources	179	188	resources
+T22	AvoidReject	189	196	control
+T23	PropertiesOfSickness	197	210	noninfectious
+T24	Sickness	211	219	diseases
+T25	Advertising	220	227	promote
+T26	Safety	228	232	safe
+T27	Use	233	236	use
+T28	TechnologicalInstrument	240	250	technology
+T29	IncreaseDecrease	251	256	limit
+T30	Sickness	257	265	diseases
+T31	Transportation	266	272	spread
+T32	Cause	273	275	by
+T33	Touch	276	283	contact

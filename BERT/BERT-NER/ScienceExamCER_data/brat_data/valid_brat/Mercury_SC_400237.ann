@@ -1,0 +1,10 @@
+T1	Cause	5	11	causes
+T2	AmountComparison	16	20	most
+T3	Soil	21	25	soil
+T4	Rock	30	34	rock
+T5	ConstructiveDestructiveForces	35	42	erosion
+T6	NaturalPhenomena	35	42	erosion
+T7	Star	44	47	sun
+T8	WeatherPhenomena	48	52	wind
+T9	PhasesOfWater	53	58	water
+T10	Gravity	59	66	gravity

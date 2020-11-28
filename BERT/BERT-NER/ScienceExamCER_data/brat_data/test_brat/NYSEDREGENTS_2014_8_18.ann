@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	13	process
+T3	RelativeLocations	14	16	in
+T4	Angiosperm	20	30	apple tree
+T5	ImportanceComparison	31	40	primarily
+T6	Result	41	48	results
+T7	Cause	49	53	from
+T8	CellProcesses	54	67	cell division
+T9	Growth	69	75	growth
+T10	CellProcesses	76	90	photosynthesis
+T11	PlantProcesses	76	90	photosynthesis
+T12	GaseousMatter	91	94	gas
+T13	Transportation	95	103	exchange
+T14	Toxins	104	109	waste
+T15	LocationChangingActions	110	117	removal
+T16	StopRemove	110	117	removal

@@ -1,0 +1,41 @@
+T1	LandVehicle	2	5	car
+T2	AmountChangingActions	6	14	runs out
+T3	FossilFuel	18	22	fuel
+T4	RelativeTime	23	28	while
+T5	Move	29	38	traveling
+T6	RelativeLocations	39	41	on
+T7	VisualComparison	44	49	level
+T8	ManmadeLocations	50	54	road
+T9	RelativeTime	59	69	eventually
+T10	Move	70	75	comes
+T11	RelativeDirection	76	78	to
+T12	StopRemove	81	85	stop
+T13	LevelOfInclusion	87	92	Which
+T14	LevelOfInclusion	96	109	the following
+T15	Quality	110	114	best
+T16	QualityComparison	110	114	best
+T17	Communicate	115	123	explains
+T18	Cause	124	127	why
+T19	LandVehicle	132	135	car
+T20	StopRemove	136	141	stops
+T21	LevelOfInclusion	143	147	Some
+T22	Energy	155	161	energy
+T23	LandVehicle	169	172	car
+T24	StateOfBeing	173	176	was
+T25	AmountChangingActions	177	181	lost
+T26	Cause	182	184	to
+T27	PullingForces	185	193	friction
+T28	LevelOfInclusion	195	199	Some
+T29	Energy	207	213	energy
+T30	LandVehicle	221	224	car
+T31	StateOfBeing	225	228	was
+T32	StopRemove	229	238	destroyed
+T33	Numbers	244	250	amount
+T34	Energy	254	268	kinetic energy
+T35	AmountChangingActions	269	278	increased
+T36	IncreaseDecrease	269	278	increased
+T37	Numbers	284	290	amount
+T38	Quality	294	300	useful
+T39	Energy	301	307	energy
+T40	AmountChangingActions	308	317	increased
+T41	IncreaseDecrease	308	317	increased

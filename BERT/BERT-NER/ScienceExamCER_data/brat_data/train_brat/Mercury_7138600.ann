@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ObjectPart	6	10	part
+T3	AnimalPart	18	22	body
+T4	PerformAnActivity	23	28	works
+T5	Position	29	36	closely
+T6	CombineAdd	37	41	with
+T7	DigestiveSystem	46	62	digestive system
+T8	Result	63	65	to
+T9	CirculationActions	66	75	transport
+T10	Transportation	66	75	transport
+T11	Nutrition	76	85	nutrients
+T12	RelativeDirection	86	88	to
+T13	Cell	93	98	cells
+T14	PartsOfTheRespiratorySystem	100	105	lungs
+T15	PartsOfTheExcretorySystem	100	105	lungs
+T16	Blood	106	111	blood
+T17	PartsOfTheExcretorySystem	112	119	kidneys
+T18	PartsOfEndocrineSystem	112	119	kidneys
+T19	PartsOfTheDigestiveSystem	120	129	esophagus

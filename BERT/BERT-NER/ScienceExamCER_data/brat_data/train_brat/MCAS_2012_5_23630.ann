@@ -1,0 +1,35 @@
+T1	RelativeLocations	0	2	In
+T2	RelativeNumber	3	7	some
+T3	LevelOfInclusion	3	7	some
+T4	Locations	8	17	locations
+T5	Mammal	19	28	squirrels
+T6	ActionsForAnimals	29	34	sleep
+T7	TemporalProperty	39	43	long
+T8	MarkersOfTime	44	59	periods of time
+T9	RelativeTime	60	66	during
+T10	SeasonsFallAutumnWinterSpringSummer	71	77	winter
+T11	TimeUnit	78	84	months
+T12	LevelOfInclusion	86	91	Which
+T13	LevelOfInclusion	95	108	the following
+T14	AmountComparison	109	113	most
+T15	ProbabilityAndCertainty	114	120	likely
+T16	Cause	121	127	causes
+T17	LevelOfInclusion	128	133	these
+T18	Mammal	134	143	squirrels
+T19	ActionsForAnimals	147	152	sleep
+T20	TemporalProperty	157	161	long
+T21	MarkersOfTime	162	177	periods of time
+T22	AmountChangingActions	179	187	increase
+T23	IncreaseDecrease	179	187	increase
+T24	WeatherPhenomena	191	199	humidity
+T25	AmountChangingActions	200	208	decrease
+T26	IncreaseDecrease	200	208	decrease
+T27	Temperature	212	223	temperature
+T28	WeatherPhenomena	224	230	clouds
+T29	Create	231	238	forming
+T30	RelativeLocations	235	237	in
+T31	Sky	246	249	sky
+T32	WeatherPhenomena	250	255	winds
+T33	GaseousMovement	256	263	blowing
+T34	RelativeLocations	260	262	in
+T35	TimesOfDayDayNight	271	276	night

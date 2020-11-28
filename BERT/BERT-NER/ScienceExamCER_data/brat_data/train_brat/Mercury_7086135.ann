@@ -1,0 +1,40 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	Move	13	21	visiting
+T4	NationalityOrigin	24	29	local
+T5	Sedimentary	30	39	limestone
+T6	OtherGeographicWords	40	46	quarry
+T7	ManMadeGeographicFormations	40	46	quarry
+T8	VerbsForLocate	51	56	finds
+T9	TrueFormFossil	57	77	fossils of seashells
+T10	OtherGeographicWords	83	89	quarry
+T11	ManMadeGeographicFormations	83	89	quarry
+T12	StateOfBeing	90	92	is
+T13	VerbsForLocate	93	100	located
+T14	ArithmeticMeasure	101	109	hundreds
+T15	DistanceUnit	113	118	miles
+T16	RelativeDirection	119	123	from
+T17	BodiesOfWater	128	133	ocean
+T18	Fossils	139	146	fossils
+T19	Quality	147	151	best
+T20	QualityComparison	147	151	best
+T21	Indicate	152	160	indicate
+T22	Locations	171	175	area
+T23	StateOfBeing	176	179	was
+T24	TemporalProperty	180	184	once
+T25	RelativeLocations	185	190	below
+T26	OtherGeographicWords	191	200	sea level
+T27	Height	191	200	sea level
+T28	Temperature	202	220	global temperature
+T29	Changes	221	228	changed
+T30	RelativeTime	229	233	over
+T31	MarkersOfTime	234	238	time
+T32	ConstructiveDestructiveForces	240	247	erosion
+T33	NaturalPhenomena	240	247	erosion
+T34	Occur	248	258	took place
+T35	RelativeTime	259	264	after
+T36	NaturalPhenomena	267	272	flood
+T37	LiquidMovement	267	272	flood
+T38	NaturalPhenomena	274	291	volcanic activity
+T39	Alter	292	300	affected
+T40	Locations	305	309	area

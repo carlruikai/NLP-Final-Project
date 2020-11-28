@@ -1,0 +1,5 @@
+As a sample of mercury changes state from liquid to solid, the atoms of the sample
+move closer together and have less kinetic energy.
+move closer together and have more kinetic energy.
+move farther apart and have less kinetic energy.
+move farther apart and have more kinetic energy.

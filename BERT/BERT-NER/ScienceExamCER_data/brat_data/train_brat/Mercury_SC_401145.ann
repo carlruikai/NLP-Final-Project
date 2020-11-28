@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	10	tool
+T3	ProbabilityAndCertainty	11	16	would
+T4	StateOfBeing	17	19	be
+T5	Quality	20	24	best
+T6	QualityComparison	20	24	best
+T7	Use	28	31	use
+T8	Goal	32	35	for
+T9	Numbers	36	44	counting
+T10	Examine	36	44	counting
+T11	Numbers	49	55	number
+T12	AnimalPart	59	63	legs
+T13	RelativeLocations	64	66	on
+T14	Insect	70	73	ant
+T15	DistanceMeasuringTools	75	80	ruler
+T16	ViewingTools	81	90	hand lens
+T17	ComputingDevice	91	101	calculator
+T18	TechnologicalInstrument	91	101	calculator
+T19	ViewingTools	102	112	microscope

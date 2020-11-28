@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	StateOfBeing	15	17	is
+T4	ContainBeComposedOf	24	30	shared
+T5	Comparisons	24	30	shared
+T6	InnerPlanets	34	39	Earth
+T7	LOCATION	34	39	Earth
+T8	Moon	48	52	Moon
+T9	GeographicFormations	54	62	glaciers
+T10	BodiesOfWater	54	62	glaciers
+T11	LiquidMovement	63	70	flowing
+T12	PhasesOfWater	71	76	water
+T13	LiquidMatter	71	76	water
+T14	PlanetParts	80	90	atmosphere
+T15	ContainBeComposedOf	96	104	contains
+T16	Element	105	111	oxygen
+T17	GaseousMatter	105	111	oxygen
+T18	CelestialMovement	115	120	orbit
+T19	Cause	121	131	created by
+T20	Force	136	141	force
+T21	Gravity	145	152	gravity

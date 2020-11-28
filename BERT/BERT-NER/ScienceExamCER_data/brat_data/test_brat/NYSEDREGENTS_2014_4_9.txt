@@ -1,0 +1,5 @@
+A student removes an ice cube tray from the freezer and places it on a table. The ice cubes are solid and cold. The student forgets to put the ice cube tray back into the freezer. The next day, the ice cubes should be
+liquid and warmer
+solid and warmer
+liquid and colder
+solid and colder

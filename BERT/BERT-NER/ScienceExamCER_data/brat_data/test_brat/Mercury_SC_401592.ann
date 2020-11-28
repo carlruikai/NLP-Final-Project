@@ -1,0 +1,13 @@
+T1	RelativeTime	0	4	When
+T2	Light	5	10	light
+T3	Move	11	18	reaches
+T4	Touch	11	18	reaches
+T5	ViewingTools	22	30	eyeglass
+T6	PartsOfObservationInstruments	31	35	lens
+T7	Light	41	46	light
+T8	StateOfBeing	47	49	is
+T9	LightMovement	50	59	refracted
+T10	LightMovement	61	70	reflected
+T11	LightMovement	72	82	diffracted
+T12	AbsorbEnergy	84	92	absorbed
+T13	CombineAdd	84	92	absorbed

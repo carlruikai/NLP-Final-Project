@@ -1,0 +1,34 @@
+T1	Numbers	4	10	number
+T2	Mammal	14	23	squirrels
+T3	RelativeLocations	24	26	in
+T4	LevelOfInclusion	29	36	certain
+T5	EcosystemsEnvironment	37	46	ecosystem
+T6	Changes	47	54	changes
+T7	RelativeTime	55	59	over
+T8	MarkersOfTime	60	64	time
+T9	LevelOfInclusion	66	71	These
+T10	Changes	72	79	changes
+T11	AbilityAvailability	80	83	can
+T12	StateOfBeing	84	86	be
+T13	Represent	87	98	represented
+T14	StateOfBeing	99	101	as
+T15	Numbers	104	110	number
+T16	Relations	114	123	connected
+T17	Touch	114	123	connected
+T18	WordsForData	124	128	data
+T19	PartsOfARepresentation	129	135	points
+T20	LevelOfInclusion	137	142	Which
+T21	Method	143	149	method
+T22	ProbabilityAndCertainty	150	155	would
+T23	Scientists	158	165	student
+T24	AmountComparison	166	170	most
+T25	ProbabilityAndCertainty	171	177	likely
+T26	Use	178	181	use
+T27	Indicate	185	189	show
+T28	Communicate	185	189	show
+T29	WordsForData	195	206	information
+T30	Representation	208	217	pie chart
+T31	Representation	218	228	line graph
+T32	Representation	229	238	pictogram
+T33	WordsForData	239	243	data
+T34	Representation	244	249	table

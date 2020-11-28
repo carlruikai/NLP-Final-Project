@@ -1,0 +1,65 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	Animal	5	12	animals
+T4	StateOfBeing	13	16	are
+T5	AmountComparison	17	21	very
+T6	Rarity	22	26	rare
+T7	Exemplar	32	39	example
+T8	RelativeLocations	41	46	there
+T9	StateOfBeing	47	50	are
+T10	AmountComparison	51	55	very
+T11	RelativeNumber	56	59	few
+T12	Mammal	60	75	Siberian tigers
+T13	LevelOfInclusion	84	88	only
+T14	Mammal	89	104	Siberian tigers
+T15	Occur	105	109	left
+T16	WaitStay	105	109	left
+T17	StateOfBeing	110	113	are
+T18	Gender	114	120	female
+T19	ProbabilityAndCertainty	127	131	will
+T20	AmountComparison	132	136	most
+T21	ProbabilityAndCertainty	137	143	likely
+T22	Occur	144	150	happen
+T23	Gender	156	163	females
+T24	ProbabilityAndCertainty	164	168	will
+T25	Identify	169	173	find
+T26	VerbsForLocate	169	173	find
+T27	Comparisons	174	181	another
+T28	Exemplar	182	186	type
+T29	Gender	190	194	male
+T30	Animal	195	201	animal
+T31	Goal	202	204	to
+T32	Reproduction	205	209	mate
+T33	CombineAdd	210	214	with
+T34	Create	219	226	produce
+T35	AmountComparison	227	231	more
+T36	Mammal	232	247	Siberian tigers
+T37	Gender	253	260	females
+T38	ProbabilityAndCertainty	261	265	will
+T39	Reproduction	266	270	mate
+T40	CombineAdd	271	275	with
+T41	LevelOfInclusion	276	280	each
+T42	Comparisons	281	286	other
+T43	Create	291	298	produce
+T44	AmountComparison	299	303	more
+T45	Mammal	304	319	Siberian tigers
+T46	Gender	325	332	females
+T47	ProbabilityAndCertainty	333	337	will
+T48	LevelOfInclusion	338	342	only
+T49	StateOfBeing	343	345	be
+T50	AbilityAvailability	346	350	able
+T51	RelativeDirection	351	353	to
+T52	Create	354	361	produce
+T53	Gender	362	368	female
+T54	Mammal	369	384	Siberian tigers
+T55	Gender	390	397	females
+T56	ProbabilityAndCertainty	398	402	will
+T57	Negations	403	406	not
+T58	StateOfBeing	407	409	be
+T59	AbilityAvailability	410	414	able
+T60	Create	418	425	produce
+T61	AmountComparison	426	430	more
+T62	Mammal	431	446	Siberian tigers
+T63	ProbabilityAndCertainty	457	461	will
+T64	LivingDying	462	469	die out
+T65	Extinction	462	469	die out

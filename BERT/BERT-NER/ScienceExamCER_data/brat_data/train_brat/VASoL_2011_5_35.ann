@@ -1,0 +1,16 @@
+T1	ObjectPart	4	11	surface
+T2	Moon	19	23	Moon
+T3	StateOfBeing	24	26	is
+T4	ContainBeComposedOf	27	34	made up
+T5	GeographicFormations	38	45	craters
+T6	GeographicFormations	47	56	highlands
+T7	Shape	62	66	flat
+T8	Locations	67	72	areas
+T9	GaseousMovement	73	81	swirling
+T10	GaseousMatter	82	87	gases
+T11	Size	88	93	large
+T12	BodiesOfWater	94	109	bodies of water
+T13	Mixtures	112	119	mixture
+T14	GaseousMatter	123	128	gases
+T15	PhasesOfWater	133	138	water
+T16	LiquidMatter	133	138	water

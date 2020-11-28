@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	AmountComparison	18	22	most
+T5	ProbabilityAndCertainty	23	29	likely
+T6	Cause	30	36	caused
+T7	Actions	44	50	action
+T8	PhasesOfWater	54	59	water
+T9	WeatherPhenomena	61	65	wind
+T10	Animal	71	78	animals
+T11	GeographicFormations	80	89	mountains
+T12	ConstructiveDestructiveForces	90	97	erosion
+T13	NaturalPhenomena	90	97	erosion
+T14	NaturalPhenomena	98	109	earthquakes
+T15	NaturalPhenomena	110	128	volcanic eruptions

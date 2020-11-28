@@ -1,0 +1,5 @@
+A student stands on a scale, and the scale reads 85 pounds. What is being measured by the scale?
+the force of gravity acting on the student
+the air pressure surrounding the student
+the mass of the student
+the volume of the student

@@ -1,0 +1,5 @@
+Which of the following represents the process of photosynthesis?
+C_{6}H_{12}O_{6} -> 6CO_{2} + 6H_{2}O
+6CO_{2} + 6H_{2}O -> C_{6}H_{12}O_{6} +6O_{2}
+2H_{2}O -> 2H_{2} + O_{2}
+2H_{2} + O_{2} -> 2H_{2}O

@@ -1,0 +1,29 @@
+T1	CellProcesses	0	20	Cellular respiration
+T2	Cause	21	31	results in
+T3	Create	36	46	production
+T4	Genetics	50	72	adenosine triphosphate
+T5	CellsAndGenetics	74	77	ATP
+T6	Genetics	74	77	ATP
+T7	ElementalComponents	79	88	molecules
+T8	Energy	93	99	energy
+T9	AmountComparison	105	109	most
+T10	Cost	110	119	efficient
+T11	Exemplar	120	124	form
+T12	CellProcesses	128	148	cellular respiration
+T13	ProbabilityAndCertainty	149	154	would
+T14	Cause	155	164	result in
+T15	Create	169	179	production
+T16	CellsAndGenetics	183	186	ATP
+T17	Genetics	183	186	ATP
+T18	CombineAdd	193	197	with
+T19	LevelOfInclusion	198	203	which
+T20	Substances	204	214	substances
+T21	Element	216	222	oxygen
+T22	Energy	227	233	energy
+T23	NutritiveSubstancesForAnimalsOrPlants	234	241	glucose
+T24	NutritiveSubstancesForAnimalsOrPlants	246	254	glycogen
+T25	OrganicCompounds	255	266	lactic acid
+T26	OrganicCompounds	271	278	alcohol
+T27	Compound	279	293	carbon dioxide
+T28	PhasesOfWater	298	303	water
+T29	LiquidMatter	298	303	water

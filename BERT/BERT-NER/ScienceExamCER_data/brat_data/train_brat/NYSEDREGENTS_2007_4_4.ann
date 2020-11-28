@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Force	6	11	force
+T3	Cause	12	18	causes
+T4	ManmadeObjects	21	27	marble
+T5	LocationChangingActions	31	35	sink
+T6	LiquidMovement	31	35	sink
+T7	RelativeDirection	36	38	to
+T8	RelativeLocations	43	49	bottom
+T9	LiquidHoldingContainersRecepticles	55	60	glass
+T10	PhasesOfWater	64	69	water
+T11	Gravity	71	78	gravity
+T12	PullingForces	79	87	friction
+T13	MagneticForce	88	97	magnetism
+T14	ElectricalEnergy	98	109	electricity

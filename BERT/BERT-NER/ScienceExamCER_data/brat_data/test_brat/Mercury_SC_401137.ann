@@ -1,0 +1,23 @@
+T1	RelativeLocations	0	2	In
+T2	Cycles	7	18	water cycle
+T3	RelativeTime	20	25	after
+T4	PhasesOfWater	26	31	water
+T5	PartsOfWaterCycle	36	45	condensed
+T6	PhaseChangingActions	36	45	condensed
+T7	Result	46	48	to
+T8	Create	49	53	form
+T9	WeatherPhenomena	54	60	clouds
+T10	ChangeInLocation	65	70	falls
+T11	RelativeDirection	71	75	back
+T12	RelativeDirection	76	78	to
+T13	InnerPlanets	79	84	Earth
+T14	LOCATION	79	84	Earth
+T15	StateOfBeing	85	87	in
+T16	PhysicalProperty	92	96	form
+T17	PartsOfWaterCycle	100	111	evaporation
+T18	PhaseChangingActions	100	111	evaporation
+T19	PartsOfWaterCycle	113	125	vaporization
+T20	PartsOfWaterCycle	127	139	condensation
+T21	PhaseChangingActions	127	139	condensation
+T22	PartsOfWaterCycle	141	154	precipitation
+T23	Precipitation	141	154	precipitation

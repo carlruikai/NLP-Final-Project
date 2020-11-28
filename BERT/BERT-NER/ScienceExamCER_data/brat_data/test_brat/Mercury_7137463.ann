@@ -1,0 +1,47 @@
+T1	Countries	0	5	India
+T2	StateOfBeing	6	8	is
+T3	RelativeLocations	9	11	in
+T4	EarthPartsGrossGroundAtmosphere	16	35	Northern Hemisphere
+T5	NorthernHemisphereLocations	16	35	Northern Hemisphere
+T6	Countries	40	49	Australia
+T7	StateOfBeing	50	52	is
+T8	RelativeLocations	53	55	in
+T9	EarthPartsGrossGroundAtmosphere	60	79	Southern Hemisphere
+T10	SouthernHemisphereLocations	60	79	Southern Hemisphere
+T11	RelativeTime	81	83	In
+T12	Months	84	88	June
+T13	StateOfBeing	93	95	is
+T14	SeasonsFallAutumnWinterSpringSummer	96	102	summer
+T15	RelativeLocations	103	105	in
+T16	Countries	106	111	India
+T17	SeasonsFallAutumnWinterSpringSummer	116	122	winter
+T18	RelativeLocations	117	119	in
+T19	Countries	126	135	Australia
+T20	StateOfBeing	142	144	is
+T21	ImportanceComparison	149	153	main
+T22	Cause	154	160	reason
+T23	SeasonsFallAutumnWinterSpringSummer	165	172	seasons
+T24	StateOfBeing	173	176	are
+T25	Comparisons	177	185	opposite
+T26	RelativeLocations	186	188	in
+T27	CardinalNumber	193	196	two
+T28	NUMBER	193	196	two
+T29	Countries	197	206	countries
+T30	Cause	208	215	because
+T31	InnerPlanets	216	221	Earth
+T32	StateOfBeing	222	224	is
+T33	CelestialMovement	225	231	tilted
+T34	Position	232	243	on its axis
+T35	Cause	244	251	because
+T36	Star	256	259	Sun
+T37	CelestialMovement	260	267	rotates
+T38	Position	268	279	on its axis
+T39	Cause	280	287	because
+T40	InnerPlanets	288	293	Earth
+T41	CelestialMovement	294	302	revolves
+T42	PrepositionalDirections	303	309	around
+T43	Star	314	317	Sun
+T44	Cause	318	328	because of
+T45	Distance	333	341	distance
+T46	RelativeLocations	342	349	between
+T47	Countries	354	363	countries

@@ -1,0 +1,11 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	ObjectQuantification	9	14	layer
+T4	Star	22	25	Sun
+T5	PerformAnActivity	26	30	does
+T6	ProduceEnergy	31	45	nuclear fusion
+T7	Occur	46	51	occur
+T8	StarLayers	53	57	core
+T9	StarLayers	58	72	radiative zone
+T10	StarLayers	73	88	convection zone
+T11	StarLayers	89	101	chromosphere

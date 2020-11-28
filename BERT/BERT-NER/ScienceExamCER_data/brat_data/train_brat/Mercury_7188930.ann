@@ -1,0 +1,23 @@
+T1	AnimalPart	4	9	heart
+T2	PartsOfTheCirculatorySystem	4	9	heart
+T3	PartsOfEndocrineSystem	4	9	heart
+T4	StateOfBeing	10	12	is
+T5	ImportanceComparison	17	22	major
+T6	AnimalPart	23	28	organ
+T7	CirculatorySystem	36	54	circulatory system
+T8	LevelOfInclusion	56	61	Which
+T9	ObjectPart	62	66	part
+T10	AnimalPart	74	78	body
+T11	StateOfBeing	79	81	is
+T12	Cause	82	93	responsible
+T13	Transportation	98	108	delivering
+T14	ChemicalProperty	109	122	de-oxygenated
+T15	Blood	123	128	blood
+T16	RelativeDirection	129	131	to
+T17	AnimalPart	136	141	heart
+T18	PartsOfTheCirculatorySystem	136	141	heart
+T19	PartsOfEndocrineSystem	136	141	heart
+T20	PartsOfTheCirculatorySystem	143	151	arteries
+T21	PartsOfTheCirculatorySystem	152	163	capillaries
+T22	PartsOfTheCirculatorySystem	164	170	valves
+T23	PartsOfTheCirculatorySystem	171	176	veins

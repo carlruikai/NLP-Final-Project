@@ -1,0 +1,24 @@
+T1	LivingThing	0	17	Biotic components
+T2	Require	18	22	need
+T3	StateOfBeing	26	28	be
+T4	Alter	29	37	recycled
+T5	Transportation	29	37	recycled
+T6	PrepositionalDirections	38	45	through
+T7	EcosystemsEnvironment	49	58	ecosystem
+T8	LevelOfInclusion	60	65	Which
+T9	Exemplar	66	70	type
+T10	LivingThing	74	83	organisms
+T11	StateOfBeing	84	87	are
+T12	Quality	88	92	best
+T13	QualityComparison	88	92	best
+T14	AbilityAvailability	93	97	able
+T15	Alter	101	108	recycle
+T16	Transportation	101	108	recycle
+T17	Nutrition	109	118	nutrients
+T18	RelativeDirection	119	123	back
+T19	RelativeDirection	124	128	into
+T20	EcosystemsEnvironment	133	142	ecosystem
+T21	PartsOfTheFoodChain	144	155	decomposers
+T22	PartsOfTheFoodChain	156	165	predators
+T23	PartsOfTheFoodChain	166	175	producers
+T24	TypeOfConsumer	176	186	scavengers

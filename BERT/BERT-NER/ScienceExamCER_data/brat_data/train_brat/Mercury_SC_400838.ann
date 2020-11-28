@@ -1,0 +1,16 @@
+T1	Occur	5	12	happens
+T2	StateOfBeing	13	15	at
+T3	PhaseTransitionPoint	20	33	boiling point
+T4	Substances	39	48	substance
+T5	StateOfMatter	50	56	liquid
+T6	ChangeInto	57	64	becomes
+T7	StateOfMatter	67	70	gas
+T8	StateOfMatter	71	76	solid
+T9	ChangeInto	77	84	becomes
+T10	StateOfMatter	87	90	gas
+T11	StateOfMatter	91	97	liquid
+T12	ChangeInto	98	105	becomes
+T13	StateOfMatter	108	113	solid
+T14	StateOfMatter	108	113	solid
+T15	ChangeInto	120	127	becomes
+T16	StateOfMatter	130	136	liquid

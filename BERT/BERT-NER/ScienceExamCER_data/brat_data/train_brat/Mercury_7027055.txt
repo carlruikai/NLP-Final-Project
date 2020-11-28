@@ -1,0 +1,5 @@
+A scientist has collected monthly population counts of three animal species in a forest for five years. To display this data, the scientist should use which of the following?
+a table
+a pie chart
+a line graph
+a scatterplot

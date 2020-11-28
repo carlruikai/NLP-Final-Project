@@ -1,0 +1,41 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	ProbabilityAndCertainty	23	27	will
+T4	AmountComparison	28	32	most
+T5	ProbabilityAndCertainty	33	39	likely
+T6	Result	40	46	result
+T7	Cause	47	51	from
+T8	EnvironmentalDamageDestruction	56	68	cutting down
+T9	Size	72	77	large
+T10	Position	78	88	continuous
+T11	Locations	89	94	areas
+T12	ExamplesOfHabitats	98	104	forest
+T13	PercentUnit	110	120	percentage
+T14	Element	124	130	oxygen
+T15	RelativeLocations	131	135	over
+T16	Locations	140	144	area
+T17	ProbabilityAndCertainty	145	149	will
+T18	AmountChangingActions	150	158	increase
+T19	IncreaseDecrease	150	158	increase
+T20	Numbers	164	170	amount
+T21	ConstructiveDestructiveForces	174	181	erosion
+T22	NaturalPhenomena	174	181	erosion
+T23	RelativeLocations	182	188	within
+T24	Locations	193	197	area
+T25	ProbabilityAndCertainty	198	202	will
+T26	AmountChangingActions	203	211	increase
+T27	IncreaseDecrease	203	211	increase
+T28	OtherOrganismProperties	217	234	species diversity
+T29	RelativeLocations	235	237	in
+T30	Locations	242	246	area
+T31	ProbabilityAndCertainty	247	251	will
+T32	AmountChangingActions	252	260	increase
+T33	IncreaseDecrease	252	260	increase
+T34	Soil	266	270	soil
+T35	Nutrition	271	280	nutrients
+T36	PropertiesOfSoil	271	280	nutrients
+T37	RelativeLocations	281	283	in
+T38	Locations	288	292	area
+T39	ProbabilityAndCertainty	293	297	will
+T40	AmountChangingActions	298	306	increase
+T41	IncreaseDecrease	298	306	increase

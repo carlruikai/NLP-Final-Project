@@ -1,0 +1,16 @@
+T1	MeasuringSpeed	4	8	rate
+T2	PropertyOfMotion	4	8	rate
+T3	StateOfBeing	5	7	at
+T4	LevelOfInclusion	12	17	which
+T5	EnergyWaves	20	24	wave
+T6	Move	25	31	passes
+T7	PrepositionalDirections	32	39	through
+T8	Substances	42	48	medium
+T9	StateOfBeing	49	51	is
+T10	Classify	52	57	known
+T11	PropertyOfMotion	65	70	speed
+T12	PropertiesOfWaves	65	70	speed
+T13	PropertiesOfWaves	72	81	amplitude
+T14	MeasuringSpeed	83	95	acceleration
+T15	PropertyOfMotion	83	95	acceleration
+T16	PropertiesOfWaves	97	107	wavelength

@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Every
+T2	GeneticProcesses	6	10	copy
+T3	Relations	6	10	copy
+T4	Rarity	16	26	particular
+T5	NutritiveSubstancesForAnimalsOrPlants	27	34	protein
+T6	Create	35	47	manufactured
+T7	Cause	48	50	by
+T8	Cell	53	57	cell
+T9	Indicate	58	63	shows
+T10	Comparisons	68	72	same
+T11	ProbabilityAndCertainty	73	82	incorrect
+T12	Validity	73	82	incorrect
+T13	Genetics	83	93	amino acid
+T14	PartsOfDNA	83	93	amino acid
+T15	RelativeLocations	94	96	at
+T16	Comparisons	101	105	same
+T17	Locations	106	111	point
+T18	RelativeLocations	108	110	in
+T19	SystemParts	119	128	structure
+T20	Pattern	119	128	structure
+T21	Source	130	139	According
+T22	ImportanceComparison	147	154	central
+T23	BeliefKnowledge	155	160	dogma
+T24	Biology	164	181	molecular biology
+T25	RelativeLocations	183	185	in
+T26	LevelOfInclusion	186	191	which
+T27	SystemParts	192	201	structure
+T28	Problem	212	217	error
+T29	Start	218	227	originate
+T30	Genetics	229	232	DNA
+T31	Genetics	233	237	mRNA
+T32	Genetics	238	242	tRNA
+T33	Genetics	243	247	rRNA

@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	ProbabilityAndCertainty	15	19	will
+T4	Frequency	20	26	always
+T5	Create	27	34	produce
+T6	MagneticForce	37	51	magnetic field
+T7	MagneticEnergy	37	51	magnetic field
+T8	ObjectQuantification	55	58	bar
+T9	MetalSolids	62	67	steel
+T10	ObjectQuantification	70	73	bar
+T11	Element	77	85	aluminum
+T12	MetalSolids	77	85	aluminum
+T13	ElectricalEnergy	89	105	electric current
+T14	ElectricalProperty	109	124	electric charge

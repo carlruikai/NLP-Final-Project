@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	ContainBeComposedOf	15	22	involve
+T4	Require	15	23	involves
+T5	Create	28	37	formation
+T6	Age	43	46	new
+T7	Substances	47	65	chemical substance
+T8	PhaseChangingActions	67	78	evaporation
+T9	FossilFuel	82	90	gasoline
+T10	LiquidMatter	82	90	gasoline
+T11	CombineAdd	91	97	mixing
+T12	GranularSolids	98	102	salt
+T13	GranularSolids	107	113	pepper
+T14	PhaseChangingActions	114	124	dissolving
+T15	FormChangingActions	114	124	dissolving
+T16	GranularSolids	125	130	sugar
+T17	RelativeLocations	131	133	in
+T18	LiquidMatter	134	137	tea
+T19	ChemicalChange	138	145	rusting
+T20	Element	152	156	iron
+T21	MetalSolids	152	156	iron
+T22	ManmadeObjects	157	162	chain

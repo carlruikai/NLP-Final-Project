@@ -1,0 +1,13 @@
+T1	RelativeTime	0	4	When
+T2	Light	5	10	light
+T3	StateOfBeing	11	13	is
+T4	LightMovement	14	21	bounced
+T5	PrepositionalDirections	22	25	off
+T6	PartsOfObservationInstruments	28	34	mirror
+T7	Light	40	45	light
+T8	StateOfBeing	46	48	is
+T9	LightMovement	49	58	reflected
+T10	LightMovement	60	69	refracted
+T11	AbsorbEnergy	71	79	absorbed
+T12	CombineAdd	71	79	absorbed
+T13	LightMovement	81	91	diffracted

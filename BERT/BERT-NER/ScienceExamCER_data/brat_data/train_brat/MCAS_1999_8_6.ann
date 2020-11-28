@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	9	are
+T3	Create	10	18	produced
+T4	RelativeTime	19	25	during
+T5	CellProcesses	26	40	photosynthesis
+T6	PlantProcesses	26	40	photosynthesis
+T7	Compound	42	56	carbon dioxide
+T8	Minerals	61	69	minerals
+T9	Compound	70	84	carbon dioxide
+T10	NutritiveSubstancesForAnimalsOrPlants	89	94	sugar
+T11	Element	95	101	oxygen
+T12	PlantNutrients	95	101	oxygen
+T13	Minerals	106	114	minerals
+T14	PlantNutrients	115	121	oxygen
+T15	Element	115	121	oxygen
+T16	NutritiveSubstancesForAnimalsOrPlants	126	131	sugar

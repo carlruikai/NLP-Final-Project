@@ -1,0 +1,18 @@
+T1	RelativeLocations	0	2	In
+T2	LandVehicle	6	16	automobile
+T3	LevelOfInclusion	18	23	which
+T4	LevelOfInclusion	27	40	the following
+T5	SystemParts	41	51	components
+T6	StateOfBeing	52	54	is
+T7	Create	55	63	designed
+T8	PropertyOfProduction	64	76	specifically
+T9	Result	77	79	to
+T10	Create	80	84	give
+T11	Communicate	85	93	feedback
+T12	RelativeDirection	94	96	to
+T13	Human	101	107	driver
+T14	VehicularSystemsParts	109	123	steering wheel
+T15	VehicularSystemsParts	124	135	speedometer
+T16	VehicularSystemsParts	136	147	brake pedal
+T17	LandVehicle	148	151	car
+T18	ManmadeObjects	152	155	key

@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ManmadeObjects	6	15	invention
+T3	Discovery	6	15	invention
+T4	Use	16	20	uses
+T5	PropertyOfProduction	21	28	natural
+T6	MagneticForce	29	38	magnetism
+T7	Satellite	40	49	satellite
+T8	SpaceVehicle	40	49	satellite
+T9	ViewingTools	50	59	telescope
+T10	ObservationInstrumentsTelescopeBinoculars	50	59	telescope
+T11	MagneticDirectionMeasuringTool	60	67	compass
+T12	ViewingTools	68	78	binoculars
+T13	ObservationInstrumentsTelescopeBinoculars	68	78	binoculars

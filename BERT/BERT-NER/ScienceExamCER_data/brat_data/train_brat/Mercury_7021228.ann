@@ -1,0 +1,13 @@
+T1	PartsOfTheRespiratorySystem	4	8	nose
+T2	PartsOfTheDigestiveSystem	10	15	mouth
+T3	PartsOfTheRespiratorySystem	10	15	mouth
+T4	PartsOfTheRespiratorySystem	21	30	diaphragm
+T5	StateOfBeing	31	34	are
+T6	ObjectPart	35	40	parts
+T7	LevelOfInclusion	35	40	parts
+T8	LevelOfInclusion	44	49	which
+T9	AnimalSystemsProcesses	50	61	body system
+T10	DigestiveSystem	63	72	digestive
+T11	MuscularSystem	73	81	muscular
+T12	CirculatorySystem	82	93	circulatory
+T13	RespiratorySystem	94	105	respiratory

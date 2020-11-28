@@ -1,0 +1,38 @@
+T1	RelativeTime	0	2	On
+T2	DATE	3	14	February 21
+T3	Months	3	11	February
+T4	CardinalNumber	12	14	21
+T5	Scientists	18	25	student
+T6	Observe	26	33	observe
+T7	Moon	44	48	Moon
+T8	Negations	49	55	cannot
+T9	Observe	56	63	be seen
+T10	RelativeLocations	64	66	in
+T11	WeatherDescriptions	71	76	clear
+T12	Sky	77	86	night sky
+T13	TimesOfDayDayNight	77	82	night
+T14	RelativeTime	88	90	On
+T15	Day	96	100	date
+T16	ProbabilityAndCertainty	101	105	will
+T17	Scientists	110	117	student
+T18	Negations	118	121	not
+T19	AbilityAvailability	125	129	able
+T20	Observe	133	136	see
+T21	Moon	141	145	Moon
+T22	TemporalProperty	146	151	again
+T23	RelativeLocations	149	151	in
+T24	WeatherDescriptions	159	164	clear
+T25	Sky	165	174	night sky
+T26	TimesOfDayDayNight	165	170	night
+T27	DATE	176	187	February 28
+T28	Months	176	184	February
+T29	CardinalNumber	185	187	28
+T30	DATE	188	195	March 7
+T31	Months	188	193	March
+T32	CardinalNumber	194	195	7
+T33	DATE	196	204	March 14
+T34	Months	196	201	March
+T35	CardinalNumber	202	204	14
+T36	Months	205	210	March
+T37	DATE	205	213	March 21
+T38	CardinalNumber	211	213	21

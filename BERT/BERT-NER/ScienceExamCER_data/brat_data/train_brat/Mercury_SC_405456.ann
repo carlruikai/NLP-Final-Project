@@ -1,0 +1,37 @@
+T1	NaturalResources	0	6	Timber
+T2	PlantPart	0	6	Timber
+T3	BusinessIndustry	7	16	companies
+T4	AbilityAvailability	17	20	can
+T5	Quality	21	25	best
+T6	QualityComparison	21	25	best
+T7	Help	26	32	manage
+T8	Preserve	26	32	manage
+T9	Numbers	37	43	number
+T10	Plant	47	52	trees
+T11	RelativeLocations	53	55	in
+T12	ExamplesOfHabitats	56	63	forests
+T13	Cause	64	66	by
+T14	Alter	67	77	converting
+T15	EnvironmentalDamageDestruction	78	88	deforested
+T16	Locations	89	94	areas
+T17	ChangeInto	95	99	into
+T18	ManmadeLocations	100	105	malls
+T19	ActionsForAgriculture	107	115	planting
+T20	CombineAdd	107	115	planting
+T21	Plant	116	121	trees
+T22	ChangeInto	125	132	replace
+T23	Create	125	132	replace
+T24	StopRemove	143	151	cut down
+T25	CombineAdd	153	159	adding
+T26	Toxins	160	170	pesticides
+T27	ChemicalProduct	160	170	pesticides
+T28	RelativeDirection	171	173	to
+T29	Soil	178	182	soil
+T30	RelativeLocations	183	189	around
+T31	Plant	194	199	trees
+T32	StopRemove	201	209	removing
+T33	PlantPart	214	224	tree stump
+T34	RelativeTime	226	230	when
+T35	Plant	231	236	trees
+T36	StateOfBeing	237	240	are
+T37	StopRemove	241	249	cut down

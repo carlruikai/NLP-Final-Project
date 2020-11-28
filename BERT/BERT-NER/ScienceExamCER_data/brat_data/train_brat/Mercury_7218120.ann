@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Occur	15	21	occurs
+T4	Cause	22	28	due to
+T5	ActionsForAgriculture	33	41	rotation
+T6	InnerPlanets	45	50	Earth
+T7	SeasonsFallAutumnWinterSpringSummer	56	63	seasons
+T8	TimesOfDayDayNight	64	67	day
+T9	TimesOfDayDayNight	72	77	night
+T10	CelestialMovement	82	87	orbit
+T11	Moon	95	99	Moon
+T12	Moon	100	105	lunar
+T13	EclipseEvents	110	123	solar eclipse

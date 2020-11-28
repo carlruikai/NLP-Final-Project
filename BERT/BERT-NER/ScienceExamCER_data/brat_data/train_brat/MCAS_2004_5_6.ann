@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Negations	26	29	not
+T5	Inheritance	33	42	inherited
+T6	Property	43	48	trait
+T7	Human	52	58	humans
+T8	HumanPart	60	63	eye
+T9	Color	64	69	color
+T10	PartsOfTheIntegumentarySystem	70	74	hair
+T11	Color	75	80	color
+T12	Quality	81	89	favorite
+T13	Nutrition	90	94	food
+T14	Height	95	101	height

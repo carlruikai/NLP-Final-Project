@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	StateOfBeing	15	17	is
+T4	Quality	28	32	best
+T5	QualityComparison	28	32	best
+T6	Exemplar	33	40	example
+T7	Inheritance	47	56	inherited
+T8	Property	57	62	trait
+T9	AnimalPart	64	67	eye
+T10	Color	68	73	color
+T11	Sickness	77	86	infection
+T12	BeliefKnowledge	87	96	knowledge
+T13	TypesOfEvent	100	106	soccer
+T14	Length	107	113	length
+T15	PartsOfTheIntegumentarySystem	117	121	hair

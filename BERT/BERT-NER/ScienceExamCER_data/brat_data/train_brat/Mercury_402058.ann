@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	StateOfBeing	15	17	is
+T4	Negations	24	27	not
+T5	Inheritance	31	40	inherited
+T6	InheritedBehavior	31	40	inherited
+T7	Property	41	46	trait
+T8	Size	48	52	size
+T9	AnimalPart	53	56	eye
+T10	Color	57	62	color
+T11	AnimalPart	63	67	skin
+T12	Color	68	73	color
+T13	OtherAnimalProperties	74	85	personality

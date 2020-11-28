@@ -1,0 +1,10 @@
+T1	Precipitation	0	5	Sleet
+T2	Precipitation	10	14	hail
+T3	StateOfBeing	15	18	are
+T4	Exemplar	19	24	forms
+T5	WeatherPhenomena	28	34	clouds
+T6	Energy	35	41	energy
+T7	PartsOfWaterCycle	42	53	evaporation
+T8	PhaseChangingActions	42	53	evaporation
+T9	PartsOfWaterCycle	54	67	precipitation
+T10	Precipitation	54	67	precipitation

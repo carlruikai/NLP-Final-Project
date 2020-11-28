@@ -1,0 +1,20 @@
+T1	RelativeLocations	0	5	Where
+T2	StateOfBeing	6	8	is
+T3	OtherOrganismProperties	13	23	biological
+T4	AmountChangingActions	24	37	magnification
+T5	IncreaseDecrease	24	37	magnification
+T6	EnvironmentalDamageDestruction	41	51	pollutants
+T7	AmountComparison	52	56	most
+T8	ProbabilityAndCertainty	57	63	likely
+T9	StateOfBeing	67	69	be
+T10	AmountComparison	74	82	greatest
+T11	RelativeLocations	84	86	in
+T12	BodiesOfWater	90	97	estuary
+T13	UnderwaterEcosystem	90	97	estuary
+T14	RelativeLocations	98	100	in
+T15	PartsOfBodiesOfWater	104	114	open ocean
+T16	UnderwaterEcosystem	104	114	open ocean
+T17	RelativeLocations	115	117	at
+T18	UnderwaterEcosystem	121	136	intertidal zone
+T19	RelativeLocations	137	139	at
+T20	GeographicFormations	142	159	hydrothermal vent

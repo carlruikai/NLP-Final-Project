@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Energy	6	12	energy
+T3	Changes	13	23	conversion
+T4	Occur	24	31	happens
+T5	RelativeTime	32	36	when
+T6	Human	39	45	person
+T7	ActionsForAnimals	46	53	shivers
+T8	Energy	62	68	energy
+T9	StateOfBeing	69	71	is
+T10	TransferEnergy	72	83	transferred
+T11	Result	84	86	to
+T12	Cause	87	91	make
+T13	HumanPart	96	103	muscles
+T14	HumanPart	108	114	joints
+T15	Move	115	119	move
+T16	Energy	121	135	kinetic energy
+T17	RelativeDirection	136	138	to
+T18	Energy	139	155	potential energy
+T19	ThermalEnergy	156	167	heat energy
+T20	RelativeDirection	168	170	to
+T21	Energy	171	185	kinetic energy
+T22	Energy	186	202	potential energy
+T23	RelativeDirection	203	205	to
+T24	Energy	206	221	chemical energy
+T25	Energy	206	221	chemical energy
+T26	RelativeDirection	238	240	to
+T27	Energy	241	258	mechanical energy

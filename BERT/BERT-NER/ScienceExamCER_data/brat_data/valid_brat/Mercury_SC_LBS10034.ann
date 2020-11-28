@@ -1,0 +1,12 @@
+T1	Circuits	5	12	circuit
+T2	PerformAnActivity	13	17	does
+T3	Negations	18	21	not
+T4	Permit	22	27	allow
+T5	ElectricalEnergy	31	41	electrical
+T6	ObjectQuantification	42	49	current
+T7	TransferEnergy	53	57	flow
+T8	PrepositionalDirections	58	65	through
+T9	Circuits	70	76	closed
+T10	Circuits	77	81	open
+T11	Circuits	82	90	parallel
+T12	Circuits	91	97	series

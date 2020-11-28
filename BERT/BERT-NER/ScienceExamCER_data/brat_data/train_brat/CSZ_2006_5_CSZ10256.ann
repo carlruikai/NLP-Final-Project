@@ -1,0 +1,36 @@
+T1	Cities	2	6	city
+T2	ContainBeComposedOf	7	10	has
+T3	Temperature	13	24	temperature
+T4	CardinalNumber	28	30	75
+T5	TemperatureUnit	31	33	°F
+T6	LevelOfInclusion	40	46	partly
+T7	WeatherDescriptions	47	53	cloudy
+T8	Sky	54	59	skies
+T9	WeatherPhenomena	61	68	Weather
+T10	Human	69	80	forecasters
+T11	Occupation	69	80	forecasters
+T12	StateOfBeing	81	84	are
+T13	Hypothesizing	85	95	predicting
+T14	Meteorology	85	95	predicting
+T15	Pressure	105	117	air pressure
+T16	Temperature	122	133	temperature
+T17	ProbabilityAndCertainty	134	138	will
+T18	IncreaseDecrease	139	143	drop
+T19	RelativeTime	144	150	during
+T20	TimeUnit	155	158	day
+T21	TimesOfDayDayNight	155	158	day
+T22	LevelOfInclusion	160	165	Which
+T23	Exemplar	166	170	type
+T24	WeatherPhenomena	174	181	weather
+T25	StateOfBeing	182	184	is
+T26	AmountComparison	185	189	most
+T27	ProbabilityAndCertainty	190	196	likely
+T28	Locations	206	210	area
+T29	RelativeLocations	211	213	in
+T30	TimesOfDayDayNight	218	232	late afternoon
+T31	WeatherDescriptions	234	239	rainy
+T32	Precipitation	234	239	rainy
+T33	Brightness	241	246	sunny
+T34	WeatherDescriptions	241	246	sunny
+T35	Precipitation	248	255	snowing
+T36	Precipitation	257	264	hailing

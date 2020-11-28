@@ -1,0 +1,22 @@
+T1	PartsOfTheNervousSystem	0	14	Nerve impulses
+T2	StateOfBeing	15	18	are
+T3	ReleaseEnergy	19	30	transmitted
+T4	PrepositionalDirections	31	36	along
+T5	SystemParts	37	47	structures
+T6	Cell	53	59	neuron
+T7	PartsOfTheNervousSystem	53	59	neuron
+T8	StateOfBeing	60	62	as
+T9	Event	66	72	action
+T10	OpportunitiesAndTheirExtent	73	82	potential
+T11	LevelOfInclusion	84	89	Which
+T12	ObjectPart	90	94	part
+T13	Cell	100	106	neuron
+T14	PartsOfTheNervousSystem	100	106	neuron
+T15	Uptake	107	115	receives
+T16	Cause	120	131	stimulation
+T17	LevelOfInclusion	135	140	these
+T18	Response	141	149	impulses
+T19	PartsOfTheNervousSystem	151	164	myelin sheath
+T20	PartsOfTheNervousSystem	166	175	dendrites
+T21	PartsOfTheNervousSystem	176	192	nodes of Ranvier
+T22	PartsOfTheNervousSystem	193	198	axons

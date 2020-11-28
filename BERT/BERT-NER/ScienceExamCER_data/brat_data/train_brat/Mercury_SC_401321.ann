@@ -1,0 +1,12 @@
+T1	LivingThing	4	13	organisms
+T2	TransferEnergy	19	26	convert
+T3	Energy	27	39	solar energy
+T4	Complexity	44	47	raw
+T5	Matter	48	57	materials
+T6	ChangeInto	58	62	into
+T7	Nutrition	63	67	food
+T8	StateOfBeing	68	71	are
+T9	PartsOfTheFoodChain	72	81	producers
+T10	PartsOfTheFoodChain	83	92	consumers
+T11	TypeOfConsumer	94	104	herbivores
+T12	PartsOfTheFoodChain	106	117	decomposers

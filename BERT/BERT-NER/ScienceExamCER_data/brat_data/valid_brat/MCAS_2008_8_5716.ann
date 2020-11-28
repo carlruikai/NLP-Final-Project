@@ -1,0 +1,35 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Quality	23	27	best
+T4	QualityComparison	23	27	best
+T5	Communicate	28	37	describes
+T6	SystemAndFunctions	42	49	purpose
+T7	CellsAndGenetics	57	68	chromosomes
+T8	RelativeLocations	69	71	in
+T9	AnimalCellPart	76	83	nucleus
+T10	PlantCellPart	76	83	nucleus
+T11	Cell	89	93	cell
+T12	Preserve	98	103	store
+T13	Genetics	108	128	genetic instructions
+T14	Require	129	135	needed
+T15	Differentiate	139	146	specify
+T16	Identify	139	146	specify
+T17	Property	147	153	traits
+T18	Release	157	164	release
+T19	Energy	165	171	energy
+T20	Cause	172	174	by
+T21	DigestionActions	175	188	breaking down
+T22	Nutrition	189	193	food
+T23	ElementalComponents	194	203	molecules
+T24	CirculationActions	207	216	transport
+T25	Transportation	207	216	transport
+T26	Nutrition	217	226	nutrients
+T27	RelativeDirection	227	231	into
+T28	RelativeDirection	236	239	out
+T29	Cell	247	251	cell
+T30	Help	255	262	protect
+T31	Preserve	255	262	protect
+T32	Cell	267	272	cells
+T33	RelativeDirection	273	277	from
+T34	AvoidReject	273	277	from
+T35	Monera	278	292	microorganisms

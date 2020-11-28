@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	Bird	26	30	bird
+T4	AmountComparison	31	35	most
+T5	ProbabilityAndCertainty	36	42	likely
+T6	Help	43	47	aids
+T7	Uptake	51	60	obtaining
+T8	Nutrition	61	65	food
+T9	VerbsForLocate	66	71	found
+T10	RelativeLocations	72	74	in
+T11	Size	75	80	small
+T12	Locations	81	87	places
+T13	StructuralAdaptation	89	100	webbed feet
+T14	Size	101	106	large
+T15	AnimalPart	107	111	body
+T16	Hardness	112	116	soft
+T17	BirdAnimalPart	117	125	feathers
+T18	Width	126	132	skinny
+T19	BirdAnimalPart	133	137	beak

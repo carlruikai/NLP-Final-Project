@@ -1,0 +1,46 @@
+T1	Cause	0	3	Why
+T2	StateOfBeing	4	6	is
+T3	SeasonsFallAutumnWinterSpringSummer	10	16	winter
+T4	RelativeLocations	11	13	in
+T5	NorthernHemisphereLocations	20	33	North America
+T6	Continents	20	33	North America
+T7	RelativeTime	34	38	when
+T8	StateOfBeing	42	44	is
+T9	SeasonsFallAutumnWinterSpringSummer	45	51	summer
+T10	RelativeLocations	52	54	in
+T11	SouthernHemisphereLocations	55	68	South America
+T12	Continents	55	68	South America
+T13	CardinalDirectionsNorthEastSouthWest	74	79	south
+T14	StateOfBeing	80	82	is
+T15	Frequency	83	89	always
+T16	Temperature	90	96	warmer
+T17	Comparisons	97	101	than
+T18	CardinalDirectionsNorthEastSouthWest	106	111	north
+T19	RelativeLocations	113	118	There
+T20	StateOfBeing	119	121	is
+T21	AmountComparison	122	126	less
+T22	ExamplesOfHabitats	127	131	land
+T23	Comparisons	132	136	than
+T24	PhasesOfWater	137	142	water
+T25	LiquidMatter	137	142	water
+T26	RelativeLocations	143	145	in
+T27	CardinalDirectionsNorthEastSouthWest	150	155	south
+T28	NorthernHemisphereLocations	157	170	North America
+T29	Continents	157	170	North America
+T30	Uptake	171	179	receives
+T31	AmountComparison	180	184	less
+T32	MeasuresOfAmountOfLight	185	191	direct
+T33	CelestialLightOnEarth	192	200	sunlight
+T34	RelativeTime	201	207	during
+T35	SeasonsFallAutumnWinterSpringSummer	212	218	winter
+T36	RelativeTime	220	224	When
+T37	StateOfBeing	228	230	is
+T38	Months	231	239	December
+T39	RelativeLocations	240	242	in
+T40	NorthernHemisphereLocations	243	256	North America
+T41	Continents	243	256	North America
+T42	StateOfBeing	261	263	is
+T43	Months	264	268	June
+T44	RelativeLocations	269	271	in
+T45	SouthernHemisphereLocations	272	285	South America
+T46	Continents	272	285	South America

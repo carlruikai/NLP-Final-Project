@@ -1,0 +1,30 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Gravity	6	24	gravitational pull
+T3	Cause	25	28	has
+T4	AmountComparison	33	41	greatest
+T5	ActUponSomething	42	51	influence
+T6	Alter	42	51	influence
+T7	PrepositionalDirections	52	54	on
+T8	InnerPlanets	55	60	Earth
+T9	LOCATION	55	60	Earth
+T10	TidesHighTideLowTide	63	68	tides
+T11	Gravity	74	92	gravitational pull
+T12	RelativeLocations	93	100	between
+T13	InnerPlanets	101	106	Earth
+T14	LOCATION	101	106	Earth
+T15	Moon	115	119	Moon
+T16	Gravity	124	142	gravitational pull
+T17	RelativeLocations	143	150	between
+T18	InnerPlanets	151	156	Earth
+T19	LOCATION	151	156	Earth
+T20	Star	165	168	Sun
+T21	Gravity	173	191	gravitational pull
+T22	RelativeLocations	192	199	between
+T23	InnerPlanets	200	205	Earth
+T24	LOCATION	200	205	Earth
+T25	OuterPlanets	210	217	Jupiter
+T26	Gravity	222	240	gravitational pull
+T27	RelativeLocations	241	248	between
+T28	InnerPlanets	249	254	Earth
+T29	LOCATION	249	254	Earth
+T30	InnerPlanets	259	263	Mars

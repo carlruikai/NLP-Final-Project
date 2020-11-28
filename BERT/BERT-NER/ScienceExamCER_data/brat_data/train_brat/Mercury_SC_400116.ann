@@ -1,0 +1,10 @@
+T1	Light	0	5	Light
+T2	CombineAdd	6	12	enters
+T3	Move	6	12	enters
+T4	Human	17	22	human
+T5	HumanPart	23	26	eye
+T6	PrepositionalDirections	27	34	through
+T7	PartsOfTheEye	39	45	retina
+T8	PartsOfTheEye	47	52	pupil
+T9	PartsOfTheEye	54	58	iris
+T10	PartsOfTheEye	60	64	lens

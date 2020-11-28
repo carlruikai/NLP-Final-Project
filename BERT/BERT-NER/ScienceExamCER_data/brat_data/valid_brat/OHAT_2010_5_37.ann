@@ -1,0 +1,39 @@
+T1	Scientists	2	9	student
+T2	VerbsForLocate	10	14	sets
+T3	Move	10	14	sets
+T4	ManmadeObjects	17	22	block
+T5	RelativeLocations	23	25	at
+T6	RelativeLocations	30	33	top
+T7	NaturalMaterial	39	45	wooden
+T8	GeometricSpatialObjects	46	50	ramp
+T9	Scientists	56	63	student
+T10	PushingActions	64	70	pushes
+T11	ManmadeObjects	75	80	block
+T12	RelativeTime	82	84	As
+T13	ManmadeObjects	89	94	block
+T14	ChangeInLocation	95	101	slides
+T15	Move	95	101	slides
+T16	RelativeDirection	102	106	down
+T17	PrepositionalDirections	102	106	down
+T18	GeometricSpatialObjects	111	115	ramp
+T19	Speed	120	130	slows down
+T20	IncreaseDecrease	120	130	slows down
+T21	RelativeTime	135	139	then
+T22	Move	140	145	comes
+T23	RelativeDirection	146	148	to
+T24	StopRemove	151	155	stop
+T25	Force	162	167	force
+T26	Cause	168	174	causes
+T27	ManmadeObjects	179	184	block
+T28	RelativeDirection	185	187	to
+T29	IncreaseDecrease	188	197	slow down
+T30	Speed	188	197	slow down
+T31	Force	203	208	force
+T32	Gravity	212	219	gravity
+T33	Force	224	229	force
+T34	PullingForces	233	241	friction
+T35	Force	246	251	force
+T36	MagneticForce	255	264	magnetism
+T37	Force	269	274	force
+T38	Scientists	282	289	student
+T39	PushingActions	292	296	push

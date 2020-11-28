@@ -1,0 +1,40 @@
+T1	OuterPlanets	0	7	Jupiter
+T2	LOCATION	0	7	Jupiter
+T3	StateOfBeing	8	10	is
+T4	Size	15	22	largest
+T5	Planet	23	29	planet
+T6	RelativeLocations	30	32	in
+T7	SolarSystem	37	49	solar system
+T8	CelestialMovement	54	61	rotates
+T9	Position	62	73	on its axis
+T10	ArithmeticMeasure	74	78	once
+T11	ProbabilityAndCertainty	79	84	about
+T12	LevelOfInclusion	85	90	every
+T13	CardinalNumber	91	93	10
+T14	TimeUnit	94	99	hours
+T15	MarkersOfTime	106	117	time period
+T16	RelativeLocations	118	120	on
+T17	InnerPlanets	121	126	Earth
+T18	LOCATION	121	126	Earth
+T19	ProbabilityAndCertainty	127	132	would
+T20	StateOfBeing	133	135	be
+T21	CardinalNumber	136	138	10
+T22	DURATION	136	144	10 hours
+T23	TimeUnit	139	144	hours
+T24	TemporalProperty	145	149	long
+T25	InnerPlanets	153	158	Earth
+T26	LOCATION	153	158	Earth
+T27	CelestialMovement	159	166	rotated
+T28	Position	167	178	on its axis
+T29	ArithmeticMeasure	179	183	once
+T30	LevelOfInclusion	184	189	every
+T31	CardinalNumber	190	192	10
+T32	TimeUnit	193	198	hours
+T33	DURATION	200	205	a day
+T34	TimeUnit	202	205	day
+T35	DURATION	206	212	a week
+T36	TimeUnit	208	212	week
+T37	DURATION	213	220	a month
+T38	TimeUnit	215	220	month
+T39	DURATION	221	227	a year
+T40	TimeUnit	223	227	year

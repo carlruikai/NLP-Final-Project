@@ -1,0 +1,13 @@
+T1	Force	4	9	force
+T2	Require	10	19	necessary
+T3	Preserve	23	27	keep
+T4	Planet	28	35	planets
+T5	RelativeLocations	36	38	in
+T6	CelestialMovement	39	44	orbit
+T7	PrepositionalDirections	45	51	around
+T8	Star	56	59	Sun
+T9	StateOfBeing	60	62	is
+T10	Gravity	63	70	gravity
+T11	PullingForces	72	80	friction
+T12	MagneticForce	82	91	magnetism
+T13	Energy	93	100	nuclear

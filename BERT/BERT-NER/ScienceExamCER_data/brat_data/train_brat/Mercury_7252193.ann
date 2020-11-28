@@ -1,0 +1,25 @@
+T1	Method	0	3	How
+T2	StateOfBeing	4	7	are
+T3	SystemAndFunctions	12	21	functions
+T4	NutritiveSubstancesForAnimalsOrPlants	27	39	carbohydrate
+T5	NutritiveSubstancesForAnimalsOrPlants	46	51	lipid
+T6	Comparisons	52	59	similar
+T7	LevelOfInclusion	61	65	Both
+T8	StateOfBeing	66	69	are
+T9	Source	72	78	source
+T10	Energy	82	88	energy
+T11	LevelOfInclusion	90	94	Both
+T12	StateOfBeing	95	98	are
+T13	Create	99	109	replicated
+T14	RelativeTime	110	116	during
+T15	CellProcesses	117	124	meiosis
+T16	LevelOfInclusion	126	130	Both
+T17	IncreaseDecrease	131	136	lower
+T18	Energy	141	158	activation energy
+T19	Reactions	162	171	reactions
+T20	LevelOfInclusion	173	177	Both
+T21	PhaseChangingActions	178	186	dissolve
+T22	FormChangingActions	178	186	dissolve
+T23	Nutrition	187	196	nutrients
+T24	RelativeLocations	197	199	in
+T25	DigestiveSystem	204	220	digestive system

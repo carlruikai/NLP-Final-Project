@@ -1,0 +1,37 @@
+T1	RelativeLocations	0	2	In
+T2	DATE	3	7	1987
+T3	StarTypes	11	20	supernova
+T4	StateOfBeing	21	24	was
+T5	Identify	25	33	detected
+T6	RelativeLocations	34	36	in
+T7	Galaxy	41	70	Large Magellanic Cloud galaxy
+T8	LevelOfInclusion	72	77	which
+T9	StateOfBeing	78	80	is
+T10	ProbabilityAndCertainty	81	94	approximately
+T11	NUMBER	95	102	169,000
+T12	DistanceUnit	103	114	light years
+T13	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	103	114	light years
+T14	RelativeDirection	115	119	from
+T15	InnerPlanets	120	125	Earth
+T16	LOCATION	120	125	Earth
+T17	LevelOfInclusion	127	132	Which
+T18	Event	133	138	event
+T19	Create	139	147	produces
+T20	StarTypes	150	159	supernova
+T21	ChangeInComposition	165	174	explosion
+T22	TypesOfEvent	165	174	explosion
+T23	Mass	180	187	massive
+T24	Star	188	192	star
+T25	Birth	197	202	birth
+T26	StarTypes	208	221	main-sequence
+T27	Star	222	226	star
+T28	Death	231	239	collapse
+T29	Size	245	257	medium-sized
+T30	Star	258	262	star
+T31	ChangeInLocation	267	276	collision
+T32	Touch	267	276	collision
+T33	CardinalNumber	280	283	one
+T34	NUMBER	280	283	one
+T35	Star	284	288	star
+T36	CombineAdd	289	293	with
+T37	Comparisons	294	301	another

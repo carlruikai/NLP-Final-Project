@@ -1,0 +1,28 @@
+T1	SoundProducingObject	3	13	organ pipe
+T2	Create	14	22	produces
+T3	ExamplesOfSounds	25	37	musical note
+T4	Comparisons	38	42	same
+T5	Numbers	43	49	number
+T6	Element	53	61	nitrogen
+T7	StateOfMatter	62	65	gas
+T8	ElementalComponents	66	75	molecules
+T9	ContainBeComposedOf	77	81	with
+T10	PropertiesOfWaves	84	94	wavelength
+T11	NUMBER	98	102	2.72
+T12	DistanceUnit	103	104	m
+T13	StateOfBeing	111	113	is
+T14	PropertiesOfWaves	118	127	frequency
+T15	ExamplesOfSounds	136	140	note
+T16	SoundEnergy	148	162	speed of sound
+T17	SpeedUnit	148	162	speed of sound
+T18	StateOfBeing	163	165	is
+T19	NUMBER	166	169	348
+T20	SpeedUnit	170	173	m/s
+T21	NUMBER	175	179	85.7
+T22	FrequencyUnit	180	182	Hz
+T23	NUMBER	183	186	128
+T24	FrequencyUnit	187	189	Hz
+T25	NUMBER	190	193	260
+T26	FrequencyUnit	194	196	Hz
+T27	NUMBER	197	200	466
+T28	FrequencyUnit	201	203	Hz

@@ -1,0 +1,27 @@
+T1	GroupsOfScientists	2	15	research team
+T2	Goal	16	22	wanted
+T3	Create	26	33	produce
+T4	Size	36	43	smaller
+T5	Comparisons	36	43	smaller
+T6	Exemplar	44	51	variety
+T7	Mammal	55	75	German shepherd dogs
+T8	Reproduction	82	87	mated
+T9	Size	92	100	smallest
+T10	Comparisons	92	100	smallest
+T11	Mammal	101	105	dogs
+T12	RelativeDirection	106	110	from
+T13	Comparisons	111	120	different
+T14	GroupsOfOrganisms	121	128	litters
+T15	RelativeNumber	133	140	several
+T16	GeneticRelations	141	152	generations
+T17	StateOfBeing	156	158	is
+T18	Exemplar	165	172	example
+T19	LevelOfInclusion	176	181	which
+T20	ScientificTheoryExperimentationAndHistory	182	189	concept
+T21	LivingDying	191	201	extinction
+T22	Extinction	191	201	extinction
+T23	Mutation	202	210	mutation
+T24	Evolution	211	229	selective breeding
+T25	Biology	211	229	selective breeding
+T26	Evolution	230	247	natural selection
+T27	NaturalSelection	230	247	natural selection

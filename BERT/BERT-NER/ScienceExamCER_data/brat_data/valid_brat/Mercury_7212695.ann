@@ -1,0 +1,30 @@
+T1	TechnologicalComponent	0	4	Wire
+T2	MetalSolids	0	4	Wire
+T3	StateOfBeing	5	8	was
+T4	Position	9	15	looped
+T5	RelativeNumber	16	23	several
+T6	Numbers	24	29	times
+T7	PrepositionalDirections	30	36	around
+T8	MetalSolids	40	49	iron nail
+T9	TechnologicalComponent	59	63	wire
+T10	MetalSolids	59	63	wire
+T11	ObjectPart	66	70	ends
+T12	StateOfBeing	71	75	were
+T13	Touch	76	85	connected
+T14	RelativeDirection	86	88	to
+T15	ElectricalEnergySource	91	98	battery
+T16	LevelOfInclusion	113	118	these
+T17	Device	129	135	device
+T18	AmountComparison	136	140	most
+T19	ProbabilityAndCertainty	141	147	likely
+T20	Use	151	155	used
+T21	Create	160	167	produce
+T22	ThermalEnergy	170	174	heat
+T23	Source	175	181	source
+T24	PerformAnActivity	185	196	demonstrate
+T25	PullingForces	197	213	frictional force
+T26	Create	218	224	create
+T27	MagneticEnergy	227	241	magnetic field
+T28	Create	245	253	generate
+T29	SoundEnergy	256	261	sound
+T30	EnergyWaves	256	266	sound wave

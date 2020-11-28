@@ -1,0 +1,20 @@
+T1	ThermalEnergy	0	15	Solar radiation
+T2	StateOfBeing	16	18	is
+T3	Group	21	32	combination
+T4	Light	36	41	light
+T5	ContainBeComposedOf	42	46	with
+T6	Comparisons	47	56	different
+T7	PropertiesOfWaves	57	68	wavelengths
+T8	LevelOfInclusion	70	75	Which
+T9	Exemplar	76	80	type
+T10	Light	84	87	ray
+T11	EnergyWaves	84	87	ray
+T12	AbilityAvailability	88	91	can
+T13	Harm	92	96	harm
+T14	Human	97	102	human
+T15	PartsOfTheIntegumentarySystem	103	107	skin
+T16	AmountComparison	112	116	most
+T17	ElectromagneticSpectrum	118	126	infrared
+T18	ElectromagneticSpectrum	127	136	microwave
+T19	ElectromagneticSpectrum	137	148	ultraviolet
+T20	ElectromagneticSpectrum	149	156	visible
