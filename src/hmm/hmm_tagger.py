@@ -292,7 +292,8 @@ class HMMTagger(object):
             test_sentences = self.load_file(test_path)[:test_num]
         else:
             test_sentences = self.load_file(test_path)
-            
+        
+        print('=' * 70)
         print('Testing...')
         for sentence in tqdm(test_sentences):
                     
@@ -318,5 +319,7 @@ class HMMTagger(object):
         
         # Compute the final accuracy
         accuracy = np.array(accuracy).mean()
+        print('=' * 70)
         print('Accuracy: {:.4f}%'.format(accuracy * 100))
         print('Runtime: {:.2f}s'.format(time.time() - start_time))
+        print('=' * 70)

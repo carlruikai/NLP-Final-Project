@@ -16,6 +16,8 @@ class HMMTaggerCoNLL2000(HMMTagger):
         )
     
     def load_file(self, file_name):
+        print('=' * 70)
+        print('Loading files...')
         with open(file_name, "r") as f:
             lines = f.readlines()
         idx_list = [i + 1 for i, v in enumerate(lines) if v == '\n']

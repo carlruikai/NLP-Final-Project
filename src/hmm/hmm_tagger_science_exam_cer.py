@@ -45,5 +45,4 @@ if __name__ == '__main__':
         beam_search_n=args.beam_size
         ).main(
         test_path='../../data/ScienceExamCER/test_spacy.txt',
-        test_num=100
         )
