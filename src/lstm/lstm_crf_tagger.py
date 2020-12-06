@@ -9,6 +9,7 @@ from keras.models import Model, Input
 from keras.layers import LSTM, Embedding, Dense, TimeDistributed, Bidirectional
 from keras_contrib.layers import CRF
 from keras.callbacks import ModelCheckpoint
+# from keras.utils import multi_gpu_model
 
 from sklearn.model_selection import train_test_split
 
@@ -25,17 +26,19 @@ class LSTM_CRF_Tagger(object):
 
     def __init__(self,
                  train_path,
-                 model_path=model_path,
+                 model_name,
                  max_length,
                  embedding_dim,
                  epochs,
-                 batch_size):
+                 batch_size,
+                 n_gpu=None):
         
-        self.model_path = model_path
+        self.model_name = model_name
         self.max_length = max_length
         self.embedding_dim = embedding_dim
         self.epochs = epochs
         self.batch_size = batch_size
+        self.n_gpu = n_gpu
         
         self.sentences, self.words, self.pos_tags, self.ner_tags = \
             self.load_file(train_path)
@@ -90,7 +93,7 @@ class LSTM_CRF_Tagger(object):
                           value=self.tag_to_idx['PAD'])
         y = [to_categorical(y_, num_classes=self.n_tags + 1) for y_ in y]
         
-        return X, y
+        return np.array(X), np.array(y)
     
     def build_model(self):
         input = Input(shape=(self.max_length,))
@@ -114,6 +117,10 @@ class LSTM_CRF_Tagger(object):
         
         # Build model
         model = Model(input, out)
+        
+        # Multi-GPU
+        # if self.n_gpu:
+        #     model = multi_gpu_model(model, gpus=self.n_gpu)
         
         # Compile model
         model.compile(optimizer="rmsprop",
@@ -140,11 +147,16 @@ class LSTM_CRF_Tagger(object):
         X_train, X_valid, y_train, y_valid = \
             self.train_valid_split(X_train, y_train)
             
+        print('Number of training data: ', len(y_train))
+        print('Number of validation data: ', len(y_valid))
+        
+        model_path = 'weights.best.' + self.model_name + '.hdf5'
+            
         checkpointer = ModelCheckpoint(
-            filepath=self.model_path,
+            filepath=model_path,
             verbose=1,
             save_best_only=True)
-
+        
         model.fit(X_train, y_train,
                   validation_data=(X_valid, y_valid),
                   epochs=self.epochs,
@@ -153,26 +165,28 @@ class LSTM_CRF_Tagger(object):
                   verbose=1)
         
         history = model.history
+
+        x_int = np.arange(1, len(history.history['crf_viterbi_accuracy']) + 1)
         
         plt.figure()
-        plt.plot(history.history['crf_viterbi_accuracy'])
-        plt.plot(history.history['val_crf_viterbi_accuracy'])
+        plt.plot(x_int, history.history['crf_viterbi_accuracy'])
+        plt.plot(x_int, history.history['val_crf_viterbi_accuracy'])
         plt.title('model accuracy')
         plt.ylabel('accuracy')
         plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.savefig('accuracy.png')
+        plt.legend(['train', 'valid'], loc='upper left')
+        plt.savefig(self.model_name + '_accuracy.png')
 
         plt.figure()
-        plt.plot(history.history['loss'])
-        plt.plot(history.history['val_loss'])
+        plt.plot(x_int, history.history['loss'])
+        plt.plot(x_int, history.history['val_loss'])
         plt.title('model loss')
         plt.ylabel('loss')
         plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.savefig('loss.png')
+        plt.legend(['train', 'valid'], loc='upper left')
+        plt.savefig(self.model_name + '_loss.png')
         
-        model.load_weights('weights.best.lstm.hdf5')
+        model.load_weights(model_path)
 
         return model
     

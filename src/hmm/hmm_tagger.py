@@ -2,6 +2,7 @@ import time
 import os
 import pickle as pkl
 import numpy as np
+from tqdm import tqdm
 from os import path
 from collections import defaultdict
 
@@ -83,7 +84,7 @@ class HMMTagger(object):
     
     def get_counts(self):
         print('Counting words and tags...')
-        for sentence in self.sentences:
+        for sentence in tqdm(self.sentences):
             i = 0
             previous_tag = None
             for word, tag in self.normalize_sentence(sentence):
@@ -169,8 +170,11 @@ class HMMTagger(object):
                 
                 # Previous state
                 for pre_s in self.states_list:
-                    prob = v_path[t][pre_s]['prob'] * \
-                        self.transition_prob[pre_s][s]
+                    if pre_s not in self.transition_prob:
+                        prob = v_path[t][pre_s]['prob'] * epsilon()
+                    else:
+                        prob = v_path[t][pre_s]['prob'] * \
+                            self.transition_prob[pre_s][s]
                         
                     # Track the max prob and the previous state
                     if prob > prob_state :
@@ -290,7 +294,7 @@ class HMMTagger(object):
             test_sentences = self.load_file(test_path)
             
         print('Testing...')
-        for sentence in test_sentences:
+        for sentence in tqdm(test_sentences):
                     
             # Normalize sentence
             word_tags = self.normalize_sentence(sentence)
