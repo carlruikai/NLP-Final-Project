@@ -25,11 +25,13 @@ class LSTM_CRF_Tagger(object):
 
     def __init__(self,
                  train_path,
+                 model_path=model_path,
                  max_length,
                  embedding_dim,
                  epochs,
                  batch_size):
         
+        self.model_path = model_path
         self.max_length = max_length
         self.embedding_dim = embedding_dim
         self.epochs = epochs
@@ -139,7 +141,7 @@ class LSTM_CRF_Tagger(object):
             self.train_valid_split(X_train, y_train)
             
         checkpointer = ModelCheckpoint(
-            filepath='weights.best.lstm.hdf5',
+            filepath=self.model_path,
             verbose=1,
             save_best_only=True)
 

@@ -6,6 +6,7 @@ class LSTM_CRF_Tagger_ScienceExamCER(LSTM_CRF_Tagger):
     
     def __init__(self,
                  train_path,
+                 model_path,
                  valid_path,
                  max_length,
                  embedding_dim,
@@ -13,6 +14,7 @@ class LSTM_CRF_Tagger_ScienceExamCER(LSTM_CRF_Tagger):
                  batch_size):
         super(LSTM_CRF_Tagger_ScienceExamCER, self).__init__(
             train_path=train_path,
+            model_path=model_path,
             max_length=max_length,
             embedding_dim=embedding_dim,
             epochs=epochs,
@@ -54,6 +56,7 @@ if __name__ == '__main__':
     LSTM_CRF_Tagger_ScienceExamCER(
         train_path='../../data/ScienceExamCER/train_spacy.txt',
         valid_path='../../data/ScienceExamCER/valid_spacy.txt',
+        model_path='weights.best.science_exam_cer.hdf5',
         max_length=75,
         embedding_dim=20,
         epochs=5,

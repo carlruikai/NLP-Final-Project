@@ -4,12 +4,14 @@ class LSTM_CRF_Tagger_CoNLL2000(LSTM_CRF_Tagger):
     
     def __init__(self,
                  train_path,
+                 model_path,
                  max_length,
                  embedding_dim,
                  epochs,
                  batch_size):
         super(LSTM_CRF_Tagger_CoNLL2000, self).__init__(
             train_path=train_path,
+            model_path=model_path,
             max_length=max_length,
             embedding_dim=embedding_dim,
             epochs=epochs,
@@ -47,6 +49,7 @@ if __name__ == '__main__':
 
     LSTM_CRF_Tagger_CoNLL2000(
         train_path='../../data/CoNLL-2000/train.txt',
+        model_path='weights.best.conll2000.hdf5',
         max_length=75,
         embedding_dim=20,
         epochs=50,
