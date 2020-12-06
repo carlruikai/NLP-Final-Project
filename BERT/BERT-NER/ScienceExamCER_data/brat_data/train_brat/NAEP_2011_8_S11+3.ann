@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	StateOfBeing	15	17	is
+T4	ContainBeComposedOf	24	30	shared
+T5	RelativeLocations	31	33	by
+T6	LevelOfInclusion	34	37	all
+T7	Cell	38	43	cells
+T8	Require	50	54	need
+T9	Energy	55	61	energy
+T10	Reproduction	68	86	reproduce sexually
+T11	Create	93	97	make
+T12	Nutrition	108	112	food
+T13	Move	119	123	move
+T14	RelativeDirection	124	128	from
+T15	Locations	129	134	place
+T16	RelativeDirection	135	137	to
+T17	Locations	138	143	place

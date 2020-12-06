@@ -1,0 +1,35 @@
+T1	TypesOfTerrestrialEcosystems	2	10	tropical
+T2	Forests	11	22	rain forest
+T3	ContainBeComposedOf	23	31	contains
+T4	RelativeNumber	32	36	many
+T5	Height	37	41	tall
+T6	Plant	42	47	trees
+T7	Size	49	56	Smaller
+T8	Plant	57	63	plants
+T9	ContainBeComposedOf	64	68	with
+T10	Size	69	74	large
+T11	PlantPart	75	81	leaves
+T12	Growth	82	86	grow
+T13	ActionsForAgriculture	82	86	grow
+T14	RelativeLocations	87	89	at
+T15	PlantPart	94	98	base
+T16	Height	106	110	tall
+T17	Plant	111	116	trees
+T18	Size	122	127	large
+T19	PlantPart	128	134	leaves
+T20	StateOfBeing	135	138	are
+T21	AmountComparison	139	143	most
+T22	ProbabilityAndCertainty	144	150	likely
+T23	Adaptation	154	164	adaptation
+T24	Plant	172	177	plant
+T25	Cause	178	184	due to
+T26	LevelOfInclusion	185	190	which
+T27	StateOfBeing	191	200	condition
+T28	Negations	202	206	lack
+T29	CelestialLightOnEarth	210	218	sunlight
+T30	Negations	219	223	lack
+T31	Element	227	233	oxygen
+T32	Negations	234	238	lack
+T33	PhasesOfWater	242	247	water
+T34	Negations	248	252	lack
+T35	Nutrition	256	260	food

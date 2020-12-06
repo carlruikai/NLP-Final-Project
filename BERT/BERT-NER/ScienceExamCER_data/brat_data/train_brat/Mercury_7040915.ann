@@ -1,0 +1,17 @@
+T1	RelativeTime	0	4	When
+T2	EarthPartsGrossGroundAtmosphere	9	28	Northern Hemisphere
+T3	NorthernHemisphereLocations	9	28	Northern Hemisphere
+T4	StateOfBeing	21	23	is
+T5	CelestialMovement	32	38	tilted
+T6	PrepositionalDirections	39	45	toward
+T7	Star	50	53	Sun
+T8	SeasonsFallAutumnWinterSpringSummer	60	66	season
+T9	StateOfBeing	67	69	is
+T10	Occur	70	79	occurring
+T11	RelativeLocations	76	78	in
+T12	SouthernHemisphereLocations	83	92	Australia
+T13	Continents	83	92	Australia
+T14	SeasonsFallAutumnWinterSpringSummer	94	98	fall
+T15	SeasonsFallAutumnWinterSpringSummer	99	105	winter
+T16	SeasonsFallAutumnWinterSpringSummer	106	112	spring
+T17	SeasonsFallAutumnWinterSpringSummer	113	119	summer

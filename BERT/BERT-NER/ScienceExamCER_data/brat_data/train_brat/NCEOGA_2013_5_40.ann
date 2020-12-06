@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	10	18	examples
+T3	Inheritance	22	31	inherited
+T4	Property	32	38	traits
+T5	Rarity	40	48	specific
+T6	BeliefKnowledge	49	56	beliefs
+T7	HumanPart	57	69	fingerprints
+T8	OtherHumanProperties	70	78	memories
+T9	AnimalPart	79	83	nose
+T10	Shape	84	89	shape

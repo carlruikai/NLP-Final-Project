@@ -1,0 +1,43 @@
+T1	Scientists	2	11	scientist
+T2	StateOfBeing	12	15	was
+T3	PerformingResearch	16	25	examining
+T4	Examine	16	25	examining
+T5	Size	28	33	large
+T6	Rock	34	41	boulder
+T7	StateOfBeing	47	50	was
+T8	ActUponSomething	51	58	covered
+T9	ContainBeComposedOf	51	58	covered
+T10	Protist	64	71	lichens
+T11	CombineAdd	75	86	combination
+T12	Fungi	90	95	fungi
+T13	Protist	100	105	algae
+T14	FormChangingActions	111	118	chipped
+T15	ObjectQuantification	121	126	piece
+T16	Rock	134	138	rock
+T17	Move	143	149	placed
+T18	RelativeLocations	153	158	under
+T19	ViewingTools	161	171	microscope
+T20	Observe	176	183	observe
+T21	ObjectPart	194	201	surface
+T22	Rock	209	213	rock
+T23	StateOfBeing	214	217	was
+T24	FormChangingActions	218	226	breaking
+T25	ChemicalChange	218	231	breaking down
+T26	RelativeLocations	232	242	underneath
+T27	Protist	247	253	lichen
+T28	LevelOfInclusion	255	260	Which
+T29	StateOfBeing	261	264	was
+T30	Scientists	269	278	scientist
+T31	AmountComparison	279	283	most
+T32	ProbabilityAndCertainty	284	290	likely
+T33	Observe	291	298	observi
+T34	Relations	306	325	interaction between
+T35	ActUponSomething	306	317	interaction
+T36	NonlivingPartsOfTheEnvironment	326	340	abiotic factor
+T37	Result	346	353	effects
+T38	ChangeInComposition	357	376	chemical weathering
+T39	ConstructiveDestructiveForces	366	376	weathering
+T40	GeographicFormationProcess	381	388	process
+T41	ConstructiveDestructiveForces	392	402	deposition
+T42	Result	407	414	effects
+T43	ConstructiveDestructiveForces	418	426	abrasion

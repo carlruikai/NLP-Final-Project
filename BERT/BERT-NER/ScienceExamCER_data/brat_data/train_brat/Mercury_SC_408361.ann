@@ -1,0 +1,27 @@
+T1	PERSON	0	7	Phyllis
+T2	Examine	8	20	investigated
+T3	Experimentation	8	20	investigated
+T4	Occur	26	34	happened
+T5	RelativeTime	35	39	when
+T6	CombineAdd	44	49	added
+T7	RelativeNumber	50	54	some
+T8	Comparisons	55	64	different
+T9	Substances	65	75	substances
+T10	RelativeDirection	76	78	to
+T11	PhasesOfWater	79	84	water
+T12	LiquidMatter	79	84	water
+T13	LevelOfInclusion	86	91	Which
+T14	Substances	92	101	substance
+T15	AbilityAvailability	102	105	can
+T16	CombineAdd	106	118	combine with
+T17	PhasesOfWater	119	124	water
+T18	LiquidMatter	119	124	water
+T19	Result	125	127	to
+T20	Create	128	132	form
+T21	Mixtures	135	143	solution
+T22	FossilFuel	145	148	oil
+T23	LiquidMatter	145	148	oil
+T24	Rock	149	154	rocks
+T25	Soil	155	159	soil
+T26	NutritiveSubstancesForAnimalsOrPlants	160	165	sugar
+T27	GranularSolids	160	165	sugar

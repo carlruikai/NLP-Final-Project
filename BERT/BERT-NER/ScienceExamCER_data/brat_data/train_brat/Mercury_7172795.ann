@@ -1,0 +1,25 @@
+T1	AnimalPart	4	8	skin
+T2	StateOfBeing	9	11	is
+T3	Size	16	23	largest
+T4	Comparisons	16	23	largest
+T5	AnimalPart	24	29	organ
+T6	RelativeLocations	30	32	in
+T7	Human	37	42	human
+T8	AnimalPart	43	47	body
+T9	StateOfBeing	53	55	is
+T10	AnimalPart	56	60	skin
+T11	Classify	61	71	considered
+T12	StateOfBeing	75	77	be
+T13	AnimalPart	81	86	organ
+T14	StateOfBeing	91	93	is
+T15	ContainBeComposedOf	94	101	made of
+T16	Cell	102	107	cells
+T17	Event	112	116	acts
+T18	StateOfBeing	117	119	as
+T19	Separation	122	129	barrier
+T20	StateOfBeing	134	136	is
+T21	ContainBeComposedOf	137	144	made of
+T22	AnimalPart	145	152	tissues
+T23	StateOfBeing	146	148	is
+T24	ObjectPart	160	164	part
+T25	LivingThing	171	179	organism

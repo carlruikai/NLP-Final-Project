@@ -1,0 +1,24 @@
+T1	LevelOfInclusion	0	5	Which
+T2	CardinalNumber	6	11	three
+T3	NUMBER	6	11	three
+T4	AnimalSystemsProcesses	12	19	systems
+T5	Human	27	32	human
+T6	HumanPart	33	37	body
+T7	PerformAnActivity	38	46	function
+T8	Relations	47	55	together
+T9	Result	47	49	to
+T10	Move	59	63	move
+T11	ActUponSomething	68	75	control
+T12	HumanPart	76	86	body parts
+T13	NervousSystem	88	95	nervous
+T14	SkeletalSystem	97	105	skeletal
+T15	MuscularSystem	111	119	muscular
+T16	MuscularSystem	111	119	muscular
+T17	EndocrineSystem	130	139	endocrine
+T18	ExcretorySystem	145	154	excretory
+T19	DigestiveSystem	155	164	digestive
+T20	ExcretorySystem	166	175	excretory
+T21	ReproductiveSystem	181	193	reproductive
+T22	CirculatorySystem	194	205	circulatory
+T23	EndocrineSystem	207	216	endocrine
+T24	RespiratorySystem	222	233	respiratory

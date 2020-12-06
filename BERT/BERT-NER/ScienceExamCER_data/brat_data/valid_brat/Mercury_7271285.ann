@@ -1,0 +1,32 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	ImportanceComparison	22	26	main
+T5	SystemAndFunctions	27	35	function
+T6	PropertiesOfSickness	43	51	vomiting
+T7	Response	52	58	reflex
+T8	StopRemove	63	66	rid
+T9	AnimalPart	71	75	body
+T10	Toxins	79	85	wastes
+T11	StopRemove	89	94	expel
+T12	Nutrition	95	99	food
+T13	ContainBeComposedOf	105	108	has
+T14	Negations	109	111	no
+T15	Nutrition	112	123	nutritional
+T16	Value	124	129	value
+T17	AmountChangingActions	133	138	empty
+T18	PartsOfTheDigestiveSystem	143	150	stomach
+T19	PartsOfEndocrineSystem	143	150	stomach
+T20	RelativeTime	151	155	when
+T21	ContainBeComposedOf	159	162	has
+T22	RelativeNumber	163	171	too much
+T23	Nutrition	172	176	food
+T24	RelativeLocations	177	179	in
+T25	StopRemove	186	192	remove
+T26	Toxins	193	207	toxic material
+T27	RelativeDirection	208	212	from
+T28	PartsOfTheDigestiveSystem	217	224	stomach
+T29	PartsOfEndocrineSystem	217	224	stomach
+T30	RelativeTime	225	231	before
+T31	StateOfBeing	235	237	is
+T32	DigestionActions	238	246	absorbed

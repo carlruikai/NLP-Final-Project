@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	VariablesControls	15	22	factors
+T4	Alter	23	30	affects
+T5	RelativeNumber	31	34	how
+T6	Speed	35	39	fast
+T7	SoundEnergy	42	47	sound
+T8	EnergyWaves	42	52	sound wave
+T9	Move	53	58	moves
+T10	Exemplar	64	68	kind
+T11	Material	72	80	material
+T12	StateOfBeing	84	86	is
+T13	Move	87	93	moving
+T14	PrepositionalDirections	94	101	through
+T15	PropertiesOfWaves	106	115	amplitude
+T16	EnergyWaves	123	133	sound wave
+T17	SoundEnergy	123	128	sound
+T18	ParticleMovement	136	146	vibrations
+T19	PropertiesOfWaves	151	161	wavelength
+T20	Harm	169	180	disturbance
+T21	RelativeLocations	181	183	in
+T22	Substances	188	194	medium
+T23	Exemplar	199	203	type
+T24	PropertyOfMotion	207	213	motion
+T25	Move	207	213	motion
+T26	Cause	219	225	caused
+T27	SoundEnergy	230	235	sound
+T28	EnergyWaves	230	240	sound wave
+T29	Create	244	248	form

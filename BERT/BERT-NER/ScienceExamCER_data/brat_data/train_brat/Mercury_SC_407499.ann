@@ -1,0 +1,27 @@
+T1	StateOfBeing	5	7	is
+T2	Identify	8	18	determined
+T3	Cause	19	21	by
+T4	MeasuringSpeed	26	31	speed
+T5	PropertyOfMotion	26	31	speed
+T6	InnerPlanets	37	42	Earth
+T7	LOCATION	37	42	Earth
+T8	CelestialMovement	43	50	rotates
+T9	Position	51	62	on its axis
+T10	TemporalProperty	68	74	length
+T11	DURATION	78	83	a day
+T12	TimeUnit	80	83	day
+T13	Energy	88	94	energy
+T14	Touch	100	107	reaches
+T15	Locations	110	118	location
+T16	Temperature	123	134	temperature
+T17	PhasesOfWater	138	143	water
+T18	LiquidMatter	138	143	water
+T19	RelativeLocations	144	146	in
+T20	EarthPartsGrossGroundAtmosphere	151	156	ocean
+T21	BodiesOfWater	151	156	ocean
+T22	Numbers	161	167	number
+T23	SeasonsFallAutumnWinterSpringSummer	171	178	seasons
+T24	RelativeTime	179	181	in
+T25	DURATION	182	188	a year
+T26	TimeUnit	184	188	year
+T27	Year	184	188	year

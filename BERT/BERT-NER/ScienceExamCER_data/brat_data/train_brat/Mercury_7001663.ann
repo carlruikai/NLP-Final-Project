@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	RelativeLocations	21	26	below
+T4	AmountComparison	27	31	most
+T5	ProbabilityAndCertainty	32	38	likely
+T6	Cause	39	51	accounts for
+T7	Rarity	56	63	limited
+T8	BeliefKnowledge	64	73	knowledge
+T9	Galaxy	77	85	galaxies
+T10	Size	93	97	tiny
+T11	Size	98	102	size
+T12	Magnetic	109	117	magnetic
+T13	GalaxyParts	118	123	cores
+T14	Ability	130	139	inability
+T15	Create	143	150	produce
+T16	Light	151	156	light
+T17	RelativeNumber	163	168	great
+T18	Distance	169	177	distance
+T19	RelativeDirection	178	182	from
+T20	InnerPlanets	183	188	Earth
+T21	LOCATION	183	188	Earth

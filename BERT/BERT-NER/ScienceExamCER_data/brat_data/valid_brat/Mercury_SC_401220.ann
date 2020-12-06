@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	10	term
+T3	Quality	11	15	best
+T4	QualityComparison	11	15	best
+T5	Represent	16	25	describes
+T6	LifeCycle	30	40	life cycle
+T7	Insect	47	53	insect
+T8	Succeed	59	66	reaches
+T9	PostnatalOrganismStages	71	76	adult
+T10	SystemProcessStages	77	82	stage
+T11	Negations	83	90	without
+T12	StateOfBeing	91	96	being
+T13	PostnatalOrganismStages	99	103	pupa
+T14	LevelOfInclusion	105	115	incomplete
+T15	Development	116	129	metamorphosis
+T16	Changes	116	129	metamorphosis
+T17	LevelOfInclusion	130	138	complete
+T18	Development	139	152	metamorphosis
+T19	Changes	139	152	metamorphosis
+T20	Cycles	153	179	alternation of generations
+T21	GeneticRelations	168	179	generations
+T22	TemporalProperty	180	191	spontaneous
+T23	Mutation	192	200	mutation

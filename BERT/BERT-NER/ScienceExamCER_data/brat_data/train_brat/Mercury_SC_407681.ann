@@ -1,0 +1,24 @@
+T1	Human	2	15	soccer player
+T2	Occupation	2	15	soccer player
+T3	LocationChangingActions	16	21	kicks
+T4	ManmadeObjects	24	35	soccer ball
+T5	PrepositionalDirections	36	42	across
+T6	TerrestrialLocations	45	50	field
+T7	LevelOfInclusion	52	57	Which
+T8	VariablesControls	58	64	factor
+T9	Cause	65	68	has
+T10	AmountComparison	73	77	most
+T11	Result	78	84	effect
+T12	ActUponSomething	78	84	effect
+T13	PrepositionalDirections	85	87	on
+T14	Distance	92	100	distance
+T15	ManmadeObjects	105	116	soccer ball
+T16	Move	117	124	travels
+T17	Color	130	135	color
+T18	ManmadeObjects	143	147	ball
+T19	Force	152	157	force
+T20	LocationChangingActions	165	169	kick
+T21	Length	174	180	length
+T22	TerrestrialLocations	188	193	field
+T23	Temperature	198	209	temperature
+T24	EarthPartsGrossGroundAtmosphere	217	220	air

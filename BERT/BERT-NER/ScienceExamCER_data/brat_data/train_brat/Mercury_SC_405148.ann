@@ -1,0 +1,23 @@
+T1	Human	2	6	chef
+T2	Use	7	11	uses
+T3	MetalSolids	14	19	metal
+T4	ManmadeObjects	20	25	spoon
+T5	Move	29	33	stir
+T6	Foods	34	41	noodles
+T7	ActionsForNutrition	42	49	cooking
+T8	RelativeLocations	46	48	in
+T9	LiquidHoldingContainersRecepticles	55	58	pan
+T10	RelativeTime	60	65	After
+T11	CardinalNumber	66	70	five
+T12	TimeUnit	71	78	minutes
+T13	Observe	84	91	notices
+T14	ThermalEnergy	101	115	thermal energy
+T15	RelativeDirection	116	120	from
+T16	LiquidHoldingContainersRecepticles	125	128	pan
+T17	Cause	133	137	made
+T18	StateOfBeing	133	137	made
+T19	ManmadeObjects	142	147	spoon
+T20	Temperature	148	152	cold
+T21	Temperature	154	157	hot
+T22	Wetness	159	162	wet
+T23	Wetness	164	167	dry

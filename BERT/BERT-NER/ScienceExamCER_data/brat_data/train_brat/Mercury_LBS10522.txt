@@ -1,0 +1,5 @@
+If soil is permeable
+water cannot flow through it.
+water easily flows through it.
+it contains many minerals.
+it contains few minerals.

@@ -1,0 +1,39 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	AnimalCellPart	26	39	cell membrane
+T4	PlantCellPart	26	39	cell membrane
+T5	Permit	40	46	allows
+T6	ActUponSomething	53	60	control
+T7	Choose	53	60	control
+T8	Material	61	70	materials
+T9	Matter	61	70	materials
+T10	CombineAdd	71	79	entering
+T11	Move	71	79	entering
+T12	Separate	84	91	leaving
+T13	Move	84	91	leaving
+T14	Cell	94	98	cell
+T15	AnimalCellPart	102	115	cell membrane
+T16	PlantCellPart	102	115	cell membrane
+T17	StateOfBeing	116	118	is
+T18	Position	119	129	surrounded
+T19	ActUponSomething	119	129	surrounded
+T20	PropertyOfMotion	133	138	fluid
+T21	AnimalCellPart	142	155	cell membrane
+T22	PlantCellPart	142	155	cell membrane
+T23	StateOfBeing	156	158	is
+T24	Permeability	159	172	semipermeable
+T25	AnimalCellPart	176	189	cell membrane
+T26	PlantCellPart	176	189	cell membrane
+T27	ContainBeComposedOf	190	195	holds
+T28	Preserve	190	195	holds
+T29	AnimalCellPart	196	206	organelles
+T30	PlantCellPart	196	206	organelles
+T31	Locations	210	215	place
+T32	AnimalCellPart	219	232	cell membrane
+T33	PlantCellPart	219	232	cell membrane
+T34	StateOfBeing	233	235	is
+T35	VerbsForLocate	236	241	found
+T36	RelativeLocations	242	244	in
+T37	Plant	245	250	plant
+T38	Animal	255	261	animal
+T39	Cell	262	267	cells

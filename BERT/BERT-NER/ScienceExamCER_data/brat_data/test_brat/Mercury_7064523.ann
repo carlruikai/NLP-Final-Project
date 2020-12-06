@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	AnimalCellPart	6	15	organelle
+T3	PlantCellPart	6	15	organelle
+T4	RelativeLocations	16	18	in
+T5	Plant	21	26	plant
+T6	Cell	27	31	cell
+T7	Uptake	32	40	captures
+T8	CelestialLightOnEarth	41	49	sunlight
+T9	TransferEnergy	54	62	converts
+T10	Energy	67	73	energy
+T11	ChangeInto	74	78	into
+T12	Nutrition	79	83	food
+T13	AnimalCellPart	85	92	nucleus
+T14	PlantCellPart	85	92	nucleus
+T15	PlantPart	93	104	chloroplast
+T16	AnimalCellPart	105	118	cell membrane
+T17	PlantCellPart	105	118	cell membrane
+T18	PlantCellPart	119	128	cell wall
+T19	BacteriaPart	119	128	cell wall

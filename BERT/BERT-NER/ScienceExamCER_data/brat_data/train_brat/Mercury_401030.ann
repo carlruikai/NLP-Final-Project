@@ -1,0 +1,14 @@
+T1	Examine	0	4	Read
+T2	RepresentingElementsAndMolecules	9	17	equation
+T3	Compound	19	22	2Ca
+T4	Calculations	23	24	+
+T5	Compound	25	30	O_{2}
+T6	Compound	34	38	2CaO
+T7	StateOfBeing	44	46	is
+T8	PartsOfChemicalReactions	51	58	product
+T9	Result	51	58	product
+T10	Reactions	66	74	reaction
+T11	MetalSolids	76	81	metal
+T12	Mixtures	82	89	mixture
+T13	Mixtures	90	98	solution
+T14	Compound	99	107	compound

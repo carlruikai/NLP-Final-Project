@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Color	6	11	color
+T3	ClothesTextiles	12	17	shirt
+T4	ProbabilityAndCertainty	18	22	will
+T5	LightMovement	23	30	reflect
+T6	AmountComparison	35	39	most
+T7	Light	40	45	light
+T8	RelativeTime	46	48	on
+T9	Temperature	51	54	hot
+T10	Brightness	56	61	sunny
+T11	WeatherDescriptions	56	61	sunny
+T12	TimeUnit	62	65	day
+T13	TimesOfDayDayNight	62	65	day
+T14	Color	67	72	black
+T15	Color	73	77	blue
+T16	Color	78	81	red
+T17	Color	82	87	white

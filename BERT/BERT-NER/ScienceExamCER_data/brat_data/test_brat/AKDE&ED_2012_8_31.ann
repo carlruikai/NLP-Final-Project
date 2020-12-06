@@ -1,0 +1,41 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Quality	23	27	best
+T4	QualityComparison	23	27	best
+T5	Represent	28	37	describes
+T6	ScientificTheoryExperimentationAndHistory	40	50	scientific
+T7	ResponseType	51	60	inference
+T8	WordsForData	66	70	data
+T9	Collect	71	80	collected
+T10	PerformingResearch	71	80	collected
+T11	RelativeTime	81	87	during
+T12	Experimentation	91	101	experiment
+T13	ResponseType	105	116	explanation
+T14	Source	117	122	based
+T15	ResponseType	126	131	facts
+T16	StateOfBeing	136	138	is
+T17	Negations	139	142	not
+T18	Observe	147	165	direct observation
+T19	PerformingResearch	147	165	direct observation
+T20	ResponseType	169	176	opinion
+T21	StateOfBeing	182	184	is
+T22	Negations	185	188	not
+T23	Source	189	194	based
+T24	Validity	198	205	logical
+T25	BeliefKnowledge	198	205	logical
+T26	Believe	206	214	thinking
+T27	Comparisons	215	217	or
+T28	Material	218	226	material
+T29	Matter	218	226	material
+T30	ConcludingResearch	227	235	evidence
+T31	WordsForData	227	235	evidence
+T32	Result	240	247	results
+T33	RelativeDirection	248	252	from
+T34	Experimentation	253	264	experiments
+T35	AbilityAvailability	270	273	can
+T36	StateOfBeing	274	276	be
+T37	ReplicatingResearch	277	287	reproduced
+T38	PrepositionalDirections	288	295	through
+T39	AmountComparison	296	300	more
+T40	PerformingResearch	301	316	experimentation
+T41	Experimentation	301	316	experimentation

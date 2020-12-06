@@ -1,0 +1,35 @@
+T1	Size	0	5	Giant
+T2	Plant	6	19	redwood trees
+T3	Changes	20	26	change
+T4	Energy	27	33	energy
+T5	RelativeDirection	34	38	from
+T6	CardinalNumber	39	42	one
+T7	NUMBER	39	42	one
+T8	Exemplar	43	47	form
+T9	RelativeDirection	48	50	to
+T10	Comparisons	51	58	another
+T11	Method	60	63	How
+T12	StateOfBeing	64	66	is
+T13	Energy	67	73	energy
+T14	Changes	74	81	changed
+T15	Cause	82	84	by
+T16	Plant	89	94	trees
+T17	Changes	101	107	change
+T18	Energy	108	123	chemical energy
+T19	RelativeDirection	124	128	into
+T20	Energy	129	143	kinetic energy
+T21	Changes	150	156	change
+T22	Star	157	162	solar
+T23	Energy	163	169	energy
+T24	RelativeDirection	170	174	into
+T25	Energy	175	190	chemical energy
+T26	Changes	197	203	change
+T27	WeatherPhenomena	204	208	wind
+T28	Energy	209	215	energy
+T29	RelativeDirection	216	220	into
+T30	ThermalEnergy	221	232	heat energy
+T31	Changes	239	245	change
+T32	Energy	246	263	mechanical energy
+T33	RelativeDirection	264	268	into
+T34	Star	269	274	solar
+T35	Energy	275	281	energy

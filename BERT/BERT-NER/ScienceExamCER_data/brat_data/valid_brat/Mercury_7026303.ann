@@ -1,0 +1,37 @@
+T1	Scientists	2	9	student
+T2	Move	10	16	leaves
+T3	Separate	10	16	leaves
+T4	Rock	19	23	rock
+T5	RelativeLocations	24	26	in
+T6	CelestialLightOnEarth	31	34	Sun
+T7	RelativeTime	35	37	on
+T8	WeatherDescriptions	40	46	bright
+T9	TimesOfDayDayNight	47	56	afternoon
+T10	TIME	47	56	afternoon
+T11	TimeUnit	61	65	hour
+T12	RelativeTime	66	71	after
+T13	TimesOfDayDayNight	72	78	sunset
+T14	WeatherPhenomena	84	91	weather
+T15	StateOfBeing	92	94	is
+T16	Temperature	95	99	cool
+T17	Negations	101	104	but
+T18	Rock	109	113	rock
+T19	TemporalProperty	114	119	still
+T20	SensoryTerms	120	125	feels
+T21	Temperature	126	130	warm
+T22	Scientists	136	143	student
+T23	PerformAnActivity	148	160	demonstrated
+T24	Property	163	171	property
+T25	Rock	179	183	rock
+T26	Cause	184	193	resulting
+T27	Complexity	194	202	directly
+T28	RelativeDirection	194	202	directly
+T29	RelativeDirection	203	207	from
+T30	LevelOfInclusion	208	213	which
+T31	Rock	221	225	rock
+T32	Comparisons	228	233	other
+T33	Property	234	244	properties
+T34	ChemicalProperty	250	260	reactivity
+T35	Magnetic	265	274	magnetism
+T36	MeasurementsForHeatChange	279	292	specific heat
+T37	Energy	297	312	chemical energy

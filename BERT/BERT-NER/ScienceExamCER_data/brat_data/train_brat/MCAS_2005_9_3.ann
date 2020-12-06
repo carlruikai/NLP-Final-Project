@@ -1,0 +1,59 @@
+T1	ManmadeLocations	2	17	recycling plant
+T2	Human	18	25	manager
+T3	Require	26	31	needs
+T4	PhaseChangingActions	35	39	melt
+T5	CardinalNumber	40	44	1500
+T6	MassUnit	45	47	kg
+T7	ObjectQuantification	51	56	scrap
+T8	MetalSolids	57	63	copper
+T9	Element	57	63	copper
+T10	Goal	64	66	to
+T11	MoneyTerms	67	71	sell
+T12	RelativeDirection	72	74	to
+T13	ElectricityAndCircuits	77	81	wire
+T14	TechnologicalComponent	77	81	wire
+T15	BusinessIndustry	82	94	manufacturer
+T16	Element	100	106	copper
+T17	MetalSolids	100	106	copper
+T18	StateOfBeing	107	109	is
+T19	NUMBER	113	116	15°
+T20	Temperature	113	117	15°C
+T21	PhaseTransitionPoint	126	139	melting point
+T22	StateOfBeing	140	142	is
+T23	Temperature	143	149	1083°C
+T24	NUMBER	147	148	°
+T25	Element	155	161	copper
+T26	MetalSolids	155	161	copper
+T27	ContainBeComposedOf	162	165	has
+T28	MeasurementsForHeatChange	168	181	specific heat
+T29	NUMBER	185	188	385
+T30	MeasurementsForHeatChange	189	193	J/kg
+T31	Calculations	194	195	x
+T32	TemperatureUnit	196	197	K
+T33	RelativeNumber	199	207	How much
+T34	ThermalEnergy	208	212	heat
+T35	StateOfBeing	213	215	is
+T36	Require	216	224	required
+T37	Goal	225	227	to
+T38	IncreaseDecrease	228	233	raise
+T39	Temperature	238	249	temperature
+T40	Element	257	263	copper
+T41	MetalSolids	257	263	copper
+T42	RelativeDirection	264	266	to
+T43	PhaseTransitionPoint	271	284	melting point
+T44	NUMBER	286	289	6.2
+T45	Calculations	290	291	x
+T46	NUMBER	292	296	10^8
+T47	EnergyUnit	297	298	J
+T48	NUMBER	299	302	6.3
+T49	Calculations	303	304	x
+T50	NUMBER	305	309	10^8
+T51	EnergyUnit	310	311	J
+T52	NUMBER	312	315	7.7
+T53	Calculations	316	317	x
+T54	NUMBER	318	322	10^8
+T55	EnergyUnit	323	324	J
+T56	NUMBER	325	328	7.9
+T57	Calculations	329	330	x
+T58	NUMBER	331	335	10^8
+T59	EnergyUnit	336	337	J

@@ -1,0 +1,15 @@
+T1	Exemplar	5	9	type
+T2	Energy	13	19	energy
+T3	LightMovement	20	27	travels
+T4	PrepositionalDirections	28	35	through
+T5	ObjectPart	40	44	body
+T6	ViewingTools	50	60	microscope
+T7	Permit	66	72	allows
+T8	Exemplar	77	85	specimen
+T9	Observe	89	96	be seen
+T10	Cause	97	99	by
+T11	Scientists	102	109	student
+T12	ThermalEnergy	111	115	heat
+T13	Energy	116	121	solar
+T14	Spectra	122	127	light
+T15	ElectricalEnergy	128	138	electrical

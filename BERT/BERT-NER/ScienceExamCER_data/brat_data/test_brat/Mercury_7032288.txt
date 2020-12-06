@@ -1,0 +1,5 @@
+For half an hour, a student watches two different types of flowering bushes and counts the number of butterflies that come to feed on each bush. What would be the best way to show the data?
+a scatterplot
+a pie chart
+a bar graph
+a line graph

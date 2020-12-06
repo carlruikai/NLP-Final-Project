@@ -1,0 +1,16 @@
+T1	LivingThing	3	11	organism
+T2	Exemplar	13	20	such as
+T3	Animal	23	36	nematode worm
+T4	ProbabilityAndCertainty	38	41	may
+T5	ContainBeComposedOf	42	46	have
+T6	LevelOfInclusion	47	51	only
+T7	NUMBER	52	56	1000
+T8	Cell	57	62	cells
+T9	Require	67	73	should
+T10	StateOfBeing	74	76	be
+T11	Classify	77	87	classified
+T12	StateOfBeing	91	96	being
+T13	Sickness	99	104	virus
+T14	Bacteria	108	117	bacteria.
+T15	OtherOrganismProperties	118	129	unicellular
+T16	OtherOrganismProperties	131	144	multicellular

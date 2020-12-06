@@ -1,0 +1,17 @@
+T1	WeatherPhenomena	0	6	Storms
+T2	ChangeInLocation	7	16	transport
+T3	Transportation	7	16	transport
+T4	PhasesOfWater	17	22	water
+T5	Exemplar	30	34	form
+T6	PartsOfWaterCycle	38	42	rain
+T7	Precipitation	38	42	rain
+T8	Energy	48	54	energy
+T9	Start	60	66	starts
+T10	Event	72	79	process
+T11	Source	80	85	comes
+T12	RelativeDirection	86	90	from
+T13	Star	95	98	Sun
+T14	EarthPartsGrossGroundAtmosphere	100	106	oceans
+T15	BodiesOfWater	100	106	oceans
+T16	InnerPlanets	108	113	Earth
+T17	WeatherPhenomena	115	121	clouds

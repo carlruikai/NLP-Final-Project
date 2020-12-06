@@ -1,0 +1,26 @@
+T1	RelativeTime	0	5	After
+T2	WeatherPhenomena	8	17	windstorm
+T3	PERSON	19	23	Niko
+T4	Communicate	24	30	called
+T5	BusinessIndustry	35	51	electric company
+T6	Communicate	55	61	report
+T7	ContainBeComposedOf	70	73	had
+T8	Negations	74	76	no
+T9	ElectricalEnergy	77	88	electricity
+T10	SystemOfCommunication	94	99	phone
+T11	Communicate	100	104	call
+T12	StateOfBeing	105	107	is
+T13	Exemplar	111	118	example
+T14	LevelOfInclusion	122	127	which
+T15	LevelOfInclusion	131	144	the following
+T16	SystemParts	145	153	elements
+T17	ScientificTheoryExperimentationAndHistory	159	182	universal systems model
+T18	Create	184	193	designing
+T19	Method	196	203	process
+T20	Create	204	214	generating
+T21	Result	215	221	output
+T22	CombineAdd	222	228	giving
+T23	Create	222	228	giving
+T24	Communicate	229	237	feedback
+T25	Create	238	245	setting
+T26	Goal	248	252	goal

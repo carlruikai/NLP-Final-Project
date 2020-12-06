@@ -1,0 +1,29 @@
+T1	Scientists	2	9	student
+T2	Goal	10	15	wants
+T3	Identify	19	23	find
+T4	VerbsForLocate	19	23	find
+T5	AmountComparison	28	32	most
+T6	ProbabilityAndCertainty	33	41	accurate
+T7	Validity	33	41	accurate
+T8	Represent	42	52	account of
+T9	Discovery	55	75	scientific discovery
+T10	Occur	81	91	took place
+T11	RelativeTime	92	98	within
+T12	TemporalProperty	103	107	past
+T13	CardinalNumber	108	113	three
+T14	TimeUnit	114	120	months
+T15	RelativeLocations	122	124	In
+T16	LevelOfInclusion	125	130	which
+T17	LevelOfInclusion	134	139	these
+T18	Source	140	147	sources
+T19	Require	148	154	should
+T20	Scientists	159	166	student
+T21	Observe	167	171	look
+T22	SystemOfCommunication	173	183	newspapers
+T23	WrittenMedia	173	183	newspapers
+T24	SystemOfCommunication	184	193	magazines
+T25	WrittenMedia	184	193	magazines
+T26	AcademicMedia	194	211	science textbooks
+T27	WrittenMedia	194	211	science textbooks
+T28	AcademicMedia	212	228	science journals
+T29	WrittenMedia	212	228	science journals

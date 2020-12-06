@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	AbilityAvailability	21	24	can
+T4	Human	27	32	human
+T5	GeneticRelations	33	42	offspring
+T6	WordsForOffspring	33	42	offspring
+T7	Inheritance	43	50	inherit
+T8	AnimalPart	52	58	facial
+T9	Injuries	59	63	scar
+T10	Color	64	68	blue
+T11	AnimalPart	69	73	eyes
+T12	Length	74	78	long
+T13	HumanPart	79	83	hair
+T14	Break	84	90	broken
+T15	AnimalPart	91	94	leg

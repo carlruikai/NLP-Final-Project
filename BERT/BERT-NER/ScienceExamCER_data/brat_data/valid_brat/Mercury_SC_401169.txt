@@ -1,0 +1,5 @@
+When a switch is used in an electrical circuit, the switch can
+cause the charge to build.
+increase and decrease the voltage.
+cause the current to change direction.
+stop and start the flow of current.

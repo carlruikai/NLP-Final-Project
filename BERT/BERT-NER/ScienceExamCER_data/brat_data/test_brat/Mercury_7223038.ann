@@ -1,0 +1,30 @@
+T1	RelativeLocations	0	5	There
+T2	StateOfBeing	6	9	are
+T3	RelativeNumber	10	14	many
+T4	Size	15	20	sizes
+T5	Color	25	31	colors
+T6	Star	35	40	stars
+T7	LevelOfInclusion	42	47	Which
+T8	LevelOfInclusion	51	64	the following
+T9	Quality	65	69	best
+T10	QualityComparison	65	69	best
+T11	Represent	70	79	describes
+T12	Classification	84	92	category
+T13	RelativeLocations	93	95	in
+T14	LevelOfInclusion	96	101	which
+T15	Star	106	109	Sun
+T16	ProbabilityAndCertainty	110	115	would
+T17	StateOfBeing	116	118	be
+T18	VerbsForLocate	119	125	placed
+T19	Color	127	131	blue
+T20	StarTypes	132	142	supergiant
+T21	Star	143	148	stars
+T22	Color	149	152	red
+T23	StarTypes	153	158	giant
+T24	Star	159	164	stars
+T25	Color	165	171	yellow
+T26	StarTypes	172	185	main sequence
+T27	Star	186	191	stars
+T28	Color	192	197	white
+T29	StarTypes	198	203	dwarf
+T30	Star	204	209	stars

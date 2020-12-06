@@ -1,0 +1,30 @@
+T1	Calculations	4	11	average
+T2	Distance	12	20	distance
+T3	RelativeLocations	21	28	between
+T4	InnerPlanets	29	34	Earth
+T5	Star	43	46	Sun
+T6	StateOfBeing	47	49	is
+T7	NUMBER	50	61	149,600,000
+T8	DistanceUnit	62	72	kilometers
+T9	LevelOfInclusion	74	79	Which
+T10	LevelOfInclusion	83	96	the following
+T11	StateOfBeing	97	99	is
+T12	Verify	104	111	correct
+T13	ProbabilityAndCertainty	104	111	correct
+T14	Representation	112	131	scientific notation
+T15	Distance	141	149	distance
+T16	NUMBER	151	156	1.496
+T17	Calculations	157	158	x
+T18	NUMBER	159	163	10^3
+T19	DistanceUnit	164	166	km
+T20	CardinalNumber	167	171	1496
+T21	Calculations	172	173	x
+T22	NUMBER	174	178	10^5
+T23	NUMBER	179	184	149.6
+T24	Calculations	185	186	x
+T25	NUMBER	187	191	10^6
+T26	DistanceUnit	192	194	km
+T27	NUMBER	195	200	1.496
+T28	Calculations	201	202	x
+T29	NUMBER	203	207	10^8
+T30	DistanceUnit	208	210	km

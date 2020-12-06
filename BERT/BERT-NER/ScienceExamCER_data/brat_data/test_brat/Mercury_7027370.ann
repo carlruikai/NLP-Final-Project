@@ -1,0 +1,28 @@
+T1	Relations	4	17	relationships
+T2	RelativeLocations	18	23	among
+T3	Element	24	32	elements
+T4	StateOfBeing	33	37	were
+T5	Use	38	42	used
+T6	Result	43	45	to
+T7	Classify	46	54	organize
+T8	Element	59	67	elements
+T9	Pattern	68	82	systematically
+T10	TemporalProperty	83	87	long
+T11	RelativeTime	88	94	before
+T12	Behaviors	99	107	behavior
+T13	AtomComponents	111	120	electrons
+T14	StateOfBeing	121	124	was
+T15	BeliefKnowledge	125	135	understood
+T16	LevelOfInclusion	137	142	Which
+T17	Scientists	143	152	scientist
+T18	StateOfBeing	149	151	is
+T19	BeliefKnowledge	156	164	credited
+T20	Pattern	175	187	organization
+T21	Element	191	199	elements
+T22	Scientists	201	211	Democritus
+T23	Scientists	212	223	John Dalton
+T24	PERSON	212	223	John Dalton
+T25	Scientists	224	239	Robert Millikan
+T26	PERSON	224	239	Robert Millikan
+T27	Scientists	240	256	Dmitri Mendeleev
+T28	PERSON	240	256	Dmitri Mendeleev

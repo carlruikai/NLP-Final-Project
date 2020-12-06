@@ -1,0 +1,50 @@
+T1	ResponseType	6	14	sentence
+T2	Quality	15	19	best
+T3	QualityComparison	15	19	best
+T4	Represent	20	29	describes
+T5	Pattern	34	46	organization
+T6	AnimalPart	54	59	heart
+T7	AnimalPart	54	59	heart
+T8	StateOfBeing	71	73	is
+T9	AnimalPart	77	82	organ
+T10	ContainBeComposedOf	83	93	made up of
+T11	Comparisons	94	103	different
+T12	Exemplar	104	109	types
+T13	AnimalPart	113	120	tissues
+T14	LevelOfInclusion	122	126	each
+T15	ContainBeComposedOf	136	139	has
+T16	Comparisons	140	149	different
+T17	Exemplar	150	155	types
+T18	Cell	159	164	cells
+T19	AnimalPart	170	175	heart
+T20	StateOfBeing	176	178	is
+T21	AnimalPart	181	187	tissue
+T22	ContainBeComposedOf	188	198	made up of
+T23	Comparisons	199	208	different
+T24	Exemplar	209	214	types
+T25	AnimalPart	218	224	organs
+T26	LevelOfInclusion	226	230	each
+T27	ContainBeComposedOf	240	243	has
+T28	Comparisons	244	253	different
+T29	Exemplar	254	259	types
+T30	Cell	263	268	cells
+T31	AnimalPart	274	279	heart
+T32	StateOfBeing	280	282	is
+T33	AnimalSystemsProcesses	285	291	system
+T34	LevelOfInclusion	292	302	made up of
+T35	CardinalNumber	303	306	one
+T36	NUMBER	303	306	one
+T37	Exemplar	307	311	type
+T38	AnimalPart	315	321	tissue
+T39	Comparisons	326	335	identical
+T40	Cell	336	341	cells
+T41	AnimalPart	347	352	heart
+T42	StateOfBeing	353	355	is
+T43	AnimalPart	358	364	tissue
+T44	ContainBeComposedOf	365	375	made up of
+T45	CardinalNumber	376	379	one
+T46	NUMBER	376	379	one
+T47	Exemplar	380	384	type
+T48	AnimalPart	388	393	organ
+T49	Comparisons	398	407	identical
+T50	Cell	408	413	cells

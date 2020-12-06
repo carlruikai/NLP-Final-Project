@@ -1,0 +1,28 @@
+T1	RelativeTime	0	4	Over
+T2	FossilRecordTimeline	5	18	geologic time
+T3	TerrestrialLocations	20	26	global
+T4	TidesHighTideLowTide	27	41	mean sea level
+T5	Alter	46	52	varied
+T6	ImportanceComparison	53	66	significantly
+T7	LevelOfInclusion	68	73	Which
+T8	Changes	74	80	change
+T9	StateOfBeing	81	83	is
+T10	AmountComparison	84	88	most
+T11	ProbabilityAndCertainty	89	95	likely
+T12	Cause	96	107	responsible
+T13	AmountChangingActions	115	123	increase
+T14	IncreaseDecrease	115	123	increase
+T15	TerrestrialLocations	127	133	global
+T16	TidesHighTideLowTide	134	148	mean sea level
+T17	ConstructiveDestructiveForces	150	157	erosion
+T18	NaturalPhenomena	150	157	erosion
+T19	Sedimentary	161	169	sediment
+T20	RelativeDirection	170	174	from
+T21	GeographicFormations	177	191	mountain range
+T22	Extinction	192	207	mass extinction
+T23	LivingThing	211	226	marine organism
+T24	Create	228	237	formation
+T25	BodiesOfWater	244	249	ocean
+T26	GeographicFormations	250	256	trench
+T27	PhaseChangingActions	257	264	melting
+T28	EarthPartsGrossGroundAtmosphere	268	282	polar ice caps

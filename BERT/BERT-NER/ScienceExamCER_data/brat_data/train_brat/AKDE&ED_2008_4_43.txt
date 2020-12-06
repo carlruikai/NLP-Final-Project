@@ -1,0 +1,5 @@
+A teacher places an item in a box. The item takes the shape of the entire container. This item is most likely
+air.
+milk.
+water.
+paint.

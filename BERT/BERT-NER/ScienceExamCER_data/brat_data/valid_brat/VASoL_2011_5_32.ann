@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	LivingThing	15	24	organisms
+T4	ContainBeComposedOf	25	28	has
+T5	Cell	29	34	cells
+T6	CombineAdd	35	39	with
+T7	PlantCellPart	40	49	cell wall
+T8	BacteriaPart	40	49	cell wall
+T9	Bird	52	60	bluebird
+T10	Gymnosperm	63	72	pine tree
+T11	Insect	75	82	ladybug
+T12	Mammal	85	97	fox squirrel

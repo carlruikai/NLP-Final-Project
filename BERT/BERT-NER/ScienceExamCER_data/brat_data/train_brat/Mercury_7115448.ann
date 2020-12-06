@@ -1,0 +1,15 @@
+T1	Quality	4	12	greatest
+T2	Numbers	13	19	amount
+T3	GeneticRelations	23	32	diversity
+T4	AbilityAvailability	33	36	can
+T5	StateOfBeing	37	39	be
+T6	Identify	40	45	found
+T7	VerbsForLocate	40	45	found
+T8	PrepositionalDirections	46	51	among
+T9	LevelOfInclusion	52	57	which
+T10	Exemplar	58	62	type
+T11	LivingThing	66	74	organism
+T12	Plant	76	82	plants
+T13	Animal	83	90	animals
+T14	Bacteria	91	99	bacteria
+T15	Fungi	100	105	fungi

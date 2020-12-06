@@ -1,0 +1,10 @@
+T1	Cell	8	13	cells
+T2	DigestionActions	14	24	break down
+T3	ChemicalChange	14	24	break down
+T4	Result	25	27	to
+T5	Create	28	35	produce
+T6	Energy	36	42	energy
+T7	Nutrition	44	48	food
+T8	PhasesOfWater	49	54	water
+T9	PlantPart	55	66	chlorophyll
+T10	Compound	67	81	carbon dioxide

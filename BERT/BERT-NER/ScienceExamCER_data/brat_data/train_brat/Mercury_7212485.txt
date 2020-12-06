@@ -1,0 +1,5 @@
+A generator converts mechanical energy to electrical energy by using a conducting metal loop turning in a
+magnetic field.
+gravitational field.
+steel sphere.
+copper sphere.

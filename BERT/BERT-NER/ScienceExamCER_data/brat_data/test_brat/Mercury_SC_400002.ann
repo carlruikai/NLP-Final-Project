@@ -1,0 +1,26 @@
+T1	Insect	2	5	bee
+T2	Require	6	16	depends on
+T3	LevelOfInclusion	17	24	certain
+T4	PlantPart	25	32	flowers
+T5	Nutrition	37	41	food
+T6	PlantPart	47	54	flowers
+T7	Require	55	64	depend on
+T8	Insect	69	72	bee
+T9	Result	73	75	to
+T10	Move	76	81	carry
+T11	Transportation	76	81	carry
+T12	PlantPart	82	88	pollen
+T13	Reproduction	93	105	reproduction
+T14	Create	107	111	make
+T15	NutritiveSubstancesForAnimalsOrPlants	112	118	sugars
+T16	PlantProcesses	123	137	photosynthesis
+T17	CleanUp	139	145	remove
+T18	Move	139	145	remove
+T19	Toxins	146	152	wastes
+T20	Health	157	164	healthy
+T21	Growth	165	171	growth
+T22	ActionsForAgriculture	165	171	growth
+T23	Injuries	173	178	sting
+T24	TypeOfConsumer	179	189	herbivores
+T25	Help	194	204	protection
+T26	Preserve	194	204	protection

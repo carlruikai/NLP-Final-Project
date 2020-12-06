@@ -1,0 +1,39 @@
+T1	Occupation	2	9	teacher
+T2	Communicate	10	14	asks
+T3	Scientists	19	27	students
+T4	Examine	31	38	examine
+T5	PartsOfARepresentation	39	45	titles
+T6	CardinalNumber	49	53	four
+T7	NUMBER	49	53	four
+T8	ScientificTheoryExperimentationAndHistory	54	64	scientific
+T9	WrittenMedia	65	73	articles
+T10	LevelOfInclusion	75	80	Which
+T11	PartsOfARepresentation	81	87	titled
+T12	WrittenMedia	88	95	article
+T13	StateOfBeing	96	98	is
+T14	OtherProperties	99	111	specifically
+T15	Relevant	112	117	about
+T16	ChemicalChange	120	135	chemical change
+T17	Method	137	140	How
+T18	GranularSolids	141	152	Baking Soda
+T19	Reactions	153	159	Reacts
+T20	CombineAdd	160	164	With
+T21	LiquidMatter	165	172	Vinegar
+T22	Method	173	176	How
+T23	Minerals	177	181	Rust
+T24	AbilityAvailability	182	185	Can
+T25	StopRemove	189	196	Scraped
+T26	FormChangingActions	189	196	Scraped
+T27	PrepositionalDirections	197	200	off
+T28	MetalSolids	204	209	Metal
+T29	Method	210	213	How
+T30	MetalSolids	214	220	Metals
+T31	Response	221	228	Respond
+T32	ElectricalEnergy	232	251	Electrical Currents
+T33	Method	252	255	How
+T34	Element	256	264	Elements
+T35	AbilityAvailability	265	268	Can
+T36	PhaseChanges	269	281	Change Phase
+T37	RelativeTime	282	286	When
+T38	IncreaseDecrease	287	293	Heated
+T39	Temperature	287	293	Heated

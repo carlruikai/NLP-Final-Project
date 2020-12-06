@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	AmountComparison	18	22	most
+T5	ProbabilityAndCertainty	23	29	likely
+T6	StateOfBeing	33	35	be
+T7	Transportation	36	42	spread
+T8	RelativeTime	43	47	when
+T9	CardinalNumber	48	51	two
+T10	NUMBER	48	51	two
+T11	Human	52	58	people
+T12	ActionsForAnimals	59	64	drink
+T13	Consumption	59	64	drink
+T14	RelativeDirection	65	69	from
+T15	Comparisons	74	78	same
+T16	LiquidHoldingContainersRecepticles	79	91	water bottle
+T17	TypesOfIllness	93	99	asthma
+T18	TypesOfIllness	100	107	malaria
+T19	TypesOfIllness	108	120	strep throat
+T20	TypesOfIllness	121	130	hay fever

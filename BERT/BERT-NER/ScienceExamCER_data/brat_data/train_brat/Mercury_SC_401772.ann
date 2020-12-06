@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Quality	13	17	best
+T4	QualityComparison	13	17	best
+T5	Exemplar	18	25	example
+T6	Alter	29	38	recycling
+T7	Preserve	29	38	recycling
+T8	Use	40	45	using
+T9	RelativeNumber	46	49	low
+T10	Energy	50	56	energy
+T11	Appliance	57	67	appliances
+T12	CleanUp	68	75	washing
+T13	Use	80	87	reusing
+T14	SyntheticMaterial	88	95	plastic
+T15	LiquidHoldingContainersRecepticles	96	100	cups
+T16	Use	101	106	using
+T17	PhysicalProperty	107	112	empty
+T18	LiquidHoldingContainersRecepticles	113	125	milk cartons
+T19	StateOfBeing	126	128	as
+T20	Plant	129	135	flower
+T21	ManmadeObjects	136	144	planters
+T22	Use	145	150	using
+T23	MetalSolids	151	159	aluminum
+T24	AbilityAvailability	160	164	cans
+T25	Create	168	172	make
+T26	Age	173	176	new
+T27	Products	177	185	products

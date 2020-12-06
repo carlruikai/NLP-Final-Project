@@ -1,0 +1,29 @@
+T1	RelativeTime	0	4	When
+T2	ElectricalEnergy	5	16	electricity
+T3	StateOfBeing	17	19	is
+T4	Use	20	24	used
+T5	PerformAnActivity	28	31	run
+T6	Appliance	32	42	appliances
+T7	RelativeLocations	43	45	in
+T8	ManmadeLocations	48	56	building
+T9	ElectricalEnergy	62	73	electricity
+T10	StateOfBeing	74	76	is
+T11	Measurements	77	85	measured
+T12	Identify	77	85	measured
+T13	Use	86	88	in
+T14	EnergyUnit	89	103	kilowatt-hours
+T15	PowerUnit	89	102	kilowatt-hour
+T16	LevelOfInclusion	105	110	Which
+T17	LevelOfInclusion	114	119	these
+T18	Unit	120	125	units
+T19	AbilityAvailability	126	131	could
+T20	StateOfBeing	132	134	be
+T21	Use	135	139	used
+T22	Comparisons	140	151	in place of
+T23	PowerUnit	153	166	kilowatt-hour
+T24	EnergyUnit	153	166	kilowatt-hour
+T25	EnergyUnit	169	174	joule
+T26	ForceUnit	175	181	newton
+T27	TemperatureUnit	175	181	newton
+T28	MeasurementsForHeatChange	182	195	specific heat
+T29	PhysicalChange	196	213	thermal expansion

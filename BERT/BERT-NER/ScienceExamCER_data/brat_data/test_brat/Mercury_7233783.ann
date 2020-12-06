@@ -1,0 +1,23 @@
+T1	AmountComparison	4	8	most
+T2	ImportanceComparison	9	20	significant
+T3	PropertyOfProduction	21	34	human-induced
+T4	Alter	35	41	impact
+T5	Result	35	41	impact
+T6	PrepositionalDirections	42	44	on
+T7	InnerPlanets	45	50	Earth
+T8	LOCATION	45	50	Earth
+T9	EarthPartsGrossGroundAtmosphere	53	63	atmosphere
+T10	LayersOfTheEarth	53	63	atmosphere
+T11	Source	64	69	comes
+T12	RelativeDirection	70	74	from
+T13	Use	79	82	use
+T14	LevelOfInclusion	86	91	which
+T15	Energy	92	98	energy
+T16	NaturalResources	99	107	resource
+T17	OtherEnergyResources	109	122	flowing water
+T18	PhasesOfWater	117	122	water
+T19	FossilFuel	123	134	fossil fuel
+T20	CelestialLightOnEarth	136	144	sunlight
+T21	OtherEnergyResources	136	144	sunlight
+T22	OtherEnergyResources	145	150	winds
+T23	WeatherPhenomena	145	150	winds

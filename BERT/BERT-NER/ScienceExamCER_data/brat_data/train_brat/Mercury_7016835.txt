@@ -1,0 +1,5 @@
+Students are designing kites to discover what type of kite flies the highest. Which is the most important to consider when designing a kite to fly high?
+string length
+surface area
+materials used
+time of day

@@ -1,0 +1,21 @@
+T1	ProduceEnergy	0	14	Nuclear fusion
+T2	StateOfBeing	15	17	is
+T3	Source	22	28	source
+T4	Energy	32	38	energy
+T5	Star	43	48	stars
+T6	Negations	50	57	Besides
+T7	Element	58	66	hydrogen
+T8	LevelOfInclusion	68	73	which
+T9	Comparisons	74	79	other
+T10	Element	80	87	element
+T11	StateOfBeing	88	90	is
+T12	AmountComparison	91	95	most
+T13	ProbabilityAndCertainty	96	102	likely
+T14	Comparisons	103	107	also
+T15	Rarity	108	114	common
+T16	RelativeLocations	115	117	in
+T17	Star	118	123	stars
+T18	Element	125	131	helium
+T19	Element	132	140	nitrogen
+T20	Element	141	147	oxygen
+T21	Element	148	155	uranium

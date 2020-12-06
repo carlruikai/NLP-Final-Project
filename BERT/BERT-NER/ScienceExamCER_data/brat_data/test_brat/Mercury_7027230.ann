@@ -1,0 +1,35 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTheoryExperimentationAndHistory	6	16	topic area
+T3	ProbabilityAndCertainty	17	22	would
+T4	StateOfBeing	23	25	be
+T5	Quality	30	34	best
+T6	QualityComparison	30	34	best
+T7	PerformingResearch	38	46	research
+T8	Examine	38	46	research
+T9	Goal	47	49	to
+T10	Identify	50	54	find
+T11	Method	55	59	ways
+T12	IncreaseDecrease	63	71	reducing
+T13	AmountChangingActions	63	71	reducing
+T14	EnvironmentalDamageDestruction	72	94	environmental problems
+T15	Cause	95	101	caused
+T16	Human	105	111	humans
+T17	TransferEnergy	113	123	converting
+T18	CelestialLightOnEarth	124	132	sunlight
+T19	OtherEnergyResources	124	132	sunlight
+T20	ChangeInto	133	137	into
+T21	ElectricalEnergy	138	149	electricity
+T22	VerbsForLocate	150	161	looking for
+T23	Undiscovered	162	165	new
+T24	FossilFuel	166	170	coal
+T25	Source	171	179	reserves
+T26	Identify	180	187	finding
+T27	VerbsForLocate	180	187	finding
+T28	GeographicFormations	188	198	reservoirs
+T29	ContainBeComposedOf	204	211	contain
+T30	FossilFuel	212	215	oil
+T31	Changes	216	226	converting
+T32	ExamplesOfHabitats	227	234	forests
+T33	ChangeInto	235	239	into
+T34	ActionsForAgriculture	240	248	farmland
+T35	ManmadeLocations	240	248	farmland

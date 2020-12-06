@@ -1,0 +1,16 @@
+T1	MetalSolids	0	5	Metal
+T2	ElementalComponents	6	11	atoms
+T3	ProbabilityAndCertainty	12	16	will
+T4	AmountComparison	17	21	most
+T5	ProbabilityAndCertainty	22	28	likely
+T6	Create	29	33	form
+T7	ElementalComponents	34	38	ions
+T8	Cause	39	41	by
+T9	AmountChangingActions	46	50	loss
+T10	AtomComponents	54	63	electrons
+T11	AmountChangingActions	65	69	loss
+T12	AtomComponents	73	80	protons
+T13	AmountChangingActions	82	86	gain
+T14	AtomComponents	90	99	electrons
+T15	AmountChangingActions	101	105	gain
+T16	AtomComponents	109	116	protons

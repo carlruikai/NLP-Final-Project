@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Cell	6	10	cell
+T3	AbilityAvailability	11	14	can
+T4	LivingDying	15	22	survive
+T5	Negations	23	30	without
+T6	Help	35	39	help
+T7	Comparisons	43	48	other
+T8	Cell	49	54	cells
+T9	PlantPart	56	60	leaf
+T10	Cell	61	65	cell
+T11	Eukaryote	66	71	yeast
+T12	Cell	72	76	cell
+T13	Angiosperm	77	82	onion
+T14	Cell	83	87	cell
+T15	PartsOfTheMuscularSystem	88	99	muscle cell
+T16	Cell	95	99	cell

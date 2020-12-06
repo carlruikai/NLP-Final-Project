@@ -1,0 +1,52 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	Create	13	22	designing
+T4	Representation	25	30	model
+T5	SolarSystem	38	50	solar system
+T6	Communicate	55	62	writing
+T7	WrittenMedia	55	62	writing
+T8	ConcludingResearch	65	71	report
+T9	QuestionActivityType	65	71	report
+T10	StateOfBeing	77	79	is
+T11	PerformAnActivity	80	86	trying
+T12	StateOfBeing	90	92	be
+T13	ProbabilityAndCertainty	96	104	accurate
+T14	Comparisons	105	107	as
+T15	ProbabilityAndCertainty	108	116	possible
+T16	LevelOfInclusion	118	123	Which
+T17	ResponseType	124	133	statement
+T18	Require	134	140	should
+T19	CombineAdd	145	152	include
+T20	RelativeLocations	145	147	in
+T21	ConcludingResearch	160	166	report
+T22	QuestionActivityType	160	166	report
+T23	Distance	172	180	distance
+T24	RelativeLocations	181	188	between
+T25	Star	193	196	Sun
+T26	InnerPlanets	201	206	Earth
+T27	StateOfBeing	207	209	is
+T28	Measurements	210	218	measured
+T29	Identify	210	218	measured
+T30	Use	219	221	in
+T31	DistanceUnit	222	233	light years
+T32	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	222	233	light years
+T33	OuterPlanets	235	242	Jupiter
+T34	OuterPlanets	247	253	Uranus
+T35	StateOfBeing	254	257	are
+T36	Believe	258	268	considered
+T37	Classify	258	268	considered
+T38	StateOfBeing	272	274	be
+T39	Composition	275	286	terrestrial
+T40	Planet	287	294	planets
+T41	Asteroid	300	313	asteroid belt
+T42	StateOfBeing	314	316	is
+T43	VerbsForLocate	317	324	located
+T44	RelativeLocations	325	332	between
+T45	OuterPlanets	333	340	Jupiter
+T46	OuterPlanets	345	351	Saturn
+T47	CelestialMovement	357	362	orbit
+T48	InnerPlanets	366	370	Mars
+T49	StateOfBeing	371	373	is
+T50	Comparisons	374	381	similar
+T51	CelestialMovement	389	394	orbit
+T52	OuterPlanets	398	404	Saturn

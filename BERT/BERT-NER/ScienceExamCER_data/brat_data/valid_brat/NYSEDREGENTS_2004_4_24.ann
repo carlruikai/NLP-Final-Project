@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PlantPart	6	10	part
+T3	Plant	16	21	plant
+T4	Create	22	30	produces
+T5	PlantPart	35	40	seeds
+T6	PlantPart	42	48	flower
+T7	PlantPart	49	55	leaves
+T8	PlantPart	56	60	stem
+T9	PlantPart	61	66	roots

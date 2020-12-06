@@ -1,0 +1,24 @@
+T1	SpaceAgencies	0	4	NASA
+T2	GroupsOfScientists	0	4	NASA
+T3	ScientificAssociationsAdministrations	0	4	NASA
+T4	ORGANIZATION	0	4	NASA
+T5	SpaceMissionsEGApolloGeminiMercury	7	21	Kepler Mission
+T6	Collect	26	35	collected
+T7	WordsForData	36	47	information
+T8	Relevant	48	53	about
+T9	StarTypes	54	67	main-sequence
+T10	Star	68	73	stars
+T11	ContainBeComposedOf	74	78	with
+T12	Property	79	94	characteristics
+T13	Comparisons	95	102	similar
+T14	Star	110	113	Sun
+T15	StateOfBeing	120	122	is
+T16	AmountComparison	127	131	most
+T17	Rarity	132	138	common
+T18	Color	139	144	color
+T19	LevelOfInclusion	148	153	these
+T20	Star	154	159	stars
+T21	Color	161	165	blue
+T22	Color	166	171	white
+T23	Color	172	175	red
+T24	Color	176	182	yellow

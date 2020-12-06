@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Help	23	28	helps
+T4	Create	32	39	produce
+T5	PartsOfTheExcretorySystem	40	45	urine
+T6	RelativeLocations	42	44	in
+T7	Human	49	55	humans
+T8	Comparisons	60	65	other
+T9	Mammal	66	73	mammals
+T10	PartsOfTheExcretorySystem	75	82	bladder
+T11	PartsOfTheExcretorySystem	83	90	urethra
+T12	PartsOfTheReproductiveSystem	83	90	urethra
+T13	PartsOfTheExcretorySystem	91	98	kidneys
+T14	PartsOfEndocrineSystem	91	98	kidneys
+T15	PartsOfTheExcretorySystem	99	105	ureter

@@ -1,0 +1,16 @@
+T1	Element	8	12	iron
+T2	MetalSolids	8	12	iron
+T3	MetalSolids	13	17	nail
+T4	CombineAdd	18	25	wrapped
+T5	RelativeLocations	26	28	in
+T6	Element	31	37	copper
+T7	MetalSolids	31	42	copper wire
+T8	StateOfBeing	43	45	is
+T9	CombineAdd	46	54	attached
+T10	RelativeDirection	55	57	to
+T11	Circuits	60	67	circuit
+T12	Create	72	77	forms
+T13	ElectricalEnergySource	80	87	battery
+T14	VehicularSystemsParts	92	98	engine
+T15	ResistanceStrength	103	112	insulator
+T16	MagneticDevice	117	130	electromagnet

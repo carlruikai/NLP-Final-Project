@@ -1,0 +1,39 @@
+T1	Human	0	5	Kelly
+T2	Move	6	12	slides
+T3	Shape	15	19	flat
+T4	Rock	20	24	rock
+T5	PrepositionalDirections	25	31	across
+T6	Texture	36	42	smooth
+T7	PhasesOfWater	43	46	ice
+T8	SolidMatter	43	46	ice
+T9	PhaseChangingActions	52	58	frozen
+T10	BodiesOfWater	59	63	pond
+T11	Rock	69	73	rock
+T12	Speed	74	84	slows down
+T13	IncreaseDecrease	74	84	slows down
+T14	RelativeTime	85	90	after
+T15	RelativeNumber	91	98	several
+T16	TimeUnit	99	106	seconds
+T17	Cause	113	119	causes
+T18	Rock	124	128	rock
+T19	Speed	132	141	slow down
+T20	IncreaseDecrease	132	141	slow down
+T21	Width	147	156	thickness
+T22	PhasesOfWater	164	167	ice
+T23	SolidMatter	164	167	ice
+T24	Temperature	172	183	temperature
+T25	EarthPartsGrossGroundAtmosphere	191	194	air
+T26	RelativeLocations	195	200	above
+T27	PhasesOfWater	205	208	ice
+T28	SolidMatter	205	208	ice
+T29	Force	213	218	force
+T30	PullingForces	222	230	friction
+T31	RelativeLocations	231	238	between
+T32	PhasesOfWater	243	246	ice
+T33	SolidMatter	243	246	ice
+T34	Rock	255	259	rock
+T35	Gravity	264	283	gravitational force
+T36	RelativeLocations	284	291	between
+T37	PhasesOfWater	296	299	ice
+T38	SolidMatter	296	299	ice
+T39	Rock	308	312	rock

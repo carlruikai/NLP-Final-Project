@@ -1,0 +1,5 @@
+What information is needed to calculate the speed of a car?
+the road conditions and type of tires
+the type of engine and the amount of gas used by the engine
+the car length and distance traveled
+the distance travel

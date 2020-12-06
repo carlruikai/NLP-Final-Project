@@ -1,0 +1,12 @@
+T1	CardinalNumber	0	3	One
+T2	NUMBER	0	3	One
+T3	Property	4	12	property
+T4	StateOfMatter	16	23	liquids
+T5	StateOfBeing	24	26	is
+T6	ContainBeComposedOf	37	41	have
+T7	TemporalProperty	44	52	definite
+T8	Rigidity	53	64	flexibility
+T9	Temperature	65	76	temperature
+T10	PhysicalProperty	77	83	volume
+T11	Size	77	83	volume
+T12	Shape	84	89	shape

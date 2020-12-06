@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Cell	6	14	cellular
+T3	SystemParts	15	24	structure
+T4	Permit	25	31	allows
+T5	Nutrition	32	41	nutrients
+T6	Move	45	49	pass
+T7	RelativeDirection	50	54	into
+T8	Cell	55	60	cells
+T9	AnimalCellPart	62	75	mitochondrion
+T10	PlantCellPart	62	75	mitochondrion
+T11	AnimalCellPart	76	83	nucleus
+T12	PlantCellPart	76	83	nucleus
+T13	PlantCellPart	84	92	membrane
+T14	AnimalCellPart	84	92	membrane
+T15	PlantPart	93	104	chloroplast

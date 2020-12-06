@@ -1,0 +1,27 @@
+T1	LayersOfTheEarth	4	9	crust
+T2	LayersOfTheEarth	15	21	mantle
+T3	LayersOfTheEarth	31	35	core
+T4	StateOfBeing	36	39	are
+T5	SystemParts	40	50	structures
+T6	InnerPlanets	54	59	Earth
+T7	LOCATION	54	59	Earth
+T8	LevelOfInclusion	61	66	Which
+T9	Represent	67	78	description
+T10	StateOfBeing	79	81	is
+T11	Property	84	91	feature
+T12	InnerPlanets	95	100	Earth
+T13	LayersOfTheEarth	103	109	mantle
+T14	ContainBeComposedOf	111	119	contains
+T15	Fossils	120	134	fossil remains
+T16	ContainBeComposedOf	135	143	consists
+T17	TectonicPlates	147	161	tectonic plate
+T18	StateOfBeing	163	165	is
+T19	VerbsForLocate	166	173	located
+T20	RelativeLocations	169	171	at
+T21	ObjectPart	181	187	center
+T22	InnerPlanets	191	196	Earth
+T23	ContainBeComposedOf	197	200	has
+T24	Property	201	211	properties
+T25	LevelOfInclusion	215	219	both
+T26	StateOfMatter	220	227	liquids
+T27	StateOfMatter	232	238	solids

@@ -1,0 +1,18 @@
+T1	RelativeTime	0	4	When
+T2	Blood	5	10	blood
+T3	StateOfBeing	16	18	is
+T4	RelativeNumber	19	23	high
+T5	ContainBeComposedOf	24	26	in
+T6	Compound	27	41	carbon dioxide
+T7	DigestiveSubstances	27	41	carbon dioxide
+T8	Move	42	47	exits
+T9	PartsOfTheCirculatorySystem	52	57	heart
+T10	PartsOfEndocrineSystem	52	57	heart
+T11	TemporalProperty	62	73	immediately
+T12	Move	74	80	enters
+T13	LevelOfInclusion	81	86	which
+T14	AnimalSystemsProcesses	87	98	body system
+T15	NervousSystem	100	107	nervous
+T16	RespiratorySystem	108	119	respiratory
+T17	DigestiveSystem	120	129	digestive
+T18	MuscularSystem	130	138	muscular

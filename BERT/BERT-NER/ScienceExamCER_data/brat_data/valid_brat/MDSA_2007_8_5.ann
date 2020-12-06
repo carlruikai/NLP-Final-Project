@@ -1,0 +1,58 @@
+T1	Use	0	3	Use
+T2	RepresentingElementsAndMolecules	8	38	Periodic Table of the Elements
+T3	WordsForData	47	58	information
+T4	RelativeLocations	59	64	below
+T5	Result	65	67	to
+T6	Response	68	74	answer
+T7	QuestionActivityType	79	87	question
+T8	Element	89	98	Magnesium
+T9	MetalSolids	99	104	metal
+T10	Element	106	108	Mg
+T11	StateOfBeing	110	112	is
+T12	Color	113	126	grayish-white
+T13	Color	130	135	color
+T14	Reactions	140	146	reacts
+T15	ChemicalProperty	147	155	actively
+T16	CombineAdd	156	160	with
+T17	PhasesOfWater	161	166	water
+T18	Element	168	176	Fluorine
+T19	Compound	178	180	F2
+T20	StateOfBeing	182	184	is
+T21	Color	187	202	greenish-yellow
+T22	StateOfMatter	203	206	gas
+T23	RelativeTime	207	209	at
+T24	Temperature	210	226	room temperature
+T25	StateOfBeing	231	233	is
+T26	PartsOfAGroup	236	242	member
+T27	ClassesOfElements	250	257	halogen
+T28	Taxonomy	258	264	family
+T29	LevelOfInclusion	266	271	These
+T30	CardinalNumber	272	275	two
+T31	NUMBER	272	275	two
+T32	Element	276	284	elements
+T33	Reactions	285	290	react
+T34	Result	291	293	to
+T35	Create	294	301	produce
+T36	Compound	302	320	magnesium fluoride
+T37	Compound	322	326	MgF2
+T38	Compound	331	339	chemical
+T39	Rarity	340	348	commonly
+T40	Use	349	353	used
+T41	Create	357	363	making
+T42	PartsOfABuilding	364	371	windows
+T43	PartsOfObservationInstruments	376	382	lenses
+T44	Method	384	387	How
+T45	Element	395	403	elements
+T46	Element	404	413	magnesium
+T47	Element	415	417	Mg
+T48	Element	423	431	fluorine
+T49	Compound	433	435	F2
+T50	Create	437	444	produce
+T51	Compound	449	457	compound
+T52	Compound	458	476	magnesium fluoride
+T53	Compound	478	482	MgF2
+T54	Energy	488	495	nuclear
+T55	PullingForces	496	506	connection
+T56	PhysicalChange	510	530	physically combining
+T57	MagneticForce	534	553	magnetic connection
+T58	ChemicalChange	557	577	chemically combining

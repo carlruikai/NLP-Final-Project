@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	AnimalSystemsProcesses	12	24	organ system
+T4	Create	25	33	produces
+T5	PartsOfTheReproductiveSystem	34	39	sperm
+T6	Comparisons	40	42	or
+T7	PartsOfTheReproductiveSystem	43	51	egg cell
+T8	DigestiveSystem	54	70	digestive system
+T9	NervousSystem	71	85	nervous system
+T10	RespiratorySystem	86	104	respiratory system
+T11	ReproductiveSystem	105	124	reproductive system

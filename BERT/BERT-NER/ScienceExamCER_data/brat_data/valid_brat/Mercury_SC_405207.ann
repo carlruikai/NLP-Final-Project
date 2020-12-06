@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PhysicalActivity	6	14	activity
+T3	Create	23	32	invention
+T4	Discovery	23	32	invention
+T5	LightProducingObject	40	50	light bulb
+T6	Help	51	57	helped
+T7	AmountComparison	62	66	most
+T8	ActionsForAnimals	68	76	swimming
+T9	Move	77	84	walking
+T10	Examine	85	92	reading
+T11	Representation	85	92	reading
+T12	Communicate	93	100	talking

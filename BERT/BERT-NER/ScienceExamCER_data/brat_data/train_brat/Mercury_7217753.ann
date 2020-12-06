@@ -1,0 +1,11 @@
+T1	Sickness	0	8	Diseases
+T2	AbilityAvailability	14	17	can
+T3	StateOfBeing	18	20	be
+T4	Transportation	21	32	transmitted
+T5	RelativeLocations	33	40	between
+T6	LivingThing	41	50	organisms
+T7	StateOfBeing	51	54	are
+T8	TypesOfIllness	55	65	infectious
+T9	TypesOfIllness	67	76	inherited
+T10	TypesOfIllness	78	91	environmental
+T11	TypesOfIllness	93	103	congenital

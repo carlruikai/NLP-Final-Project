@@ -1,0 +1,13 @@
+T1	RelativeTime	0	6	During
+T2	LevelOfInclusion	7	12	which
+T3	SystemProcessStages	13	18	stage
+T4	Insect	25	31	insect
+T5	LifeCycle	34	44	life cycle
+T6	PerformAnActivity	45	49	does
+T7	Gender	54	60	female
+T8	ActionsForAnimals	61	69	lay eggs
+T9	PrenatalOrganismStates	65	69	eggs
+T10	PostnatalOrganismStages	71	76	nymph
+T11	PostnatalOrganismStages	77	82	larva
+T12	PostnatalOrganismStages	83	87	pupa
+T13	PostnatalOrganismStages	88	93	adult

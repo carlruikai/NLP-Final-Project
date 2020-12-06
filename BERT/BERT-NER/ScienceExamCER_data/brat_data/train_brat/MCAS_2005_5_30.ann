@@ -1,0 +1,30 @@
+T1	RelativeTime	0	4	When
+T2	LightProducingObject	7	17	light bulb
+T3	StateOfBeing	18	20	is
+T4	Start	21	30	turned on
+T5	Energy	32	38	energy
+T6	Changes	39	46	changes
+T7	RelativeDirection	47	51	from
+T8	CardinalNumber	52	55	one
+T9	NUMBER	52	55	one
+T10	Exemplar	56	60	form
+T11	RelativeDirection	61	63	to
+T12	Comparisons	64	71	another
+T13	LevelOfInclusion	73	78	Which
+T14	LevelOfInclusion	82	95	the following
+T15	Quality	96	100	best
+T16	QualityComparison	96	100	best
+T17	Communicate	101	110	describes
+T18	Changes	116	122	change
+T19	SoundEnergy	124	136	sound energy
+T20	RelativeDirection	137	139	to
+T21	Spectra	140	152	light energy
+T22	Energy	153	167	nuclear energy
+T23	RelativeDirection	168	170	to
+T24	Spectra	171	183	light energy
+T25	ElectricalEnergy	184	201	electrical energy
+T26	RelativeDirection	202	204	to
+T27	Spectra	205	217	light energy
+T28	MagneticEnergy	218	233	magnetic energy
+T29	RelativeDirection	234	236	to
+T30	Spectra	237	249	light energy

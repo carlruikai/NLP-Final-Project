@@ -1,0 +1,25 @@
+T1	RelativeLocations	0	2	In
+T2	ManmadeLocations	5	8	zoo
+T3	VerbsForLocate	9	16	located
+T4	RelativeLocations	17	19	in
+T5	Temperature	22	26	warm
+T6	Locations	27	33	region
+T7	LevelOfInclusion	35	40	which
+T8	Require	41	47	should
+T9	StateOfBeing	48	50	be
+T10	CombineAdd	51	59	included
+T11	RelativeLocations	51	53	in
+T12	Mammal	67	77	polar bear
+T13	ManmadeLocations	78	85	exhibit
+T14	Nutrition	87	91	food
+T15	LiquidHoldingContainersRecepticles	92	96	bowl
+T16	ContainBeComposedOf	97	101	with
+T17	Foods	102	107	fruit
+T18	Temperature	108	111	hot
+T19	Brightness	113	119	bright
+T20	Light	120	126	lights
+T21	Temperature	127	131	cold
+T22	PhasesOfWater	132	137	water
+T23	BodiesOfWater	138	142	pool
+T24	Height	143	147	tall
+T25	Plant	148	158	palm trees

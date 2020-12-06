@@ -1,0 +1,35 @@
+T1	RelativeNumber	0	4	Many
+T2	Human	5	16	communities
+T3	GroupsOfOrganisms	5	16	communities
+T4	RelativeLocations	17	19	in
+T5	Countries	24	37	United States
+T6	LOCATION	24	37	United States
+T7	Use	38	41	use
+T8	FossilFuel	42	46	coal
+T9	Result	47	49	to
+T10	Create	50	57	produce
+T11	ElectricalEnergy	58	69	electricity
+T12	CardinalNumber	71	74	One
+T13	NUMBER	71	74	One
+T14	Problem	75	82	problem
+T15	Cause	83	87	with
+T16	Use	88	93	using
+T17	FossilFuel	94	98	coal
+T18	StateOfBeing	99	101	is
+T19	AmountComparison	107	111	very
+T20	RelativeNumber	112	118	little
+T21	Energy	119	125	energy
+T22	StateOfBeing	126	128	is
+T23	Create	129	137	produced
+T24	EcosystemsEnvironment	139	149	ecosystems
+T25	AbilityAvailability	150	153	can
+T26	StateOfBeing	154	156	be
+T27	Harm	157	164	damaged
+T28	ContainBeComposedOf	169	177	contains
+T29	Safety	178	185	harmful
+T30	Harm	178	185	harmful
+T31	Bacteria	186	195	bacteria.
+T32	StateOfBeing	199	201	is
+T33	AmountComparison	204	208	very
+T34	Rarity	209	213	rare
+T35	NaturalResources	214	222	resource

@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	NaturalResources	6	14	resource
+T3	RelativeTime	15	19	when
+T4	Use	20	24	used
+T5	Create	25	31	causes
+T6	AmountComparison	36	40	most
+T7	EnvironmentalDamageDestruction	41	50	pollution
+T8	OtherEnergyResources	52	57	solar
+T9	FossilFuel	58	62	coal
+T10	OtherEnergyResources	63	67	wind
+T11	WeatherPhenomena	63	67	wind
+T12	OtherEnergyResources	68	73	water
+T13	PhasesOfWater	68	73	water

@@ -1,0 +1,69 @@
+T1	RelativeNumber	0	4	Some
+T2	Scientists	5	13	students
+T3	Use	14	18	used
+T4	HeatingAppliance	21	30	hot plate
+T5	IncreaseDecrease	34	38	heat
+T6	Temperature	34	38	heat
+T7	CardinalNumber	39	40	1
+T8	NUMBER	39	40	1
+T9	VolumeUnit	41	42	L
+T10	PhasesOfWater	46	51	water
+T11	LiquidMatter	46	51	water
+T12	RelativeDirection	52	56	from
+T13	CardinalNumber	57	59	20
+T14	TemperatureUnit	59	61	°C
+T15	RelativeDirection	62	64	to
+T16	PhaseTransitionPoint	69	82	boiling point
+T17	PhasesOfWater	86	91	water
+T18	LiquidMatter	86	91	water
+T19	Scientists	97	105	students
+T20	PerformingResearch	106	114	recorded
+T21	Identify	106	114	recorded
+T22	Temperature	119	130	temperature
+T23	PhasesOfWater	138	143	water
+T24	LiquidMatter	138	143	water
+T25	LevelOfInclusion	144	148	each
+T26	TimeUnit	149	155	minute
+T27	RelativeTime	156	161	until
+T28	Start	165	170	began
+T29	PhaseChangingActions	174	178	boil
+T30	LevelOfInclusion	180	185	Which
+T31	LevelOfInclusion	189	202	the following
+T32	Create	203	211	provides
+T33	AmountComparison	216	220	most
+T34	Relevant	221	232	appropriate
+T35	Method	233	236	way
+T36	Represent	240	249	represent
+T37	WordsForData	254	259	data?
+T38	Representation	262	271	bar graph
+T39	ContainBeComposedOf	272	276	with
+T40	Temperature	277	288	temperature
+T41	RelativeLocations	289	291	on
+T42	PartsOfARepresentation	296	302	y-axis
+T43	MarkersOfTime	307	311	time
+T44	RelativeLocations	312	314	on
+T45	PartsOfARepresentation	319	325	x-axis
+T46	Representation	328	337	bar graph
+T47	ContainBeComposedOf	338	342	with
+T48	MarkersOfTime	343	347	time
+T49	RelativeLocations	348	350	on
+T50	PartsOfARepresentation	355	361	y-axis
+T51	Temperature	366	377	temperature
+T52	RelativeLocations	378	380	on
+T53	PartsOfARepresentation	385	391	x-axis
+T54	Representation	394	404	line graph
+T55	ContainBeComposedOf	405	409	with
+T56	Temperature	410	421	temperature
+T57	RelativeLocations	422	424	on
+T58	PartsOfARepresentation	429	435	y-axis
+T59	MarkersOfTime	440	444	time
+T60	RelativeLocations	445	447	on
+T61	PartsOfARepresentation	452	458	x-axis
+T62	Representation	461	471	line graph
+T63	ContainBeComposedOf	472	476	with
+T64	MarkersOfTime	477	481	time
+T65	RelativeLocations	482	484	on
+T66	PartsOfARepresentation	489	495	y-axis
+T67	Temperature	500	511	temperature
+T68	RelativeLocations	512	514	on
+T69	PartsOfARepresentation	519	525	x-axis

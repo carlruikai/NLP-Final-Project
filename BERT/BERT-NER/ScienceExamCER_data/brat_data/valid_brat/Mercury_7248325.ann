@@ -1,0 +1,31 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	14	function
+T3	PartsOfTheExcretorySystem	18	25	kidneys
+T4	PartsOfEndocrineSystem	18	25	kidneys
+T5	PerformAnActivity	26	33	provide
+T6	Help	37	45	maintain
+T7	Preserve	37	45	maintain
+T8	CellProcesses	46	57	homeostasis
+T9	Homeostasis	46	57	homeostasis
+T10	ExcretoryActions	63	70	removal
+T11	StopRemove	63	70	removal
+T12	AmountComparison	74	80	excess
+T13	ThermalEnergy	81	85	heat
+T14	RelativeDirection	86	90	from
+T15	AnimalPart	95	99	body
+T16	ExcretoryActions	104	111	removal
+T17	StopRemove	104	111	removal
+T18	Compound	115	129	carbon dioxide
+T19	RelativeDirection	130	134	from
+T20	AnimalPart	139	143	body
+T21	ExcretoryActions	148	155	removal
+T22	StopRemove	148	155	removal
+T23	AmountComparison	159	165	excess
+T24	Element	166	172	oxygen
+T25	RelativeDirection	173	177	from
+T26	Blood	182	187	blood
+T27	ExcretoryActions	192	199	removal
+T28	StopRemove	192	199	removal
+T29	Toxins	203	220	nitrogenous waste
+T30	RelativeDirection	222	226	from
+T31	Blood	231	236	blood

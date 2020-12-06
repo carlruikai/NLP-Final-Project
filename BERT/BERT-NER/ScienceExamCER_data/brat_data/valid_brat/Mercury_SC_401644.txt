@@ -1,0 +1,5 @@
+A baby horse will inherit all of these traits from its parents except
+height.
+weight.
+coat color.
+preferred food.

@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	16	instrument
+T3	Require	17	23	should
+T4	Scientists	26	33	student
+T5	Use	34	37	use
+T6	Result	38	40	to
+T7	Quality	41	45	best
+T8	QualityComparison	41	45	best
+T9	Observe	46	53	examine
+T10	Bacteria	54	63	bacteria?
+T11	ViewingTools	64	73	telescope
+T12	ObservationInstrumentsTelescopeBinoculars	64	73	telescope
+T13	ViewingTools	74	83	hand lens
+T14	ViewingTools	84	94	microscope
+T15	TechnologicalInstrument	95	110	computer probes
+T16	ComputingDevice	95	103	computer

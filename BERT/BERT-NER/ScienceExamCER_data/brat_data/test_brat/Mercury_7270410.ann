@@ -1,0 +1,64 @@
+T1	Minerals	0	8	Asbestos
+T2	ObjectQuantification	9	15	fibers
+T3	Cause	16	21	cause
+T4	TypesOfIllness	24	30	cancer
+T5	Classify	31	37	called
+T6	TypesOfIllness	38	50	mesothelioma
+T7	RelativeLocations	51	53	in
+T8	Human	54	60	humans
+T9	ObjectQuantification	66	72	fibers
+T10	StopRemove	73	77	kill
+T11	Cell	78	83	cells
+T12	CombineAdd	89	93	line
+T13	PartsOfTheRespiratorySystem	94	98	lung
+T14	HumanPart	99	105	tissue
+T15	Cause	109	116	causing
+T16	CellProcesses	117	138	programmed-cell death
+T17	RelativeTime	140	144	When
+T18	Cell	145	150	cells
+T19	Death	151	154	die
+T20	LivingDying	151	154	die
+T21	Method	160	163	way
+T22	Release	170	177	release
+T23	Compound	180	188	chemical
+T24	Compound	190	194	HMG1
+T25	LevelOfInclusion	196	201	which
+T26	Cause	202	208	causes
+T27	Injuries	212	233	inflammatory response
+T28	RelativeLocations	212	214	in
+T29	Comparisons	237	242	other
+T30	Cell	243	248	cells
+T31	RelativeTime	250	256	During
+T32	Injuries	262	283	inflammatory response
+T33	Cell	285	290	cells
+T34	Release	291	298	release
+T35	Compound	299	308	chemicals
+T36	Help	314	321	promote
+T37	TypesOfIllness	322	327	tumor
+T38	Growth	328	334	growth
+T39	ConcludingResearch	341	351	conclusion
+T40	AbilityAvailability	352	355	can
+T41	Create	360	364	draw
+T42	Uptake	360	364	draw
+T43	Relevant	365	370	about
+T44	Compound	375	384	chemicals
+T45	Release	385	393	released
+T46	Injuries	401	422	inflammatory response
+T47	AmountChangingActions	429	437	decrease
+T48	IncreaseDecrease	429	437	decrease
+T49	Numbers	442	448	amount
+T50	Compound	452	456	HMG1
+T51	RelativeLocations	457	459	in
+T52	FeedbackMechanism	462	475	feedback loop
+T53	AmountChangingActions	482	490	increase
+T54	IncreaseDecrease	482	490	increase
+T55	Numbers	495	501	amount
+T56	Compound	505	509	HMG1
+T57	RelativeLocations	510	512	in
+T58	FeedbackMechanism	515	528	feedback loop
+T59	Harm	535	542	disrupt
+T60	Rarity	547	553	normal
+T61	AnimalSystemsProcesses	554	571	circadian rhythms
+T62	Harm	578	585	disrupt
+T63	Rarity	590	596	normal
+T64	CellProcesses	597	607	cell cycle

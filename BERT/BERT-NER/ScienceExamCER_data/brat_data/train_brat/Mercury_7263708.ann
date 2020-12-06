@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	NaturalPhenomena	6	27	atmospheric phenomena
+T3	StateOfBeing	28	31	are
+T4	Create	32	39	created
+T5	Cause	40	42	by
+T6	ActUponSomething	47	58	interaction
+T7	Relations	47	58	interaction
+T8	ElectricalProperty	62	69	charged
+T9	Particles	70	79	particles
+T10	AtomComponents	70	79	particles
+T11	CombineAdd	80	84	with
+T12	InnerPlanets	85	90	Earth
+T13	LOCATION	85	90	Earth
+T14	AtmosphericLayers	93	106	magnetosphere
+T15	NaturalPhenomena	108	115	auroras
+T16	WeatherPhenomena	116	125	tornadoes
+T17	WavePerception	126	134	rainbows
+T18	NaturalPhenomena	135	145	inversions

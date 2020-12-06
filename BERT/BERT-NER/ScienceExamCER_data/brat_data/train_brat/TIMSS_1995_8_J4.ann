@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Exemplar	12	19	example
+T4	Reactions	25	42	chemical reaction
+T5	PhaseChangingActions	48	55	melting
+T6	PhasesOfWater	59	62	ice
+T7	SolidMatter	59	62	ice
+T8	FormChangingActions	67	75	grinding
+T9	GranularSolids	79	83	salt
+T10	ObjectQuantification	84	92	crystals
+T11	ChangeInto	93	95	to
+T12	GranularSolids	96	102	powder
+T13	ChemicalChange	107	114	burning
+T14	NaturalMaterial	118	122	wood
+T15	SolidMatter	118	122	wood
+T16	PhaseChangingActions	127	138	evaporation
+T17	PhasesOfWater	142	147	water
+T18	RelativeDirection	148	152	from
+T19	BodiesOfWater	155	161	puddle

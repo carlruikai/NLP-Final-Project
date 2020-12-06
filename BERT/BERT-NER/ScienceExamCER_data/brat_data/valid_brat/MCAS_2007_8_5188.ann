@@ -1,0 +1,13 @@
+T1	StateOfBeing	5	7	is
+T2	Size	12	20	smallest
+T3	Comparisons	12	20	smallest
+T4	ElementalComponents	21	25	unit
+T5	Element	32	39	element
+T6	TemporalProperty	45	50	still
+T7	ContainBeComposedOf	51	54	has
+T8	Property	59	69	properties
+T9	Element	78	85	element
+T10	ElementalComponents	90	94	atom
+T11	Compound	97	105	compound
+T12	AtomComponents	109	117	electron
+T13	ElementalComponents	120	128	molecule

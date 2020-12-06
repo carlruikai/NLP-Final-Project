@@ -1,0 +1,50 @@
+T1	PhysicalProperty	4	10	weight
+T2	Mass	4	10	weight
+T3	GenericTerms	17	23	object
+T4	AbilityAvailability	24	27	can
+T5	Changes	28	34	change
+T6	LevelOfInclusion	35	39	even
+T7	RelativeTime	40	44	when
+T8	Mass	49	53	mass
+T9	WaitStay	54	59	stays
+T10	Comparisons	64	68	same
+T11	LevelOfInclusion	70	75	Which
+T12	ResponseType	76	85	statement
+T13	Validity	86	95	correctly
+T14	ProbabilityAndCertainty	86	95	correctly
+T15	Identify	96	106	identifies
+T16	Relations	109	121	relationship
+T17	RelativeLocations	122	129	between
+T18	Mass	130	134	mass
+T19	PhysicalProperty	139	145	weight
+T20	Mass	139	145	weight
+T21	PhysicalProperty	139	145	weight
+T22	Mass	139	145	weight
+T23	GenericTerms	164	170	object
+T24	Cause	171	181	depends on
+T25	Mass	186	190	mass
+T26	PhysicalProperty	199	205	volume
+T27	Size	199	205	volume
+T28	Gravity	207	214	Gravity
+T29	Alter	215	222	affects
+T30	PhysicalProperty	227	233	weight
+T31	Mass	227	233	weight
+T32	GenericTerms	240	246	object
+T33	Negations	247	250	but
+T34	Negations	251	254	not
+T35	Mass	259	263	mass
+T36	Mass	259	263	mass
+T37	GenericTerms	280	286	object
+T38	Cause	287	297	depends on
+T39	PhysicalProperty	302	308	weight
+T40	Mass	302	308	weight
+T41	Size	313	317	size
+T42	MagneticForce	319	333	Magnetic field
+T43	MagneticEnergy	319	333	Magnetic field
+T44	AbilityAvailability	335	338	can
+T45	Alter	339	345	affect
+T46	Mass	346	350	mass
+T47	Negations	351	354	but
+T48	Negations	355	358	not
+T49	PhysicalProperty	359	365	weight
+T50	Mass	359	365	weight

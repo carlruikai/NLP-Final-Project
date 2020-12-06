@@ -1,0 +1,28 @@
+T1	BodiesOfWater	0	5	Ocean
+T2	TidesHighTideLowTide	6	11	tides
+T3	InnerPlanets	15	20	Earth
+T4	StateOfBeing	21	24	are
+T5	ResistanceStrength	25	33	strongly
+T6	ActUponSomething	34	44	influenced
+T7	Alter	34	44	influenced
+T8	Cause	45	47	by
+T9	Moon	52	56	Moon
+T10	RelativeTime	58	64	During
+T11	LevelOfInclusion	65	70	which
+T12	LunarPhases	71	83	lunar phases
+T13	StateOfBeing	84	87	are
+T14	BodiesOfWater	88	93	ocean
+T15	TidesHighTideLowTide	94	99	tides
+T16	Height	100	106	lowest
+T17	Comparisons	100	106	lowest
+T18	RelativeLocations	107	109	on
+T19	InnerPlanets	110	115	Earth
+T20	LOCATION	110	115	Earth
+T21	LunarPhases	117	121	full
+T22	LunarPhases	126	139	first quarter
+T23	LunarPhases	140	149	full moon
+T24	LunarPhases	154	162	new moon
+T25	LunarPhases	163	175	last quarter
+T26	LunarPhases	180	188	new moon
+T27	LunarPhases	189	202	first quarter
+T28	LunarPhases	207	219	last quarter

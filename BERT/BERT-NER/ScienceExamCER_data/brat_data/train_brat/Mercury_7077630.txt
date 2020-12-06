@@ -1,0 +1,5 @@
+The smallest part of an element that retains the properties of the element is the
+proton.
+nucleus.
+electron.
+atom.

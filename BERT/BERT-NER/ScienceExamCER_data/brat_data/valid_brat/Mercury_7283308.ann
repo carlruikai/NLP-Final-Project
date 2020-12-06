@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	3	All
+T2	LevelOfInclusion	7	20	the following
+T3	Event	21	27	events
+T4	Occur	28	33	occur
+T5	RelativeTime	34	40	during
+T6	CellProcesses	41	49	prophase
+T7	RelativeLocations	50	52	in
+T8	CellProcesses	53	60	mitosis
+T9	Negations	61	67	except
+T10	GeneticProcesses	68	75	pairing
+T11	CellsAndGenetics	79	90	chromosomes
+T12	Genetics	79	90	chromosomes
+T13	Genetics	92	99	spindle
+T14	Create	100	109	formation
+T15	GeneticProcesses	111	124	crossing over
+T16	ParticleMovement	126	138	condensation
+T17	Genetics	142	145	DNA

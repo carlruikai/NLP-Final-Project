@@ -1,0 +1,35 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	14	sentence
+T3	Relevant	15	20	about
+T4	RepresentingElementsAndMolecules	25	51	periodic table of elements
+T5	StateOfBeing	52	54	is
+T6	ProbabilityAndCertainty	55	59	true
+T7	LevelOfInclusion	61	64	All
+T8	Element	65	73	elements
+T9	RelativeLocations	74	76	in
+T10	Group	77	83	period
+T11	CardinalNumber	84	85	2
+T12	NUMBER	84	85	2
+T13	StateOfBeing	86	89	are
+T14	MetalSolids	90	96	metals
+T15	LevelOfInclusion	98	101	All
+T16	Element	102	110	elements
+T17	RelativeLocations	111	113	in
+T18	Group	114	119	group
+T19	NUMBER	120	122	18
+T20	StateOfBeing	123	126	are
+T21	MetalSolids	127	133	metals
+T22	MetalSolids	135	141	Metals
+T23	StateOfBeing	142	145	are
+T24	VerbsForLocate	146	151	found
+T25	RelativeLocations	152	154	on
+T26	RelativeDirection	159	163	left
+T27	ObjectPart	164	168	side
+T28	RepresentingElementsAndMolecules	176	190	periodic table
+T29	MetalSolids	192	198	Metals
+T30	StateOfBeing	199	202	are
+T31	VerbsForLocate	203	208	found
+T32	RelativeLocations	209	211	on
+T33	RelativeDirection	216	221	right
+T34	ObjectPart	222	226	side
+T35	RepresentingElementsAndMolecules	234	248	periodic table

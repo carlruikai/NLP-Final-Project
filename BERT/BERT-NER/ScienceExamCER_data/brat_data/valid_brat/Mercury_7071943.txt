@@ -1,0 +1,5 @@
+Which soil component has the least capacity for holding water?
+silt
+clay
+sand
+humus

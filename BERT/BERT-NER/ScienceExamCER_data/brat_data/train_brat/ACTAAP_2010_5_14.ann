@@ -1,0 +1,26 @@
+T1	Method	0	3	How
+T2	StateOfBeing	4	7	are
+T3	Color	8	13	green
+T4	Plant	14	20	plants
+T5	ImportanceComparison	24	33	important
+T6	SystemProcessStages	34	38	part
+T7	CarbonCycle	46	73	carbon dioxide-oxygen cycle
+T8	AmountChangingActions	80	83	add
+T9	CombineAdd	80	83	add
+T10	Element	84	90	oxygen
+T11	RelativeDirection	91	93	to
+T12	Soil	98	102	soil
+T13	AmountChangingActions	109	116	release
+T14	Release	109	116	release
+T15	Element	117	123	oxygen
+T16	RelativeDirection	124	128	into
+T17	EarthPartsGrossGroundAtmosphere	133	136	air
+T18	WaitStay	143	146	fix
+T19	Position	143	146	fix
+T20	Compound	147	161	carbon dioxide
+T21	RelativeLocations	162	164	in
+T22	Soil	169	173	soil
+T23	Preserve	180	185	store
+T24	Compound	186	200	carbon dioxide
+T25	RelativeLocations	201	203	in
+T26	PlantPart	204	209	roots

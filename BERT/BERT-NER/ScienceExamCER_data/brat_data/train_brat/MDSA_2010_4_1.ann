@@ -1,0 +1,34 @@
+T1	GeneticRelations	2	8	parent
+T2	GeneticRelations	15	20	child
+T3	WordsForOffspring	15	20	child
+T4	ContainBeComposedOf	21	26	share
+T5	Comparisons	21	26	share
+T6	RelativeNumber	27	34	several
+T7	Property	35	50	characteristics
+T8	LevelOfInclusion	52	56	Both
+T9	Human	57	68	individuals
+T10	StateOfBeing	69	72	are
+T11	Height	73	77	tall
+T12	ContainBeComposedOf	79	83	have
+T13	HumanPart	84	94	curly hair
+T14	StateOfBeing	96	99	are
+T15	Quality	100	104	good
+T16	Human	105	110	cooks
+T17	ActionsForNutrition	105	110	cooks
+T18	ContainBeComposedOf	116	120	have
+T19	HumanPart	121	129	freckles
+T20	LevelOfInclusion	131	136	Which
+T21	LevelOfInclusion	140	145	these
+T22	Property	146	161	characteristics
+T23	StateOfBeing	155	157	is
+T24	LearnedBehavior	167	183	learned behavior
+T25	StateOfBeing	185	190	being
+T26	Height	191	195	tall
+T27	ContainBeComposedOf	196	202	having
+T28	HumanPart	203	213	curly hair
+T29	StateOfBeing	214	219	being
+T30	Quality	222	226	good
+T31	Human	227	231	cook
+T32	ActionsForNutrition	227	231	cook
+T33	ContainBeComposedOf	232	238	having
+T34	HumanPart	239	247	freckles

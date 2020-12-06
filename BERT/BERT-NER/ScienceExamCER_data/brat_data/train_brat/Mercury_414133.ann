@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	RelativeTime	18	23	never
+T5	Negations	18	23	never
+T6	VerbsForLocate	24	29	found
+T7	RelativeLocations	30	32	in
+T8	Cell	33	49	prokaryotic cell
+T9	Monera	33	49	prokaryotic cell
+T10	AnimalCellPart	52	65	cell membrane
+T11	PlantCellPart	52	65	cell membrane
+T12	BacteriaPart	52	65	cell membrane
+T13	AnimalCellPart	66	74	ribosome
+T14	PlantCellPart	66	74	ribosome
+T15	BacteriaPart	66	74	ribosome
+T16	PlantCellPart	75	84	cell wall
+T17	BacteriaPart	75	84	cell wall
+T18	AnimalCellPart	85	92	nucleus
+T19	PlantCellPart	85	92	nucleus

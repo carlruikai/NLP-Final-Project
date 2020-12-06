@@ -1,0 +1,13 @@
+T1	ImportanceComparison	4	11	primary
+T2	SystemAndFunctions	12	20	function
+T3	Device	26	34	doorbell
+T4	Circuits	35	42	circuit
+T5	StateOfBeing	43	45	is
+T6	TransferEnergy	49	56	convert
+T7	ElectricalEnergy	57	74	electrical energy
+T8	ChangeInto	75	79	into
+T9	SoundEnergy	80	85	sound
+T10	PropertyOfMotion	87	93	motion
+T11	Move	87	93	motion
+T12	Spectra	95	109	radiant energy
+T13	Energy	111	126	chemical energy

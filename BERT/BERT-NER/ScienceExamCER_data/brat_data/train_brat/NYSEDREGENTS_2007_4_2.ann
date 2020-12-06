@@ -1,0 +1,10 @@
+T1	Exemplar	5	9	form
+T2	Energy	13	19	energy
+T3	Cause	20	26	causes
+T4	PhasesOfWater	30	33	ice
+T5	GeometricSpatialObjects	34	38	cube
+T6	PhaseChangingActions	42	46	melt
+T7	Energy	48	58	mechanical
+T8	MagneticEnergy	59	67	magnetic
+T9	SoundEnergy	68	73	sound
+T10	ThermalEnergy	74	78	heat

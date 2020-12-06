@@ -1,0 +1,33 @@
+T1	TypesOfIllness	0	18	Sickle cell anemia
+T2	StateOfBeing	19	21	is
+T3	Genetics	24	31	genetic
+T4	Sickness	32	39	disease
+T5	Cause	40	46	caused
+T6	GeneticProperty	53	62	autosomal
+T7	Gene	63	77	recessive gene
+T8	LevelOfInclusion	82	86	each
+T9	GeneticRelations	87	93	parent
+T10	ContainBeComposedOf	94	101	carries
+T11	CardinalNumber	102	105	one
+T12	NUMBER	102	105	one
+T13	Cell	106	117	sickle cell
+T14	Genetics	118	124	allele
+T15	StateOfBeing	131	134	are
+T16	OpportunitiesAndTheirExtent	139	146	chances
+T17	GeneticRelations	158	163	child
+T18	WordsForOffspring	158	163	child
+T19	ProbabilityAndCertainty	164	168	will
+T20	ContainBeComposedOf	169	173	have
+T21	TypesOfIllness	174	192	sickle cell anemia
+T22	Negations	194	196	no
+T23	OpportunitiesAndTheirExtent	197	203	chance
+T24	CardinalNumber	204	207	one
+T25	Calculations	208	210	in
+T26	CardinalNumber	211	215	four
+T27	CardinalNumber	216	219	two
+T28	Calculations	220	222	in
+T29	CardinalNumber	223	227	four
+T30	CardinalNumber	228	233	three
+T31	Calculations	234	236	in
+T32	NUMBER	237	241	four
+T33	CardinalNumber	237	241	four

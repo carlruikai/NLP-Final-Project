@@ -1,0 +1,79 @@
+T1	Human	0	8	Students
+T2	Scientists	0	8	Students
+T3	GroupsOfScientists	0	8	Students
+T4	Move	9	16	visited
+T5	ObservationInstrumentsTelescopeBinoculars	21	46	Morris W. Offit telescope
+T6	VerbsForLocate	47	54	located
+T7	RelativeLocations	50	52	at
+T8	ObservationPlacesEGObservatory	62	94	Maryland Space Grant Observatory
+T9	RelativeLocations	95	97	in
+T10	Cities	98	107	Baltimore
+T11	ActionsForAnimals	114	121	learned
+T12	BeliefKnowledge	114	121	learned
+T13	Star	132	137	stars
+T14	Planet	139	146	planets
+T15	Moon	152	156	moon
+T16	Human	162	170	students
+T17	Scientists	162	170	students
+T18	GroupsOfScientists	162	170	students
+T19	PerformingResearch	171	179	recorded
+T20	WordsForData	184	195	information
+T21	RelativeLocations	196	201	below
+T22	Constellation	205	218	Star patterns
+T23	WaitStay	219	223	stay
+T24	Comparisons	228	232	same
+T25	Locations	244	253	locations
+T26	RelativeLocations	254	256	in
+T27	Sky	261	264	sky
+T28	Observe	265	269	seem
+T29	Changes	273	279	change
+T30	Star	287	290	sun
+T31	Planet	292	299	planets
+T32	Moon	305	309	moon
+T33	Observe	310	316	appear
+T34	Move	320	324	move
+T35	CelestialMovement	320	324	move
+T36	RelativeLocations	325	327	in
+T37	Sky	332	335	sky
+T38	Star	339	355	Proxima Centauri
+T39	StateOfBeing	356	358	is
+T40	DistanceComparison	363	370	nearest
+T41	Star	371	375	star
+T42	SolarSystem	383	395	solar system
+T43	Star	399	406	Polaris
+T44	StateOfBeing	404	406	is
+T45	Star	412	416	star
+T46	StateOfBeing	422	424	is
+T47	ObjectPart	425	429	part
+T48	Constellation	435	451	pattern of stars
+T49	Classify	452	458	called
+T50	Constellation	463	476	Little Dipper
+T51	ResponseType	484	493	statement
+T52	Quality	494	498	best
+T53	QualityComparison	494	498	best
+T54	Communicate	499	507	explains
+T55	Cause	508	511	why
+T56	Star	516	519	sun
+T57	Observe	520	527	appears
+T58	Move	531	535	move
+T59	PrepositionalDirections	536	542	across
+T60	Sky	547	550	sky
+T61	LevelOfInclusion	551	555	each
+T62	TimeUnit	556	559	day
+T63	TimesOfDayDayNight	556	559	day
+T64	Star	565	568	sun
+T65	CelestialMovement	569	577	revolves
+T66	PrepositionalDirections	578	584	around
+T67	InnerPlanets	585	590	Earth
+T68	InnerPlanets	585	590	Earth
+T69	CelestialMovement	598	605	rotates
+T70	PrepositionalDirections	606	612	around
+T71	Star	617	620	sun
+T72	Star	617	620	sun
+T73	CelestialMovement	630	638	revolves
+T74	Position	639	650	on its axis
+T75	PlanetParts	646	650	axis
+T76	InnerPlanets	652	657	Earth
+T77	CelestialMovement	658	665	rotates
+T78	Position	666	677	on its axis
+T79	PlanetParts	673	677	axis

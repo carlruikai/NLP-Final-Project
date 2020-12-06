@@ -1,0 +1,11 @@
+T1	Property	5	13	property
+T2	StateOfBeing	14	16	is
+T3	Comparisons	21	25	same
+T4	LevelOfInclusion	30	34	each
+T5	ElementalComponents	35	39	atom
+T6	Element	46	53	element
+T7	Energy	55	61	energy
+T8	AtomicProperties	62	73	mass number
+T9	AtomicProperties	74	87	atomic number
+T10	Numbers	81	87	number
+T11	AtomComponents	98	106	neutrons

@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Require	9	15	needed
+T4	LevelOfInclusion	20	24	both
+T5	PhaseChangingActions	25	32	boiling
+T6	PhaseChangingActions	37	44	melting
+T7	Occur	48	53	occur
+T8	StateOfMatter	55	61	solids
+T9	StateOfMatter	62	67	gases
+T10	ThermalEnergy	68	72	heat
+T11	Pressure	73	81	pressure

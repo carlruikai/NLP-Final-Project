@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Energy	23	29	energy
+T4	Changes	30	41	conversions
+T5	Occur	42	53	takes place
+T6	RelativeLocations	54	56	in
+T7	ElectricalEnergySource	59	66	battery
+T8	Use	67	75	operated
+T9	LightProducingObject	76	86	flashlight
+T10	ElectricalEnergy	88	98	electrical
+T11	Energy	102	112	mechanical
+T12	Spectra	116	121	light
+T13	Energy	122	130	chemical
+T14	Energy	134	144	mechanical
+T15	Spectra	148	153	light
+T16	Energy	154	162	chemical
+T17	ElectricalEnergy	166	176	electrical
+T18	Spectra	180	185	light
+T19	Energy	186	193	nuclear
+T20	ElectricalEnergy	197	207	electrical
+T21	Spectra	211	216	light

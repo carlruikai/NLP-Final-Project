@@ -1,0 +1,5 @@
+The weight of an object can change even when the mass stays the same. Which statement correctly identifies a relationship between mass and weight?
+The weight of an object depends on its mass and its volume.
+Gravity affects the weight of an object but not its mass.
+The mass of an object depends on its weight and size.
+Magnetic fields can affect mass but not weight.

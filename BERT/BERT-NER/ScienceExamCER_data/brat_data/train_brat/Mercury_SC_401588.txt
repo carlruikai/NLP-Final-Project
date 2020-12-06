@@ -1,0 +1,5 @@
+A student is given three identically sized blocks. Each block is made of a different material. What characteristic of the blocks should be examined to find out which block is made of metal?
+color
+weight
+texture
+conductivity

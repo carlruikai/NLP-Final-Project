@@ -1,0 +1,5 @@
+Which graph is best to present data collected on yearly water usage in the United States?
+bar graph
+line graph
+scatterplot
+circle graph

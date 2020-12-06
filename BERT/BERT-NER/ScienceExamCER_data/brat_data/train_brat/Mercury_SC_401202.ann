@@ -1,0 +1,15 @@
+T1	RelativeDirection	0	2	To
+T2	Identify	3	12	determine
+T3	PhaseTransitionPoint	17	30	boiling point
+T4	LiquidMatter	36	42	liquid
+T5	Scientists	46	53	student
+T6	Require	54	58	must
+T7	Use	59	62	use
+T8	LevelOfInclusion	63	66	all
+T9	LevelOfInclusion	70	75	these
+T10	ScientificTools	76	81	tools
+T11	Negations	82	88	except
+T12	TimeMeasuringTools	91	100	stopwatch
+T13	HeatingAppliance	104	115	heat source
+T14	SafetyEquipment	117	131	safety goggles
+T15	TemperatureMeasuringTools	135	146	thermometer

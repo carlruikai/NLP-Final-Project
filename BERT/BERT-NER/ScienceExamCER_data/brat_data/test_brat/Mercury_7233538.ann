@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ObjectQuantification	6	11	layer
+T3	InnerPlanets	15	20	Earth
+T4	LOCATION	15	20	Earth
+T5	Create	21	26	makes
+T6	Size	34	42	smallest
+T7	PercentUnit	43	53	percentage
+T8	InnerPlanets	61	67	planet
+T9	Mass	70	74	mass
+T10	LayersOfTheEarth	76	81	crust
+T11	LayersOfTheEarth	82	92	inner core
+T12	LayersOfTheEarth	93	99	mantle
+T13	LayersOfTheEarth	100	110	outer core

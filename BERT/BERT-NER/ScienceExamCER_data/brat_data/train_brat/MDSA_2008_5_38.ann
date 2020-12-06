@@ -1,0 +1,49 @@
+T1	Mammal	4	17	snowshoe hare
+T2	StateOfBeing	18	21	was
+T3	TemporalProperty	22	26	once
+T4	Rarity	27	33	common
+T5	RelativeLocations	34	36	in
+T6	States	37	45	Maryland
+T7	RelativeLocations	47	49	In
+T8	DATE	50	54	1986
+T9	GroupsOfScientists	56	67	researchers
+T10	RelativeLocations	68	70	in
+T11	States	75	80	state
+T12	Observe	81	86	noted
+T13	Identify	81	86	noted
+T14	Mammal	96	109	snowshoe hare
+T15	StateOfBeing	110	113	was
+T16	Negations	114	116	no
+T17	TemporalProperty	117	123	longer
+T18	VerbsForLocate	124	129	found
+T19	RelativeLocations	130	132	in
+T20	States	133	141	Maryland
+T21	LevelOfInclusion	143	148	Which
+T22	ResponseType	149	158	statement
+T23	Quality	159	163	best
+T24	QualityComparison	159	163	best
+T25	Communicate	164	172	explains
+T26	Cause	173	176	why
+T27	Mammal	181	194	snowshoe hare
+T28	StateOfBeing	195	197	is
+T29	Negations	198	200	no
+T30	TemporalProperty	201	207	longer
+T31	VerbsForLocate	208	213	found
+T32	RelativeLocations	214	216	in
+T33	States	217	225	Maryland
+T34	PhasesOfWater	227	232	Water
+T35	LiquidMatter	227	232	Water
+T36	Quality	233	240	quality
+T37	QualityComparison	245	253	improved
+T38	RelativeLocations	255	260	There
+T39	StateOfBeing	261	264	are
+T40	RelativeNumber	265	273	too many
+T41	Plant	274	279	trees
+T42	Temperature	285	296	temperature
+T43	StateOfBeing	297	299	is
+T44	Temperature	300	308	too cold
+T45	ManmadeLocations	310	330	Housing developments
+T46	ChangeInto	336	344	replaced
+T47	StopRemove	336	344	replaced
+T48	ExamplesOfHabitats	345	351	fields
+T49	TerrestrialLocations	345	351	fields

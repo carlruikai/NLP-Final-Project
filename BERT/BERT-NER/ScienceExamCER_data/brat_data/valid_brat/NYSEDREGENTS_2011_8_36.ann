@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Actions	6	14	activity
+T3	StateOfBeing	15	17	is
+T4	Exemplar	21	28	example
+T5	ChemicalChange	34	49	chemical change
+T6	PhaseChangingActions	51	61	dissolving
+T7	GranularSolids	62	72	table salt
+T8	RelativeLocations	73	75	in
+T9	PhasesOfWater	76	81	water
+T10	LiquidMatter	76	81	water
+T11	FormChangingActions	82	91	hammering
+T12	Element	92	100	aluminum
+T13	MetalSolids	92	100	aluminum
+T14	ChangeInto	101	105	into
+T15	Size	106	110	thin
+T16	Width	106	110	thin
+T17	ObjectQuantification	111	117	sheets
+T18	PhaseChangingActions	118	125	melting
+T19	Element	126	130	gold
+T20	MetalSolids	126	130	gold
+T21	Result	131	133	to
+T22	Create	134	138	make
+T23	ManmadeObjects	139	146	jewelry
+T24	ChemicalChange	147	154	burning
+T25	NaturalMaterial	155	159	wood
+T26	SolidMatter	155	159	wood
+T27	Result	160	162	to
+T28	Create	163	170	produce
+T29	GranularSolids	171	176	ashes

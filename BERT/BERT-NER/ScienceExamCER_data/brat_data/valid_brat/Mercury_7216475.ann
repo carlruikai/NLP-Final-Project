@@ -1,0 +1,28 @@
+T1	BodiesOfWater	2	8	spring
+T2	Source	9	12	fed
+T3	BodiesOfWater	13	19	stream
+T4	Create	20	25	forms
+T5	BodiesOfWater	28	32	pond
+T6	ContainBeComposedOf	38	46	contains
+T7	Plant	47	63	watercress plant
+T8	Aquatic	66	73	minnows
+T9	Aquatic	79	87	crayfish
+T10	BodiesOfWater	93	97	pond
+T11	Uptake	98	106	receives
+T12	CardinalNumber	107	108	5
+T13	TimeUnit	109	114	hours
+T14	MeasuresOfAmountOfLight	118	124	direct
+T15	CelestialLightOnEarth	125	133	sunlight
+T16	LevelOfInclusion	134	139	every
+T17	TimeUnit	140	143	day
+T18	LevelOfInclusion	145	150	Which
+T19	LevelOfInclusion	154	167	the following
+T20	StateOfBeing	168	170	is
+T21	NonlivingPartsOfTheEnvironment	174	188	abiotic factor
+T22	RelativeLocations	189	191	in
+T23	EcosystemsEnvironment	197	206	ecosystem
+T24	BodiesOfWater	212	216	pond
+T25	PhasesOfWater	217	222	water
+T26	Plant	227	243	watercress plant
+T27	Aquatic	249	256	minnows
+T28	Aquatic	261	269	crayfish

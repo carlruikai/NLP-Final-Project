@@ -1,0 +1,21 @@
+T1	PartsOfTheMuscularSystem	4	11	muscles
+T2	PushingActions	12	17	exert
+T3	Force	18	24	forces
+T4	PrepositionalDirections	25	27	on
+T5	AnimalPart	32	36	body
+T6	Help	41	47	enable
+T7	Permit	41	47	enable
+T8	Move	48	56	movement
+T9	Cause	57	59	by
+T10	PushingActions	60	67	pushing
+T11	MuscularSystemActions	60	67	pushing
+T12	PrepositionalDirections	68	70	on
+T13	PartsOfTheMuscularSystem	71	78	tendons
+T14	MuscularSystemActions	80	89	squeezing
+T15	PartsOfTheMuscularSystem	90	99	ligaments
+T16	EndocrineActions	101	112	stimulating
+T17	PartsOfTheNervousSystem	117	128	spinal cord
+T18	PullingActions	130	137	pulling
+T19	MuscularSystemActions	130	137	pulling
+T20	PrepositionalDirections	138	140	on
+T21	PartsOfTheSkeletalSystem	141	146	bones

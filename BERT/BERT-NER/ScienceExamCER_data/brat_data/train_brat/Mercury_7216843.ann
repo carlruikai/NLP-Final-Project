@@ -1,0 +1,22 @@
+T1	PhasesOfWater	0	5	Water
+T2	CombineAdd	6	12	enters
+T3	Move	6	12	enters
+T4	Cell	15	19	cell
+T5	Toxins	24	29	waste
+T6	Material	30	38	material
+T7	Matter	30	38	material
+T8	Separate	39	45	leaves
+T9	Move	39	45	leaves
+T10	Cell	48	52	cell
+T11	PrepositionalDirections	53	60	through
+T12	AnimalCellPart	65	78	cell membrane
+T13	PlantCellPart	65	78	cell membrane
+T14	Source	80	88	Based on
+T15	WordsForData	94	105	information
+T16	AnimalCellPart	111	124	cell membrane
+T17	PlantCellPart	111	124	cell membrane
+T18	StateOfBeing	125	127	is
+T19	Permeability	128	142	semi-permeable
+T20	VisualProperty	144	155	transparent
+T21	Rigidity	157	162	rigid
+T22	Permeability	164	175	impermeable

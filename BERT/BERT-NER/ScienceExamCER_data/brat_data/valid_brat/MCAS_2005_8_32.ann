@@ -1,0 +1,13 @@
+T1	Goal	0	12	In order for
+T2	AirVehicle	15	21	glider
+T3	Move	25	28	fly
+T4	PhysicalProperty	34	40	weight
+T5	Mass	34	40	weight
+T6	Require	41	45	must
+T7	StateOfBeing	46	48	be
+T8	StopRemove	49	56	opposed
+T9	Cause	57	59	by
+T10	PushingForces	60	64	lift
+T11	PullingForces	66	70	drag
+T12	Gravity	72	79	gravity
+T13	PullingForces	81	89	friction

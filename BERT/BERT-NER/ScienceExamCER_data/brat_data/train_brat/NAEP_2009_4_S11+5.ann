@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Communicate	16	24	explains
+T4	Cause	25	28	why
+T5	Light	29	34	light
+T6	RelativeDirection	35	39	from
+T7	Star	44	47	Sun
+T8	LOCATION	44	47	Sun
+T9	AbilityAvailability	48	51	can
+T10	Temperature	52	56	warm
+T11	IncreaseDecrease	52	56	warm
+T12	PhasesOfWater	60	65	water
+T13	RelativeLocations	66	68	in
+T14	LiquidHoldingContainersRecepticles	71	76	glass
+T15	Light	78	83	Light
+T16	LightMovement	84	91	travels
+T17	AmountComparison	92	96	very
+T18	Speed	97	101	fast
+T19	Light	103	108	Light
+T20	LightMovement	109	116	travels
+T21	RelativeDirection	120	128	straight
+T22	GeometricSpatialObjects	129	134	lines
+T23	PhasesOfWater	136	141	Water
+T24	LightMovement	142	150	reflects
+T25	Spectra	151	163	light energy
+T26	PhasesOfWater	165	170	Water
+T27	AbsorbEnergy	171	178	absorbs
+T28	CombineAdd	171	178	absorbs
+T29	Spectra	179	191	light energy

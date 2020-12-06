@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Scientists	6	14	inventor
+T3	Cause	15	18	had
+T4	Quality	23	31	greatest
+T5	Result	32	38	impact
+T6	Relations	39	41	on
+T7	Create	46	57	development
+T8	PropertyOfProduction	61	71	artificial
+T9	Light	72	77	light
+T10	PERSON	79	93	Charles Darwin
+T11	Scientists	87	93	Darwin
+T12	Scientists	94	109	Albert Einstein
+T13	PERSON	94	109	Albert Einstein
+T14	Scientists	110	123	Thomas Edison
+T15	PERSON	110	123	Thomas Edison
+T16	Scientists	124	141	Benjamin Franklin
+T17	PERSON	124	141	Benjamin Franklin

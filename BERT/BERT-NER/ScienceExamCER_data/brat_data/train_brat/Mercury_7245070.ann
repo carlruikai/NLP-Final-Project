@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Foods	6	16	food items
+T3	AbilityAvailability	17	20	can
+T4	StateOfBeing	21	23	be
+T5	DigestionActions	24	35	broken down
+T6	LevelOfInclusion	36	42	mostly
+T7	ChangeInto	43	47	into
+T8	NutritiveSubstancesForAnimalsOrPlants	48	59	amino acids
+T9	Foods	61	78	spaghetti noodles
+T10	Foods	79	94	hamburger patti
+T11	Foods	97	102	apple
+T12	ObjectQuantification	103	109	slices
+T13	Foods	110	118	cucumber
+T14	ObjectQuantification	119	125	slices

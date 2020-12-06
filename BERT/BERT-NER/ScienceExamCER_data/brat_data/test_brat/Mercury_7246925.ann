@@ -1,0 +1,44 @@
+T1	NutritiveSubstancesForAnimalsOrPlants	0	7	Leucine
+T2	StateOfBeing	8	10	is
+T3	CardinalNumber	11	14	one
+T4	NUMBER	11	14	one
+T5	NutritiveSubstancesForAnimalsOrPlants	22	33	amino acids
+T6	PartsOfDNA	22	33	amino acids
+T7	AnimalPart	39	43	body
+T8	Require	44	49	needs
+T9	Negations	50	53	but
+T10	AbilityAvailability	54	60	cannot
+T11	Create	61	65	make
+T12	LevelOfInclusion	67	72	Which
+T13	LevelOfInclusion	76	81	these
+T14	Occur	82	89	happens
+T15	Result	90	97	so that
+T16	Human	102	107	human
+T17	HumanPart	108	112	body
+T18	AbilityAvailability	113	116	can
+T19	Uptake	117	123	obtain
+T20	NutritiveSubstancesForAnimalsOrPlants	124	131	leucine
+T21	HumanPart	137	141	body
+T22	TransferEnergy	142	150	converts
+T23	Comparisons	151	156	other
+T24	PartsOfDNA	157	168	amino acids
+T25	NutritiveSubstancesForAnimalsOrPlants	157	168	amino acids
+T26	ChangeInto	169	171	to
+T27	NutritiveSubstancesForAnimalsOrPlants	172	179	leucine
+T28	HumanPart	185	189	body
+T29	Preserve	190	196	stores
+T30	NutritiveSubstancesForAnimalsOrPlants	197	210	carbohydrates
+T31	ContainBeComposedOf	211	221	containing
+T32	NutritiveSubstancesForAnimalsOrPlants	222	229	leucine
+T33	HumanPart	235	239	body
+T34	DigestionActions	240	251	breaks down
+T35	NutritiveSubstancesForAnimalsOrPlants	252	263	fatty acids
+T36	Uptake	267	273	obtain
+T37	NutritiveSubstancesForAnimalsOrPlants	274	281	leucine
+T38	HumanPart	287	291	body
+T39	DigestionActions	292	299	digests
+T40	NutritiveSubstancesForAnimalsOrPlants	300	307	protein
+T41	RelativeLocations	305	307	in
+T42	Nutrition	311	315	food
+T43	Uptake	319	325	obtain
+T44	NutritiveSubstancesForAnimalsOrPlants	326	333	leucine

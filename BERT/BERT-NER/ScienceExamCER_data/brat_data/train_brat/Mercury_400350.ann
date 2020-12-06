@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	SystemAndFunctions	6	15	mechanism
+T3	StateOfBeing	12	14	is
+T4	Negations	19	22	not
+T5	Exemplar	26	33	example
+T6	FeedbackMechanism	39	66	negative feedback mechanism
+T7	RelativeLocations	67	69	in
+T8	Human	74	79	human
+T9	HumanPart	80	84	body
+T10	MuscularSystemActions	86	97	contracting
+T11	PartsOfTheMuscularSystem	98	105	muscles
+T12	Homeostasis	106	116	regulating
+T13	Preserve	106	116	regulating
+T14	Blood	117	131	blood pressure
+T15	Homeostasis	132	142	regulating
+T16	Preserve	132	142	regulating
+T17	HumanPart	143	147	body
+T18	Temperature	148	159	temperature
+T19	Help	160	171	maintaining
+T20	Preserve	160	171	maintaining
+T21	Blood	172	177	blood
+T22	NutritiveSubstancesForAnimalsOrPlants	178	183	sugar
+T23	AmountComparison	184	189	level

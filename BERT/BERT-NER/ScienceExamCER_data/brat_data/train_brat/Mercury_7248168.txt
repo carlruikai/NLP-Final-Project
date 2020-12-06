@@ -1,0 +1,5 @@
+Which biological process determines the probability that particular alleles will be found in any given gamete?
+mutation
+meiosis
+cell cycle
+protein synthesis

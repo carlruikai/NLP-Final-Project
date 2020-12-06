@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Changes	6	12	change
+T3	ProbabilityAndCertainty	13	18	would
+T4	AmountComparison	19	23	most
+T5	ProbabilityAndCertainty	24	30	likely
+T6	Cause	31	36	cause
+T7	Mammal	37	41	deer
+T8	Death	45	48	die
+T9	LivingDying	45	48	die
+T10	Comparisons	49	51	or
+T11	Separate	52	57	leave
+T12	ExamplesOfHabitats	60	68	woodland
+T13	ExamplesOfHabitats	72	78	forest
+T14	NaturalPhenomena	79	83	fire
+T15	WeatherPhenomena	86	95	rainstorm
+T16	Precipitation	86	95	rainstorm
+T17	WeatherPhenomena	98	108	snow storm
+T18	Precipitation	98	108	snow storm
+T19	GeographicFormations	111	119	sinkhole

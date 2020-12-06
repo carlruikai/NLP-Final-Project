@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Create	26	34	produced
+T5	RelativeTime	35	39	when
+T6	NutritiveSubstancesForAnimalsOrPlants	40	45	sugar
+T7	StateOfBeing	46	48	is
+T8	DigestionActions	49	57	digested
+T9	RelativeLocations	58	60	in
+T10	Animal	64	70	animal
+T11	Cell	71	75	cell
+T12	Compound	77	91	carbon dioxide
+T13	PlantPart	93	104	chlorophyll
+T14	Element	106	112	oxygen
+T15	CelestialLightOnEarth	114	122	sunlight

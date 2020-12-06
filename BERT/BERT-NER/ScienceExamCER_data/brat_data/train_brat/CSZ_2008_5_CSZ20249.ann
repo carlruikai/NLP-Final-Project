@@ -1,0 +1,18 @@
+T1	Minerals	0	4	Salt
+T2	Numbers	5	18	concentration
+T3	Composition	5	18	concentration
+T4	PhasesOfWater	20	25	water
+T5	Temperature	26	37	temperature
+T6	LivingThing	39	47	plankton
+T7	Aquatic	57	68	whale shark
+T8	ProbabilityAndCertainty	69	74	might
+T9	LevelOfInclusion	75	78	all
+T10	StateOfBeing	79	81	be
+T11	Use	82	86	used
+T12	RelativeLocations	87	89	in
+T13	Represent	92	103	description
+T14	BodiesOfWater	110	115	ocean
+T15	EcosystemsEnvironment	116	123	climate
+T16	FoodChain	125	133	food web
+T17	EcosystemsEnvironment	135	144	ecosystem
+T18	GroupsOfOrganisms	146	156	population

@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	3	8	which
+T2	Method	9	12	way
+T3	StateOfBeing	13	16	are
+T4	PartsOfWaterCycle	17	28	evaporation
+T5	PhaseChangingActions	17	28	evaporation
+T6	PartsOfWaterCycle	33	45	condensation
+T7	PhaseChangingActions	33	45	condensation
+T8	Comparisons	46	53	similar
+T9	LevelOfInclusion	55	59	Both
+T10	Cause	60	65	cause
+T11	AmountChangingActions	66	75	decreases
+T12	IncreaseDecrease	66	75	decreases
+T13	RelativeLocations	76	78	in
+T14	GaseousMatter	79	82	air
+T15	Temperature	83	94	temperature
+T16	LevelOfInclusion	96	100	Both
+T17	Cause	101	106	cause
+T18	AmountChangingActions	107	116	increases
+T19	IncreaseDecrease	107	116	increases
+T20	RelativeLocations	107	109	in
+T21	GaseousMatter	120	123	air
+T22	Temperature	124	135	temperature
+T23	LevelOfInclusion	137	141	Both
+T24	StateOfBeing	142	145	are
+T25	Cause	146	155	caused by
+T26	Temperature	160	167	warming
+T27	EarthPartsGrossGroundAtmosphere	175	185	atmosphere
+T28	LevelOfInclusion	187	191	Both
+T29	StateOfBeing	192	195	are
+T30	Cause	196	205	caused by
+T31	Changes	206	213	changes
+T32	RelativeLocations	214	216	in
+T33	ThermalEnergy	217	228	heat energy

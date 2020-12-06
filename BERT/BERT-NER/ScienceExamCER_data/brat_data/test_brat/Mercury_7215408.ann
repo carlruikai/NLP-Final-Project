@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	CelestialObject	6	12	object
+T3	StateOfBeing	13	15	is
+T4	Planet	18	24	planet
+T5	VerbsForLocate	25	30	found
+T6	RelativeLocations	31	33	in
+T7	Galaxy	38	54	Milky Way Galaxy
+T8	Constellation	56	61	Orion
+T9	InnerPlanets	62	67	Earth
+T10	Star	68	75	Polaris
+T11	Moon	76	81	Titan

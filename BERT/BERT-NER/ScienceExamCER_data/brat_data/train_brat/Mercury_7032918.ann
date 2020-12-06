@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	PhysicalActivity	12	20	activity
+T4	Cause	21	24	has
+T5	AmountComparison	25	29	most
+T6	QualityComparison	30	40	negatively
+T7	Alter	41	49	affected
+T8	EarthPartsGrossGroundAtmosphere	50	53	air
+T9	Quality	54	61	quality
+T10	ReleaseEnergy	63	70	burning
+T11	Use	63	70	burning
+T12	FossilFuel	71	75	coal
+T13	Growth	76	83	growing
+T14	ActionsForAgriculture	76	83	growing
+T15	Plant	84	89	crops
+T16	Agriculture	84	89	crops
+T17	Use	90	95	using
+T18	OtherEnergyResources	96	108	solar energy
+T19	ElectricalEnergySource	109	114	cells
+T20	Create	115	127	constructing
+T21	ElectricityGeneration	128	147	nuclear power plant
+T22	ElectricalEnergySource	128	147	nuclear power plant

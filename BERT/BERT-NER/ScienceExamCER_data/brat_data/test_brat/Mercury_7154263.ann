@@ -1,0 +1,47 @@
+T1	LivingThing	0	13	Phytoplankton
+T2	StateOfBeing	14	17	are
+T3	Plant	18	23	plant
+T4	Comparisons	24	28	like
+T5	Size	29	40	microscopic
+T6	LivingThing	41	50	organisms
+T7	LocationChangingActions	56	61	float
+T8	LiquidMovement	56	61	float
+T9	RelativeLocations	62	64	in
+T10	BodiesOfWater	65	80	bodies of water
+T11	Exemplar	81	88	such as
+T12	BodiesOfWater	93	98	ocean
+T13	Uptake	105	112	take in
+T14	Compound	113	127	carbon dioxide
+T15	RelativeTime	128	134	during
+T16	OrganicProcesses	139	146	process
+T17	CellProcesses	150	164	photosynthesis
+T18	PlantProcesses	150	164	photosynthesis
+T19	ProbabilityAndCertainty	171	176	would
+T20	AmountComparison	177	181	most
+T21	ProbabilityAndCertainty	182	188	likely
+T22	Occur	189	195	happen
+T23	GroupsOfOrganisms	203	213	population
+T24	LivingThing	217	230	phytoplankton
+T25	StateOfBeing	231	234	was
+T26	Harm	235	244	destroyed
+T27	StopRemove	235	244	destroyed
+T28	BodiesOfWater	246	249	Sea
+T29	Temperature	250	262	temperatures
+T30	ProbabilityAndCertainty	263	268	would
+T31	AmountChangingActions	269	277	decrease
+T32	IncreaseDecrease	269	277	decrease
+T33	Compound	279	293	Greenhouse gas
+T34	ProbabilityAndCertainty	296	301	would
+T35	AmountChangingActions	302	310	increase
+T36	IncreaseDecrease	302	310	increase
+T37	EarthPartsGrossGroundAtmosphere	312	323	Atmospheric
+T38	Element	324	330	oxygen
+T39	ProbabilityAndCertainty	331	336	would
+T40	AmountChangingActions	337	345	increase
+T41	IncreaseDecrease	337	345	increase
+T42	BodiesOfWater	347	350	Sea
+T43	AmountComparison	351	357	levels
+T44	ProbabilityAndCertainty	358	363	would
+T45	AmountComparison	364	375	drastically
+T46	AmountChangingActions	376	384	decrease
+T47	IncreaseDecrease	376	384	decrease

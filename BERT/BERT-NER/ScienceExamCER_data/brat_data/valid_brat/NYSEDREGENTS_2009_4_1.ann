@@ -1,0 +1,13 @@
+T1	WeatherDescriptions	0	5	Windy
+T2	WeatherDescriptions	7	13	cloudy
+T3	WeatherDescriptions	15	20	rainy
+T4	Precipitation	15	20	rainy
+T5	Temperature	26	30	cold
+T6	StateOfBeing	31	34	are
+T7	GenericTerms	35	40	words
+T8	Help	46	50	help
+T9	Communicate	51	59	describe
+T10	PhaseChangingActions	60	71	evaporation
+T11	ChangeInLocation	72	82	deposition
+T12	Matter	83	89	matter
+T13	WeatherPhenomena	90	97	weather

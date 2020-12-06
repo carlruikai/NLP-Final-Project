@@ -1,0 +1,27 @@
+T1	RelativeTime	0	4	When
+T2	Rock	5	12	bedrock
+T3	RelativeLocations	13	15	in
+T4	States	16	29	Massachusetts
+T5	StateOfBeing	30	32	is
+T6	PerformingResearch	33	41	examined
+T7	Examine	33	41	examined
+T8	Frequency	46	51	often
+T9	Observe	52	59	appears
+T10	VisualProperty	60	67	scraped
+T11	VisualProperty	72	80	polished
+T12	LevelOfInclusion	82	87	Which
+T13	LevelOfInclusion	91	104	the following
+T14	AmountComparison	105	109	most
+T15	ProbabilityAndCertainty	110	116	likely
+T16	Cause	117	123	caused
+T17	Rock	128	135	bedrock
+T18	Observe	139	145	appear
+T19	VisualProperty	146	153	scraped
+T20	VisualProperty	158	166	polished
+T21	ConstructiveDestructiveForces	168	187	crustal deformation
+T22	Frequency	188	196	frequent
+T23	NaturalPhenomena	197	208	earthquakes
+T24	GeographicFormations	209	216	glacial
+T25	BodiesOfWater	209	216	glacial
+T26	Move	217	225	movement
+T27	NaturalPhenomena	226	244	volcanic eruptions

@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	13	process
+T3	Occur	14	20	occurs
+T4	RelativeTime	21	27	during
+T5	CellProcesses	28	35	meiosis
+T6	Help	41	52	contributes
+T7	Cause	41	52	contributes
+T8	CellsAndGenetics	58	67	germ cell
+T9	ContainBeComposedOf	68	74	having
+T10	Rarity	75	81	unique
+T11	Genetics	82	98	genetic material
+T12	GeneticProcesses	100	113	transcription
+T13	GeneticProcesses	114	125	replication
+T14	GeneticProcesses	126	139	crossing over
+T15	Genetics	140	147	spindle
+T16	Create	148	157	formation

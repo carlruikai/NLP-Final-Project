@@ -1,0 +1,76 @@
+T1	RelativeTime	0	4	When
+T2	WeatherPhenomena	5	15	high winds
+T3	LocationChangingActions	16	23	knocked
+T4	PrepositionalDirections	24	28	down
+T5	Gymnosperm	29	38	pine tree
+T6	RelativeLocations	30	32	in
+T7	Composition	45	51	wooded
+T8	Locations	52	58	region
+T9	Create	63	70	created
+T10	GapsAndCracks	73	76	gap
+T11	RelativeLocations	77	79	in
+T12	OtherProperties	84	91	crowded
+T13	ExamplesOfHabitats	92	98	canopy
+T14	Permit	103	110	allowed
+T15	CelestialLightOnEarth	111	119	sunlight
+T16	LightMovement	123	127	fall
+T17	PrepositionalDirections	128	130	on
+T18	Soil	135	141	ground
+T19	AmountChangingActions	147	156	increased
+T20	IncreaseDecrease	147	156	increased
+T21	CelestialLightOnEarth	157	165	sunlight
+T22	Permit	166	173	allowed
+T23	PhysicalProperty	176	181	dense
+T24	Growth	182	188	growth
+T25	ActionsForAgriculture	182	188	growth
+T26	Plant	192	208	raspberry plants
+T27	LevelOfInclusion	209	214	which
+T28	Help	215	224	protected
+T29	Preserve	215	224	protected
+T30	Age	225	230	young
+T31	Gymnosperm	231	235	pine
+T32	Plant	236	245	seedlings
+T33	RelativeDirection	246	250	from
+T34	StateOfBeing	251	256	being
+T35	ActionsForAnimals	257	262	eaten
+T36	Consumption	257	262	eaten
+T37	Cause	263	265	by
+T38	TypeOfConsumer	266	276	herbivores
+T39	RelativeTime	278	282	Over
+T40	MarkersOfTime	283	287	time
+T41	Gymnosperm	293	297	pine
+T42	Plant	298	307	seedlings
+T43	Growth	308	312	grew
+T44	ActionsForAgriculture	308	312	grew
+T45	StopRemove	317	324	blocked
+T46	CelestialLightOnEarth	325	333	sunlight
+T47	RelativeDirection	334	338	from
+T48	LightMovement	339	346	falling
+T49	PrepositionalDirections	347	349	on
+T50	ExamplesOfHabitats	354	362	woodland
+T51	NonlivingPartsOfTheEnvironment	363	368	floor
+T52	Result	370	377	thereby
+T53	AvoidReject	378	388	preventing
+T54	StopRemove	378	388	preventing
+T55	Growth	389	395	growth
+T56	ActionsForAgriculture	389	395	growth
+T57	RelativeNumber	399	403	more
+T58	Plant	404	420	raspberry plants
+T59	LevelOfInclusion	422	427	Which
+T60	LevelOfInclusion	431	436	these
+T61	ResponseType	437	442	terms
+T62	GenericTerms	437	442	terms
+T63	Quality	443	447	best
+T64	QualityComparison	443	447	best
+T65	Represent	448	457	describes
+T66	OrganicProcesses	462	469	process
+T67	Changes	473	479	change
+T68	Observe	480	488	observed
+T69	RelativeLocations	489	491	in
+T70	ExamplesOfHabitats	497	506	woodlands
+T71	GroupsOfOrganisms	507	516	community
+T72	Adaptation	518	528	adaptation
+T73	Help	529	540	cooperation
+T74	NaturalSelection	541	558	natural selection
+T75	Evolution	559	580	ecological succession
+T76	EnvironmentalPhenomena	559	580	ecological succession

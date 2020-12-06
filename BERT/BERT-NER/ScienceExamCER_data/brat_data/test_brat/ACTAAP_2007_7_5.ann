@@ -1,0 +1,51 @@
+T1	Experimentation	3	13	experiment
+T2	StateOfBeing	14	16	is
+T3	PerformAnActivity	17	26	performed
+T4	Use	27	31	with
+T5	PhysicalProperty	34	40	sealed
+T6	LiquidHoldingContainersRecepticles	41	50	container
+T7	LiquidHoldingContainersRecepticles	41	50	container
+T8	Start	66	72	starts
+T9	ContainBeComposedOf	77	81	with
+T10	Temperature	84	95	temperature
+T11	NUMBER	99	101	70
+T12	TemperatureUnit	102	111	degrees F
+T13	Pressure	119	131	air pressure
+T14	CardinalNumber	135	137	20
+T15	NUMBER	135	137	20
+T16	PressureUnit	138	141	psi
+T17	LiquidHoldingContainersRecepticles	147	156	container
+T18	StateOfBeing	157	159	is
+T19	IncreaseDecrease	160	166	heated
+T20	Temperature	160	166	heated
+T21	Pressure	176	184	pressure
+T22	RelativeLocations	185	191	inside
+T23	LiquidHoldingContainersRecepticles	196	205	container
+T24	IncreaseDecrease	206	211	rises
+T25	AmountComparison	212	218	evenly
+T26	CombineAdd	219	223	with
+T27	AmountChangingActions	224	233	increased
+T28	IncreaseDecrease	224	233	increased
+T29	Temperature	234	245	temperature
+T30	LiquidHoldingContainersRecepticles	254	263	container
+T31	StateOfBeing	264	266	is
+T32	IncreaseDecrease	267	273	cooled
+T33	Temperature	267	273	cooled
+T34	RelativeDirection	274	281	back to
+T35	NUMBER	282	284	70
+T36	TemperatureUnit	285	294	degrees F
+T37	ProbabilityAndCertainty	301	305	will
+T38	Pressure	310	322	air pressure
+T39	StateOfBeing	323	325	be
+T40	CardinalNumber	327	329	10
+T41	NUMBER	327	329	10
+T42	PressureUnit	330	333	psi
+T43	CardinalNumber	334	336	20
+T44	NUMBER	334	336	20
+T45	PressureUnit	337	340	psi
+T46	CardinalNumber	341	343	30
+T47	NUMBER	341	343	30
+T48	PressureUnit	344	347	psi
+T49	NUMBER	348	350	40
+T50	CardinalNumber	348	350	40
+T51	PressureUnit	351	354	psi

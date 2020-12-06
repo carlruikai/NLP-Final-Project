@@ -1,0 +1,42 @@
+T1	ManmadeObjects	2	9	balloon
+T2	ContainBeComposedOf	10	21	filled with
+T3	Element	22	28	helium
+T4	StateOfMatter	29	32	gas
+T5	StateOfBeing	33	35	is
+T6	Release	36	44	set free
+T7	Start	49	55	starts
+T8	Move	59	63	move
+T9	RelativeDirection	64	70	upward
+T10	LevelOfInclusion	72	77	Which
+T11	LevelOfInclusion	81	94	the following
+T12	Quality	95	99	best
+T13	QualityComparison	95	99	best
+T14	Communicate	100	108	explains
+T15	Cause	109	112	why
+T16	Element	117	123	helium
+T17	ManmadeObjects	124	131	balloon
+T18	Move	132	137	moves
+T19	RelativeDirection	138	144	upward
+T20	PhysicalProperty	150	157	density
+T21	Element	161	167	helium
+T22	StateOfBeing	168	170	is
+T23	AmountComparison	171	175	less
+T24	Comparisons	176	180	than
+T25	PhysicalProperty	185	192	density
+T26	EarthPartsGrossGroundAtmosphere	196	199	air
+T27	PullingForces	205	219	air resistance
+T28	LocationChangingActions	220	225	lifts
+T29	ManmadeObjects	230	237	balloon
+T30	PrepositionalDirections	238	240	up
+T31	RelativeLocations	242	247	There
+T32	StateOfBeing	248	250	is
+T33	Negations	251	253	no
+T34	Gravity	254	261	gravity
+T35	ActUponSomething	262	271	acting on
+T36	Element	276	282	helium
+T37	ManmadeObjects	283	291	balloons
+T38	WeatherPhenomena	297	301	wind
+T39	LocationChangingActions	302	307	blows
+T40	GaseousMovement	302	307	blows
+T41	ManmadeObjects	312	319	balloon
+T42	RelativeDirection	320	326	upward

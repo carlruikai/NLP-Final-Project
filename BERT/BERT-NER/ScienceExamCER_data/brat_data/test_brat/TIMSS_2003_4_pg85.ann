@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	AbilityAvailability	23	26	can
+T4	Cause	27	31	make
+T5	GenericTerms	32	39	objects
+T6	PushingActions	40	45	repel
+T7	AvoidReject	40	45	repel
+T8	LevelOfInclusion	46	50	each
+T9	Comparisons	51	56	other
+T10	Gravity	58	65	gravity
+T11	MagneticForce	66	75	magnetism
+T12	LevelOfInclusion	76	80	both
+T13	Gravity	81	88	gravity
+T14	MagneticForce	93	102	magnetism
+T15	Negations	103	110	neither
+T16	Gravity	111	118	gravity
+T17	Negations	119	122	nor
+T18	MagneticForce	123	132	magnetism

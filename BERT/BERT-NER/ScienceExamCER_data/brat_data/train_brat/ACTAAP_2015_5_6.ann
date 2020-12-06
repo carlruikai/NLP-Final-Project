@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GenericTerms	6	12	phrase
+T3	Quality	13	17	best
+T4	QualityComparison	13	17	best
+T5	Represent	18	27	describes
+T6	Mass	32	36	mass
+T7	GenericTerms	43	49	object
+T8	PhysicalProperty	55	61	weight
+T9	Mass	55	61	weight
+T10	GenericTerms	69	75	object
+T11	PhysicalProperty	80	86	volume
+T12	Size	80	86	volume
+T13	GenericTerms	94	100	object
+T14	Numbers	105	111	amount
+T15	Matter	115	121	matter
+T16	RelativeLocations	122	124	in
+T17	GenericTerms	129	135	object
+T18	Numbers	140	146	amount
+T19	Gravity	150	168	gravitational pull
+T20	ActUponSomething	159	161	on
+T21	GenericTerms	176	182	object

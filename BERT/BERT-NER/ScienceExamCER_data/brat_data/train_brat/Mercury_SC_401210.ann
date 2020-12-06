@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	10	tool
+T3	StateOfBeing	11	13	is
+T4	Use	14	18	used
+T5	Goal	19	21	to
+T6	Measurements	22	29	measure
+T7	Identify	22	29	measure
+T8	Size	34	42	diameter
+T9	MoneyTerms	48	52	dime
+T10	ManmadeObjects	48	52	dime
+T11	DistanceMeasuringTools	54	59	ruler
+T12	VolumeMeasuringTool	60	66	beaker
+T13	MassMeasuringTool	67	74	balance
+T14	DistanceMeasuringTools	75	82	compass
+T15	MagneticDirectionMeasuringTool	75	82	compass

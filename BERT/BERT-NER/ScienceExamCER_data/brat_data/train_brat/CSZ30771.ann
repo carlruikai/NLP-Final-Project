@@ -1,0 +1,35 @@
+T1	RelativeLocations	0	2	In
+T2	Comparisons	5	15	comparison
+T3	MetalSolids	19	25	metals
+T4	RelativeDirection	26	28	to
+T5	ClassesOfElements	29	37	nonmetal
+T6	MetalSolids	32	38	metals
+T7	Rarity	47	51	tend
+T8	ContainBeComposedOf	55	59	have
+T9	AmountComparison	60	65	lower
+T10	PhaseTransitionPoint	66	80	melting points
+T11	AmountComparison	85	92	greater
+T12	Conductivity	93	105	conductivity
+T13	ElectricalProperty	93	105	conductivity
+T14	Comparisons	106	110	than
+T15	ClassesOfElements	111	119	nonmetal
+T16	AmountComparison	122	127	lower
+T17	Conductivity	128	140	conductivity
+T18	ElectricalProperty	128	140	conductivity
+T19	AmountComparison	145	150	lower
+T20	PhysicalProperty	151	158	density
+T21	Comparisons	159	163	than
+T22	ClassesOfElements	164	172	nonmetal
+T23	AmountComparison	175	181	higher
+T24	PhysicalProperty	182	189	density
+T25	AmountComparison	194	199	lower
+T26	PhaseTransitionPoint	200	214	melting points
+T27	Comparisons	215	219	than
+T28	ClassesOfElements	220	228	nonmetal
+T29	AmountComparison	231	238	greater
+T30	Conductivity	239	251	conductivity
+T31	ElectricalProperty	239	251	conductivity
+T32	AmountComparison	256	262	higher
+T33	PhaseTransitionPoint	263	277	melting points
+T34	Comparisons	278	282	than
+T35	ClassesOfElements	283	291	nonmetal

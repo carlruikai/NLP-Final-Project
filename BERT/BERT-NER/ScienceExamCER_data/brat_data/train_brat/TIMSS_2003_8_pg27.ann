@@ -1,0 +1,32 @@
+T1	EnvironmentalDamageDestruction	4	27	burning of fossil fuels
+T2	AmountChangingActions	32	41	increased
+T3	IncreaseDecrease	32	41	increased
+T4	Compound	46	60	carbon dioxide
+T5	Numbers	61	68	content
+T6	ObjectQuantification	61	68	content
+T7	EarthPartsGrossGroundAtmosphere	76	86	atmosphere
+T8	StateOfBeing	93	95	is
+T9	ProbabilityAndCertainty	98	106	possible
+T10	Result	107	113	effect
+T11	AmountChangingActions	123	132	increased
+T12	IncreaseDecrease	123	132	increased
+T13	Numbers	133	139	amount
+T14	Compound	143	157	carbon dioxide
+T15	StateOfBeing	158	160	is
+T16	ProbabilityAndCertainty	161	167	likely
+T17	Cause	171	175	have
+T18	PrepositionalDirections	176	178	on
+T19	Planet	183	189	planet
+T20	Temperature	193	199	warmer
+T21	Comparisons	193	199	warmer
+T22	EcosystemsEnvironment	200	207	climate
+T23	Comparisons	210	216	cooler
+T24	Temperature	210	216	cooler
+T25	EcosystemsEnvironment	217	224	climate
+T26	AmountComparison	225	230	Lower
+T27	Comparisons	231	239	relative
+T28	WeatherPhenomena	240	248	humidity
+T29	AmountComparison	249	253	More
+T30	OrganicCompounds	254	259	ozone
+T31	RelativeLocations	260	262	in
+T32	EarthPartsGrossGroundAtmosphere	267	277	atmosphere

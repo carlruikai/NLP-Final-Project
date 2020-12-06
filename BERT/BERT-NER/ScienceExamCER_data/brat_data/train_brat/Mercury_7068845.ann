@@ -1,0 +1,57 @@
+T1	CardinalNumber	0	3	Two
+T2	NUMBER	0	3	Two
+T3	Comparisons	4	13	identical
+T4	Plant	14	20	plants
+T5	StateOfBeing	21	24	are
+T6	ActionsForAgriculture	25	32	planted
+T7	CombineAdd	25	32	planted
+T8	CardinalNumber	33	34	3
+T9	NUMBER	33	34	3
+T10	DistanceUnit	35	41	meters
+T11	Position	42	47	apart
+T12	Separate	42	47	apart
+T13	CardinalNumber	49	52	One
+T14	NUMBER	49	52	One
+T15	Plant	53	58	plant
+T16	StateOfBeing	59	61	is
+T17	Development	62	71	flowering
+T18	Negations	73	76	but
+T19	Comparisons	81	86	other
+T20	StateOfBeing	87	89	is
+T21	Negations	90	93	not
+T22	Scientists	97	104	student
+T23	ConcludingResearch	105	114	concludes
+T24	Plant	124	130	plants
+T25	StateOfBeing	131	134	are
+T26	Uptake	135	144	receiving
+T27	AmountComparison	148	162	unequal supply
+T28	PhasesOfWater	166	171	water
+T29	Comparisons	173	180	Another
+T30	ProbabilityAndCertainty	181	189	possible
+T31	Cause	190	201	explanation
+T32	Comparisons	206	211	other
+T33	Plant	212	217	plant
+T34	StateOfBeing	218	220	is
+T35	Negations	221	224	not
+T36	Development	225	234	flowering
+T37	StateOfBeing	235	237	is
+T38	Plant	247	253	plants
+T39	StateOfBeing	254	257	are
+T40	DistanceComparison	258	267	too close
+T41	RelativeDirection	258	260	to
+T42	Comparisons	271	282	one another
+T43	Uptake	284	293	receiving
+T44	Comparisons	294	303	different
+T45	Numbers	304	311	amounts
+T46	CelestialLightOnEarth	315	323	sunlight
+T47	RelativeLocations	325	327	in
+T48	Soil	328	332	soil
+T49	ContainBeComposedOf	333	337	with
+T50	RelativeNumber	338	342	high
+T51	PlantNutrients	343	348	humus
+T52	Soil	343	348	humus
+T53	ObjectQuantification	349	356	content
+T54	Uptake	358	367	receiving
+T55	Comparisons	368	377	different
+T56	Numbers	378	385	amounts
+T57	Compound	389	403	carbon dioxide

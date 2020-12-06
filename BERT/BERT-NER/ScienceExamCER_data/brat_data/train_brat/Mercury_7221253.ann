@@ -1,0 +1,23 @@
+T1	ClassesOfElements	4	24	alkaline earth metal
+T2	Element	25	33	elements
+T3	StateOfBeing	34	37	are
+T4	RelativeLocations	38	40	in
+T5	Comparisons	45	49	same
+T6	Taxonomy	50	56	family
+T7	RelativeLocations	57	59	in
+T8	RepresentingElementsAndMolecules	64	78	periodic table
+T9	Cause	79	86	because
+T10	LevelOfInclusion	92	95	all
+T11	ContainBeComposedOf	96	100	have
+T12	CardinalNumber	101	104	one
+T13	NUMBER	101	104	one
+T14	AtomComponents	105	121	valence electron
+T15	CardinalNumber	123	126	two
+T16	NUMBER	123	126	two
+T17	AtomComponents	127	143	valence electron
+T18	CardinalNumber	146	151	seven
+T19	NUMBER	146	151	seven
+T20	AtomComponents	152	168	valence electron
+T21	NUMBER	171	176	eight
+T22	CardinalNumber	171	176	eight
+T23	AtomComponents	177	193	valence electron

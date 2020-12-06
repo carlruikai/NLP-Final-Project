@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	16	instrument
+T3	ProbabilityAndCertainty	17	22	would
+T4	StateOfBeing	23	25	be
+T5	Use	26	30	used
+T6	RelativeTime	31	35	when
+T7	Examine	36	44	studying
+T8	PerformingResearch	36	44	studying
+T9	Unit	47	51	unit
+T10	RelativeLocations	52	54	on
+T11	Amphibian	55	64	amphibian
+T12	PhysicalProperty	65	72	anatomy
+T13	VolumeMeasuringTool	76	82	beaker
+T14	ViewingTools	85	94	telescope
+T15	ObservationInstrumentsTelescopeBinoculars	85	94	telescope
+T16	ScientificTools	97	111	dissecting kit
+T17	VolumeMeasuringTool	114	132	graduated cylinder

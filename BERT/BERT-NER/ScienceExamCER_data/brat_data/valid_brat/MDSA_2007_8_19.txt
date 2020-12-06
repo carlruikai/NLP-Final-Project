@@ -1,0 +1,5 @@
+A toy car rolls at a constant speed down a straight inclined track. When the car reaches the flat surface at the base of the inclined track, the speed of the car decreases. Which statement best explains why the speed of the car decreases when it reaches the flat surface?
+The force of gravity acting on the car increases.
+The force of gravity acting on the car decreases.
+The forces influencing the car are not balanced.
+The forces influencing the car are balanced.

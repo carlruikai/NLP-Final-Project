@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	kind
+T3	Rock	14	18	rock
+T4	StateOfBeing	19	21	is
+T5	Create	22	30	produced
+T6	Cause	31	33	by
+T7	ChangeInLocation	34	44	deposition
+T8	ConstructiveDestructiveForces	49	60	cementation
+T9	Metamorphic	62	68	marble
+T10	Metamorphic	72	83	metamorphic
+T11	Rock	84	88	rock
+T12	Sedimentary	89	98	sandstone
+T13	Sedimentary	102	113	sedimentary
+T14	Rock	114	118	rock
+T15	Igneous	119	126	granite
+T16	Igneous	131	148	intrusive igneous
+T17	Rock	149	153	rock
+T18	Igneous	154	160	pumice
+T19	Igneous	165	182	extrusive igneous
+T20	Rock	183	187	rock

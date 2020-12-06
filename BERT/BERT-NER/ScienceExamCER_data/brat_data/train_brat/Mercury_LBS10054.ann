@@ -1,0 +1,8 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Scientists	10	23	Thomas Edison
+T3	Create	24	30	invent
+T4	ViewingTools	32	42	microscope
+T5	DistanceMeasuringTools	43	50	compass
+T6	MagneticDirectionMeasuringTool	43	50	compass
+T7	LightProducingObject	51	61	light bulb
+T8	VehicularSystemsParts	62	74	steam engine

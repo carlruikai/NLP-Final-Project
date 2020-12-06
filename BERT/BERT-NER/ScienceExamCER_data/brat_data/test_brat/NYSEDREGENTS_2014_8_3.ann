@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	Relations	14	26	relationship
+T4	Occur	27	33	exists
+T5	RelativeTime	34	38	when
+T6	LevelOfInclusion	41	48	certain
+T7	Exemplar	49	53	type
+T8	Plant	57	61	tree
+T9	PlantPart	64	69	roots
+T10	Require	70	74	need
+T11	Fungi	77	83	fungus
+T12	Occur	84	91	present
+T13	Result	92	103	in order to
+T14	Growth	104	108	grow
+T15	ActionsForAgriculture	104	108	grow
+T16	Quality	109	117	normally
+T17	Help	119	129	beneficial
+T18	OrganismRelationships	130	141	competitive
+T19	Harm	142	149	harmful
+T20	TypesOfIllness	150	160	infectious

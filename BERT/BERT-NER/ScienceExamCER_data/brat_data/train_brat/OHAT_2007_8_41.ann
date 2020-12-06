@@ -1,0 +1,13 @@
+T1	StateOfBeing	6	8	is
+T2	Exemplar	12	19	example
+T3	Group	25	30	group
+T4	Cell	34	39	cells
+T5	CombineAdd	40	44	with
+T6	Rarity	47	53	common
+T7	Pattern	54	63	structure
+T8	OrganicProcesses	68	76	function
+T9	PartsOfTheDigestiveSystem	78	85	stomach
+T10	PartsOfEndocrineSystem	78	85	stomach
+T11	PartsOfTheMuscularSystem	86	99	muscle tissue
+T12	AnimalCellPart	100	112	mitochondria
+T13	DigestiveSystem	113	129	digestive system

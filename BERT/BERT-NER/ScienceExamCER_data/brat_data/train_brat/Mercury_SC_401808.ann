@@ -1,0 +1,15 @@
+T1	StateOfBeing	4	7	was
+T2	ImportanceComparison	10	17	leading
+T3	Scientists	18	27	authority
+T4	GeologicTheories	31	48	continental drift
+T5	RelativeTime	35	37	in
+T6	DATE	52	67	the early 1900s
+T7	RelativeTime	56	61	early
+T8	YearNumerals	62	67	1900s
+T9	Scientists	69	83	Alfred Wegener
+T10	PERSON	69	83	Alfred Wegener
+T11	Scientists	84	99	Albert Einstein
+T12	PERSON	84	99	Albert Einstein
+T13	Scientists	100	115	Charles Richter
+T14	PERSON	100	115	Charles Richter
+T15	PERSON	116	130	Charles Darwin

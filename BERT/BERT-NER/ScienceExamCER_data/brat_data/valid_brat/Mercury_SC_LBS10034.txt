@@ -1,0 +1,5 @@
+What circuit does not allow an electrical current to flow through it?
+closed
+open
+parallel
+series

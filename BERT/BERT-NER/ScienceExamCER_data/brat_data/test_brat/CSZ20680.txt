@@ -1,0 +1,5 @@
+An object composed mainly of ice is orbiting the Sun in an elliptical path. This object is most likely
+a planet.
+an asteroid.
+a meteor.
+a comet.

@@ -1,0 +1,5 @@
+If an experiment results in data that do not support the hypothesis, what is the most likely step to take next?
+Change the data to support the hypothesis.
+Perform the experiment without using control groups.
+Make observations and form another testable hypothesis.
+Perform the experiment using a larger number of variables.

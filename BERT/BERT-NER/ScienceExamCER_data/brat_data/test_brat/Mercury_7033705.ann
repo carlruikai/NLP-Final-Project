@@ -1,0 +1,21 @@
+T1	StateOfBeing	5	7	is
+T2	AmountComparison	12	16	most
+T3	ProbabilityAndCertainty	17	23	likely
+T4	Cause	24	30	reason
+T5	Mammal	35	46	giant sloth
+T6	ChangeInto	47	53	became
+T7	StateOfBeing	47	53	became
+T8	LivingDying	54	61	extinct
+T9	Extinction	54	61	extinct
+T10	RelativeLocations	57	59	in
+T11	Continents	65	78	North America
+T12	Countries	83	87	Cuba
+T13	Sickness	89	96	disease
+T14	ChangesToResources	97	101	loss
+T15	AmountChangingActions	97	101	loss
+T16	Habitat	105	112	habitat
+T17	EcosystemsEnvironment	113	120	climate
+T18	Changes	121	127	change
+T19	Human	128	134	humans
+T20	StateOfBeing	135	137	as
+T21	TypeOfConsumer	138	147	predators

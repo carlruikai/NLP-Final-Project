@@ -1,0 +1,5 @@
+Why is the output energy of a machine always less than the input energy?
+Some of the energy is destroyed as the machine operates.
+The machine must overcome the constant force of magnetism.
+Useful energy decreases as energy is transferred to the surroundings.
+Some of the energy is released as heat when converted.

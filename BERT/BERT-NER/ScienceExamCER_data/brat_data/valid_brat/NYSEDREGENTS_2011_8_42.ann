@@ -1,0 +1,9 @@
+T1	SoundEnergy	0	5	Sound
+T2	ProbabilityAndCertainty	6	10	will
+T3	Negations	11	14	not
+T4	Move	15	21	travel
+T5	RelativeLocations	22	24	in
+T6	StateOfMatter	27	32	solid
+T7	StateOfMatter	33	39	liquid
+T8	StateOfMatter	40	43	gas
+T9	Vacuum	44	50	vacuum

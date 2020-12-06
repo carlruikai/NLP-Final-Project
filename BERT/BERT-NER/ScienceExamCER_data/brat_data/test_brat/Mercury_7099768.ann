@@ -1,0 +1,41 @@
+T1	RelativeTime	0	4	When
+T2	ManmadeObjects	7	19	bowling ball
+T3	StateOfBeing	20	22	is
+T4	Release	23	31	released
+T5	RelativeDirection	32	36	from
+T6	Human	39	45	bowler
+T7	Occupation	39	45	bowler
+T8	HumanPart	48	52	hand
+T9	Energy	58	64	energy
+T10	RelativeLocations	65	67	in
+T11	ManmadeObjects	72	76	ball
+T12	StateOfBeing	77	79	is
+T13	LevelOfInclusion	80	89	partially
+T14	Preserve	90	96	stored
+T15	RelativeLocations	97	99	in
+T16	ManmadeObjects	104	108	ball
+T17	RelativeTime	109	114	until
+T18	Touch	118	122	hits
+T19	ManmadeObjects	127	131	pins
+T20	AmountChangingActions	133	142	increased
+T21	IncreaseDecrease	133	142	increased
+T22	RelativeTime	138	140	as
+T23	PullingForces	146	154	friction
+T24	StateOfBeing	155	157	is
+T25	CombineAdd	158	165	applied
+T26	RelativeDirection	166	168	to
+T27	ManmadeObjects	173	177	ball
+T28	TransferEnergy	179	188	converted
+T29	RelativeDirection	189	193	from
+T30	Energy	194	208	kinetic energy
+T31	ChangeInto	209	213	into
+T32	Gravity	214	227	gravitational
+T33	Energy	228	244	potential energy
+T34	TransferEnergy	246	255	converted
+T35	RelativeDirection	256	258	to
+T36	ThermalEnergy	259	263	heat
+T37	SoundEnergy	268	273	sound
+T38	RelativeTime	274	278	when
+T39	Touch	282	295	makes contact
+T40	CombineAdd	296	300	with
+T41	PartsOfABuilding	305	310	floor

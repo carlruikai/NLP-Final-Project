@@ -1,0 +1,26 @@
+T1	Occur	4	12	presence
+T2	Animal	19	25	animal
+T3	Fossils	26	32	fossil
+T4	RelativeLocations	33	35	in
+T5	Rock	38	42	rock
+T6	Create	43	48	gives
+T7	ConcludingResearch	49	57	evidence
+T8	WordsForData	49	57	evidence
+T9	ActionsForAnimals	66	73	hunting
+T10	Behaviors	74	83	behaviors
+T11	Animal	88	94	animal
+T12	Use	95	99	used
+T13	RelativeNumber	100	108	how many
+T14	WordsForOffspring	109	115	babies
+T15	Animal	120	126	animal
+T16	Create	127	130	had
+T17	RelativeNumber	131	138	exactly
+T18	ProbabilityAndCertainty	131	138	exactly
+T19	RelativeTime	139	143	when
+T20	Animal	148	154	animal
+T21	StateOfBeing	155	158	was
+T22	Birth	159	163	born
+T23	MarkersOfTime	168	179	time period
+T24	Animal	184	190	animal
+T25	LivingDying	191	196	lived
+T26	RelativeLocations	197	199	in

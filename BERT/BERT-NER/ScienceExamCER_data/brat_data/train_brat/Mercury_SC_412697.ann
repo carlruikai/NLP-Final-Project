@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	ChemicalProperty	28	45	chemical property
+T5	Matter	49	55	matter
+T6	PhysicalProperty	57	64	density
+T7	PhaseTransitionPoint	65	78	boiling point
+T8	Flammability	79	91	flammability
+T9	Shape	92	97	shape

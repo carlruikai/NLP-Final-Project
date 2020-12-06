@@ -1,0 +1,19 @@
+T1	StateOfBeing	5	7	is
+T2	PartsOfTheFoodChain	10	20	decomposer
+T3	LivingThing	24	36	living thing
+T4	ChemicalChange	42	53	breaks down
+T5	Death	54	58	dead
+T6	LivingDying	54	58	dead
+T7	LivingThing	59	68	organisms
+T8	LivingThing	71	83	living thing
+T9	Create	89	94	makes
+T10	Nutrition	103	107	food
+T11	Animal	111	117	animal
+T12	ActionsForAnimals	123	127	eats
+T13	Consumption	123	127	eats
+T14	LivingDying	128	132	live
+T15	Plant	133	139	plants
+T16	Animal	143	149	animal
+T17	ActionsForAnimals	155	160	hunts
+T18	Comparisons	161	166	other
+T19	Animal	167	174	animals

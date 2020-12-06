@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	Help	21	26	helps
+T4	Mammal	29	32	fox
+T5	VerbsForLocate	33	37	find
+T6	Nutrition	38	42	food
+T7	SensoryTerms	44	49	sense
+T8	Senses	53	58	smell
+T9	Size	59	64	thick
+T10	Texture	59	64	thick
+T11	MammalAnimalPart	65	68	fur
+T12	Length	69	73	long
+T13	AnimalPart	74	78	tail
+T14	Shape	79	86	pointed
+T15	AnimalPart	87	92	teeth
+T16	PartsOfTheDigestiveSystem	87	92	teeth

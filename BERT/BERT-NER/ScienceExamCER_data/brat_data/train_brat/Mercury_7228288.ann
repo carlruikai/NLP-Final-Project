@@ -1,0 +1,13 @@
+T1	RelativeLocations	0	2	At
+T2	SystemProcessStages	8	13	level
+T3	Pattern	17	29	organization
+T4	PerformAnActivity	30	34	does
+T5	Harm	35	41	damage
+T6	StopRemove	42	52	compromise
+T7	SystemAndFunctions	57	65	function
+T8	ObjectQuantification	73	78	whole
+T9	AnimalSystemsProcesses	79	85	system
+T10	Cell	89	93	cell
+T11	AnimalPart	97	102	organ
+T12	AnimalPart	105	111	tissue
+T13	AnimalCellPart	115	124	organelle

@@ -1,0 +1,5 @@
+Bridge inspectors have determined that a bridge is unsafe. Which of the following is the BEST design process the company should use to correct the problem?
+identify the problem-repair the bridge-plan for the repair
+plan for the repair-repair the bridge-identify the problem
+plan for the repair-identify the problem-repair the bridge
+identify the problem-plan for the repair-repair the bridge

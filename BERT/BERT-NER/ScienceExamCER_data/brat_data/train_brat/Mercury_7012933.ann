@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	CardinalNumber	6	9	two
+T3	NUMBER	6	9	two
+T4	AnimalSystemsProcesses	10	17	systems
+T5	AnimalPart	25	29	body
+T6	StateOfBeing	30	33	are
+T7	ActUponSomething	34	45	interacting
+T8	Relations	34	45	interacting
+T9	RelativeTime	46	50	when
+T10	Human	53	59	runner
+T11	Injuries	60	67	sprains
+T12	HumanPart	72	77	ankle
+T13	NervousSystem	83	97	nervous system
+T14	DigestiveSystem	106	122	digestive system
+T15	DigestiveSystem	106	122	digestive system
+T16	CirculatorySystem	152	170	circulatory system
+T17	RespiratorySystem	175	193	respiratory system
+T18	NervousSystem	202	216	nervous system
+T19	MuscularSystem	221	236	muscular system
+T20	NervousSystem	245	259	nervous system

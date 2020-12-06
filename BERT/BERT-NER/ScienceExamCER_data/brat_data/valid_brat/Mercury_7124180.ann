@@ -1,0 +1,32 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	AmountComparison	13	17	most
+T4	Validity	18	26	reliable
+T5	Method	27	30	way
+T6	Uptake	34	37	get
+T7	PerformingExperimentsWell	38	46	unbiased
+T8	Result	47	54	results
+T9	RelativeTime	55	59	when
+T10	PerformAnActivity	60	70	conducting
+T11	Experimentation	73	94	controlled experiment
+T12	Use	96	99	Use
+T13	AmountComparison	100	104	more
+T14	Comparisons	105	109	than
+T15	CardinalNumber	110	113	one
+T16	NUMBER	110	113	one
+T17	VariablesControls	114	121	control
+T18	Group	122	127	group
+T19	PerformAnActivity	129	132	Try
+T20	Comparisons	135	144	different
+T21	Groups	145	163	experimental group
+T22	Alter	165	171	Change
+T23	Hypothesizing	176	186	hypothesis
+T24	StateOfBeing	184	186	is
+T25	ProbabilityAndCertainty	196	205	incorrect
+T26	PerformAnActivity	207	213	Repeat
+T27	ReplicatingResearch	207	213	Repeat
+T28	SystemProcessStages	218	227	procedure
+T29	ProbabilityAndCertainty	228	235	exactly
+T30	Comparisons	240	244	same
+T31	LevelOfInclusion	245	249	each
+T32	MarkersOfTime	250	254	time

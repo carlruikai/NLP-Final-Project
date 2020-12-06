@@ -1,0 +1,50 @@
+T1	LOCATION	4	17	Halifax River
+T2	SpecificNamedBodiesOfWater	4	17	Halifax River
+T3	ContainBeComposedOf	18	21	has
+T4	ImportanceComparison	24	29	major
+T5	GeographicFormations	30	41	flood plain
+T6	RelativeLocations	39	41	in
+T7	Cities	45	56	Port Orange
+T8	LOCATION	45	56	Port Orange
+T9	States	58	65	Florida
+T10	Minerals	67	75	Minerals
+T11	StateOfBeing	76	79	are
+T12	ChangeInLocation	80	89	deposited
+T13	RelativeDirection	90	94	into
+T14	Soil	99	103	soil
+T15	GeographicFormations	111	122	flood plain
+T16	RelativeTime	123	127	when
+T17	PhasesOfWater	132	137	water
+T18	LiquidMovement	138	147	overflows
+T19	PartsOfBodiesOfWater	152	157	banks
+T20	BodiesOfWater	165	170	river
+T21	LevelOfInclusion	172	177	These
+T22	Minerals	178	186	minerals
+T23	AbilityAvailability	187	190	can
+T24	AmountChangingActions	191	197	reduce
+T25	CombineAdd	202	212	absorption
+T26	Soil	220	224	soil
+T27	RelativeLocations	225	227	in
+T28	GeographicFormations	232	243	flood plain
+T29	Alter	248	254	affect
+T30	Growth	259	265	growth
+T31	Plant	269	275	plants
+T32	RelativeLocations	276	278	in
+T33	Locations	283	287	area
+T34	LevelOfInclusion	289	294	Which
+T35	Quality	295	299	best
+T36	QualityComparison	295	299	best
+T37	Classify	300	309	describes
+T38	SystemAndFunctions	314	318	role
+T39	ChangeInLocation	326	335	deposited
+T40	Minerals	336	344	minerals
+T41	RelativeLocations	337	339	in
+T42	GeographicFormations	352	363	flood plain
+T43	EcosystemsEnvironment	364	373	ecosystem
+T44	NonlivingPartsOfTheEnvironment	377	390	trophic level
+T45	OpportunitiesAndTheirExtent	393	401	limiting
+T46	VariablesControls	402	408	factor
+T47	OtherAnimalProperties	411	422	territorial
+T48	SystemParts	423	431	boundary
+T49	FoodChain	434	444	food-chain
+T50	SystemParts	445	454	component

@@ -1,0 +1,13 @@
+T1	RelativeLocations	0	2	In
+T2	Create	7	19	construction
+T3	ManmadeLocations	25	30	house
+T4	GenericTerms	36	41	words
+T5	ArcheologicalProcessTechnique	42	52	excavation
+T6	ObjectQuantification	54	58	slab
+T7	Position	64	71	footing
+T8	StateOfBeing	72	75	are
+T9	Associate	76	91	associated with
+T10	PartsOfABuilding	96	100	roof
+T11	PartsOfBodiesOfWater	102	107	floor
+T12	PartsOfABuilding	109	114	frame
+T13	PartsOfABuilding	116	126	foundation

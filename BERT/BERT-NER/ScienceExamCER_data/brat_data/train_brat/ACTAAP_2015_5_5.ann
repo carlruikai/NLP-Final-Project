@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Communicate	16	25	describes
+T4	LevelOfInclusion	26	29	all
+T5	Matter	30	36	matter
+T6	LevelOfInclusion	38	41	All
+T7	Matter	42	48	matter
+T8	ContainBeComposedOf	49	57	contains
+T9	Element	58	64	carbon
+T10	LevelOfInclusion	66	69	All
+T11	Matter	70	76	matter
+T12	ContainBeComposedOf	77	85	contains
+T13	Element	86	92	oxygen
+T14	LevelOfInclusion	94	97	All
+T15	Matter	98	104	matter
+T16	StateOfBeing	105	107	is
+T17	ContainBeComposedOf	108	115	made up
+T18	Cell	119	124	cells
+T19	LevelOfInclusion	126	129	All
+T20	Matter	130	136	matter
+T21	StateOfBeing	137	139	is
+T22	ContainBeComposedOf	140	147	made up
+T23	ElementalComponents	151	156	atoms

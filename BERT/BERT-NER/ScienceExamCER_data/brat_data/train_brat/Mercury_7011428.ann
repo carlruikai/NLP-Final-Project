@@ -1,0 +1,19 @@
+T1	Method	4	11	process
+T2	LevelOfInclusion	15	20	which
+T3	PhasesOfWater	21	32	water vapor
+T4	RelativeLocations	33	35	in
+T5	EarthPartsGrossGroundAtmosphere	40	50	atmosphere
+T6	LayersOfTheEarth	40	50	atmosphere
+T7	IncreaseDecrease	51	56	cools
+T8	Temperature	51	56	cools
+T9	ChangeInto	61	68	becomes
+T10	StateOfMatter	71	77	liquid
+T11	StateOfBeing	78	80	is
+T12	Classify	81	87	called
+T13	PartsOfWaterCycle	88	99	evaporation
+T14	PhaseChangingActions	88	99	evaporation
+T15	ExcretoryActions	101	113	perspiration
+T16	PartsOfWaterCycle	115	127	condensation
+T17	PhaseChangingActions	115	127	condensation
+T18	ChangeInLocation	129	143	transportation
+T19	Transportation	129	143	transportation

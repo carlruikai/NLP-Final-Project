@@ -1,0 +1,5 @@
+Which statement is a description of weather?
+Summers in Tucson are hot and dry.
+Winters in Flagstaff are cold and snowy.
+The temperature is 55° F in Winslow today.
+The Sun will set in Yuma today at 6:45 p.m.

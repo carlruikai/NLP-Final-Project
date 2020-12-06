@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Size	13	21	thickest
+T4	Width	13	21	thickest
+T5	ObjectQuantification	22	27	layer
+T6	InnerPlanets	31	36	Earth
+T7	LOCATION	31	36	Earth
+T8	LayersOfTheEarth	38	43	crust
+T9	LayersOfTheEarth	44	54	inner core
+T10	LayersOfTheEarth	50	54	core
+T11	LayersOfTheEarth	55	61	mantle
+T12	LayersOfTheEarth	62	72	outer core

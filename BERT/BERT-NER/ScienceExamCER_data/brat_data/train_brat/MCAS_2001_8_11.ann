@@ -1,0 +1,26 @@
+T1	RelativeDirection	0	4	From
+T2	Size	5	13	smallest
+T3	Comparisons	5	13	smallest
+T4	Size	17	24	largest
+T5	Comparisons	17	24	largest
+T6	SystemProcessStages	30	36	levels
+T7	Pattern	40	52	organization
+T8	RelativeLocations	53	55	in
+T9	LivingThing	56	69	living things
+T10	StateOfBeing	70	73	are
+T11	AnimalPart	74	81	tissues
+T12	Cell	83	88	cells
+T13	AnimalPart	90	96	organs
+T14	AnimalSystemsProcesses	98	110	organ system
+T15	AnimalPart	113	120	tissues
+T16	Cell	122	127	cells
+T17	AnimalSystemsProcesses	129	141	organ system
+T18	AnimalPart	144	150	organs
+T19	Cell	152	157	cells
+T20	AnimalPart	159	166	tissues
+T21	AnimalPart	168	174	organs
+T22	AnimalSystemsProcesses	176	188	organ system
+T23	Cell	191	196	cells
+T24	AnimalPart	198	205	tissues
+T25	AnimalSystemsProcesses	207	219	organ system
+T26	AnimalPart	222	228	organs

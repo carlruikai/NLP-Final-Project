@@ -1,0 +1,37 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	PhysicalActivity	23	33	activities
+T4	StateOfBeing	34	36	is
+T5	Quality	41	45	best
+T6	QualityComparison	41	45	best
+T7	Exemplar	46	53	example
+T8	InheritedBehavior	57	77	instinctive behavior
+T9	RelativeLocations	57	59	in
+T10	Animal	84	90	animal
+T11	Mammal	94	97	dog
+T12	ActionsForAnimals	98	102	sits
+T13	RelativeTime	103	107	when
+T14	Communicate	108	112	told
+T15	ActionsForAnimals	116	119	sit
+T16	Cause	120	122	by
+T17	Human	127	132	owner
+T18	Bird	136	140	bird
+T19	AvoidReject	141	147	avoids
+T20	Insect	151	157	insect
+T21	ContainBeComposedOf	163	166	has
+T22	Quality	169	172	bad
+T23	SensoryTerms	173	178	taste
+T24	TemporalProperty	182	187	newly
+T25	ActionsForAnimals	188	195	hatched
+T26	Aquatic	196	206	sea turtle
+T27	Move	207	212	walks
+T28	PrepositionalDirections	213	219	toward
+T29	BodiesOfWater	224	229	ocean
+T30	Mammal	233	243	chimpanzee
+T31	Use	244	248	uses
+T32	SolidMatter	251	256	stick
+T33	Result	257	259	to
+T34	PullingActions	260	264	pull
+T35	Insect	265	273	termites
+T36	RelativeDirection	274	278	from
+T37	PlantPart	281	291	tree stump

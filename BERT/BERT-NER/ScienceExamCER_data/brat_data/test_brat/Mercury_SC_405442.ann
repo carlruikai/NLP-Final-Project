@@ -1,0 +1,14 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	PlantPart	9	13	part
+T4	Plant	19	23	tree
+T5	PerformAnActivity	24	28	does
+T6	CellProcesses	29	43	photosynthesis
+T7	PlantProcesses	29	43	photosynthesis
+T8	AmountComparison	44	48	most
+T9	ProbabilityAndCertainty	49	55	likely
+T10	Occur	56	66	take place
+T11	PlantPart	68	72	bark
+T12	PlantPart	73	78	roots
+T13	PlantPart	79	84	trunk
+T14	PlantPart	85	91	leaves

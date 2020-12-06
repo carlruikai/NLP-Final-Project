@@ -1,0 +1,52 @@
+T1	RelativeLocations	0	2	In
+T2	Forests	7	25	Adirondack forests
+T3	States	29	37	New York
+T4	RelativeNumber	39	43	some
+T5	LevelOfInclusion	39	43	some
+T6	Plant	44	49	trees
+T7	Death	55	59	died
+T8	LivingDying	55	59	died
+T9	Changes	65	71	change
+T10	RelativeLocations	72	74	in
+T11	Forests	79	85	forest
+T12	StateOfBeing	86	88	is
+T13	Believe	89	96	thought
+T14	Hypothesizing	89	96	thought
+T15	StateOfBeing	100	102	be
+T16	Associate	103	110	related
+T17	RelativeDirection	111	113	to
+T18	EnvironmentalDamageDestruction	114	127	air pollution
+T19	Precipitation	132	136	rain
+T20	LevelOfInclusion	138	143	Which
+T21	NonlivingPartsOfTheEnvironment	144	158	abiotic factor
+T22	AmountComparison	159	163	most
+T23	ProbabilityAndCertainty	164	170	likely
+T24	StateOfBeing	175	179	been
+T25	Changes	180	187	changed
+T26	Cause	188	202	as a result of
+T27	EnvironmentalDamageDestruction	207	216	pollution
+T28	Precipitation	221	225	rain
+T29	LevelOfInclusion	226	231	which
+T30	Cause	232	243	resulted in
+T31	Death	248	253	death
+T32	LivingDying	248	253	death
+T33	Plant	261	266	trees
+T34	AmountChangingActions	270	278	decrease
+T35	IncreaseDecrease	270	278	decrease
+T36	Numbers	286	292	amount
+T37	AbilityAvailability	296	305	available
+T38	Element	306	312	oxygen
+T39	AmountChangingActions	316	324	increase
+T40	IncreaseDecrease	316	324	increase
+T41	Numbers	332	338	amount
+T42	CelestialLightOnEarth	342	350	sunlight
+T43	AmountChangingActions	353	361	decrease
+T44	IncreaseDecrease	353	361	decrease
+T45	AcidityUnit	369	371	pH
+T46	PH	369	371	pH
+T47	Soil	379	383	soil
+T48	AmountChangingActions	387	395	increase
+T49	IncreaseDecrease	387	395	increase
+T50	Soil	399	403	soil
+T51	Nutrition	404	413	nutrients
+T52	PropertiesOfSoil	404	413	nutrients

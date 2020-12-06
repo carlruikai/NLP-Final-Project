@@ -1,0 +1,22 @@
+T1	RelativeNumber	0	4	Many
+T2	Method	5	9	ways
+T3	Create	13	23	generating
+T4	ElectricalEnergy	24	35	electricity
+T5	Use	36	39	use
+T6	PhasesOfWater	40	45	water
+T7	LiquidMatter	40	45	water
+T8	ManmadeLocations	50	66	electrical plant
+T9	Use	67	72	using
+T10	LevelOfInclusion	73	78	which
+T11	Energy	79	85	energy
+T12	Source	86	92	source
+T13	Changes	93	100	changes
+T14	Temperature	105	116	temperature
+T15	PhasesOfWater	120	125	water
+T16	LiquidMatter	120	125	water
+T17	Use	129	133	uses
+T18	AmountComparison	134	139	least
+T19	OtherEnergyResources	141	154	nuclear power
+T20	OtherEnergyResources	155	174	hydroelectric power
+T21	FossilFuel	175	186	natural gas
+T22	FossilFuel	187	191	coal

@@ -1,0 +1,32 @@
+T1	RelativeLocations	0	5	Where
+T2	StateOfBeing	6	9	are
+T3	AmountComparison	14	18	most
+T4	ClassesOfElements	19	37	reactive nonmetals
+T5	VerbsForLocate	38	45	located
+T6	RelativeLocations	46	48	on
+T7	RepresentingElementsAndMolecules	53	67	periodic table
+T8	RelativeLocations	73	82	uppermost
+T9	LevelOfInclusion	83	91	complete
+T10	Group	92	95	row
+T11	Representation	103	108	table
+T12	Group	113	117	rows
+T13	RelativeLocations	118	120	at
+T14	RelativeLocations	125	131	bottom
+T15	Representation	139	144	table
+T16	CombineAdd	145	155	connecting
+T17	Touch	145	155	connecting
+T18	CardinalNumber	156	159	two
+T19	NUMBER	156	159	two
+T20	ObjectQuantification	160	168	sections
+T21	Group	173	179	column
+T22	RelativeLocations	180	182	at
+T23	Distance	187	190	far
+T24	RelativeDirection	191	195	left
+T25	ObjectPart	196	200	side
+T26	Representation	208	213	table
+T27	ORDINAL	218	224	second
+T28	Group	225	231	column
+T29	RelativeDirection	232	236	from
+T30	RelativeDirection	241	246	right
+T31	ObjectPart	247	251	side
+T32	Representation	259	264	table

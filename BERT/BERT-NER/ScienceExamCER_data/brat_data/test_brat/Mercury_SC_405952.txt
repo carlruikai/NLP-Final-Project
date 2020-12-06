@@ -1,0 +1,5 @@
+Which plant part absorbs minerals?
+leaf
+root
+fruit
+flower

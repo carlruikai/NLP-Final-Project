@@ -1,0 +1,35 @@
+T1	DistanceComparison	0	4	Near
+T2	InnerPlanets	5	10	Earth
+T3	EarthPartsGrossGroundAtmosphere	13	20	equator
+T4	TerrestrialLocations	13	20	equator
+T5	PhasesOfWater	22	27	water
+T6	Rarity	28	37	generally
+T7	Occur	38	44	exists
+T8	Unknown	45	54	naturally
+T9	RelativeLocations	55	57	in
+T10	StateOfMatter	62	68	liquid
+T11	StateOfMatter	73	76	gas
+T12	StateOfBeing	77	83	states
+T13	RelativeLocations	85	87	In
+T14	LevelOfInclusion	88	93	which
+T15	Comparisons	94	99	other
+T16	RelativeLocations	100	104	part
+T17	InnerPlanets	108	113	Earth
+T18	LOCATION	108	113	Earth
+T19	StateOfBeing	114	116	is
+T20	PhasesOfWater	117	122	water
+T21	Rarity	123	130	usually
+T22	VerbsForLocate	131	136	found
+T23	Unknown	137	146	naturally
+T24	RelativeLocations	147	149	in
+T25	LevelOfInclusion	150	154	only
+T26	CardinalNumber	155	158	two
+T27	NUMBER	155	158	two
+T28	StateOfBeing	159	165	states
+T29	SpecificNamedBodiesOfWater	167	179	Indian Ocean
+T30	LOCATION	167	179	Indian Ocean
+T31	RelativeLocations	180	188	interior
+T32	Continents	192	198	Africa
+T33	LOCATION	192	198	Africa
+T34	EarthPartsGrossGroundAtmosphere	199	209	South Pole
+T35	EarthPartsGrossGroundAtmosphere	210	226	Tropic of Cancer

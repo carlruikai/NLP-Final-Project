@@ -1,0 +1,13 @@
+T1	Star	2	6	star
+T2	StateOfBeing	7	9	is
+T3	Size	12	17	large
+T4	CelestialObject	18	35	astronomical body
+T5	LightMovement	41	49	reflects
+T6	Light	50	55	light
+T7	ParticleMovement	57	66	condenses
+T8	Light	67	72	light
+T9	LightMovement	74	79	emits
+T10	Release	74	79	emits
+T11	Light	80	85	light
+T12	AbsorbEnergy	87	94	absorbs
+T13	Light	95	100	light

@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Actions	6	12	action
+T3	Create	13	18	forms
+T4	Comparisons	21	30	different
+T5	Substances	31	49	chemical substance
+T6	FormChangingActions	51	59	crushing
+T7	Rock	62	66	rock
+T8	ChemicalChange	67	74	burning
+T9	ObjectQuantification	77	82	piece
+T10	NaturalMaterial	86	90	wood
+T11	CombineAdd	91	97	mixing
+T12	Minerals	98	102	salt
+T13	GranularSolids	98	102	salt
+T14	GranularSolids	107	113	pepper
+T15	PhaseChangingActions	114	121	melting
+T16	PhasesOfWater	125	128	ice
+T17	SolidMatter	125	128	ice
+T18	GeometricSpatialObjects	129	133	cube

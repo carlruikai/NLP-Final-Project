@@ -1,0 +1,15 @@
+T1	RelativeTime	0	4	When
+T2	ManmadeObjects	7	13	switch
+T3	ElectricityAndCircuits	7	13	switch
+T4	CoolingAppliance	19	30	ceiling fan
+T5	StateOfBeing	31	33	is
+T6	Start	34	43	turned on
+T7	ElectricalEnergy	45	62	electrical energy
+T8	StateOfBeing	63	65	is
+T9	StateOfBeing	66	71	being
+T10	ChangeInto	72	81	transform
+T11	RelativeDirection	84	88	into
+T12	Energy	89	102	atomic energy
+T13	Energy	104	120	potential energy
+T14	Energy	122	137	chemical energy
+T15	Energy	139	156	mechanical energy

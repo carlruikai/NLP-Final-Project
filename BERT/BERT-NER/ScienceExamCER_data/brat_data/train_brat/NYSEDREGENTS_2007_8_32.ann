@@ -1,0 +1,28 @@
+T1	OtherEnergyResources	0	12	Moving water
+T2	PhasesOfWater	7	12	water
+T3	RelativeLocations	13	15	in
+T4	BodiesOfWater	18	23	river
+T5	StateOfBeing	24	26	is
+T6	Classify	27	37	considered
+T7	Rarity	40	49	renewable
+T8	NaturalResources	50	58	resource
+T9	Cause	59	66	because
+T10	Move	70	77	carries
+T11	Transportation	70	77	carries
+T12	PhaseChangingActions	78	87	dissolved
+T13	FormChangingActions	78	87	dissolved
+T14	Element	88	94	oxygen
+T15	GaseousMatter	88	94	oxygen
+T16	Difficulty	95	101	easily
+T17	ConstructiveDestructiveForces	102	108	erodes
+T18	NaturalPhenomena	102	108	erodes
+T19	Sedimentary	109	118	sediments
+T20	StateOfBeing	119	121	is
+T21	ContainBeComposedOf	122	126	made
+T22	FossilFuel	130	141	natural gas
+T23	AbilityAvailability	142	145	can
+T24	StateOfBeing	146	148	be
+T25	Alter	149	157	recycled
+T26	Cause	158	160	by
+T27	TerrestrialLocations	161	167	nature
+T28	TemporalProperty	168	177	over time

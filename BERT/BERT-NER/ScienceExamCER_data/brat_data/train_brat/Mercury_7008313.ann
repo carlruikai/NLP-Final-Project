@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	9	are
+T3	CardinalNumber	10	13	two
+T4	NUMBER	10	13	two
+T5	SystemProcessStages	14	19	parts
+T6	Cycles	27	39	carbon cycle
+T7	CarbonCycle	27	39	carbon cycle
+T8	PhaseChangingActions	41	49	freezing
+T9	PhaseChangingActions	54	61	thawing
+T10	Growth	62	68	growth
+T11	Reproduction	73	85	reproduction
+T12	PartsOfWaterCycle	86	97	evaporation
+T13	PhaseChangingActions	86	97	evaporation
+T14	PartsOfWaterCycle	102	115	precipitation
+T15	Precipitation	102	115	precipitation
+T16	CellProcesses	116	130	photosynthesis
+T17	PlantProcesses	116	130	photosynthesis
+T18	RespirationActions	135	146	respiration

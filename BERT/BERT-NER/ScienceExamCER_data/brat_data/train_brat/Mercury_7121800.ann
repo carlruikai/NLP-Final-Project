@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	AmountComparison	26	30	most
+T5	ProbabilityAndCertainty	31	37	likely
+T6	Cause	41	48	lead to
+T7	Problem	49	54	error
+T8	RelativeLocations	55	57	in
+T9	Experimentation	61	71	experiment
+T10	Problem	73	77	bias
+T11	ReplicatingResearch	78	86	repeated
+T12	TemporalProperty	78	86	repeated
+T13	Experimentation	87	93	trials
+T14	PerformingExperimentsWell	94	105	peer review
+T15	Use	106	109	use
+T16	VariablesControls	115	122	control

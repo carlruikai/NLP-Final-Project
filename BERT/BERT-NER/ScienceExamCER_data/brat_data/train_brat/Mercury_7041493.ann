@@ -1,0 +1,28 @@
+T1	LevelOfInclusion	0	3	All
+T2	LevelOfInclusion	4	9	these
+T3	ResponseType	10	20	statements
+T4	Associate	21	31	concerning
+T5	Galaxy	32	40	galaxies
+T6	StateOfBeing	41	44	are
+T7	Validity	45	53	accurate
+T8	Negations	54	60	except
+T9	ContainBeComposedOf	66	73	contain
+T10	ArithmeticMeasure	74	82	millions
+T11	Star	86	91	stars
+T12	LevelOfInclusion	93	97	Most
+T13	AbilityAvailability	98	101	can
+T14	Observe	102	109	be seen
+T15	Negations	110	117	without
+T16	ViewingTools	120	129	telescope
+T17	ObservationInstrumentsTelescopeBinoculars	120	129	telescope
+T18	Group	131	135	They
+T19	StateOfBeing	136	139	are
+T20	ArithmeticMeasure	140	148	millions
+T21	DistanceUnit	152	163	light-years
+T22	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	152	163	light-years
+T23	Position	164	169	apart
+T24	Separate	164	169	apart
+T25	TheUniverseUniverseAndItsParts	171	176	Space
+T26	ContainBeComposedOf	177	185	contains
+T27	RelativeNumber	186	201	several billion
+T28	Galaxy	202	210	galaxies

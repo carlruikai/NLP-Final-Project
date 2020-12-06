@@ -1,0 +1,87 @@
+T1	AnimalCellPart	0	13	Cell membrane
+T2	PlantCellPart	0	13	Cell membrane
+T3	StateOfBeing	15	18	are
+T4	Classify	19	28	described
+T5	StateOfBeing	29	31	as
+T6	Permeability	32	53	selectively permeable
+T7	CardinalNumber	55	59	Four
+T8	NUMBER	55	59	Four
+T9	Scientists	60	68	students
+T10	StateOfBeing	69	73	were
+T11	Communicate	74	79	asked
+T12	Communicate	83	90	explain
+T13	Indicate	101	106	means
+T14	Communicate	111	119	provided
+T15	Create	111	119	provided
+T16	Response	124	131	answers
+T17	AbilityAvailability	132	137	given
+T18	RelativeLocations	138	143	below
+T19	Scientists	144	151	Student
+T20	CardinalNumber	152	153	1
+T21	NUMBER	152	153	1
+T22	AnimalCellPart	155	168	Cell membrane
+T23	PlantCellPart	155	168	Cell membrane
+T24	AvoidReject	170	177	prevent
+T25	StopRemove	170	177	prevent
+T26	LevelOfInclusion	178	181	all
+T27	Material	182	191	materials
+T28	Matter	182	191	materials
+T29	RelativeDirection	192	196	from
+T30	CombineAdd	197	205	entering
+T31	Move	197	205	entering
+T32	Cell	210	214	cell
+T33	Scientists	215	222	Student
+T34	CardinalNumber	223	224	2
+T35	NUMBER	223	224	2
+T36	AnimalCellPart	226	239	Cell membrane
+T37	PlantCellPart	226	239	Cell membrane
+T38	LevelOfInclusion	241	245	only
+T39	Create	246	253	provide
+T40	Help	254	272	structural support
+T41	PhysicalProperty	254	272	structural support
+T42	Cell	281	285	cell
+T43	Scientists	286	293	Student
+T44	CardinalNumber	294	295	3
+T45	NUMBER	294	295	3
+T46	AnimalCellPart	297	310	Cell membrane
+T47	PlantCellPart	297	310	Cell membrane
+T48	Choose	312	320	regulate
+T49	ActUponSomething	312	320	regulate
+T50	LevelOfInclusion	321	326	which
+T51	Substances	327	337	substances
+T52	AbilityAvailability	338	341	can
+T53	Move	342	347	enter
+T54	CombineAdd	342	347	enter
+T55	Move	352	356	exit
+T56	Separate	352	356	exit
+T57	Cell	361	365	cell
+T58	Scientists	366	373	Student
+T59	CardinalNumber	374	375	4
+T60	NUMBER	374	375	4
+T61	AnimalCellPart	377	390	Cell membrane
+T62	PlantCellPart	377	390	Cell membrane
+T63	Permit	392	397	allow
+T64	PhasesOfWater	398	403	water
+T65	ChemicalProperty	408	421	water-soluble
+T66	Substances	422	432	substances
+T67	Move	436	441	enter
+T68	CombineAdd	436	441	enter
+T69	Cell	446	450	cell
+T70	LevelOfInclusion	451	456	Which
+T71	Scientists	457	464	student
+T72	Verify	465	474	correctly
+T73	ProbabilityAndCertainty	465	474	correctly
+T74	Identify	475	485	identified
+T75	SystemAndFunctions	490	498	function
+T76	Permeability	506	527	selectively permeable
+T77	AnimalCellPart	528	536	membrane
+T78	PlantCellPart	528	536	membrane
+T79	Scientists	538	545	Student
+T80	CardinalNumber	546	547	1
+T81	Scientists	548	555	Student
+T82	CardinalNumber	556	557	2
+T83	Scientists	558	565	Student
+T84	CardinalNumber	566	567	3
+T85	Scientists	568	575	Student
+T86	NUMBER	576	577	4
+T87	CardinalNumber	576	577	4

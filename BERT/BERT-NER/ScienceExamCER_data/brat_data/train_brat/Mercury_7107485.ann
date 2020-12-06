@@ -1,0 +1,24 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	Age	5	12	ancient
+T4	NationalityOrigin	13	19	Greeks
+T5	PerformAnActivity	20	25	tried
+T6	Identify	29	37	discover
+T7	GuidelinesAndRules	42	46	laws
+T8	TheUniverseUniverseAndItsParts	54	62	universe
+T9	Use	63	70	through
+T10	Believe	71	78	thought
+T11	Hypothesizing	71	78	thought
+T12	Validity	83	88	logic
+T13	BeliefKnowledge	83	88	logic
+T14	LevelOfInclusion	90	95	Which
+T15	ObjectPart	96	100	part
+T16	ScientificMethod	108	126	scientific process
+T17	StateOfBeing	127	131	were
+T18	LevelOfInclusion	132	137	these
+T19	GroupsOfScientists	138	148	scientists
+T20	AbilityAvailability	149	156	missing
+T21	AnalyzingResearch	158	166	analysis
+T22	Experimentation	167	177	experiment
+T23	ConcludingResearch	178	188	conclusion
+T24	Observe	189	200	observation

@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Force	6	11	force
+T3	Cause	12	18	causes
+T4	Rock	19	24	rocks
+T5	LocationChangingActions	28	32	roll
+T6	RelativeDirection	33	41	downhill
+T7	Gravity	43	50	gravity
+T8	PullingForces	51	59	friction
+T9	ConstructiveDestructiveForces	60	67	erosion
+T10	NaturalPhenomena	60	67	erosion
+T11	MagneticForce	68	77	magnetism

@@ -1,0 +1,34 @@
+T1	PERSON	0	5	Tommy
+T2	Injuries	6	9	cut
+T3	Harm	6	9	cut
+T4	HumanPart	14	20	finger
+T5	HumanPart	26	30	body
+T6	Require	31	37	needed
+T7	Energy	38	44	energy
+T8	Help	48	52	help
+T9	Help	53	57	heal
+T10	Injuries	62	65	cut
+T11	RelativeLocations	67	72	Where
+T12	PerformAnActivity	73	75	di
+T13	Energy	81	87	energy
+T14	Source	88	97	come from
+T15	Help	101	105	heal
+T16	Injuries	110	113	cut
+T17	RelativeDirection	115	119	from
+T18	Medicine	124	131	bandage
+T19	LocationChangingActions	135	138	put
+T20	RelativeLocations	139	141	on
+T21	Injuries	146	149	cut
+T22	RelativeDirection	150	154	from
+T23	Medicine	159	175	antiseptic cream
+T24	LocationChangingActions	179	182	put
+T25	RelativeLocations	183	185	on
+T26	Injuries	190	193	cut
+T27	RelativeDirection	194	198	from
+T28	Nutrition	203	207	food
+T29	ActionsForAnimals	211	214	ate
+T30	Consumption	211	214	ate
+T31	RelativeDirection	215	219	from
+T32	PhasesOfWater	224	229	water
+T33	ActionsForAnimals	233	238	drank
+T34	Consumption	233	238	drank

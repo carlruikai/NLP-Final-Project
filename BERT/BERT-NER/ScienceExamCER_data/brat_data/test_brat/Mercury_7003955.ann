@@ -1,0 +1,16 @@
+T1	Exemplar	5	9	type
+T2	ElectricalProperty	13	19	charge
+T3	PartsOfAGroup	23	33	individual
+T4	PartsOfTheIntegumentarySystem	34	38	hair
+T5	ObjectQuantification	39	46	strands
+T6	ContainBeComposedOf	47	51	have
+T7	RelativeTime	52	56	when
+T8	Position	57	72	standing on end
+T9	Cause	73	79	due to
+T10	ElectricalEnergy	80	98	static electricity
+T11	MolecularProperties	100	115	neutral charges
+T12	MolecularProperties	116	133	neutral discharge
+T13	TemporalProperty	134	143	permanent
+T14	MolecularProperties	144	159	positive charge
+T15	TemporalProperty	160	169	temporary
+T16	MolecularProperties	170	185	positive charge

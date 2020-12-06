@@ -1,0 +1,5 @@
+An Italian scientist named Alessandro Volta invented the Voltaic pile in 1800. It was able to produce a steady electrical current. Based on this description, what is the modern equivalent of the Voltaic pile?
+a wire
+a battery
+a resistor
+a light bulb

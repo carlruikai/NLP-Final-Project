@@ -1,0 +1,14 @@
+T1	NutritiveSubstancesForAnimalsOrPlants	4	10	starch
+T2	PhasesOfWater	15	20	water
+T3	ElementalComponents	21	30	molecules
+T4	RelativeLocations	31	33	in
+T5	Angiosperm	34	40	potato
+T6	Cell	41	46	cells
+T7	StateOfBeing	47	50	are
+T8	Preserve	51	57	stored
+T9	RelativeLocations	58	60	in
+T10	PlantCellPart	66	75	organelle
+T11	PlantCellPart	77	90	mitochondrion
+T12	PlantCellPart	91	98	nucleus
+T13	PlantCellPart	99	107	ribosome
+T14	PlantCellPart	108	115	vacuole

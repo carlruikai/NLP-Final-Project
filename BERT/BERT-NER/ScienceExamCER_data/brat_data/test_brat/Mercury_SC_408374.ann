@@ -1,0 +1,29 @@
+T1	Human	0	6	Martin
+T2	PERSON	0	6	Martin
+T3	Growth	7	11	grew
+T4	ActionsForAgriculture	7	11	grew
+T5	RelativeNumber	12	16	some
+T6	Angiosperm	17	27	bean plant
+T7	Create	33	37	made
+T8	Representation	40	44	list
+T9	Group	40	44	list
+T10	Angiosperm	57	67	bean plant
+T11	Require	69	75	needed
+T12	Result	76	78	to
+T13	LivingDying	79	86	survive
+T14	Growth	91	95	grow
+T15	LevelOfInclusion	97	102	Which
+T16	GaseousMatter	103	106	gas
+T17	PerformAnActivity	107	109	do
+T18	Plant	114	120	plants
+T19	Require	121	125	need
+T20	RelativeTime	126	130	when
+T21	Create	136	140	make
+T22	Nutrition	151	155	food
+T23	PlantNutrients	157	163	oxygen
+T24	Element	157	163	oxygen
+T25	PlantNutrients	164	172	nitrogen
+T26	Element	164	172	nitrogen
+T27	PlantNutrients	173	181	hydrogen
+T28	Element	173	181	hydrogen
+T29	Compound	182	196	carbon dioxide

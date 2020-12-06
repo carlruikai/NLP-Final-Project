@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GenericTerms	6	13	objects
+T3	AmountComparison	22	26	most
+T4	Quality	27	33	useful
+T5	Collect	38	48	collecting
+T6	WordsForData	49	53	data
+T7	Relevant	54	56	on
+T8	MeasuringSpeed	61	66	speed
+T9	Speed	61	66	speed
+T10	ManmadeObjects	72	79	toy car
+T11	ViewingTools	81	91	microscope
+T12	ComputingDevice	93	101	computer
+T13	TechnologicalInstrument	93	101	computer
+T14	DistanceMeasuringTools	103	108	ruler
+T15	TemperatureMeasuringTools	109	120	thermometer
+T16	ComputingDevice	122	132	calculator
+T17	TechnologicalInstrument	122	132	calculator
+T18	MagneticDevice	134	140	magnet
+T19	TimeMeasuringTools	141	150	stopwatch
+T20	ComputingDevice	152	162	calculator
+T21	TechnologicalInstrument	152	162	calculator
+T22	DistanceMeasuringTools	164	175	meter stick
+T23	ViewingTools	176	182	camera
+T24	TechnologicalInstrument	176	182	camera
+T25	ObservationInstrumentsTelescopeBinoculars	176	182	camera
+T26	TechnologicalInstrument	184	200	digital recorder
+T27	SafetyEquipment	202	216	safety goggles

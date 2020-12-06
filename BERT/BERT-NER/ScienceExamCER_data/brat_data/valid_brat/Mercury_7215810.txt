@@ -1,0 +1,5 @@
+An exploratory robot was sent to the planet Mars. The gravity on Mars is weaker than the gravity on Earth. Compared to the mass and weight of the robot on Earth, the robot on Mars has
+less mass and weight.
+less mass but equal weight.
+equal mass but less weight.
+equal mass and weight.

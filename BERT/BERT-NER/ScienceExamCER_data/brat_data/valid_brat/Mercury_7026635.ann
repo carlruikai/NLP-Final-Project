@@ -1,0 +1,33 @@
+T1	Galaxy	4	20	Milky Way Galaxy
+T2	StateOfBeing	21	23	is
+T3	VisualProperty	24	31	visible
+T4	Brightness	37	43	bright
+T5	Locations	44	50	region
+T6	RelativeLocations	51	53	in
+T7	Sky	58	67	night sky
+T8	RelativeTime	69	75	Modern
+T9	ObservationInstrumentsTelescopeBinoculars	76	86	telescopic
+T10	Observe	87	98	observation
+T11	Cause	103	107	made
+T12	OpportunitiesAndTheirExtent	111	119	possible
+T13	Identify	123	131	discover
+T14	Discovery	123	131	discover
+T15	Brightness	141	151	brightness
+T16	Galaxy	159	175	Milky Way Galaxy
+T17	StateOfBeing	176	178	is
+T18	Cause	179	182	due
+T19	ImportanceComparison	183	192	primarily
+T20	LevelOfInclusion	196	201	which
+T21	GalaxyParts	202	211	structure
+T22	WeatherPhenomena	213	219	clouds
+T23	Temperature	223	226	hot
+T24	GaseousMatter	227	230	gas
+T25	Size	231	236	large
+T26	Numbers	237	244	numbers
+T27	Star	248	253	stars
+T28	Height	254	258	high
+T29	Energy	259	265	energy
+T30	Substances	266	275	compounds
+T31	AmountComparison	276	285	extremely
+T32	VisualProperty	286	296	reflective
+T33	Particles	297	310	ice particles

@@ -1,0 +1,27 @@
+T1	Quality	4	8	best
+T2	QualityComparison	4	8	best
+T3	Exemplar	9	16	example
+T4	TransferEnergy	20	33	heat transfer
+T5	ThermalEnergy	20	24	heat
+T6	Cause	34	36	by
+T7	TransferEnergy	37	47	convection
+T8	StateOfBeing	48	50	is
+T9	RelativeTime	51	55	when
+T10	CelestialLightOnEarth	56	64	sunlight
+T11	Temperature	65	70	warms
+T12	IncreaseDecrease	65	70	warms
+T13	Soil	71	75	soil
+T14	CoolingAppliance	79	90	ceiling fan
+T15	LocationChangingActions	91	96	blows
+T16	GaseousMovement	91	96	blows
+T17	EarthPartsGrossGroundAtmosphere	97	100	air
+T18	GaseousMatter	97	100	air
+T19	Reactions	102	108	flames
+T20	IncreaseDecrease	109	113	heat
+T21	Temperature	109	113	heat
+T22	LiquidHoldingContainersRecepticles	119	122	pan
+T23	ThermalEnergy	124	128	heat
+T24	GaseousMovement	129	134	rises
+T25	ParticleMovement	129	134	rises
+T26	RelativeLocations	135	137	in
+T27	PartsOfABuilding	140	147	chimney

@@ -1,0 +1,38 @@
+T1	RelativeTime	0	5	While
+T2	Examine	6	14	studying
+T3	PerformingResearch	6	14	studying
+T4	Relations	19	31	relationship
+T5	RelativeLocations	32	39	between
+T6	Numbers	40	46	number
+T7	Plant	50	55	trees
+T8	Numbers	60	66	amount
+T9	EarthPartsGrossGroundAtmosphere	70	81	atmospheric
+T10	Element	82	88	oxygen
+T11	LevelOfInclusion	90	95	which
+T12	LevelOfInclusion	99	112	the following
+T13	ProbabilityAndCertainty	113	118	would
+T14	StateOfBeing	119	121	be
+T15	AmountComparison	122	126	most
+T16	ImportanceComparison	127	136	important
+T17	Associate	140	157	take into account
+T18	AmountChangingActions	159	172	contributions
+T19	RelativeDirection	173	175	to
+T20	EarthPartsGrossGroundAtmosphere	176	187	atmospheric
+T21	Element	188	194	oxygen
+T22	RelativeDirection	195	199	from
+T23	Source	200	207	sources
+T24	Comparisons	208	213	other
+T25	Comparisons	214	218	than
+T26	Plant	219	224	trees
+T27	Method	229	233	ways
+T28	LevelOfInclusion	237	242	which
+T29	Countries	243	265	industrialized nations
+T30	Use	266	269	use
+T31	Plant	270	275	trees
+T32	PlantPart	280	284	root
+T33	Locations	285	289	area
+T34	Size	285	289	area
+T35	Plant	293	298	trees
+T36	PlantPart	303	307	bark
+T37	Mass	308	312	mass
+T38	Plant	316	321	trees

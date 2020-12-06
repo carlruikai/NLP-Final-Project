@@ -1,0 +1,16 @@
+T1	SoundEnergy	4	9	sound
+T2	Light	11	16	light
+T3	ThermalEnergy	22	26	heat
+T4	LightProducingObject	34	45	firecracker
+T5	Create	46	54	produces
+T6	StateOfBeing	55	58	are
+T7	TemporalProperty	59	69	originally
+T8	Preserve	70	76	stored
+T9	StateOfBeing	77	79	as
+T10	LevelOfInclusion	80	85	which
+T11	Exemplar	86	90	type
+T12	Energy	94	100	energy
+T13	Energy	102	116	nuclear energy
+T14	Energy	117	132	chemical energy
+T15	ElectricalEnergy	133	150	electrical energy
+T16	Energy	151	168	mechanical energy

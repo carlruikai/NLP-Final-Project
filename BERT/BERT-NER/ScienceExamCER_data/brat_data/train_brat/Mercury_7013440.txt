@@ -1,0 +1,5 @@
+A student uses a telescope to view stars at night. The student notices some of the stars are different colors. The color of a star is determined most by its
+size.
+distance from Earth.
+mass.
+temperature.

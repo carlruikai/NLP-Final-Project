@@ -1,0 +1,34 @@
+T1	Human	0	12	Mr. Thompson
+T2	GroupsOfScientists	15	20	class
+T3	StateOfBeing	21	24	was
+T4	Communicate	25	35	discussing
+T5	ScientificTheoryExperimentationAndHistory	40	45	topic
+T6	PartsOfEarthLayers	49	70	convergent boundaries
+T7	Communicate	75	80	asked
+T8	CardinalNumber	81	85	four
+T9	NUMBER	81	85	four
+T10	GroupsOfScientists	86	94	students
+T11	Identify	98	106	identify
+T12	GeographicFormations	109	117	landform
+T13	StateOfBeing	123	126	was
+T14	Create	127	133	formed
+T15	Cause	134	141	through
+T16	ChangeInLocation	146	155	collision
+T17	CardinalNumber	159	162	two
+T18	NUMBER	159	162	two
+T19	TectonicPlates	163	177	tectonic plate
+T20	GeographicFormations	186	194	landform
+T21	GroupsOfScientists	206	214	students
+T22	Identify	215	223	identify
+T23	StateOfBeing	227	232	being
+T24	Create	233	239	formed
+T25	Cause	240	242	by
+T26	PartsOfEarthLayers	243	264	convergent boundaries
+T27	Continents	266	290	North American Continent
+T28	GeographicFormations	281	290	Continent
+T29	GeographicFormations	291	309	Mid-Atlantic Ridge
+T30	LOCATION	291	309	Mid-Atlantic Ridge
+T31	GeopoliticalLocations	310	326	Hawaiian Islands
+T32	LOCATION	310	326	Hawaiian Islands
+T33	GeographicFormations	319	326	Islands
+T34	GeographicFormations	327	342	Marianas Trench

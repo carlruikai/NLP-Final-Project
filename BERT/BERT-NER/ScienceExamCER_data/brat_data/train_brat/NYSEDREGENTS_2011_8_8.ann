@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	10	term
+T3	GenericTerms	6	10	term
+T4	Classify	11	21	identifies
+T5	RelativeNumber	24	30	single
+T6	Unit	31	35	unit
+T7	Genetics	39	61	hereditary information
+T8	Inheritance	39	61	hereditary information
+T9	PartsOfTheReproductiveSystem	63	71	egg cell
+T10	PartsOfTheReproductiveSystem	72	82	sperm cell
+T11	AnimalCellPart	83	90	nucleus
+T12	PlantCellPart	83	90	nucleus
+T13	Gene	91	95	gene

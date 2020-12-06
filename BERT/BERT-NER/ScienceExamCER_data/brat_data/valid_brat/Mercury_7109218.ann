@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	RelativeLocations	6	12	region
+T3	Galaxy	20	29	Milky Way
+T4	ContainBeComposedOf	30	38	contains
+T5	Group	41	51	population
+T6	ContainBeComposedOf	57	65	consists
+T7	LevelOfInclusion	66	72	mostly
+T8	Age	76	79	old
+T9	Star	80	85	stars
+T10	GalaxyParts	91	95	halo
+T11	GalaxyParts	100	111	spiral arms
+T12	GalaxyParts	116	129	nuclear bulge
+T13	GalaxyParts	134	147	open clusters

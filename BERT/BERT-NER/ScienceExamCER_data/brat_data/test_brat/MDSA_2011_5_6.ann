@@ -1,0 +1,28 @@
+T1	Planet	0	7	Planets
+T2	RelativeLocations	8	10	in
+T3	SolarSystem	15	27	solar system
+T4	ContainBeComposedOf	28	32	have
+T5	Comparisons	33	42	different
+T6	TimeUnit	43	54	solar years
+T7	LevelOfInclusion	56	61	Which
+T8	ResponseType	62	71	statement
+T9	Communicate	72	80	explains
+T10	Cause	85	90	cause
+T11	InnerPlanets	97	102	Earth
+T12	TimeUnit	103	113	solar year
+T13	InnerPlanets	115	120	Earth
+T14	CelestialMovement	121	128	rotates
+T15	PrepositionalDirections	129	135	around
+T16	Star	140	143	sun
+T17	InnerPlanets	145	150	Earth
+T18	CelestialMovement	151	159	revolves
+T19	PrepositionalDirections	160	166	around
+T20	Star	171	174	sun
+T21	Star	171	174	sun
+T22	CelestialMovement	184	191	rotates
+T23	PrepositionalDirections	192	198	around
+T24	InnerPlanets	199	204	Earth
+T25	Star	210	213	sun
+T26	CelestialMovement	214	222	revolves
+T27	PrepositionalDirections	223	229	around
+T28	InnerPlanets	230	235	Earth

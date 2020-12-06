@@ -1,0 +1,15 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	Insect	5	16	butterflies
+T4	LivingDying	17	21	live
+T5	Calculations	25	32	average
+T6	CardinalNumber	36	39	two
+T7	TimeUnit	40	45	weeks
+T8	MarkersOfTime	52	66	period of time
+T9	StateOfBeing	67	69	is
+T10	Classify	70	76	called
+T11	LivingDying	79	83	life
+T12	OrganicProcesses	84	91	process
+T13	RelativeTime	92	96	span
+T14	Changes	97	103	change
+T15	Cycles	104	109	cycle

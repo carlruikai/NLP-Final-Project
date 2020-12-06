@@ -1,0 +1,5 @@
+One limitation of food webs in representing an ecosystem is that they do not
+include producers in the ecosystem.
+include all species in the ecosystem.
+show consumers in the ecosystem.
+show predator-prey relationships in the ecosystem.

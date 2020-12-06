@@ -1,0 +1,27 @@
+T1	CardinalNumber	0	3	One
+T2	NUMBER	0	3	One
+T3	Method	4	7	way
+T4	Help	11	18	protect
+T5	Preserve	11	18	protect
+T6	AvoidReject	19	26	against
+T7	TypesOfIllness	27	41	food poisoning
+T8	StateOfBeing	34	36	is
+T9	ActionsForNutrition	48	52	cook
+T10	Nutrition	53	57	food
+T11	StateOfBeing	58	60	to
+T12	Quality	61	67	proper
+T13	Temperature	68	80	temperatures
+T14	CombineAdd	82	89	combine
+T15	Comparisons	90	99	different
+T16	Exemplar	100	105	types
+T17	Nutrition	109	113	food
+T18	Preserve	115	120	store
+T19	Nutrition	121	125	food
+T20	RelativeLocations	126	128	in
+T21	SyntheticMaterial	129	134	glass
+T22	LiquidHoldingContainersRecepticles	135	145	containers
+T23	ActionsForNutrition	147	154	defrost
+T24	Foods	155	159	meat
+T25	Speed	160	166	slowly
+T26	RelativeLocations	167	169	on
+T27	ManmadeObjects	174	181	counter

@@ -1,0 +1,33 @@
+T1	GeneticRelations	2	8	family
+T2	GroupsOfOrganisms	2	8	family
+T3	CombineAdd	9	17	installs
+T4	Age	20	23	new
+T5	HeatingAppliance	24	38	heating system
+T6	RelativeLocations	28	30	in
+T7	ManmadeLocations	48	52	home
+T8	LevelOfInclusion	54	59	Which
+T9	StateOfBeing	60	62	is
+T10	AmountComparison	67	71	most
+T11	Quality	72	81	desirable
+T12	Result	82	88	result
+T13	Age	96	99	new
+T14	HeatingAppliance	100	114	heating system
+T15	Create	116	125	producing
+T16	AmountComparison	126	130	more
+T17	EnvironmentalDamageDestruction	131	146	noise pollution
+T18	AmountChangingActions	147	157	decreasing
+T19	IncreaseDecrease	147	157	decreasing
+T20	Numbers	162	168	amount
+T21	Energy	172	178	energy
+T22	Use	179	183	used
+T23	AmountChangingActions	184	194	increasing
+T24	IncreaseDecrease	184	194	increasing
+T25	Use	199	202	use
+T26	NaturalResources	206	223	natural resources
+T27	AmountChangingActions	224	234	increasing
+T28	IncreaseDecrease	224	234	increasing
+T29	MarkersOfTime	239	243	time
+T30	Require	247	252	takes
+T31	IncreaseDecrease	256	260	heat
+T32	Temperature	256	260	heat
+T33	ManmadeLocations	265	269	home

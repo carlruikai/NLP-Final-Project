@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfMatter	6	21	state of matter
+T3	ContainBeComposedOf	22	25	has
+T4	Negations	26	28	no
+T5	TemporalProperty	29	37	definite
+T6	PhysicalProperty	38	44	volume
+T7	Size	38	44	volume
+T8	Negations	49	51	no
+T9	TemporalProperty	52	60	definite
+T10	Shape	61	66	shape
+T11	StateOfMatter	68	71	gas
+T12	StateOfMatter	72	78	liquid
+T13	StateOfMatter	79	84	solid

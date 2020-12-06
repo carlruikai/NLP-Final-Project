@@ -1,0 +1,24 @@
+T1	Exemplar	3	10	example
+T2	LearnedBehavior	16	32	learned behavior
+T3	StateOfBeing	33	35	is
+T4	Arachnid	38	44	spider
+T5	ActionsForAnimals	45	53	building
+T6	Create	45	53	building
+T7	ExamplesOfHabitats	56	59	web
+T8	Mammal	61	64	dog
+T9	ActionsForAnimals	65	71	laying
+T10	Position	65	71	laying
+T11	RelativeDirection	72	76	down
+T12	RelativeTime	77	79	on
+T13	Communicate	80	87	command
+T14	Mammal	89	95	beaver
+T15	ActionsForAnimals	96	104	building
+T16	Create	96	104	building
+T17	ExamplesOfHabitats	107	110	dam
+T18	RelativeLocations	111	113	in
+T19	BodiesOfWater	116	121	creek
+T20	Mammal	123	131	kangaroo
+T21	ActionsForAnimals	132	139	jumping
+T22	PrepositionalDirections	140	144	away
+T23	RelativeDirection	145	149	from
+T24	TypeOfConsumer	152	160	predator

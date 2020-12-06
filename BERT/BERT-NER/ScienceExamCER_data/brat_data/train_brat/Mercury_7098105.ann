@@ -1,0 +1,47 @@
+T1	PERSON	0	6	Alicia
+T2	ActUponSomething	7	12	gives
+T3	CombineAdd	7	12	gives
+T4	GeneticRelations	17	24	brother
+T5	PushingActions	27	31	push
+T6	RelativeTime	32	37	while
+T7	StateOfBeing	41	43	is
+T8	Position	44	50	seated
+T9	RelativeLocations	51	53	on
+T10	ManmadeObjects	56	61	swing
+T11	Identify	67	72	finds
+T12	RelativeTime	78	83	after
+T13	RelativeNumber	84	89	a few
+T14	TimeUnit	90	97	seconds
+T15	Require	103	108	needs
+T16	PushingActions	112	116	push
+T17	TemporalProperty	117	122	again
+T18	Preserve	126	130	keep
+T19	Move	135	140	going
+T20	Cause	146	152	reason
+T21	GeneticRelations	157	164	brother
+T22	Speed	165	175	slows down
+T23	IncreaseDecrease	165	175	slows down
+T24	StateOfBeing	176	178	is
+T25	Cause	179	186	because
+T26	Energy	191	208	mechanical energy
+T27	StateOfBeing	209	211	is
+T28	TransferEnergy	212	221	converted
+T29	ChangeInto	222	226	into
+T30	Energy	227	243	potential energy
+T31	IncreaseDecrease	249	254	heats
+T32	Temperature	249	254	heats
+T33	EarthPartsGrossGroundAtmosphere	259	262	air
+T34	Energy	264	279	chemical energy
+T35	Move	285	290	moves
+T36	PushingActions	295	300	swing
+T37	Energy	302	316	kinetic energy
+T38	LevelOfInclusion	317	322	which
+T39	Cause	323	328	makes
+T40	PushingActions	333	338	swing
+T41	Speed	339	348	slow down
+T42	IncreaseDecrease	339	348	slow down
+T43	ThermalEnergy	350	364	thermal energy
+T44	StateOfBeing	370	372	is
+T45	Release	373	381	released
+T46	RelativeDirection	382	386	into
+T47	EarthPartsGrossGroundAtmosphere	391	401	atmosphere

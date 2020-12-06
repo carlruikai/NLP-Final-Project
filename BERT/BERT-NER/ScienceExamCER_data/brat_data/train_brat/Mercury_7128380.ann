@@ -1,0 +1,44 @@
+T1	CardinalNumber	0	3	Two
+T2	NUMBER	0	3	Two
+T3	ObjectQuantification	4	10	pieces
+T4	Comparisons	18	22	same
+T5	MetalSolids	23	28	metal
+T6	StateOfBeing	29	32	are
+T7	Move	33	39	placed
+T8	VerbsForLocate	33	39	placed
+T9	RelativeLocations	40	42	on
+T10	ManmadeObjects	45	50	table
+T11	ObjectQuantification	56	62	pieces
+T12	MetalSolids	66	71	metal
+T13	ContainBeComposedOf	72	76	have
+T14	Comparisons	81	85	same
+T15	PhysicalProperty	86	93	density
+T16	Mass	95	99	mass
+T17	Texture	105	112	texture
+T18	LevelOfInclusion	114	119	Which
+T19	Property	120	134	characteristic
+T20	Require	135	139	must
+T21	StateOfBeing	140	142	be
+T22	LevelOfInclusion	147	151	ONLY
+T23	Comparisons	152	162	difference
+T24	RelativeLocations	163	170	between
+T25	CardinalNumber	175	178	two
+T26	NUMBER	175	178	two
+T27	ObjectQuantification	179	186	samples
+T28	ContainBeComposedOf	193	197	have
+T29	Comparisons	198	207	different
+T30	GeometricMeasurements	208	218	dimensions
+T31	ContainBeComposedOf	225	229	have
+T32	Comparisons	230	239	different
+T33	PhaseTransitionPoint	240	254	boiling points
+T34	StateOfBeing	261	264	are
+T35	ContainBeComposedOf	265	272	made up
+T36	Comparisons	278	287	different
+T37	Exemplar	288	292	type
+T38	Matter	296	302	matter
+T39	ContainBeComposedOf	309	316	contain
+T40	Comparisons	319	328	different
+T41	Numbers	329	335	amount
+T42	Matter	339	345	matter
+T43	Measurements	346	349	per
+T44	VolumeUnit	350	361	unit volume

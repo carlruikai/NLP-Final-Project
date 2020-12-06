@@ -1,0 +1,9 @@
+T1	Relations	4	16	relationship
+T2	RelativeLocations	17	24	between
+T3	Bird	28	31	owl
+T4	Mammal	38	43	mouse
+T5	StateOfBeing	44	46	is
+T6	OrganismRelationships	49	75	parasite-host relationship
+T7	OrganismRelationships	77	99	symbiotic relationship
+T8	OrganismRelationships	101	125	mutualistic relationship
+T9	OrganismRelationships	127	153	predator-prey relationship

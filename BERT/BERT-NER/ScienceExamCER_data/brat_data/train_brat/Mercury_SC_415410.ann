@@ -1,0 +1,9 @@
+T1	Create	5	10	forms
+T2	LevelOfInclusion	11	15	both
+T3	GeographicFormations	16	23	valleys
+T4	GeographicFormations	28	35	canyons
+T5	GeographicFormations	37	45	glaciers
+T6	BodiesOfWater	37	45	glaciers
+T7	BodiesOfWater	46	52	rivers
+T8	WeatherPhenomena	53	57	wind
+T9	TidesHighTideLowTide	58	63	tides

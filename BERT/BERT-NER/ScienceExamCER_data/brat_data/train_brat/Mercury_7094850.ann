@@ -1,0 +1,22 @@
+T1	RelativeLocations	0	2	In
+T2	ManmadeLocations	3	12	gym class
+T3	Human	15	22	student
+T4	ActionsForAnimals	23	28	kicks
+T5	ManmadeObjects	31	42	soccer ball
+T6	Height	43	47	high
+T7	RelativeDirection	48	52	into
+T8	EarthPartsGrossGroundAtmosphere	57	60	air
+T9	RelativeTime	62	64	As
+T10	ManmadeObjects	69	73	ball
+T11	Move	74	78	goes
+T12	RelativeDirection	79	85	upward
+T13	LevelOfInclusion	87	92	which
+T14	Exemplar	93	97	type
+T15	Energy	101	107	energy
+T16	StateOfBeing	108	110	is
+T17	AmountChangingActions	111	121	increasing
+T18	IncreaseDecrease	111	121	increasing
+T19	Energy	123	137	kinetic energy
+T20	ThermalEnergy	138	152	thermal energy
+T21	Energy	153	169	potential energy
+T22	Energy	170	187	mechanical energy

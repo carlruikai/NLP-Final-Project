@@ -1,0 +1,19 @@
+T1	Move	0	6	Moving
+T2	LiquidMovement	0	6	Moving
+T3	PhasesOfWater	7	12	water
+T4	LiquidMatter	7	12	water
+T5	StateOfBeing	13	16	was
+T6	AmountComparison	21	25	most
+T7	Quality	26	35	important
+T8	VariablesControls	36	42	factor
+T9	Cause	36	42	factor
+T10	Create	46	53	forming
+T11	LevelOfInclusion	54	59	which
+T12	LevelOfInclusion	63	68	these
+T13	GeographicFormations	70	86	the Grand Canyon
+T14	GeographicFormations	87	104	San Andreas Fault
+T15	LOCATION	87	104	San Andreas Fault
+T16	GeographicFormations	109	124	Rocky Mountains
+T17	LOCATION	109	124	Rocky Mountains
+T18	GeographicFormations	125	149	Mount St. Helens Volcano
+T19	LOCATION	125	149	Mount St. Helens Volcano

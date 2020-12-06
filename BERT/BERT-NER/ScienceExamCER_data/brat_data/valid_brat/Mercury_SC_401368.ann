@@ -1,0 +1,31 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Group	6	9	set
+T3	ScientificTools	13	22	equipment
+T4	ProbabilityAndCertainty	23	28	would
+T5	StateOfBeing	29	31	be
+T6	Quality	32	36	best
+T7	QualityComparison	32	36	best
+T8	Use	40	43	use
+T9	RelativeTime	44	48	when
+T10	Examine	49	62	investigating
+T11	Experimentation	49	62	investigating
+T12	StateOfBeing	68	70	is
+T13	Identify	71	76	found
+T14	VerbsForLocate	71	76	found
+T15	RelativeLocations	77	79	in
+T16	ObjectQuantification	82	88	sample
+T17	BodiesOfWater	92	96	pond
+T18	PhasesOfWater	97	102	water
+T19	ManmadeObjects	104	107	net
+T20	SafetyEquipment	109	115	gloves
+T21	ScientificTools	117	130	specimen bags
+T22	VolumeMeasuringTool	131	137	beaker
+T23	ComputingDevice	139	149	calculator
+T24	TechnologicalInstrument	139	149	calculator
+T25	ScientificTools	151	162	graph paper
+T26	ViewingTools	163	173	microscope
+T27	VolumeMeasuringTool	175	186	eye dropper
+T28	ScientificTools	188	194	slides
+T29	DistanceMeasuringTools	195	209	measuring tape
+T30	TemperatureMeasuringTools	211	222	thermometer
+T31	ScientificTools	224	233	clipboard

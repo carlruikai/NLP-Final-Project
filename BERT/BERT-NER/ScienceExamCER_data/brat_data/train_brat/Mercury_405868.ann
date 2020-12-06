@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ObjectPart	6	10	part
+T3	AnimalPart	18	22	body
+T4	PerformAnActivity	23	34	carries out
+T5	OrganicProcesses	39	47	function
+T6	GeneticProcesses	51	58	copying
+T7	Genetics	59	62	DNA
+T8	PartsOfTheNervousSystem	64	69	brain
+T9	PartsOfTheCirculatorySystem	70	75	heart
+T10	PartsOfEndocrineSystem	70	75	heart
+T11	PartsOfTheSkeletalSystem	76	81	bones
+T12	Cell	82	87	cells

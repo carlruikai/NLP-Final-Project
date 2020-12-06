@@ -1,0 +1,20 @@
+T1	Create	4	13	invention
+T2	Discovery	4	13	invention
+T3	ViewingTools	21	30	telescope
+T4	ObservationInstrumentsTelescopeBinoculars	21	30	telescope
+T5	Permit	31	38	allowed
+T6	LevelOfInclusion	39	44	which
+T7	LevelOfInclusion	48	61	the following
+T8	Occur	65	75	take place
+T9	Discovery	81	90	discovery
+T10	Cell	94	99	cells
+T11	Identify	104	118	identification
+T12	WeatherPhenomena	122	129	weather
+T13	Pattern	130	138	patterns
+T14	Complexity	139	147	detailed
+T15	Observe	148	159	observation
+T16	Planet	163	170	planets
+T17	Communicate	171	184	communication
+T18	RelativeLocations	185	192	between
+T19	DistanceComparison	193	200	distant
+T20	Cities	201	207	cities

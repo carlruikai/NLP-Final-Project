@@ -1,0 +1,5 @@
+All stars start forming in the same manner. Some follow the life cycle of the Sun, while others turn into neutron stars or black holes. Which property determines the fate of a star as it develops?
+mass
+location
+luminosity
+temperature

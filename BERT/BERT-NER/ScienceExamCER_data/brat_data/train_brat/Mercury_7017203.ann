@@ -1,0 +1,26 @@
+T1	RelativeTime	0	4	When
+T2	ConstructionTools	7	13	hammer
+T3	Touch	14	21	strikes
+T4	MetalSolids	24	28	nail
+T5	MetalSolids	24	28	nail
+T6	PushingActions	39	45	exerts
+T7	Force	46	61	balanced forces
+T8	Help	67	72	helps
+T9	Move	81	87	moving
+T10	PushingActions	89	95	exerts
+T11	Force	98	103	force
+T12	AmountComparison	104	109	equal
+T13	PhysicalProperty	117	123	weight
+T14	Mass	117	123	weight
+T15	ConstructionTools	131	137	hammer
+T16	PushingActions	139	145	exerts
+T17	Force	149	165	unbalanced force
+T18	Changes	171	178	changes
+T19	PropertyOfMotion	183	191	velocity
+T20	PushingActions	193	199	exerts
+T21	AmountComparison	203	208	equal
+T22	Comparisons	213	221	opposite
+T23	Force	222	227	force
+T24	RelativeDirection	228	232	back
+T25	PrepositionalDirections	233	235	on
+T26	ConstructionTools	240	246	hammer

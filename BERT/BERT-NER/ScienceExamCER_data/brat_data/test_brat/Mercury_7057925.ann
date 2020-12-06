@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	SystemParts	6	15	structure
+T3	Identify	16	26	determines
+T4	Cause	16	26	determines
+T5	Property	31	37	traits
+T6	ProbabilityAndCertainty	43	47	will
+T7	StateOfBeing	48	50	be
+T8	Move	51	57	passed
+T9	RelativeDirection	58	60	to
+T10	GeneticRelations	61	70	offspring
+T11	WordsForOffspring	61	70	offspring
+T12	CellsAndGenetics	72	82	chromosome
+T13	PartsOfAChromosome	83	93	centromere
+T14	AnimalCellPart	94	110	nuclear membrane
+T15	PlantCellPart	94	110	nuclear membrane
+T16	Cell	111	124	spindle fiber

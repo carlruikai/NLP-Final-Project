@@ -1,0 +1,18 @@
+T1	Fungi	0	13	Bracket fungi
+T2	Growth	14	18	grow
+T3	Consumption	23	27	feed
+T4	PrepositionalDirections	28	30	on
+T5	Death	35	39	dead
+T6	LivingDying	35	39	dead
+T7	PlantPart	40	44	wood
+T8	RelativeLocations	45	51	inside
+T9	Plant	55	60	trees
+T10	StateOfBeing	67	69	is
+T11	StateOfBeing	74	78	role
+T12	Fungi	82	95	bracket fungi
+T13	RelativeLocations	96	98	in
+T14	EcosystemsEnvironment	102	111	ecosystem
+T15	TypeOfConsumer	113	132	secondary consumers
+T16	TypeOfConsumer	133	149	primary consumer
+T17	PartsOfTheFoodChain	151	162	decomposers
+T18	PartsOfTheFoodChain	163	172	producers

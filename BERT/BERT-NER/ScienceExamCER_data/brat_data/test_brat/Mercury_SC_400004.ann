@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Exemplar	12	19	example
+T4	Development	23	36	metamorphosis
+T5	Changes	23	36	metamorphosis
+T6	Insect	40	51	caterpillar
+T7	ChangeInto	52	59	changes
+T8	Insect	67	76	butterfly
+T9	Animal	81	90	earthworm
+T10	ActionsForAnimals	91	98	tunnels
+T11	PrepositionalDirections	99	106	through
+T12	Soil	111	115	soil
+T13	Reptile	119	125	lizard
+T14	ActionsForAnimals	126	135	lays eggs
+T15	PrenatalOrganismStates	131	135	eggs
+T16	RelativeLocations	136	138	in
+T17	Soil	143	147	sand
+T18	Mammal	151	158	giraffe
+T19	ActionsForAnimals	159	163	eats
+T20	Consumption	159	163	eats
+T21	PlantPart	164	170	leaves
+T22	RelativeDirection	171	175	from
+T23	Plant	178	182	tree

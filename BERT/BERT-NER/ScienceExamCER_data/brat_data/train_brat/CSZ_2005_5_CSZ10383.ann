@@ -1,0 +1,32 @@
+T1	Quality	6	10	best
+T2	QualityComparison	6	10	best
+T3	Represent	11	20	describes
+T4	Circuits	23	39	parallel circuit
+T5	ElectricalEnergy	41	52	Electricity
+T6	TransferEnergy	53	58	flows
+T7	PrepositionalDirections	59	64	along
+T8	CardinalNumber	65	68	one
+T9	NUMBER	65	68	one
+T10	Directions	69	76	pathway
+T11	TransferEnergy	82	86	flow
+T12	ElectricalEnergy	90	101	electricity
+T13	Move	102	107	comes
+T14	RelativeDirection	108	112	from
+T15	CardinalNumber	113	116	one
+T16	NUMBER	113	116	one
+T17	Source	117	123	source
+T18	ElectricalEnergy	125	136	Electricity
+T19	TransferEnergy	137	142	flows
+T20	PrepositionalDirections	143	148	along
+T21	AmountComparison	149	158	more than
+T22	CardinalNumber	159	162	one
+T23	NUMBER	159	162	one
+T24	Directions	163	170	pathway
+T25	TransferEnergy	176	180	flow
+T26	ElectricalEnergy	184	195	electricity
+T27	Move	196	201	comes
+T28	RelativeDirection	202	206	from
+T29	AmountComparison	207	216	more than
+T30	CardinalNumber	217	220	one
+T31	NUMBER	217	220	one
+T32	Source	221	227	source

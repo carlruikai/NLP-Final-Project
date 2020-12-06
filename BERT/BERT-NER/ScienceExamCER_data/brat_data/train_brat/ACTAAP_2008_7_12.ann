@@ -1,0 +1,12 @@
+T1	StateOfBeing	5	7	is
+T2	Size	12	20	smallest
+T3	Comparisons	12	20	smallest
+T4	SystemParts	21	31	structural
+T5	SystemAndFunctions	36	46	functional
+T6	SystemParts	47	51	unit
+T7	NervousSystem	59	73	nervous system
+T8	PartsOfTheNervousSystem	75	80	brain
+T9	AnimalPart	81	86	organ
+T10	Cell	87	93	neuron
+T11	PartsOfTheNervousSystem	87	93	neuron
+T12	PartsOfTheNervousSystem	94	105	spinal cord

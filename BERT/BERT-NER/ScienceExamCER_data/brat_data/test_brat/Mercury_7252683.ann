@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	NonlivingPartsOfTheEnvironment	6	26	environmental factor
+T3	ProbabilityAndCertainty	27	31	will
+T4	Cause	32	37	cause
+T5	Plant	40	45	plant
+T6	PlantPart	46	51	shoot
+T7	Growth	55	59	grow
+T8	ActionsForAgriculture	55	59	grow
+T9	RelativeDirection	60	62	in
+T10	Directions	65	74	direction
+T11	Comparisons	75	80	other
+T12	Comparisons	81	85	than
+T13	RelativeDirection	86	94	straight
+T14	PrepositionalDirections	95	97	up
+T15	Temperature	99	110	temperature
+T16	Numbers	111	117	amount
+T17	Soil	121	129	top soil
+T18	Numbers	130	136	amount
+T19	PhasesOfWater	140	145	water
+T20	Locations	146	154	location
+T21	Light	162	167	light

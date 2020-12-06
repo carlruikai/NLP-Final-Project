@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LivingThing	6	14	organism
+T3	Associate	15	25	belongs in
+T4	Taxonomy	30	37	kingdom
+T5	Protist	38	46	Protista
+T6	Animal	48	54	sponge
+T7	Bryophyte	55	64	liverwort
+T8	Fungi	65	73	mushroom
+T9	Eukaryote	74	84	paramecium
+T10	Protist	74	84	paramecium

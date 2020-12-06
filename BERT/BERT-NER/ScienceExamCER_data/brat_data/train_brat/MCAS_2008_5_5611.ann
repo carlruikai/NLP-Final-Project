@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Quality	23	27	best
+T4	QualityComparison	23	27	best
+T5	Represent	28	38	represents
+T6	CardinalNumber	39	42	one
+T7	NUMBER	39	42	one
+T8	Rarity	43	53	particular
+T9	SystemProcessStages	54	59	stage
+T10	RelativeLocations	60	62	in
+T11	LifeCycle	65	75	life cycle
+T12	Aquatic	79	83	fish
+T13	ActionsForAnimals	84	92	swimming
+T14	PlantPart	95	99	seed
+T15	Growth	100	109	sprouting
+T16	PlantPart	112	116	leaf
+T17	Growth	117	124	growing
+T18	ActionsForAgriculture	117	124	growing
+T19	Mammal	127	130	dog
+T20	ActionsForAnimals	131	137	eating
+T21	Consumption	131	137	eating

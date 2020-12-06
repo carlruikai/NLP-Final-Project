@@ -1,0 +1,21 @@
+T1	Insect	0	11	Fruit flies
+T2	Reproduction	12	21	reproduce
+T3	Use	22	24	by
+T4	Reproduction	25	44	sexual reproduction
+T5	PercentUnit	51	58	percent
+T6	Gene	62	67	genes
+T7	PrenatalOrganismStates	75	89	fertilized egg
+T8	Insect	95	104	fruit fly
+T9	Uptake	105	112	receive
+T10	RelativeDirection	113	117	from
+T11	CardinalNumber	118	121	one
+T12	NUMBER	118	121	one
+T13	GeneticRelations	122	128	parent
+T14	PERCENT	130	133	25%
+T15	CardinalNumber	130	132	25
+T16	CardinalNumber	134	136	50
+T17	PERCENT	134	137	50%
+T18	PERCENT	138	141	75%
+T19	CardinalNumber	138	140	75
+T20	PERCENT	142	146	100%
+T21	CardinalNumber	142	145	100

@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	15	equipment
+T3	ProbabilityAndCertainty	16	20	will
+T4	Quality	21	25	best
+T5	QualityComparison	21	25	best
+T6	Separate	26	34	separate
+T7	Mixtures	37	44	mixture
+T8	MetalSolids	48	60	iron filings
+T9	Color	65	70	black
+T10	GranularSolids	71	77	pepper
+T11	MagneticDevice	79	85	magnet
+T12	FiltrationTool	86	98	filter paper
+T13	MassMeasuringTool	99	118	triple-beam balance
+T14	ElectricityMeasuringTool	119	128	voltmeter

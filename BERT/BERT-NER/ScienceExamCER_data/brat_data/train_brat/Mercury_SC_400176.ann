@@ -1,0 +1,23 @@
+T1	StateOfBeing	5	7	is
+T2	VisualComparison	12	23	approximate
+T3	TemporalProperty	24	30	length
+T4	MarkersOfTime	34	38	time
+T5	Require	42	47	takes
+T6	Moon	52	56	Moon
+T7	Goal	57	59	to
+T8	Succeed	60	68	complete
+T9	CardinalNumber	69	72	one
+T10	NUMBER	69	72	one
+T11	Cycles	73	84	lunar cycle
+T12	CardinalNumber	86	88	14
+T13	DURATION	86	93	14 days
+T14	TimeUnit	89	93	days
+T15	CardinalNumber	94	96	29
+T16	DURATION	94	101	29 days
+T17	TimeUnit	97	101	days
+T18	DURATION	102	110	180 days
+T19	CardinalNumber	102	105	180
+T20	TimeUnit	106	110	days
+T21	CardinalNumber	111	114	365
+T22	DURATION	111	119	365 days
+T23	TimeUnit	115	119	days

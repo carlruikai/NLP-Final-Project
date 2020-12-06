@@ -1,0 +1,15 @@
+T1	Particles	5	13	particle
+T2	AtomComponents	5	13	particle
+T3	Frequency	14	20	always
+T4	ContainBeComposedOf	21	24	has
+T5	Mass	27	31	mass
+T6	CardinalNumber	35	38	one
+T7	NUMBER	35	38	one
+T8	MassUnit	39	55	atomic mass unit
+T9	MassUnit	57	60	amu
+T10	Negations	66	68	no
+T11	ElectricalProperty	69	75	charge
+T12	AtomComponents	79	86	neutron
+T13	AtomComponents	89	95	proton
+T14	AtomComponents	99	107	electron
+T15	ElementalComponents	111	115	atom

@@ -1,0 +1,11 @@
+T1	Element	3	10	element
+T2	StateOfBeing	11	13	is
+T3	Identify	14	24	identified
+T4	Cause	25	27	by
+T5	Numbers	32	38	number
+T6	AtomComponents	42	49	protons
+T7	AtomicProperties	55	66	atomic mass
+T8	Exemplar	72	76	type
+T9	ElectricalProperty	80	86	charge
+T10	Numbers	92	98	number
+T11	Element	102	110	isotopes

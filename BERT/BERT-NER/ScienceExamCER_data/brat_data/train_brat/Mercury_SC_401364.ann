@@ -1,0 +1,28 @@
+T1	ObjectQuantification	2	6	drop
+T2	Color	10	13	red
+T3	LiquidMatter	14	27	food coloring
+T4	StateOfBeing	28	30	is
+T5	CombineAdd	31	36	added
+T6	RelativeDirection	37	39	to
+T7	LiquidHoldingContainersRecepticles	42	46	bowl
+T8	PhasesOfWater	50	55	water
+T9	LiquidMatter	50	55	water
+T10	RelativeNumber	57	64	Several
+T11	TimeUnit	65	72	minutes
+T12	RelativeTime	73	78	later
+T13	LevelOfInclusion	80	83	all
+T14	PhasesOfWater	91	96	water
+T15	LiquidMatter	91	96	water
+T16	StateOfBeing	97	99	is
+T17	Color	100	103	red
+T18	LevelOfInclusion	105	110	Which
+T19	LevelOfInclusion	114	119	these
+T20	Represent	120	129	describes
+T21	Changes	134	140	change
+T22	Occur	146	156	took place
+T23	ConstructiveDestructiveForces	158	165	erosion
+T24	NaturalPhenomena	158	165	erosion
+T25	CellProcesses	166	173	osmosis
+T26	CellProcesses	174	183	diffusion
+T27	PhysicalChange	174	183	diffusion
+T28	IllnessPreventionCuring	184	195	transfusion

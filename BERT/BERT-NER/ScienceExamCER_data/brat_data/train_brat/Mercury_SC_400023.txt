@@ -1,0 +1,5 @@
+A student is dropping objects of various sizes and shapes and recording the time it takes for each object to hit the ground. Which question is the student most likely trying to answer?
+What force slows some objects down?
+What force pulls objects to the ground?
+Do some objects fall more quickly than others?
+Do objects break or bounce when hitting the ground?

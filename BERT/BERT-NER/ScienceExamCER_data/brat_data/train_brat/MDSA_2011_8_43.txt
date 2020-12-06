@@ -1,0 +1,5 @@
+A scientist reads about an experiment conducted by a researcher.The scientist conducts the same experiment and collects data but this data contradicts what was published by the researcher. What should the scientist do since the data from the two experiments is contradictory?
+Repeat the experiment to check the data collected.
+Contact the researcher who first performed the experiment.
+Contact the scientific journal that published the experiment.
+Disregard the data collected since the experiment was published.

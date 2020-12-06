@@ -1,0 +1,14 @@
+T1	RelativeNumber	0	4	Many
+T2	Bird	5	10	birds
+T3	ActionsForAnimals	11	14	fly
+T4	CardinalDirectionsNorthEastSouthWest	15	20	south
+T5	SeasonsFallAutumnWinterSpringSummer	29	35	winter
+T6	Adaptation	42	52	adaptation
+T7	StateOfBeing	53	55	is
+T8	Classify	56	62	called
+T9	ActionsForAnimals	63	72	hibernati
+T10	OrganicProcesses	75	86	germination
+T11	PlantProcesses	75	86	germination
+T12	ActionsForAnimals	87	96	migration
+T13	BehavioralAdaptation	87	96	migration
+T14	Communicate	97	110	communication

@@ -1,0 +1,16 @@
+T1	RelativeLocations	0	2	In
+T2	Animal	3	9	animal
+T3	PartsOfTheExcretorySystem	10	14	skin
+T4	PartsOfTheIntegumentarySystem	10	14	skin
+T5	AnimalPart	15	21	tissue
+T6	CellProcesses	23	36	cell division
+T7	StateOfBeing	31	33	is
+T8	Cause	40	51	responsible
+T9	Growth	56	62	growth
+T10	Alter	67	73	repair
+T11	Help	67	73	repair
+T12	Reproduction	74	93	sexual reproduction
+T13	Uptake	94	103	obtaining
+T14	Energy	104	110	energy
+T15	Create	111	118	product
+T16	Cell	125	133	sex cell

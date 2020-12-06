@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Element	15	23	elements
+T4	StateOfBeing	24	26	is
+T5	VerbsForLocate	27	32	found
+T6	RelativeLocations	33	35	in
+T7	AmountComparison	40	48	greatest
+T8	Numbers	49	55	amount
+T9	RelativeLocations	56	58	in
+T10	LivingThing	59	68	organisms
+T11	Element	70	76	carbon
+T12	Element	77	81	iron
+T13	Element	82	86	lead
+T14	Element	87	91	neon

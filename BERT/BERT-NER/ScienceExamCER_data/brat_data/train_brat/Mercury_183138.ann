@@ -1,0 +1,9 @@
+T1	Relations	5	17	relationship
+T2	Occur	18	24	exists
+T3	RelativeLocations	25	32	between
+T4	Mammal	35	38	dog
+T5	Insect	47	52	fleas
+T6	OrganismRelationships	54	66	commensalism
+T7	GeologicTheories	67	77	gradualism
+T8	OrganismRelationships	78	87	mutualism
+T9	OrganismRelationships	88	98	parasitism

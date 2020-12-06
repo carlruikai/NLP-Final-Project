@@ -1,0 +1,5 @@
+How are the particles in a block of iron affected when the block is melted?
+The particles gain mass.
+The particles contain less energy.
+The particles move more rapidly.
+The particles increase in volume.

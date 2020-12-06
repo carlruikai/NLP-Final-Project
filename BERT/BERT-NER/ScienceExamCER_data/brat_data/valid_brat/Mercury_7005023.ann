@@ -1,0 +1,36 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Result	6	12	effect
+T3	ProbabilityAndCertainty	13	18	would
+T4	Growth	23	30	growing
+T5	Angiosperm	34	40	legume
+T6	Foods	34	40	legume
+T7	Plant	41	46	crops
+T8	Agriculture	41	46	crops
+T9	Exemplar	47	54	such as
+T10	Angiosperm	55	60	beans
+T11	Foods	55	60	beans
+T12	Foods	65	73	soybeans
+T13	Cause	74	78	have
+T14	AmountChangingActions	80	88	increase
+T15	IncreaseDecrease	80	88	increase
+T16	Cost	93	103	efficiency
+T17	CellProcesses	107	121	photosynthesis
+T18	PlantProcesses	107	121	photosynthesis
+T19	AmountComparison	122	129	greater
+T20	IllnessPreventionCuring	130	138	immunity
+T21	Plant	142	147	crops
+T22	Agriculture	142	147	crops
+T23	Position	148	155	against
+T24	Sickness	156	164	diseases
+T25	AmountComparison	165	170	fewer
+T26	Bacteria	171	179	bacteria
+T27	RelativeLocations	180	182	in
+T28	Soil	183	187	soil
+T29	RelativeLocations	192	194	in
+T30	LivingThing	195	211	living organisms
+T31	AmountComparison	212	216	more
+T32	Quality	217	223	usable
+T33	AbilityAvailability	217	223	usable
+T34	Element	224	232	nitrogen
+T35	Comparisons	237	242	other
+T36	Plant	243	249	plants

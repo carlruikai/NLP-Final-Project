@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	AnimalSystemsProcesses	23	30	systems
+T4	DigestionActions	31	37	breaks
+T5	Nutrition	38	42	food
+T6	ChangeInto	43	47	into
+T7	Nutrition	48	57	nutrients
+T8	AbilityAvailability	63	66	can
+T9	StateOfBeing	67	69	be
+T10	Use	70	74	used
+T11	RelativeLocations	75	77	by
+T12	AnimalPart	82	86	body
+T13	CirculatorySystem	88	99	circulatory
+T14	DigestiveSystem	100	109	digestive
+T15	RespiratorySystem	110	121	respiratory
+T16	ReproductiveSystem	122	134	reproductive

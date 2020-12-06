@@ -1,0 +1,17 @@
+T1	Soil	3	7	soil
+T2	StateOfBeing	8	10	is
+T3	Permeability	11	20	permeable
+T4	PhasesOfWater	21	26	water
+T5	AbilityAvailability	27	33	cannot
+T6	LiquidMovement	34	38	flow
+T7	PrepositionalDirections	39	46	through
+T8	PhasesOfWater	51	56	water
+T9	Difficulty	57	63	easily
+T10	LiquidMovement	64	69	flows
+T11	PrepositionalDirections	70	77	through
+T12	ContainBeComposedOf	85	93	contains
+T13	RelativeNumber	94	98	many
+T14	Minerals	99	107	minerals
+T15	ContainBeComposedOf	112	120	contains
+T16	RelativeNumber	121	124	few
+T17	Minerals	125	133	minerals

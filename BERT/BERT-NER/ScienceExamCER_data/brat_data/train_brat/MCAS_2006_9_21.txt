@@ -1,0 +1,5 @@
+Mr. Jenkins constructed a circuit consisting of a variable source, wires, and a resistor. In order to triple the amount of current, how should he change the voltage of the source?
+make the voltage three times larger
+make the voltage one-third as great
+make the voltage nine times larger
+make the voltage one-ninth as great

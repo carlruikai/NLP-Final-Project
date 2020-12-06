@@ -1,0 +1,5 @@
+Sound will not travel in a
+solid
+liquid
+gas
+vacuum

@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	Rarity	28	34	common
+T5	Rarity	35	44	renewable
+T6	NaturalResources	45	53	resource
+T7	VerbsForLocate	54	59	found
+T8	RelativeLocations	60	62	in
+T9	TypesOfTerrestrialEcosystems	63	70	deserts
+T10	OtherEnergyResources	72	81	biodiesel
+T11	Element	82	89	uranium
+T12	FossilFuel	90	101	natural gas
+T13	OtherEnergyResources	102	114	solar energy

@@ -1,0 +1,39 @@
+T1	LevelOfInclusion	0	4	Some
+T2	ElementalComponents	5	14	molecules
+T3	Use	15	19	used
+T4	Result	20	22	to
+T5	Create	23	34	manufacture
+T6	SyntheticMaterial	35	42	plastic
+T7	GenericTerms	43	50	objects
+T8	StateOfBeing	51	54	are
+T9	Length	55	59	long
+T10	FormChangingActions	64	71	tangled
+T11	FormChangingActions	78	88	straighten
+T12	RelativeTime	89	93	when
+T13	Force	94	99	force
+T14	StateOfBeing	100	102	is
+T15	CombineAdd	103	110	applied
+T16	RelativeDirection	111	113	to
+T17	RelativeTime	123	127	then
+T18	Alter	128	134	return
+T19	RelativeDirection	135	137	to
+T20	Comparisons	144	151	shorter
+T21	Length	144	151	shorter
+T22	FormChangingActions	153	160	tangled
+T23	Shape	161	166	shape
+T24	LevelOfInclusion	168	173	Which
+T25	Rarity	174	180	common
+T26	GenericTerms	181	187	object
+T27	StateOfBeing	188	190	is
+T28	AmountComparison	191	195	most
+T29	ProbabilityAndCertainty	196	202	likely
+T30	Create	203	207	made
+T31	Use	208	213	using
+T32	LevelOfInclusion	214	218	such
+T33	ElementalComponents	219	228	molecules
+T34	ManmadeObjects	230	243	helmet shells
+T35	ManmadeObjects	244	256	rubber bands
+T36	PartsOfABuilding	257	271	plumbing pipes
+T37	ActionsForAnimals	272	280	drinking
+T38	Consumption	272	280	drinking
+T39	LiquidHoldingContainersRecepticles	281	285	cups

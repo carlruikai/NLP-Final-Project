@@ -1,0 +1,41 @@
+T1	Method	0	3	How
+T2	PerformAnActivity	4	6	do
+T3	GroupsOfScientists	7	17	scientists
+T4	Believe	18	22	know
+T5	RelativeNumber	28	32	some
+T6	LevelOfInclusion	28	32	some
+T7	FossilLocationImplicationsOfLocationEXMarineAnimalFossilsInTheGrandCanyon	33	42	mountains
+T8	GeographicFormations	33	42	mountains
+T9	StateOfBeing	43	47	were
+T10	TemporalProperty	48	52	once
+T11	RelativeLocations	53	55	at
+T12	RelativeLocations	60	66	bottom
+T13	BodiesOfWater	73	78	ocean
+T14	TypesOfWaterInBodiesOfWater	80	90	Freshwater
+T15	BodiesOfWater	91	97	rivers
+T16	LiquidMovement	98	102	flow
+T17	RelativeDirection	103	105	to
+T18	BodiesOfWater	110	115	ocean
+T19	Aquatic	117	131	Saltwater fish
+T20	StateOfBeing	132	135	are
+T21	VerbsForLocate	136	141	found
+T22	RelativeLocations	142	144	in
+T23	RelativeNumber	145	149	some
+T24	BodiesOfWater	150	166	mountain streams
+T25	Animal	168	176	Dinosaur
+T26	TrueFormFossil	177	182	bones
+T27	StateOfBeing	188	192	been
+T28	Identify	193	203	discovered
+T29	Discovery	193	203	discovered
+T30	RelativeLocations	204	206	in
+T31	FossilLocationImplicationsOfLocationEXMarineAnimalFossilsInTheGrandCanyon	211	220	mountains
+T32	GeographicFormations	211	220	mountains
+T33	FossilTypesIndexFossil	222	236	Marine fossils
+T34	StateOfBeing	242	246	been
+T35	VerbsForLocate	247	252	found
+T36	Discovery	247	252	found
+T37	RelativeLocations	253	255	on
+T38	GeographicFormationParts	260	265	peaks
+T39	RelativeNumber	269	273	some
+T40	FossilLocationImplicationsOfLocationEXMarineAnimalFossilsInTheGrandCanyon	274	283	mountains
+T41	GeographicFormations	274	283	mountains

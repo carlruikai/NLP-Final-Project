@@ -1,0 +1,59 @@
+T1	RelativeTime	0	2	In
+T2	DATE	3	7	2005
+T3	GroupsOfScientists	11	29	team of scientists
+T4	Identify	30	40	discovered
+T5	Discovery	30	40	discovered
+T6	OtherOrganismProperties	43	57	photosynthetic
+T7	Bacteria	58	66	bacteria
+T8	LivingDying	67	73	living
+T9	DistanceComparison	74	78	near
+T10	PhaseChangingActions	83	89	molten
+T11	Rock	90	94	lava
+T12	GeographicFormations	100	112	thermal vent
+T13	EcosystemsEnvironment	113	122	ecosystem
+T14	Depth	123	127	deep
+T15	RelativeLocations	128	130	in
+T16	SpecificNamedBodiesOfWater	135	148	Pacific Ocean
+T17	Bacteria	154	162	bacteria
+T18	LivingDying	163	168	lived
+T19	CardinalNumber	169	173	2400
+T20	NUMBER	169	173	2400
+T21	DistanceUnit	174	180	meters
+T22	RelativeLocations	181	186	below
+T23	ObjectPart	191	198	surface
+T24	BodiesOfWater	206	211	ocean
+T25	Create	217	221	made
+T26	Energy	222	228	energy
+T27	Cause	229	233	from
+T28	CellProcesses	234	248	photosynthesis
+T29	PlantProcesses	234	248	photosynthesis
+T30	LevelOfInclusion	250	255	Which
+T31	ConcludingResearch	256	266	conclusion
+T32	Quality	267	271	best
+T33	QualityComparison	267	271	best
+T34	Communicate	272	280	explains
+T35	Result	285	292	results
+T36	CellProcesses	294	308	Photosynthesis
+T37	PlantProcesses	294	308	Photosynthesis
+T38	AbilityAvailability	309	312	can
+T39	Occur	313	318	occur
+T40	Negations	319	326	without
+T41	Light	327	332	light
+T42	GeographicFormations	338	355	hydrothermal vent
+T43	LightMovement	356	361	emits
+T44	Release	356	361	emits
+T45	Quality	362	368	usable
+T46	AbilityAvailability	362	368	usable
+T47	Light	369	374	light
+T48	RelativeNumber	376	380	High
+T49	Pressure	381	395	water pressure
+T50	AbilityAvailability	396	399	can
+T51	Cause	400	405	power
+T52	CellProcesses	406	420	photosynthesis
+T53	PlantProcesses	406	420	photosynthesis
+T54	Bacteria	426	434	bacteria
+T55	TemporalProperty	435	442	used to
+T56	LivingDying	443	447	live
+T57	RelativeLocations	448	450	at
+T58	BodiesOfWater	455	460	ocean
+T59	ObjectPart	463	470	surface

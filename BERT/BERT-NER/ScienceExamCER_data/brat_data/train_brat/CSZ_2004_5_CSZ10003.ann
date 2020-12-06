@@ -1,0 +1,38 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Hypothesizing	23	32	questions
+T4	QuestionActivityType	23	32	questions
+T5	StateOfBeing	33	35	is
+T6	Hypothesizing	36	44	testable
+T7	RelativeLocations	45	47	in
+T8	Experimentation	50	74	scientific investigation
+T9	StateOfBeing	76	79	Are
+T10	Mammal	80	84	dogs
+T11	Quality	85	91	better
+T12	QualityComparison	85	91	better
+T13	Animal	92	96	pets
+T14	Comparisons	97	101	than
+T15	Mammal	102	106	cats
+T16	StateOfBeing	109	112	Are
+T17	Mammal	113	117	dogs
+T18	OtherAnimalProperties	118	123	happy
+T19	RelativeTime	124	128	when
+T20	StateOfBeing	134	137	are
+T21	Move	138	144	walked
+T22	StateOfBeing	147	150	Are
+T23	Mammal	151	155	cats
+T24	AmountComparison	156	160	more
+T25	OtherProperties	161	167	active
+T26	PhysicalActivity	161	167	active
+T27	RelativeTime	168	170	at
+T28	TimesOfDayDayNight	171	176	night
+T29	Comparisons	177	181	than
+T30	RelativeTime	182	188	during
+T31	TimesOfDayDayNight	193	196	day
+T32	StateOfBeing	199	202	Are
+T33	Mammal	203	207	cats
+T34	Difficulty	208	214	easier
+T35	Help	218	230	take care of
+T36	ActionsForAnimals	218	230	take care of
+T37	Comparisons	231	235	than
+T38	Mammal	236	240	dogs

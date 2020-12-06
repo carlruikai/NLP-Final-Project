@@ -1,0 +1,55 @@
+T1	Human	2	6	girl
+T2	Communicate	7	14	signals
+T3	Indicate	7	14	signals
+T4	Human	19	25	friend
+T5	Cause	26	28	by
+T6	LightMovement	29	36	shining
+T7	LightProducingObject	39	49	flashlight
+T8	PrepositionalDirections	50	52	on
+T9	PartsOfObservationInstruments	55	61	mirror
+T10	Human	67	73	friend
+T11	AbilityAvailability	74	77	can
+T12	Observe	78	81	see
+T13	Communicate	86	92	signal
+T14	Indicate	86	92	signal
+T15	Cause	93	100	because
+T16	ThermalEnergy	101	112	heat energy
+T17	AbilityAvailability	113	116	can
+T18	StateOfBeing	117	119	be
+T19	Transportation	120	131	transferred
+T20	RelativeDirection	132	136	from
+T21	CardinalNumber	137	140	one
+T22	NUMBER	137	140	one
+T23	GenericTerms	141	147	object
+T24	RelativeDirection	148	150	to
+T25	Comparisons	151	158	another
+T26	Energy	159	176	mechanical energy
+T27	AbilityAvailability	177	180	can
+T28	StateOfBeing	181	183	be
+T29	Transportation	184	195	transferred
+T30	RelativeDirection	196	200	from
+T31	CardinalNumber	201	204	one
+T32	NUMBER	201	204	one
+T33	GenericTerms	205	211	object
+T34	RelativeDirection	212	214	to
+T35	Comparisons	215	222	another
+T36	SoundEnergy	223	235	sound energy
+T37	AbilityAvailability	236	239	can
+T38	StateOfBeing	240	242	be
+T39	LightMovement	243	252	reflected
+T40	RelativeDirection	253	257	from
+T41	CardinalNumber	258	261	one
+T42	NUMBER	258	261	one
+T43	GenericTerms	262	268	object
+T44	RelativeDirection	269	271	to
+T45	Comparisons	272	279	another
+T46	Energy	280	292	light energy
+T47	AbilityAvailability	293	296	can
+T48	StateOfBeing	297	299	be
+T49	LightMovement	300	309	reflected
+T50	RelativeDirection	310	314	from
+T51	CardinalNumber	315	318	one
+T52	NUMBER	315	318	one
+T53	GenericTerms	319	325	object
+T54	RelativeDirection	326	328	to
+T55	Comparisons	329	336	another

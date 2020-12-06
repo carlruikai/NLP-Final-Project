@@ -1,0 +1,24 @@
+T1	PhasesOfWater	4	9	frost
+T2	GeometricSpatialObjects	10	14	line
+T3	SolarSystem	22	34	solar system
+T4	Divide	35	42	divides
+T5	Planet	47	65	terrestrial plants
+T6	RelativeDirection	66	70	from
+T7	Planet	75	92	gas-giant planets
+T8	Element	99	107	elements
+T9	Create	108	112	make
+T10	LevelOfInclusion	116	120	most
+T11	PlanetParts	128	132	core
+T12	Planet	140	147	planets
+T13	CelestialMovement	148	156	orbiting
+T14	RelativeLocations	157	164	outside
+T15	PhasesOfWater	172	177	frost
+T16	GeometricSpatialObjects	178	182	line
+T17	Element	184	188	iron
+T18	Element	193	199	nickel
+T19	Element	200	206	carbon
+T20	Element	211	217	oxygen
+T21	Element	218	226	nitrogen
+T22	Element	231	237	sulfur
+T23	Element	238	246	hydrogen
+T24	Element	251	257	helium

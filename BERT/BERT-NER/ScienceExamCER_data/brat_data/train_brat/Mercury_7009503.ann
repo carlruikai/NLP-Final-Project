@@ -1,0 +1,11 @@
+T1	RelativeTime	0	4	When
+T2	ElementalComponents	8	12	atom
+T3	AmountChangingActions	13	18	loses
+T4	Comparisons	19	21	or
+T5	AmountChangingActions	22	27	gains
+T6	AtomComponents	31	39	electron
+T7	Alter	44	51	changes
+T8	AtomicProperties	52	63	atomic mass
+T9	AtomicProperties	65	78	atomic number
+T10	ElectricalProperty	80	86	charge
+T11	Element	88	95	element

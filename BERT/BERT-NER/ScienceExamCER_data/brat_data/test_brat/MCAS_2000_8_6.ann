@@ -1,0 +1,17 @@
+T1	Method	0	3	How
+T2	Material	6	14	material
+T3	Response	15	23	responds
+T4	RelativeDirection	24	26	to
+T5	IncreaseDecrease	27	34	heating
+T6	Temperature	27	34	heating
+T7	IncreaseDecrease	39	46	cooling
+T8	Temperature	39	46	cooling
+T9	Communicate	47	52	tells
+T10	Relevant	56	61	about
+T11	Material	66	74	material
+T12	VisualProperty	77	95	optical properties
+T13	PhysicalProperty	97	118	mechanical properties
+T14	Temperature	120	127	thermal
+T15	Property	128	138	properties
+T16	SoundEnergy	140	150	acoustical
+T17	Property	151	161	properties

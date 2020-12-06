@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	AbilityAvailability	21	24	can
+T4	Eukaryote	28	34	amoeba
+T5	Changes	35	41	change
+T6	Eukaryote	49	59	paramecium
+T7	Protist	49	59	paramecium
+T8	AbilityAvailability	60	66	cannot
+T9	Changes	67	73	change
+T10	Gender	75	78	sex
+T11	Shape	79	84	shape
+T12	Color	85	90	color
+T13	Position	91	99	position

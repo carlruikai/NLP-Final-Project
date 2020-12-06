@@ -1,0 +1,30 @@
+T1	PerformAnActivity	5	7	do
+T2	Energy	12	18	energy
+T3	NaturalResources	19	28	resources
+T4	Element	29	36	uranium
+T5	FossilFuel	41	45	coal
+T6	Sedimentary	41	45	coal
+T7	ContainBeComposedOf	46	50	have
+T8	Comparisons	51	60	in common
+T9	LevelOfInclusion	67	71	both
+T10	StateOfBeing	72	75	are
+T11	Create	76	82	formed
+T12	Source	83	87	from
+T13	Fossils	92	99	remains
+T14	Death	103	107	dead
+T15	LivingDying	103	107	dead
+T16	LivingThing	108	117	organisms
+T17	LevelOfInclusion	124	128	both
+T18	StateOfBeing	129	132	are
+T19	Uptake	133	141	acquired
+T20	Cause	142	144	by
+T21	ActUponSomething	145	151	mining
+T22	LayersOfTheEarth	156	167	lithosphere
+T23	LevelOfInclusion	174	178	both
+T24	Release	179	186	release
+T25	Energy	187	193	energy
+T26	Cause	194	201	through
+T27	TypesOfChemicalReactions	202	212	combustion
+T28	LevelOfInclusion	219	223	both
+T29	Create	224	232	generate
+T30	Toxins	233	250	radioactive waste

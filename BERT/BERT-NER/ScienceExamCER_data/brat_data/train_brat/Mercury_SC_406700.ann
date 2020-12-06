@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	SystemProcessStages	6	11	stage
+T3	RelativeLocations	12	14	in
+T4	Reptile	19	26	reptile
+T5	LifeCycle	27	37	life cycle
+T6	StateOfBeing	38	40	is
+T7	AmountComparison	41	45	most
+T8	Comparisons	46	50	like
+T9	Birth	55	60	birth
+T10	Mammal	66	70	lion
+T11	WordsForOffspring	71	74	cub
+T12	ActionsForAnimals	76	84	hatching
+T13	RelativeDirection	85	89	from
+T14	PrenatalOrganismStates	93	96	egg
+T15	ActionsForAnimals	97	105	shedding
+T16	AnimalPart	110	114	skin
+T17	PartsOfTheIntegumentarySystem	110	114	skin
+T18	ActionsForAnimals	115	122	hunting
+T19	Nutrition	127	131	food
+T20	VerbsForLocate	132	139	finding
+T21	Reproduction	142	146	mate

@@ -1,0 +1,25 @@
+T1	RelativeDirection	0	2	To
+T2	CirculationActions	3	13	pump blood
+T3	PrepositionalDirections	14	21	through
+T4	AnimalPart	26	30	body
+T5	AnimalPart	36	41	heart
+T6	PartsOfTheCirculatorySystem	36	41	heart
+T7	Require	42	46	must
+T8	Succeed	47	55	overcome
+T9	Force	60	65	force
+T10	Gravity	69	76	gravity
+T11	LevelOfInclusion	78	83	Which
+T12	AnimalPart	84	88	body
+T13	Position	89	97	position
+T14	ProbabilityAndCertainty	98	103	would
+T15	Require	104	111	require
+T16	AmountComparison	116	121	least
+T17	PerformAnActivity	122	126	work
+T18	RelativeDirection	127	131	from
+T19	AnimalPart	136	141	heart
+T20	PartsOfTheCirculatorySystem	136	141	heart
+T21	Position	143	150	sitting
+T22	Position	151	159	standing
+T23	Position	160	168	kneeling
+T24	Position	169	174	lying
+T25	PrepositionalDirections	175	179	down

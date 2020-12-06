@@ -1,0 +1,23 @@
+T1	Goal	0	11	In order to
+T2	Differentiate	12	23	distinguish
+T3	ResponseType	24	28	fact
+T4	ResponseType	34	41	opinion
+T5	ConcludingResearch	43	54	conclusions
+T6	Experimentation	58	69	experiments
+T7	Require	70	76	should
+T8	StateOfBeing	77	79	be
+T9	PerformingResearch	80	88	recorded
+T10	RelativeLocations	89	91	on
+T11	ComputingDevice	94	102	computer
+T12	TechnologicalInstrument	94	102	computer
+T13	Communicate	104	113	presented
+T14	Represent	104	113	presented
+T15	RelativeLocations	114	116	in
+T16	Representation	117	126	bar graph
+T17	Source	129	137	based on
+T18	Validity	138	148	verifiable
+T19	WordsForData	149	154	data.
+T20	PerformingResearch	155	164	organized
+T21	Represent	155	164	organized
+T22	RelativeLocations	165	167	in
+T23	Representation	170	175	table

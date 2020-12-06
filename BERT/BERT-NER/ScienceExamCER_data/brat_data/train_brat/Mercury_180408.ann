@@ -1,0 +1,14 @@
+T1	Exemplar	5	9	type
+T2	PartsOfWaterCycle	13	26	precipitation
+T3	Precipitation	13	26	precipitation
+T4	Occur	27	33	occurs
+T5	RelativeTime	34	38	when
+T6	Precipitation	39	48	raindrops
+T7	PhaseChangingActions	49	55	freeze
+T8	RelativeTime	56	58	as
+T9	ChangeInLocation	64	68	fall
+T10	Precipitation	70	74	hail
+T11	Precipitation	75	80	frost
+T12	PhasesOfWater	75	80	frost
+T13	Precipitation	81	86	sleet
+T14	Precipitation	87	91	snow

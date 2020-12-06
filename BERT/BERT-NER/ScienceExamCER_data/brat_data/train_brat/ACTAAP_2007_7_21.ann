@@ -1,0 +1,11 @@
+T1	Device	6	12	device
+T2	TransferEnergy	13	21	converts
+T3	ChangeInto	13	21	converts
+T4	Energy	22	36	kinetic energy
+T5	Result	37	41	into
+T6	ElectricalEnergy	42	59	electrical energy
+T7	TechnologicalInstrument	61	71	calculator
+T8	Device	72	81	generator
+T9	ElectricalProperty	82	90	electric
+T10	VehicularSystemsParts	82	96	electric motor
+T11	MagneticDevice	97	110	electromagnet

@@ -1,0 +1,24 @@
+T1	StateOfBeing	5	7	is
+T2	Galaxy	10	16	galaxy
+T3	Moon	20	24	moon
+T4	CelestialMovement	30	36	orbits
+T5	Planet	39	45	planet
+T6	Planet	39	45	planet
+T7	CelestialMovement	60	66	orbits
+T8	Star	71	74	Sun
+T9	AmountComparison	77	81	very
+T10	Size	82	87	large
+T11	Group	88	94	system
+T12	Star	98	103	stars
+T13	StateOfBeing	109	111	is
+T14	Relations	112	125	held together
+T15	Cause	126	128	by
+T16	Gravity	129	136	gravity
+T17	AmountComparison	139	143	very
+T18	Size	144	149	large
+T19	Group	150	156	system
+T20	Planet	160	167	planets
+T21	StateOfBeing	173	175	is
+T22	Relations	176	189	held together
+T23	Cause	190	192	by
+T24	Star	197	200	Sun

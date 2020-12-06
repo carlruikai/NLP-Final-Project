@@ -1,0 +1,24 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	13	example
+T3	Represent	14	19	shows
+T4	ChemicalChange	22	37	chemical change
+T5	RelativeDirection	38	40	to
+T6	Nutrition	41	45	food
+T7	RelativeTime	46	52	during
+T8	DigestionActions	53	62	digestion
+T9	PartsOfTheDigestiveSystem	64	69	teeth
+T10	DigestionActions	70	77	chewing
+T11	Nutrition	78	82	food
+T12	DigestiveSubstances	83	90	enzymes
+T13	NutritiveSubstancesForAnimalsOrPlants	83	90	enzymes
+T14	DigestionActions	91	104	breaking down
+T15	Nutrition	105	109	food
+T16	Nutrition	105	109	food
+T17	Move	115	121	moving
+T18	PrepositionalDirections	122	129	through
+T19	PartsOfTheDigestiveSystem	134	144	intestines
+T20	Nutrition	145	149	food
+T21	DigestionActions	150	158	churning
+T22	RelativeLocations	155	157	in
+T23	PartsOfTheDigestiveSystem	166	173	stomach
+T24	PartsOfEndocrineSystem	166	173	stomach

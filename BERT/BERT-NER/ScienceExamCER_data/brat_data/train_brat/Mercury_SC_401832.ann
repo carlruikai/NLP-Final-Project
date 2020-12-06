@@ -1,0 +1,25 @@
+T1	Cause	5	11	causes
+T2	Soil	16	20	soil
+T3	RelativeLocations	21	23	in
+T4	GeographicFormations	26	37	flood plain
+T5	StateOfBeing	41	43	be
+T6	Rarity	44	53	generally
+T7	AmountComparison	54	58	rich
+T8	Nutrition	62	71	nutrients
+T9	Frequency	73	83	constantly
+T10	LiquidMovement	84	91	flowing
+T11	PhasesOfWater	92	97	water
+T12	RelativeNumber	98	102	many
+T13	Aquatic	103	107	fish
+T14	RelativeLocations	108	110	in
+T15	BodiesOfWater	115	120	river
+T16	Age	121	124	new
+T17	Soil	125	129	soil
+T18	ChangeInLocation	130	139	deposited
+T19	Move	130	139	deposited
+T20	Cause	140	142	by
+T21	BodiesOfWater	147	152	river
+T22	Temperature	153	157	warm
+T23	PhasesOfWater	158	163	water
+T24	RelativeDirection	164	168	from
+T25	BodiesOfWater	172	177	ocean

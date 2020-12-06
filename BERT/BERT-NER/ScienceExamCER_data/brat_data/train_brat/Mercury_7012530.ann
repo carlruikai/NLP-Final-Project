@@ -1,0 +1,11 @@
+T1	Calculations	4	22	difference between
+T2	AtomicProperties	27	40	atomic number
+T3	Element	47	54	element
+T4	Element	47	54	element
+T5	AtomicProperties	73	84	atomic mass
+T6	StateOfBeing	85	87	is
+T7	Numbers	92	98	number
+T8	ElementalComponents	102	106	ions
+T9	AtomComponents	108	115	protons
+T10	AtomComponents	117	126	electrons
+T11	AtomComponents	128	136	neutrons

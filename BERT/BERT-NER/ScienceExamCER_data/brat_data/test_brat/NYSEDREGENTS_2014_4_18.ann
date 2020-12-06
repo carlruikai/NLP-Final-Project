@@ -1,0 +1,30 @@
+T1	Mammal	2	13	prairie dog
+T2	LivingDying	14	20	living
+T3	RelativeLocations	17	19	in
+T4	GroupsOfOrganisms	26	35	community
+T5	ActionsForAnimals	36	41	barks
+T6	SensoryTerms	42	48	loudly
+T7	Comparisons	50	55	Other
+T8	Mammal	56	67	prairie dog
+T9	DistanceComparison	69	75	nearby
+T10	Believe	76	80	know
+T11	Safety	86	92	danger
+T12	Problem	86	92	danger
+T13	StateOfBeing	93	95	is
+T14	DistanceComparison	96	100	near
+T15	Speed	105	112	quickly
+T16	Move	113	115	go
+T17	TerrestrialLocations	116	127	underground
+T18	ActionsForAnimals	131	135	hide
+T19	Undiscovered	131	135	hide
+T20	LevelOfInclusion	137	142	Which
+T21	Senses	143	148	sense
+T22	StateOfBeing	149	152	are
+T23	LevelOfInclusion	153	158	these
+T24	Mammal	159	170	prairie dog
+T25	Use	172	177	using
+T26	Communicate	181	192	communicate
+T27	Senses	194	201	hearing
+T28	Senses	202	210	smelling
+T29	Senses	211	218	tasting
+T30	Senses	219	227	touching

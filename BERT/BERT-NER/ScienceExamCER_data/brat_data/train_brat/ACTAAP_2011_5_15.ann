@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Occur	6	12	occurs
+T3	RelativeTime	13	15	as
+T4	Energy	20	34	kinetic energy
+T5	PhasesOfWater	38	43	water
+T6	LiquidMatter	38	43	water
+T7	ElementalComponents	44	53	molecules
+T8	AmountChangingActions	54	63	increases
+T9	IncreaseDecrease	54	63	increases
+T10	PhasesOfWater	65	76	Water vapor
+T11	GaseousMatter	65	76	Water vapor
+T12	ChangeInto	77	84	becomes
+T13	PhasesOfWater	85	88	ice
+T14	SolidMatter	85	88	ice
+T15	PhasesOfWater	90	102	Liquid water
+T16	LiquidMatter	90	102	Liquid water
+T17	ChangeInto	103	110	becomes
+T18	PhasesOfWater	111	114	ice
+T19	SolidMatter	111	114	ice
+T20	PhasesOfWater	116	127	Water vapor
+T21	GaseousMatter	116	127	Water vapor
+T22	ChangeInto	128	135	becomes
+T23	PhasesOfWater	136	148	liquid water
+T24	LiquidMatter	136	148	liquid water
+T25	PhasesOfWater	150	162	Liquid water
+T26	LiquidMatter	150	162	Liquid water
+T27	ChangeInto	163	170	becomes
+T28	PhasesOfWater	171	182	water vapor
+T29	GaseousMatter	171	182	water vapor

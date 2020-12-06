@@ -1,0 +1,40 @@
+T1	WeatherPhenomena	2	11	windstorm
+T2	Move	12	23	knocks down
+T3	Harm	12	23	knocks down
+T4	RelativeNumber	24	28	many
+T5	Plant	29	34	trees
+T6	RelativeLocations	35	37	in
+T7	TerrestrialLocations	40	53	national park
+T8	GeopoliticalLocations	40	53	national park
+T9	NaturalResources	55	61	Timber
+T10	BusinessIndustry	62	71	companies
+T11	Goal	72	76	want
+T12	StopRemove	80	90	get rid of
+T13	Position	95	101	fallen
+T14	Plant	102	107	trees
+T15	Method	109	112	How
+T16	ProbabilityAndCertainty	113	118	would
+T17	AmountComparison	124	128	most
+T18	ProbabilityAndCertainty	129	135	likely
+T19	Harm	136	140	harm
+T20	ManmadeLocations	145	149	park
+T21	EcosystemsEnvironment	150	159	ecosystem
+T22	AmountChangingActions	161	168	reduces
+T23	IncreaseDecrease	161	168	reduces
+T24	Problem	173	177	risk
+T25	Safety	173	177	risk
+T26	NaturalPhenomena	181	185	fire
+T27	AmountChangingActions	186	195	decreases
+T28	IncreaseDecrease	186	195	decreases
+T29	ConstructiveDestructiveForces	196	203	erosion
+T30	NaturalPhenomena	196	203	erosion
+T31	Problem	204	212	problems
+T32	AmountChangingActions	213	222	increases
+T33	IncreaseDecrease	213	222	increases
+T34	Problem	227	231	risk
+T35	Safety	227	231	risk
+T36	NaturalPhenomena	235	242	drought
+T37	WeatherPhenomena	235	242	drought
+T38	StopRemove	243	250	removes
+T39	AbilityAvailability	251	260	available
+T40	Nutrition	261	270	nutrients

@@ -1,0 +1,5 @@
+Students dropped different rocks into sand to simulate meteorite impacts. Their goal was to determine which rock made the deepest crater. Which variable should the students control in order to have the most accurate results?
+the height from which the rocks are dropped
+the average time it takes the rocks to fall
+the density of the rocks
+the mass of the rocks

@@ -1,0 +1,20 @@
+T1	RelativeTime	0	6	During
+T2	LevelOfInclusion	7	12	which
+T3	PhaseChanges	13	25	phase change
+T4	StateOfBeing	26	28	is
+T5	ThermalEnergy	29	40	heat energy
+T6	AbsorbEnergy	41	49	absorbed
+T7	Cause	50	52	by
+T8	Substances	55	64	substance
+T9	StateOfMatter	66	72	liquid
+T10	RelativeDirection	73	75	to
+T11	StateOfMatter	76	79	gas
+T12	StateOfMatter	76	79	gas
+T13	RelativeDirection	84	86	to
+T14	StateOfMatter	87	92	solid
+T15	StateOfMatter	93	99	liquid
+T16	RelativeDirection	100	102	to
+T17	StateOfMatter	103	108	solid
+T18	StateOfMatter	109	112	gas
+T19	RelativeDirection	113	115	to
+T20	StateOfMatter	116	122	liquid

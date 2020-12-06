@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Actions	6	12	action
+T3	WordsForOffspring	20	26	kitten
+T4	ActionsForAnimals	27	32	learn
+T5	LearnedBehavior	27	32	learn
+T6	RelativeDirection	33	37	from
+T7	GeneticRelations	42	48	mother
+T8	Method	50	53	how
+T9	Growth	57	61	grow
+T10	Method	62	65	how
+T11	ActionsForAnimals	69	73	meow
+T12	Method	74	77	how
+T13	ActionsForAnimals	81	85	hunt
+T14	Mammal	86	90	mice
+T15	Method	91	94	how
+T16	ActionsForAnimals	98	103	nurse
+T17	Foods	104	108	milk

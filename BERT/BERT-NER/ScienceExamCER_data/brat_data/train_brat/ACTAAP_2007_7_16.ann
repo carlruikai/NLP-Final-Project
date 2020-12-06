@@ -1,0 +1,24 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Occur	6	12	occurs
+T3	Cause	13	27	as a result of
+T4	InnerPlanets	28	33	Earth
+T5	CelestialMovement	36	40	tilt
+T6	RelativeLocations	41	43	on
+T7	CelestialMovement	48	56	rotating
+T8	PlanetParts	57	61	axis
+T9	PropertyOfMotion	63	71	movement
+T10	Move	63	71	movement
+T11	TidesHighTideLowTide	79	84	tides
+T12	WeatherPhenomena	79	84	tides
+T13	WeatherPhenomena	85	94	prevalent
+T14	Comparisons	95	97	or
+T15	WeatherPhenomena	98	109	trade winds
+T16	SeasonsFallAutumnWinterSpringSummer	110	118	seasonal
+T17	Frequency	110	118	seasonal
+T18	Changes	119	126	changes
+T19	EcosystemsEnvironment	134	141	climate
+T20	Brightness	142	147	light
+T21	Brightness	152	156	dark
+T22	Changes	157	164	changes
+T23	TimesOfDayDayNight	168	171	day
+T24	TimesOfDayDayNight	176	181	night

@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Actions	6	10	task
+T3	RelativeLocations	11	13	in
+T4	ManmadeLocations	18	25	kitchen
+T5	StateOfBeing	26	28	is
+T6	Exemplar	32	39	example
+T7	PhysicalChange	45	60	physical change
+T8	ActionsForNutrition	62	68	frying
+T9	Foods	72	75	egg
+T10	ChemicalChange	76	82	baking
+T11	Foods	85	89	cake
+T12	PhaseChangingActions	90	97	melting
+T13	Foods	98	104	butter
+T14	ActionsForNutrition	105	113	toasting
+T15	Foods	114	119	bread

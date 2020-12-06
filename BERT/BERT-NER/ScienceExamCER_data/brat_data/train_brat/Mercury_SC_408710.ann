@@ -1,0 +1,29 @@
+T1	PERSON	0	5	Jonny
+T2	ActionsForAnimals	6	13	climbed
+T3	Angiosperm	17	27	apple tree
+T4	Method	29	32	How
+T5	StateOfBeing	33	36	are
+T6	PERSON	37	42	Jonny
+T7	Angiosperm	51	61	apple tree
+T8	Comparisons	62	69	similar
+T9	LevelOfInclusion	73	77	each
+T10	Comparisons	78	83	other
+T11	LevelOfInclusion	85	89	Both
+T12	StateOfBeing	90	93	are
+T13	ContainBeComposedOf	94	98	made
+T14	Cell	102	107	cells
+T15	LevelOfInclusion	109	113	Both
+T16	Uptake	114	121	take in
+T17	Compound	122	136	carbon dioxide
+T18	LevelOfInclusion	138	142	Both
+T19	Uptake	143	146	get
+T20	Nutrition	147	156	nutrients
+T21	RelativeDirection	157	165	directly
+T22	RelativeDirection	166	170	from
+T23	Soil	171	175	soil
+T24	LevelOfInclusion	177	181	Both
+T25	Uptake	182	185	get
+T26	Energy	186	192	energy
+T27	RelativeDirection	193	197	from
+T28	Comparisons	198	203	other
+T29	LivingThing	204	213	organisms

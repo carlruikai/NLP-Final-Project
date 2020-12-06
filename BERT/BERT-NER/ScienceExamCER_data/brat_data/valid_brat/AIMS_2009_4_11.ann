@@ -1,0 +1,39 @@
+T1	PERSON	0	5	Kerry
+T2	Create	6	10	made
+T3	Complexity	13	19	simple
+T4	LightProducingObject	20	30	flashlight
+T5	PerformingResearch	36	44	recorded
+T6	LevelOfInclusion	45	58	the following
+T7	ResponseType	59	69	statements
+T8	RelativeLocations	70	72	in
+T9	AcademicMedia	77	85	lab book
+T10	WrittenMedia	77	85	lab book
+T11	LevelOfInclusion	87	92	Which
+T12	ResponseType	93	102	statement
+T13	StateOfBeing	103	105	is
+T14	ResponseType	109	118	inference
+T15	TechnologicalComponent	124	128	wire
+T16	StateOfBeing	129	132	was
+T17	NUMBER	133	135	35
+T18	DistanceUnit	136	138	cm
+T19	Length	139	143	long
+T20	LightProducingObject	149	159	flashlight
+T21	ContainBeComposedOf	160	169	contained
+T22	ElectricalEnergySource	172	179	battery
+T23	SyntheticMaterial	185	192	plastic
+T24	ManmadeObjects	193	199	switch
+T25	ElectricityAndCircuits	193	199	switch
+T26	StateOfBeing	200	203	was
+T27	Quality	204	210	better
+T28	QualityComparison	204	210	better
+T29	Comparisons	211	215	than
+T30	MetalSolids	220	225	metal
+T31	ManmadeObjects	226	232	switch
+T32	ElectricityAndCircuits	226	232	switch
+T33	LightProducingObject	238	242	bulb
+T34	StateOfBeing	243	246	was
+T35	Brightness	247	250	lit
+T36	CardinalNumber	255	257	20
+T37	TimeUnit	258	265	minutes
+T38	RelativeTime	266	272	before
+T39	StopRemove	276	286	burned out

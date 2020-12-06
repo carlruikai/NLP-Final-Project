@@ -1,0 +1,31 @@
+T1	RelativeTime	0	2	In
+T2	DATE	3	7	2004
+T3	SpaceMissionsEGApolloGeminiMercury	12	34	Hubble space telescope
+T4	ObservationInstrumentsTelescopeBinoculars	12	34	Hubble space telescope
+T5	Uptake	35	43	captured
+T6	Representation	44	50	images
+T7	DistanceComparison	54	61	distant
+T8	Star	62	66	star
+T9	CelestialObject	67	75	clusters
+T10	Group	67	75	clusters
+T11	LevelOfInclusion	77	81	each
+T12	ContainBeComposedOf	82	92	containing
+T13	ProbabilityAndCertainty	93	98	about
+T14	ArithmeticMeasure	101	108	million
+T15	NUMBER	101	108	million
+T16	Star	109	114	stars
+T17	LevelOfInclusion	116	121	These
+T18	Star	122	126	star
+T19	CelestialObject	127	135	clusters
+T20	Group	127	135	clusters
+T21	StateOfBeing	136	140	were
+T22	AmountComparison	141	145	most
+T23	ProbabilityAndCertainty	146	152	likely
+T24	ObjectPart	153	157	part
+T25	LevelOfInclusion	153	157	part
+T26	LevelOfInclusion	161	166	which
+T27	CelestialObject	167	176	structure
+T28	BlackHole	180	190	black hole
+T29	Galaxy	193	199	galaxy
+T30	Nebula	202	208	nebula
+T31	SolarSystem	211	223	solar system

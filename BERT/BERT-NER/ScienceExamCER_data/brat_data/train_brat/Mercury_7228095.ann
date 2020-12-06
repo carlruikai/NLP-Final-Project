@@ -1,0 +1,20 @@
+T1	StateOfBeing	5	7	is
+T2	Help	10	17	benefit
+T3	QualityComparison	10	17	benefit
+T4	Homeostasis	25	35	regulation
+T5	CellProcesses	39	54	gene expression
+T6	GeneticProcesses	39	54	gene expression
+T7	Preserve	56	68	conservation
+T8	Gene	72	91	genetic information
+T9	Preserve	92	104	conservation
+T10	Cell	108	112	cell
+T11	NaturalResources	113	122	resources
+T12	Property	123	128	trait
+T13	Adaptation	129	139	adaptation
+T14	EcosystemsEnvironment	143	156	environmental
+T15	Changes	157	163	change
+T16	Property	164	169	trait
+T17	Inheritance	170	181	inheritance
+T18	RelativeLocations	170	172	in
+T19	GeneticRelations	185	194	offspring
+T20	WordsForOffspring	185	194	offspring

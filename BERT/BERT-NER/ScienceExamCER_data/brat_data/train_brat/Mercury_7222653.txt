@@ -1,0 +1,5 @@
+Phobos is one of two large objects that orbit the planet Mars. Because Phobos orbits Mars, Phobos should be classified as which type of body?
+asteroid
+moon
+comet
+meteor

@@ -1,0 +1,19 @@
+T1	OrganismRelationships	0	11	Competition
+T2	Compete	0	11	Competition
+T3	StateOfBeing	12	14	is
+T4	AmountComparison	15	19	most
+T5	ProbabilityAndCertainty	20	26	likely
+T6	Occur	30	35	occur
+T7	Relations	36	43	between
+T8	LevelOfInclusion	44	49	which
+T9	CardinalNumber	50	53	two
+T10	NUMBER	50	53	two
+T11	LivingThing	54	63	organisms
+T12	Mammal	65	69	deer
+T13	Insect	74	85	butterflies
+T14	Bird	86	90	owls
+T15	Bacteria	95	103	bacteria
+T16	Aquatic	104	112	goldfish
+T17	Mammal	117	124	rabbits
+T18	Angiosperm	125	130	grass
+T19	Angiosperm	135	152	strawberry plants

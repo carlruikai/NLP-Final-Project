@@ -1,0 +1,5 @@
+Rust is a compound with the formula Fe_{2}O_{3}. Which elements combine to form rust?
+iron and water
+iron and oxygen
+iron and air
+iron and acid

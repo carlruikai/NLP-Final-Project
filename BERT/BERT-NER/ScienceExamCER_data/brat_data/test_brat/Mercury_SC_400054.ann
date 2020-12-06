@@ -1,0 +1,29 @@
+T1	Mammal	4	15	Arctic hare
+T2	Color	18	23	brown
+T3	MammalAnimalPart	24	27	fur
+T4	ChangeInto	28	33	turns
+T5	Color	34	39	white
+T6	RelativeTime	40	42	in
+T7	SeasonsFallAutumnWinterSpringSummer	43	49	winter
+T8	Adaptation	56	66	adaptation
+T9	Help	67	72	helps
+T10	Mammal	77	88	Arctic hare
+T11	Observe	89	93	look
+T12	Nutrition	98	102	food
+T13	RelativeTime	103	108	after
+T14	MeasuresOfAmountOfLight	109	113	dark
+T15	TimesOfDayDayNight	109	113	dark
+T16	ActionsForAnimals	115	119	hide
+T17	Undiscovered	115	119	hide
+T18	RelativeDirection	120	124	from
+T19	Relations	125	132	enemies
+T20	RelativeLocations	133	135	in
+T21	Precipitation	136	140	snow
+T22	LivingDying	142	146	live
+T23	RelativeLocations	147	149	in
+T24	Temperature	150	154	cold
+T25	Temperature	155	167	temperatures
+T26	Behaviors	169	178	get along
+T27	CombineAdd	179	183	with
+T28	Comparisons	184	189	other
+T29	Animal	190	197	animals

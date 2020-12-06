@@ -1,0 +1,52 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Quality	13	17	best
+T4	QualityComparison	13	17	best
+T5	ResponseType	18	29	explanation
+T6	Cause	18	29	explanation
+T7	Method	34	37	how
+T8	GaseousMatter	38	46	air mass
+T9	Move	49	53	move
+T10	PrepositionalDirections	54	60	across
+T11	Countries	65	78	United States
+T12	WeatherPhenomena	84	105	prevailing westerlies
+T13	Move	106	110	move
+T14	GaseousMatter	111	119	air mass
+T15	RelativeDirection	122	126	from
+T16	CardinalDirectionsNorthEastSouthWest	127	131	west
+T17	RelativeDirection	132	134	to
+T18	CardinalDirectionsNorthEastSouthWest	135	139	east
+T19	PrepositionalDirections	140	146	across
+T20	Countries	151	164	United States
+T21	Negations	165	168	but
+T22	ProbabilityAndCertainty	169	172	may
+T23	StateOfBeing	173	175	be
+T24	AvoidReject	176	185	deflected
+T25	Cause	186	188	by
+T26	WeatherPhenomena	193	203	jet stream
+T27	WeatherPhenomena	209	220	trade winds
+T28	Move	221	225	move
+T29	GaseousMatter	226	236	air masses
+T30	RelativeDirection	237	241	from
+T31	CardinalDirectionsNorthEastSouthWest	242	246	west
+T32	RelativeDirection	247	249	to
+T33	CardinalDirectionsNorthEastSouthWest	250	254	east
+T34	PrepositionalDirections	255	261	across
+T35	Countries	266	279	United States
+T36	WeatherPhenomena	285	295	jet stream
+T37	Move	296	301	moves
+T38	GaseousMatter	302	310	air mass
+T39	RelativeDirection	313	317	from
+T40	SpecificNamedBodiesOfWater	322	335	Pacific Ocean
+T41	PrepositionalDirections	336	342	across
+T42	Countries	347	360	United States
+T43	Temperature	366	370	warm
+T44	EarthPartsGrossGroundAtmosphere	371	374	air
+T45	Currents	382	393	Gulf Stream
+T46	Cause	394	400	causes
+T47	GaseousMatter	401	409	air mass
+T48	Move	415	419	move
+T49	RelativeDirection	420	424	from
+T50	SpecificNamedBodiesOfWater	429	443	Atlantic Ocean
+T51	RelativeDirection	444	446	to
+T52	SpecificNamedBodiesOfWater	451	464	Pacific Ocean

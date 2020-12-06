@@ -1,0 +1,15 @@
+T1	OrganicProcesses	0	19	Naturally occurring
+T2	Comparisons	20	30	variations
+T3	Exemplar	20	30	variations
+T4	RelativeLocations	31	37	within
+T5	Taxonomy	40	47	species
+T6	StateOfBeing	48	51	are
+T7	ImportanceComparison	52	58	mainly
+T8	Result	63	69	result
+T9	Cause	70	72	of
+T10	Mutation	73	82	mutations
+T11	Reproduction	87	106	sexual reproduction
+T12	Homeostasis	107	126	dynamic equilibrium
+T13	CellProcesses	127	137	metabolism
+T14	Metabolism	127	137	metabolism
+T15	StructuralAdaptation	138	148	camouflage

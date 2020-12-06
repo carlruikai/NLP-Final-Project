@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	EcosystemsEnvironment	23	31	climates
+T4	ContainBeComposedOf	32	35	has
+T5	Temperature	36	40	cold
+T6	SeasonsFallAutumnWinterSpringSummer	41	48	winters
+T7	Temperature	53	56	hot
+T8	SeasonsFallAutumnWinterSpringSummer	57	64	summers
+T9	TypesOfTerrestrialEcosystems	66	71	polar
+T10	TypesOfTerrestrialEcosystems	72	83	subtropical
+T11	TypesOfTerrestrialEcosystems	84	93	temperate
+T12	TypesOfTerrestrialEcosystems	94	102	tropical

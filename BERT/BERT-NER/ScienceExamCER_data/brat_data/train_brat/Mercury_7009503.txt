@@ -1,0 +1,5 @@
+When an atom loses or gains an electron, it changes
+atomic mass.
+atomic number.
+charge.
+element.

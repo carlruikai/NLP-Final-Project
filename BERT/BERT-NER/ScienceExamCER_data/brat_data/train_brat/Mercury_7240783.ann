@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Permit	23	29	allows
+T4	Cell	32	36	cell
+T5	ChangeInto	40	46	become
+T6	StateOfBeing	40	46	become
+T7	Differentiate	47	58	specialized
+T8	Locations	60	68	location
+T9	Cell	76	80	cell
+T10	RelativeLocations	81	83	in
+T11	AnimalPart	88	92	body
+T12	SystemAndFunctions	93	101	function
+T13	Cell	109	113	cell
+T14	RelativeLocations	114	116	in
+T15	AnimalPart	121	125	body
+T16	Comparisons	126	135	different
+T17	Pattern	136	144	patterns
+T18	CellProcesses	148	163	gene expression
+T19	GeneticProcesses	148	163	gene expression
+T20	Comparisons	164	173	different
+T21	Group	174	186	combinations
+T22	CombineAdd	174	186	combinations
+T23	Gene	190	195	genes
+T24	RelativeLocations	196	198	in
+T25	AnimalCellPart	203	210	nucleus
+T26	PlantCellPart	203	210	nucleus

@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	4	12	complete
+T2	StopRemove	13	20	removal
+T3	PartsOfTheFoodChain	24	35	decomposers
+T4	RelativeDirection	36	40	from
+T5	EcosystemsEnvironment	44	53	ecosystem
+T6	ProbabilityAndCertainty	54	58	will
+T7	Cause	59	63	have
+T8	AmountComparison	68	76	greatest
+T9	Result	77	83	effect
+T10	PrepositionalDirections	84	86	on
+T11	LevelOfInclusion	87	92	which
+T12	LevelOfInclusion	96	109	the following
+T13	LocationChangingActions	115	121	spread
+T14	Sickness	125	132	disease
+T15	AbilityAvailability	137	149	availability
+T16	PhasesOfWater	153	158	water
+T17	Alter	163	172	recycling
+T18	Move	163	172	recycling
+T19	Nutrition	176	185	nutrients
+T20	Pattern	190	202	distribution
+T21	AmountComparison	190	202	distribution
+T22	LivingThing	206	215	organisms

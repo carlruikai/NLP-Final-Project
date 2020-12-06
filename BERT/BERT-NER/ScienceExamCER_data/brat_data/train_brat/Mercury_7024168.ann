@@ -1,0 +1,12 @@
+T1	RelativeTime	0	4	When
+T2	Element	5	11	oxygen
+T3	CombineAdd	12	20	combines
+T4	Element	26	34	hydrogen
+T5	LevelOfInclusion	36	41	which
+T6	Substances	42	51	substance
+T7	StateOfBeing	52	54	is
+T8	Create	55	61	formed
+T9	PhasesOfWater	63	68	water
+T10	LiquidMatter	69	76	vinegar
+T11	DigestiveSubstances	77	94	hydrochloric acid
+T12	Compound	95	111	hydrogen dioxide

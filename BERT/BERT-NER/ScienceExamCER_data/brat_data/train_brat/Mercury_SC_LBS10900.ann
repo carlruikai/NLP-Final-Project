@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Negations	9	12	not
+T4	Exemplar	16	23	example
+T5	Animal	27	33	animal
+T6	InheritedBehavior	34	42	instinct
+T7	ActionsForAnimals	44	53	migrating
+T8	Move	44	53	migrating
+T9	ActionsForAnimals	54	65	hibernating
+T10	ActionsForAnimals	66	73	hunting
+T11	Ability	74	80	skills
+T12	ActionsForAnimals	81	89	building
+T13	Create	81	89	building
+T14	ExamplesOfHabitats	90	95	nests

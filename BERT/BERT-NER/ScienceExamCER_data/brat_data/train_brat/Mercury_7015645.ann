@@ -1,0 +1,15 @@
+T1	StateOfBeing	5	7	is
+T2	TemporalProperty	12	17	first
+T3	ORDINAL	12	17	first
+T4	SystemProcessStages	18	22	step
+T5	GeographicFormationProcess	30	37	process
+T6	RelativeLocations	38	40	in
+T7	Create	45	54	formation
+T8	Sedimentary	58	69	sedimentary
+T9	Rock	70	75	rocks
+T10	ConstructiveDestructiveForces	77	84	erosion
+T11	NaturalPhenomena	77	84	erosion
+T12	ChangeInLocation	85	95	deposition
+T13	PushingActions	96	106	compaction
+T14	ConstructiveDestructiveForces	96	106	compaction
+T15	ConstructiveDestructiveForces	107	118	cementation

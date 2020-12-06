@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	NaturalPhenomena	6	11	event
+T3	AbilityAvailability	12	15	can
+T4	Cause	16	21	cause
+T5	Size	24	29	large
+T6	Rock	30	34	rock
+T7	ChangeInto	38	44	become
+T8	Soil	45	49	soil
+T9	TemporalProperty	50	59	over time
+T10	Death	61	69	decaying
+T11	LivingDying	61	69	decaying
+T12	NaturalPhenomena	73	83	earthquake
+T13	NaturalPhenomena	86	95	landslide
+T14	ConstructiveDestructiveForces	96	106	weathering
+T15	NaturalPhenomena	96	106	weathering

@@ -1,0 +1,34 @@
+T1	Currents	0	19	Long shore currents
+T2	StateOfBeing	20	23	are
+T3	BodiesOfWater	24	29	ocean
+T4	PartsOfBodiesOfWater	30	35	waves
+T5	ChangeInLocation	41	47	strike
+T6	Touch	41	47	strike
+T7	TerrestrialLocations	48	55	beaches
+T8	PrepositionalDirections	56	58	at
+T9	AmountComparison	59	68	extremely
+T10	Size	69	74	small
+T11	GeometricMeasurements	75	81	angles
+T12	RelativeLocations	83	85	In
+T13	Locations	86	91	areas
+T14	RelativeLocations	92	97	where
+T15	Currents	98	117	long shore currents
+T16	Occur	118	123	exist
+T17	Result	130	136	effect
+T18	PerformAnActivity	137	139	do
+T19	Cause	145	149	have
+T20	RelativeLocations	150	152	on
+T21	Locations	153	162	land area
+T22	Create	170	175	build
+T23	GeographicFormations	176	185	mountains
+T24	Cause	192	197	cause
+T25	NaturalPhenomena	198	209	earthquakes
+T26	Move	216	220	move
+T27	Soil	221	225	sand
+T28	GranularSolids	221	225	sand
+T29	Create	227	235	creating
+T30	GeographicFormations	236	244	sandbars
+T31	Create	251	257	create
+T32	RelativeLocations	258	264	inland
+T33	TypesOfWaterInBodiesOfWater	265	274	saltwater
+T34	BodiesOfWater	275	281	rivers

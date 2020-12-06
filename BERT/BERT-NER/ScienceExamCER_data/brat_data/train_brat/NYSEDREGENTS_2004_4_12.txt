@@ -1,0 +1,5 @@
+Which food is a fruit?
+a potato
+an onion
+a carrot
+a pumpkin

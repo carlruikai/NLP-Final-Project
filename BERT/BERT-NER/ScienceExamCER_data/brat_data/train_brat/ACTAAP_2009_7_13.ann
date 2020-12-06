@@ -1,0 +1,10 @@
+T1	ElectricalEnergySource	2	14	wind turbine
+T2	ImportanceComparison	15	24	primarily
+T3	Use	25	29	uses
+T4	LevelOfInclusion	30	35	which
+T5	Exemplar	36	40	type
+T6	Energy	44	50	energy
+T7	Energy	52	59	nuclear
+T8	ThermalEnergy	60	67	thermal
+T9	Energy	68	76	chemical
+T10	Energy	77	87	mechanical

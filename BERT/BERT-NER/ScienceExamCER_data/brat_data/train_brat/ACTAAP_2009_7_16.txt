@@ -1,0 +1,5 @@
+Frank needs to move a box by sliding it across the floor. Which two factors will most strongly affect how hard Frank needs to push the box?
+The density of the box material and the hardness of the floor
+The thickness of the box material and the hardness of the floor
+The total mass of the box and the friction between the box and the floor
+The total height of the box and the distance between his hands and the floor

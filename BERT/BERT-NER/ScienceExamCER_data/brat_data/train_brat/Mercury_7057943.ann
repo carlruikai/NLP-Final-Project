@@ -1,0 +1,25 @@
+T1	InnerPlanets	0	5	Earth
+T2	LOCATION	0	5	Earth
+T3	StateOfBeing	6	8	is
+T4	ContainBeComposedOf	9	17	composed
+T5	ObjectQuantification	21	27	layers
+T6	Matter	31	39	material
+T7	ContainBeComposedOf	40	44	with
+T8	Comparisons	45	54	different
+T9	Property	55	65	properties
+T10	LevelOfInclusion	67	72	Which
+T11	LevelOfInclusion	76	89	the following
+T12	StateOfBeing	90	92	is
+T13	AmountComparison	93	97	most
+T14	ProbabilityAndCertainty	98	104	likely
+T15	StateOfBeing	108	110	be
+T16	Stability	114	122	constant
+T17	Frequency	114	122	constant
+T18	PropertyOfMotion	123	129	motion
+T19	Move	123	129	motion
+T20	LayersOfTheEarth	131	135	core
+T21	LayersOfTheEarth	136	142	mantle
+T22	TectonicPlates	143	150	oceanic
+T23	LayersOfTheEarth	151	156	crust
+T24	TectonicPlates	157	168	continental
+T25	LayersOfTheEarth	169	174	crust

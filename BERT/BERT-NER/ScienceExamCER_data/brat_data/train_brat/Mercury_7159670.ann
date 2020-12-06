@@ -1,0 +1,34 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	ProbabilityAndCertainty	21	26	would
+T4	StateOfBeing	27	29	be
+T5	AmountComparison	30	34	most
+T6	ImportanceComparison	35	44	important
+T7	Result	45	48	for
+T8	Plant	51	56	plant
+T9	Require	60	67	have to
+T10	ChangeInto	68	74	become
+T11	Plant	77	90	pioneer plant
+T12	RelativeLocations	79	81	on
+T13	Preserve	96	106	recovering
+T14	Alter	96	106	recovering
+T15	TerrestrialLocations	107	112	beach
+T16	Ability	114	121	ability
+T17	Growth	125	129	grow
+T18	ActionsForAgriculture	125	129	grow
+T19	AmountComparison	130	134	very
+T20	Size	135	140	large
+T21	Length	141	145	long
+T22	PlantPart	146	151	roots
+T23	Result	152	154	to
+T24	Identify	155	159	find
+T25	VerbsForLocate	155	159	find
+T26	PhasesOfWater	160	165	water
+T27	ResistanceStrength	166	175	resistant
+T28	AvoidReject	166	175	resistant
+T29	Harm	179	191	disturbances
+T30	Size	192	195	big
+T31	PlantPart	196	202	leaves
+T32	Result	203	205	to
+T33	Uptake	206	211	catch
+T34	CelestialLightOnEarth	212	220	sunlight

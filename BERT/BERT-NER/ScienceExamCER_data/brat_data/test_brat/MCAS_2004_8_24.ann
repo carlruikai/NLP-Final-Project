@@ -1,0 +1,16 @@
+T1	SystemAndFunctions	0	7	Support
+T2	Help	0	7	Support
+T3	ManmadeObjects	8	14	cables
+T4	RelativeLocations	15	17	in
+T5	ManmadeLocations	20	37	suspension bridge
+T6	StateOfBeing	38	41	are
+T7	AmountComparison	42	46	most
+T8	Pressure	47	55	stressed
+T9	Cause	56	58	by
+T10	LevelOfInclusion	59	64	which
+T11	LevelOfInclusion	68	81	the following
+T12	Force	82	88	forces
+T13	Pressure	90	95	shear
+T14	PullingForces	96	103	torsion
+T15	PullingForces	104	111	tension
+T16	PushingForces	112	123	compression

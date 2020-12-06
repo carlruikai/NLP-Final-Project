@@ -1,0 +1,26 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	LevelOfInclusion	12	25	the following
+T4	Method	26	30	ways
+T5	StateOfBeing	31	34	are
+T6	CellProcesses	35	49	photosynthesis
+T7	PlantProcesses	35	49	photosynthesis
+T8	CellProcesses	54	74	cellular respiration
+T9	Comparisons	75	80	alike
+T10	LevelOfInclusion	82	86	Both
+T11	OrganicProcesses	87	96	processes
+T12	Create	97	104	produce
+T13	NutritiveSubstancesForAnimalsOrPlants	105	112	glucose
+T14	LevelOfInclusion	114	118	Both
+T15	OrganicProcesses	119	128	processes
+T16	Consumption	129	136	consume
+T17	Compound	137	151	carbon dioxide
+T18	LevelOfInclusion	153	157	Both
+T19	OrganicProcesses	158	167	processes
+T20	Occur	168	178	take place
+T21	RelativeLocations	179	181	in
+T22	PlantPart	182	194	chloroplasts
+T23	LevelOfInclusion	196	200	Both
+T24	OrganicProcesses	201	210	processes
+T25	Require	211	218	involve
+T26	TransferEnergy	219	240	energy transformation

@@ -1,0 +1,25 @@
+T1	StateOfBeing	5	8	are
+T2	PartsOfChemicalReactions	13	21	products
+T3	Result	13	21	products
+T4	RelativeLocations	22	24	in
+T5	Reactions	29	46	chemical reaction
+T6	RelativeLocations	47	52	below
+T7	Compound	54	58	NaOH
+T8	Calculations	59	60	+
+T9	Compound	61	64	HCl
+T10	Compound	68	72	NaCl
+T11	Calculations	73	74	+
+T12	Compound	75	81	H_{2}O
+T13	Compound	82	98	sodium hydroxide
+T14	Compound	103	120	hydrogen chloride
+T15	Compound	121	136	sodium chloride
+T16	PhasesOfWater	141	146	water
+T17	Compound	141	146	water
+T18	Element	147	153	sodium
+T19	Element	155	163	chlorine
+T20	Element	165	173	hydrogen
+T21	Element	179	185	oxygen
+T22	Element	186	192	sodium
+T23	Element	194	202	chlorine
+T24	PhasesOfWater	208	213	water
+T25	Compound	208	213	water

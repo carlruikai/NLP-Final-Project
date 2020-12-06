@@ -1,0 +1,5 @@
+A microscope magnifies an object with 50x magnification. How long is the object if the image appears to be 0.5 cm long?
+100 cm
+25 cm
+2.5 cm
+0.01 cm

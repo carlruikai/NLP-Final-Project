@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Human	23	28	human
+T4	Property	29	35	traits
+T5	StateOfBeing	36	38	is
+T6	AmountComparison	39	44	least
+T7	ProbabilityAndCertainty	45	51	likely
+T8	StateOfBeing	55	57	be
+T9	Inheritance	58	67	inherited
+T10	InheritedBehavior	58	67	inherited
+T11	PhysicalProperty	69	75	height
+T12	Height	69	75	height
+T13	HumanPart	76	79	eye
+T14	Color	80	85	color
+T15	PartsOfTheIntegumentarySystem	86	90	hair
+T16	Color	91	96	color
+T17	HumanPart	97	109	fingerprints

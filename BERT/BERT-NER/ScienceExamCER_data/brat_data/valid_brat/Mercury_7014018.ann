@@ -1,0 +1,27 @@
+T1	TemporalProperty	0	9	Prolonged
+T2	PhysicalActivity	10	18	exercise
+T3	EndocrineActions	19	29	stimulates
+T4	Cause	19	29	stimulates
+T5	Cell	30	41	muscle cell
+T6	PartsOfTheMuscularSystem	30	41	muscle cell
+T7	ActionsForNutrition	46	52	absorb
+T8	CombineAdd	46	52	absorb
+T9	NutritiveSubstancesForAnimalsOrPlants	53	58	sugar
+T10	RelativeDirection	59	63	from
+T11	Blood	68	73	blood
+T12	SystemAndFunctions	80	89	mechanism
+T13	AmountChangingActions	90	97	reduces
+T14	Pressure	98	104	stress
+T15	Move	105	111	placed
+T16	VerbsForLocate	105	111	placed
+T17	PrepositionalDirections	112	114	on
+T18	AnimalPart	119	123	body
+T19	Cause	124	126	by
+T20	Communicate	127	136	signaling
+T21	Indicate	127	136	signaling
+T22	AnimalPart	141	145	body
+T23	Create	149	156	produce
+T24	PartsOfEndocrineSystem	157	164	insulin
+T25	NutritiveSubstancesForAnimalsOrPlants	166	172	lipids
+T26	PartsOfTheCirculatorySystem	174	184	hemoglobin
+T27	DigestiveSubstances	186	203	hydrochloric acid

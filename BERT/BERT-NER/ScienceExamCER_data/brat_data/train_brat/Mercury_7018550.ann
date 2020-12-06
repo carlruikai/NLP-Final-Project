@@ -1,0 +1,42 @@
+T1	RelativeTime	0	2	In
+T2	RelativeTime	7	11	past
+T3	OtherAnimalProperties	13	17	wild
+T4	Mammal	18	22	hogs
+T5	Classify	23	29	called
+T6	Communicate	23	29	called
+T7	Mammal	31	39	javelina
+T8	StateOfBeing	42	46	were
+T9	Observe	47	51	seen
+T10	LevelOfInclusion	52	56	only
+T11	RelativeLocations	57	59	in
+T12	CardinalDirectionsNorthEastSouthWest	64	72	southern
+T13	LevelOfInclusion	73	77	part
+T14	States	81	91	New Mexico
+T15	RelativeTime	93	96	Now
+T16	Mammal	98	106	javelina
+T17	StateOfBeing	108	111	are
+T18	Observe	112	116	seen
+T19	RelativeLocations	117	119	in
+T20	Locations	120	125	areas
+T21	CardinalNumber	126	129	100
+T22	DistanceUnit	130	135	miles
+T23	DistanceComparison	136	143	further
+T24	CardinalDirectionsNorthEastSouthWest	144	149	north
+T25	StateOfBeing	156	158	is
+T26	AmountComparison	163	167	most
+T27	ProbabilityAndCertainty	168	174	likely
+T28	Cause	175	180	cause
+T29	IncreaseDecrease	189	198	expansion
+T30	Mammal	200	209	Javelinas
+T31	StateOfBeing	210	213	are
+T32	Reproduction	214	225	reproducing
+T33	AmountComparison	226	230	less
+T34	Frequency	231	241	frequently
+T35	EcosystemsEnvironment	243	267	Environmental conditions
+T36	Changes	273	280	changed
+T37	Mammal	286	294	javelina
+T38	GeneticProperty	297	311	genetic traits
+T39	GeneticProcesses	317	324	mutated
+T40	Nutrition	326	349	Nutritional requirement
+T41	Mammal	354	362	javelina
+T42	Changes	369	376	changed

@@ -1,0 +1,38 @@
+T1	Human	4	9	human
+T2	HumanPart	10	14	body
+T3	Create	15	23	produces
+T4	PropertyOfMotion	24	30	motion
+T5	Move	24	30	motion
+T6	Cause	31	33	by
+T7	Alter	34	42	changing
+T8	Energy	43	58	chemical energy
+T9	ChangeInto	59	63	into
+T10	Energy	64	81	mechanical energy
+T11	LevelOfInclusion	83	88	Which
+T12	LevelOfInclusion	92	97	these
+T13	Quality	98	102	best
+T14	QualityComparison	98	102	best
+T15	Represent	103	112	describes
+T16	Occur	118	125	happens
+T17	RelativeDirection	126	128	to
+T18	Energy	133	139	energy
+T19	LevelOfInclusion	145	150	total
+T20	Numbers	151	157	amount
+T21	Energy	161	167	energy
+T22	AmountChangingActions	168	177	increases
+T23	IncreaseDecrease	168	177	increases
+T24	LevelOfInclusion	183	188	total
+T25	Numbers	189	195	amount
+T26	Energy	199	205	energy
+T27	StateOfBeing	206	208	is
+T28	AmountComparison	209	217	constant
+T29	Energy	223	229	energy
+T30	StateOfBeing	230	232	is
+T31	Harm	233	242	destroyed
+T32	Cause	243	250	through
+T33	PropertyOfMotion	251	257	motion
+T34	Move	251	257	motion
+T35	Numbers	263	269	amount
+T36	Energy	273	288	chemical energy
+T37	AmountChangingActions	289	298	increases
+T38	IncreaseDecrease	289	298	increases

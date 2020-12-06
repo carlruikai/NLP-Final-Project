@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Animal	15	22	animals
+T4	ContainBeComposedOf	23	26	has
+T5	AnimalPart	27	32	teeth
+T6	AmountComparison	42	46	most
+T7	Comparisons	47	51	like
+T8	AnimalPart	56	61	teeth
+T9	Human	65	71	humans
+T10	Mammal	73	77	deer
+T11	Mammal	78	82	lion
+T12	Mammal	83	89	monkey
+T13	Mammal	90	93	dog

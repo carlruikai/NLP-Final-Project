@@ -1,0 +1,25 @@
+T1	Group	2	7	group
+T2	Scientists	11	19	students
+T3	StateOfBeing	20	23	are
+T4	Examine	24	32	studying
+T5	PerformingResearch	24	32	studying
+T6	Angiosperm	33	43	bean plant
+T7	LevelOfInclusion	46	49	All
+T8	LevelOfInclusion	53	66	the following
+T9	Property	67	73	traits
+T10	StateOfBeing	74	77	are
+T11	Alter	78	86	affected
+T12	Cause	87	89	by
+T13	Changes	90	97	changes
+T14	RelativeLocations	98	100	in
+T15	EcosystemsEnvironment	105	116	environment
+T16	Negations	117	123	except
+T17	PlantPart	124	128	leaf
+T18	Color	129	134	color
+T19	PlantPart	136	140	seed
+T20	Exemplar	141	145	type
+T21	Angiosperm	147	151	bean
+T22	Foods	147	151	bean
+T23	Create	152	162	production
+T24	Plant	164	169	plant
+T25	Height	170	176	height

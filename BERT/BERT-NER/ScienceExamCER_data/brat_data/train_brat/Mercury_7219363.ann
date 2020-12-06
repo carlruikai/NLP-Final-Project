@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Event	6	11	event
+T3	StateOfBeing	12	14	is
+T4	AmountComparison	15	19	most
+T5	ProbabilityAndCertainty	20	26	likely
+T6	AmountChangingActions	30	38	increase
+T7	IncreaseDecrease	30	38	increase
+T8	GeneticProperty	43	60	genetic variation
+T9	RelativeLocations	61	63	in
+T10	GroupsOfOrganisms	66	76	population
+T11	LivingThing	80	89	organisms
+T12	QualityComparison	91	99	improved
+T13	ActionsForAnimals	100	107	hunting
+T14	Method	108	118	techniques
+T15	AmountComparison	119	126	greater
+T16	EcosystemsEnvironment	127	140	environmental
+T17	Problem	141	147	stress
+T18	AmountChangingActions	148	157	increased
+T19	IncreaseDecrease	148	157	increased
+T20	Move	158	169	immigration
+T21	ActionsForAnimals	158	169	immigration
+T22	CombineAdd	170	180	introduced
+T23	TypeOfConsumer	181	190	predators

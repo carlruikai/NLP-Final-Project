@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	AnimalSystemsProcesses	12	24	organ system
+T4	ImportanceComparison	25	34	primarily
+T5	Transportation	35	44	exchanges
+T6	GaseousMatter	45	50	gases
+T7	RelativeLocations	51	58	between
+T8	AnimalPart	63	67	body
+T9	EarthPartsGrossGroundAtmosphere	76	86	atmosphere
+T10	ExcretorySystem	88	97	excretory
+T11	NervousSystem	98	105	nervous
+T12	SkeletalSystem	106	114	skeletal
+T13	RespiratorySystem	115	126	respiratory

@@ -1,0 +1,35 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	ProbabilityAndCertainty	15	20	would
+T4	StateOfBeing	21	23	be
+T5	Quality	28	32	best
+T6	QualityComparison	28	32	best
+T7	Representation	33	47	representation
+T8	Particles	55	64	particles
+T9	AtomComponents	55	64	particles
+T10	RelativeLocations	65	67	in
+T11	StateOfMatter	70	75	solid
+T12	Material	76	84	material
+T13	Matter	76	84	material
+T14	Occupation	90	106	football players
+T15	ActionsForAnimals	107	114	playing
+T16	RelativeLocations	115	117	on
+T17	TerrestrialLocations	122	127	field
+T18	AirVehicle	133	139	planes
+T19	MechanicalMovement	140	146	flying
+T20	PrepositionalDirections	147	151	over
+T21	ManmadeLocations	156	172	football stadium
+T22	Audiences	178	188	spectators
+T23	ActionsForAnimals	189	196	sitting
+T24	Position	189	196	sitting
+T25	RelativeLocations	193	195	in
+T26	ManmadeObjects	206	211	seats
+T27	RelativeLocations	208	210	at
+T28	ManmadeLocations	219	235	football stadium
+T29	Audiences	241	251	spectators
+T30	Move	252	260	arriving
+T31	RelativeLocations	261	263	at
+T32	ManmadeLocations	268	284	football stadium
+T33	Move	289	295	moving
+T34	RelativeDirection	296	298	to
+T35	ManmadeObjects	305	310	seats

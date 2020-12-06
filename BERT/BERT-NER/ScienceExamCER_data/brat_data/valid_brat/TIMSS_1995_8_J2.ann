@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Taxonomy	6	13	species
+T3	StateOfBeing	19	23	been
+T4	RelativeLocations	24	26	on
+T5	InnerPlanets	31	36	Earth
+T6	LOCATION	31	36	Earth
+T7	AmountComparison	45	53	shortest
+T8	Numbers	54	60	amount
+T9	MarkersOfTime	64	68	time
+T10	Human	70	76	Humans
+T11	Insect	77	84	Insects
+T12	Aquatic	85	89	Fish
+T13	Reptile	90	98	Reptiles

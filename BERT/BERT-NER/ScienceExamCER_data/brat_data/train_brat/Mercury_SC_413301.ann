@@ -1,0 +1,26 @@
+T1	PhasesOfWater	4	9	water
+T2	LiquidMatter	4	9	water
+T3	RelativeLocations	10	12	in
+T4	BodiesOfWater	15	19	pond
+T5	ChangeInto	20	24	gets
+T6	StateOfBeing	20	24	gets
+T7	Temperature	25	31	colder
+T8	Comparisons	25	31	colder
+T9	CardinalNumber	32	35	one
+T10	NUMBER	32	35	one
+T11	TimesOfDayDayNight	36	41	night
+T12	TIME	36	41	night
+T13	LevelOfInclusion	43	48	Which
+T14	ScientificTools	49	53	tool
+T15	StateOfBeing	54	56	is
+T16	Quality	57	61	best
+T17	QualityComparison	57	61	best
+T18	Goal	62	64	to
+T19	Observe	65	72	observe
+T20	PerformingResearch	65	72	observe
+T21	Temperature	77	88	temperature
+T22	Changes	89	95	change
+T23	MassMeasuringTool	97	104	balance
+T24	ViewingTools	105	121	magnifying glass
+T25	DistanceMeasuringTools	122	127	ruler
+T26	TemperatureMeasuringTools	128	139	thermometer

@@ -1,0 +1,30 @@
+T1	PERSON	0	5	Roger
+T2	Move	6	12	poured
+T3	PhasesOfWater	13	18	water
+T4	PrepositionalDirections	19	23	over
+T5	ObjectQuantification	26	30	pile
+T6	Soil	34	38	sand
+T7	GranularSolids	34	38	sand
+T8	LevelOfInclusion	40	44	Some
+T9	Soil	52	56	sand
+T10	GranularSolids	52	56	sand
+T11	LiquidMovement	57	68	washed away
+T12	Event	75	82	process
+T13	StateOfBeing	83	85	is
+T14	Comparisons	86	93	similar
+T15	LevelOfInclusion	97	102	which
+T16	LevelOfInclusion	106	119	the following
+T17	NaturalPhenomena	125	133	eruption
+T18	GeographicFormations	139	146	volcano
+T19	ConstructiveDestructiveForces	151	158	erosion
+T20	NaturalPhenomena	151	158	erosion
+T21	GeographicFormationParts	166	171	walls
+T22	GeographicFormations	177	183	canyon
+T23	ChangeInLocation	188	197	uplifting
+T24	GeographicFormations	201	215	mountain range
+T25	Create	221	228	forming
+T26	GeographicFormations	232	237	dunes
+T27	Comparisons	238	240	or
+T28	GeographicFormations	241	247	mounds
+T29	RelativeLocations	248	250	in
+T30	TypesOfTerrestrialEcosystems	253	259	desert

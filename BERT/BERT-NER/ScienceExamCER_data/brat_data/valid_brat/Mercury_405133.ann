@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	Rock	14	18	rock
+T4	ProbabilityAndCertainty	19	24	would
+T5	AmountComparison	25	29	most
+T6	ProbabilityAndCertainty	30	36	likely
+T7	ContainBeComposedOf	37	44	contain
+T8	Fossils	47	53	fossil
+T9	Metamorphic	55	66	metamorphic
+T10	Rock	67	71	rock
+T11	Sedimentary	72	83	sedimentary
+T12	Rock	84	88	rock
+T13	Igneous	89	96	igneous
+T14	Rock	97	101	rock
+T15	PhaseChangingActions	102	108	molten
+T16	Rock	109	113	rock

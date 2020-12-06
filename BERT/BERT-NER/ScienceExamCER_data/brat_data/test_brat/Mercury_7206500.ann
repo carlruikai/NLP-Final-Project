@@ -1,0 +1,43 @@
+T1	Mammal	0	14	Dalmatian dogs
+T2	RelativeTime	15	24	sometimes
+T3	LevelOfInclusion	15	24	sometimes
+T4	ChangeInto	25	31	become
+T5	OtherAnimalProperties	32	36	deaf
+T6	Sickness	32	36	deaf
+T7	Cause	37	43	due to
+T8	Inheritance	46	55	recessive
+T9	GeneticProperty	46	55	recessive
+T10	Property	56	61	trait
+T11	ProbabilityAndCertainty	67	70	may
+T12	Inheritance	71	78	inherit
+T13	Cause	89	95	reason
+T14	RelativeNumber	97	101	some
+T15	LevelOfInclusion	97	101	some
+T16	Mammal	102	111	Dalmatian
+T17	Human	112	118	owners
+T18	ProbabilityAndCertainty	119	123	will
+T19	Negations	124	127	not
+T20	Permit	128	131	let
+T21	Mammal	138	142	dogs
+T22	Create	143	147	have
+T23	Mammal	148	155	puppies
+T24	WordsForOffspring	148	155	puppies
+T25	RelativeTime	156	158	if
+T26	StateOfBeing	164	167	are
+T27	OtherAnimalProperties	168	172	deaf
+T28	Sickness	168	172	deaf
+T29	Permit	174	182	Allowing
+T30	LevelOfInclusion	183	187	only
+T31	Mammal	188	198	Dalmatians
+T32	AbilityAvailability	204	207	can
+T33	Senses	208	212	hear
+T34	Reproduction	216	233	produce offspring
+T35	StateOfBeing	234	236	is
+T36	Exemplar	240	247	example
+T37	Evolution	251	269	selective breeding
+T38	Biology	251	269	selective breeding
+T39	Reproduction	271	290	sexual reproduction
+T40	Reproduction	292	305	crossbreeding
+T41	ActionsForAnimals	307	314	learned
+T42	LearnedBehavior	307	314	learned
+T43	Property	315	321	traits

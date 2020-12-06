@@ -1,0 +1,30 @@
+T1	Scientists	2	9	student
+T2	Create	10	18	prepares
+T3	ConcludingResearch	21	27	report
+T4	QuestionActivityType	21	27	report
+T5	Relevant	28	30	on
+T6	Speed	31	38	gradual
+T7	EnvironmentalPhenomena	39	60	environmental changes
+T8	LevelOfInclusion	62	67	Which
+T9	StateOfBeing	68	70	is
+T10	Quality	75	79	best
+T11	QualityComparison	75	79	best
+T12	ScientificTheoryExperimentationAndHistory	80	85	topic
+T13	ConcludingResearch	95	101	report
+T14	QuestionActivityType	95	101	report
+T15	NaturalPhenomena	103	115	forest fires
+T16	RelativeLocations	116	118	in
+T17	GeographicFormations	119	127	mountain
+T18	RelativeLocations	128	135	regions
+T19	EnvironmentalPhenomena	136	146	succession
+T20	Changes	152	162	transforms
+T21	TypesOfTerrestrialEcosystems	163	172	grassland
+T22	ChangeInto	173	175	to
+T23	Forests	176	182	forest
+T24	TypesOfChemicalReactions	183	196	decomposition
+T25	TypesOfTerrestrialEcosystems	202	208	desert
+T26	Mammal	209	215	rodent
+T27	WeatherPhenomena	216	230	flash flooding
+T28	RelativeLocations	227	229	in
+T29	TerrestrialLocations	236	243	country
+T30	Locations	244	248	area

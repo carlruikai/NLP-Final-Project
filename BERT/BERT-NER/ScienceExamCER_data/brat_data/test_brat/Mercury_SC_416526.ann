@@ -1,0 +1,10 @@
+T1	PlantPart	5	9	part
+T2	Plant	15	20	plant
+T3	Require	21	26	needs
+T4	CelestialLightOnEarth	27	35	sunlight
+T5	PerformAnActivity	39	41	do
+T6	SystemAndFunctions	46	49	job
+T7	PlantPart	51	55	stem
+T8	PlantPart	56	60	root
+T9	PlantPart	61	65	leaf
+T10	PlantPart	66	72	flower

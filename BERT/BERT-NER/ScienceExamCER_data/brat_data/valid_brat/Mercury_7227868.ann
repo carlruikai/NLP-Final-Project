@@ -1,0 +1,24 @@
+T1	Property	5	19	characteristic
+T2	Sickness	23	30	viruses
+T3	Differentiate	31	44	distinguishes
+T4	RelativeDirection	50	54	from
+T5	Cell	55	60	cells
+T6	Negations	70	73	not
+T7	ContainBeComposedOf	74	78	have
+T8	Genetics	79	98	hereditary material
+T9	StateOfBeing	105	108	are
+T10	Negations	109	112	not
+T11	Separate	113	122	separated
+T12	RelativeDirection	123	127	from
+T13	EcosystemsEnvironment	134	146	environments
+T14	Negations	153	157	lack
+T15	CellProcesses	161	183	independent metabolism
+T16	Metabolism	161	183	independent metabolism
+T17	Property	191	197	traits
+T18	Negations	201	204	not
+T19	Evolution	205	211	evolve
+T20	Cause	212	214	in
+T21	Response	215	223	response
+T22	RelativeDirection	224	226	to
+T23	Choose	227	236	selection
+T24	Pressure	237	246	pressures

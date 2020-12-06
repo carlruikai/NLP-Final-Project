@@ -1,0 +1,12 @@
+T1	RelativeTime	0	2	In
+T2	CellProcesses	3	17	photosynthesis
+T3	PlantProcesses	3	17	photosynthesis
+T4	Plant	19	25	plants
+T5	Use	26	29	use
+T6	PlantPart	30	41	chlorophyll
+T7	Result	42	44	to
+T8	Create	45	52	produce
+T9	NutritiveSubstancesForAnimalsOrPlants	53	58	sugar
+T10	PhasesOfWater	60	65	water
+T11	Energy	67	73	energy
+T12	Compound	75	89	carbon dioxide

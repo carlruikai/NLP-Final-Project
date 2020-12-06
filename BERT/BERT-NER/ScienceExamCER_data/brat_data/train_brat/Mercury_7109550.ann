@@ -1,0 +1,30 @@
+T1	LevelOfInclusion	0	3	All
+T2	Star	4	9	stars
+T3	Start	10	15	start
+T4	Create	16	23	forming
+T5	Cause	20	22	in
+T6	Comparisons	31	35	same
+T7	Method	36	42	manner
+T8	LevelOfInclusion	44	48	Some
+T9	PerformAnActivity	49	55	follow
+T10	LifeCycle	60	70	life cycle
+T11	Star	78	81	Sun
+T12	RelativeTime	83	88	while
+T13	Comparisons	89	95	others
+T14	ChangeInto	96	100	turn
+T15	StarTypes	106	113	neutron
+T16	Star	114	119	stars
+T17	Comparisons	120	122	or
+T18	BlackHole	123	133	black hole
+T19	LevelOfInclusion	136	141	Which
+T20	Property	142	150	property
+T21	Identify	151	161	determines
+T22	Result	166	170	fate
+T23	Star	176	180	star
+T24	RelativeTime	181	183	as
+T25	Development	187	195	develops
+T26	Create	187	195	develops
+T27	Mass	197	201	mass
+T28	Locations	202	210	location
+T29	Brightness	211	221	luminosity
+T30	Temperature	222	233	temperature

@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Unit	6	17	metric unit
+T3	StateOfBeing	18	20	is
+T4	Use	21	25	used
+T5	Goal	26	28	to
+T6	Represent	29	37	describe
+T7	GeometricSpatialObjects	41	47	object
+T8	Length	50	56	length
+T9	MassUnit	58	62	gram
+T10	MassUnit	58	59	g
+T11	VolumeUnit	67	77	milliliter
+T12	VolumeUnit	79	81	mL
+T13	DistanceUnit	83	93	centimeter
+T14	DistanceUnit	95	97	cm
+T15	TemperatureUnit	99	113	degree Celsius
+T16	TemperatureUnit	115	117	°C

@@ -1,0 +1,19 @@
+T1	HeatingAppliance	2	6	lamp
+T2	LightProducingObject	2	6	lamp
+T3	TransferEnergy	7	15	converts
+T4	ElectricalEnergy	16	33	electrical energy
+T5	ChangeInto	34	36	to
+T6	Spectra	37	49	light energy
+T7	Comparisons	51	65	In addition to
+T8	Spectra	70	82	light energy
+T9	RelativeNumber	84	88	much
+T10	ElectricalEnergy	97	114	electrical energy
+T11	StateOfBeing	115	117	is
+T12	Comparisons	118	122	also
+T13	LevelOfInclusion	118	122	also
+T14	TransferEnergy	123	132	converted
+T15	ChangeInto	123	132	converted
+T16	Energy	136	153	mechanical energy
+T17	Energy	154	169	chemical energy
+T18	ThermalEnergy	170	181	heat energy
+T19	Energy	182	196	nuclear energy

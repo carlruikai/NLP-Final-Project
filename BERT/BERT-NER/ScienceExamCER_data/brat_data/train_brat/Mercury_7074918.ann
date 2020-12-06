@@ -1,0 +1,18 @@
+T1	CellProcesses	4	14	cell cycle
+T2	Represent	15	24	describes
+T3	OrganicProcesses	29	38	processes
+T4	Occur	44	54	take place
+T5	RelativeTime	55	57	as
+T6	Cell	60	64	cell
+T7	ActionsForNutrition	65	72	absorbs
+T8	CombineAdd	65	72	absorbs
+T9	Nutrition	73	82	nutrients
+T10	Create	84	89	makes
+T11	NutritiveSubstancesForAnimalsOrPlants	90	98	proteins
+T12	Alter	100	107	repairs
+T13	Help	100	107	repairs
+T14	Age	108	111	old
+T15	Cell	112	117	cells
+T16	Create	119	124	forms
+T17	Age	125	128	new
+T18	Cell	129	134	cells

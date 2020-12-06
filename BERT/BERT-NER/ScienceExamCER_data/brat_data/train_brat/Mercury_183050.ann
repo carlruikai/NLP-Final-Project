@@ -1,0 +1,12 @@
+T1	Exemplar	5	9	type
+T2	Inheritance	13	24	inheritance
+T3	Cause	25	33	controls
+T4	ActUponSomething	25	33	controls
+T5	OtherHumanProperties	34	44	blood type
+T6	RelativeLocations	46	48	in
+T7	Human	49	55	humans
+T8	Inheritance	57	77	incomplete dominance
+T9	Inheritance	78	99	polygenic inheritance
+T10	RelativeNumber	100	108	multiple
+T11	Genetics	109	116	alleles
+T12	Gene	117	131	recessive gene

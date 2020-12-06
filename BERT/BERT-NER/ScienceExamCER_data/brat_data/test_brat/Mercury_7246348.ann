@@ -1,0 +1,15 @@
+T1	GeographicFormations	6	13	feature
+T2	PerformAnActivity	14	18	does
+T3	Negations	19	22	not
+T4	Create	23	27	form
+T5	StateOfBeing	28	30	as
+T6	Result	33	39	result
+T7	Cause	40	42	of
+T8	TectonicPlates	43	57	tectonic plate
+T9	ChangeInLocation	59	68	diverging
+T10	GeographicFormations	70	76	trench
+T11	GeographicFormations	77	88	rift valley
+T12	BodiesOfWater	89	94	ocean
+T13	PartsOfBodiesOfWater	95	100	basin
+T14	PartsOfBodiesOfWater	101	110	mid-ocean
+T15	GeographicFormations	101	116	mid-ocean ridge

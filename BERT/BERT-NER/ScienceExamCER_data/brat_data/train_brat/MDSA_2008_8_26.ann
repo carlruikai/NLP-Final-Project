@@ -1,0 +1,76 @@
+T1	Use	0	3	Use
+T2	WordsForData	8	19	information
+T3	Response	23	29	answer
+T4	QuestionActivityType	34	42	question
+T5	RelativeTime	44	48	Over
+T6	TemporalProperty	53	57	last
+T7	CardinalNumber	58	61	150
+T8	TimeUnit	62	67	years
+T9	Year	62	67	years
+T10	Use	73	76	use
+T11	FossilFuel	80	91	fossil fuel
+T12	AmountChangingActions	97	106	increased
+T13	IncreaseDecrease	97	106	increased
+T14	Cause	108	120	resulting in
+T15	AmountComparison	121	125	more
+T16	Compound	126	140	carbon dioxide
+T17	Comparisons	145	150	other
+T18	Compound	151	165	greenhouse gas
+T19	RelativeLocations	168	170	in
+T20	EarthPartsGrossGroundAtmosphere	175	185	atmosphere
+T21	RelativeNumber	187	191	Some
+T22	LevelOfInclusion	187	191	Some
+T23	GroupsOfScientists	192	202	scientists
+T24	Believe	203	208	think
+T25	LevelOfInclusion	214	219	these
+T26	Compound	220	235	atmospheric gas
+T27	ProbabilityAndCertainty	238	242	will
+T28	Cause	243	252	result in
+T29	EnvironmentalDamageDestruction	253	267	global warming
+T30	GroupsOfScientists	269	279	Scientists
+T31	PerformingResearch	285	293	recorded
+T32	Collect	285	293	recorded
+T33	WordsForData	294	298	data
+T34	Relevant	299	301	on
+T35	TerrestrialLocations	302	308	global
+T36	Temperature	309	320	temperature
+T37	Changes	321	328	changes
+T38	Hypothesizing	338	347	predicted
+T39	ProbabilityAndCertainty	348	356	possible
+T40	Changes	357	364	changes
+T41	RelativeLocations	365	367	in
+T42	BodiesOfWater	368	371	sea
+T43	AmountComparison	372	377	level
+T44	ProbabilityAndCertainty	383	386	may
+T45	ActUponSomething	387	393	affect
+T46	States	394	402	Maryland
+T47	GroupsOfOrganisms	403	412	residents
+T48	LevelOfInclusion	414	419	Which
+T49	Result	420	426	result
+T50	EnvironmentalDamageDestruction	430	444	global warming
+T51	ProbabilityAndCertainty	445	449	will
+T52	AmountComparison	450	454	most
+T53	QualityComparison	455	465	negatively
+T54	ActUponSomething	466	472	affect
+T55	TerrestrialLocations	473	480	coastal
+T56	GroupsOfOrganisms	481	490	residents
+T57	RelativeLocations	491	493	in
+T58	States	494	502	Maryland
+T59	ChangesToResources	504	508	loss
+T60	AmountChangingActions	504	508	loss
+T61	PartsOfBodiesOfWater	512	517	shore
+T62	ExamplesOfHabitats	518	522	land
+T63	ConstructiveDestructiveForces	523	530	erosion
+T64	NaturalPhenomena	523	530	erosion
+T65	GeographicFormations	534	543	mountains
+T66	AmountChangingActions	544	552	decrease
+T67	IncreaseDecrease	544	552	decrease
+T68	RelativeLocations	553	555	in
+T69	Rarity	556	563	average
+T70	Calculations	556	563	average
+T71	Temperature	564	575	temperature
+T72	AmountChangingActions	576	584	increase
+T73	IncreaseDecrease	576	584	increase
+T74	RelativeLocations	576	578	in
+T75	Size	592	596	size
+T76	EarthPartsGrossGroundAtmosphere	604	618	polar ice caps

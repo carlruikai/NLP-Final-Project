@@ -1,0 +1,26 @@
+T1	RelativeNumber	0	7	Several
+T2	Exemplar	8	13	types
+T3	SystemAndFunctions	17	27	mechanisms
+T4	RelativeLocations	28	30	in
+T5	AnimalPart	35	39	body
+T6	Homeostasis	40	48	regulate
+T7	EndocrineActions	40	48	regulate
+T8	MeasuringSpeed	53	57	rate
+T9	Reactions	61	78	chemical reaction
+T10	RelativeLocations	80	82	in
+T11	DigestiveSystem	87	103	digestive system
+T12	LevelOfInclusion	105	110	Among
+T13	AmountComparison	115	119	most
+T14	ImportanceComparison	120	129	important
+T15	StateOfBeing	130	133	are
+T16	FeedbackMechanism	134	150	feedback systems
+T17	LevelOfInclusion	152	157	which
+T18	ActUponSomething	158	165	control
+T19	EndocrineActions	170	177	release
+T20	Release	170	177	release
+T21	MeasuringSpeed	178	182	rate
+T22	NutritiveSubstancesForAnimalsOrPlants	186	192	lipids
+T23	DigestiveSubstances	194	201	enzymes
+T24	NutritiveSubstancesForAnimalsOrPlants	194	201	enzymes
+T25	NutritiveSubstancesForAnimalsOrPlants	203	216	nucleic acids
+T26	NutritiveSubstancesForAnimalsOrPlants	218	231	carbohydrates

@@ -1,0 +1,40 @@
+T1	GeographicFormationParts	2	10	hillside
+T2	PrepositionalDirections	11	16	along
+T3	ManmadeLocations	19	26	highway
+T4	ContainBeComposedOf	27	30	has
+T5	RelativeLocations	31	38	exposed
+T6	Safety	31	38	exposed
+T7	ObjectQuantification	39	45	layers
+T8	Stability	49	60	undisturbed
+T9	Sedimentary	61	72	sedimentary
+T10	Rock	73	77	rock
+T11	LevelOfInclusion	79	84	Which
+T12	Method	85	91	method
+T13	ProbabilityAndCertainty	92	97	would
+T14	StateOfBeing	98	100	be
+T15	Quality	101	105	best
+T16	QualityComparison	101	105	best
+T17	GroupsOfScientists	110	120	scientists
+T18	Use	124	127	use
+T19	Identify	131	140	determine
+T20	RelativeNumber	145	153	relative
+T21	Age	154	157	age
+T22	LevelOfInclusion	161	166	these
+T23	Sedimentary	167	178	sedimentary
+T24	Rock	179	183	rock
+T25	ObjectQuantification	184	190	layers
+T26	Use	192	197	apply
+T27	ArcheologicalProcessTechnique	202	222	law of superposition
+T28	GeologicTheories	202	222	law of superposition
+T29	Calculations	223	232	calculate
+T30	Identify	223	232	calculate
+T31	MeasuringSpeed	237	241	rate
+T32	ProduceEnergy	245	262	radiometric decay
+T33	Use	263	268	apply
+T34	GeologicTheories	273	306	law of crosscutting relationships
+T35	Calculations	307	316	calculate
+T36	Identify	307	316	calculate
+T37	MeasuringSpeed	321	325	rate
+T38	TectonicPlates	329	343	tectonic plate
+T39	PropertyOfMotion	344	352	movement
+T40	Move	344	352	movement

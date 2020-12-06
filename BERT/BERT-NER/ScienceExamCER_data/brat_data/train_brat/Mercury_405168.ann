@@ -1,0 +1,18 @@
+T1	StopRemove	0	11	Turning off
+T2	LightProducingObject	16	21	light
+T3	RelativeTime	22	26	when
+T4	Separate	27	34	leaving
+T5	LocationChangingActions	27	34	leaving
+T6	PartsOfABuilding	37	41	room
+T7	StateOfBeing	42	44	is
+T8	Exemplar	48	55	example
+T9	ChangesToResources	59	69	conserving
+T10	Preserve	59	69	conserving
+T11	Energy	70	76	energy
+T12	Use	78	85	wasting
+T13	ChangesToResources	78	85	wasting
+T14	Energy	86	92	energy
+T15	Use	94	99	using
+T16	Energy	100	116	potential energy
+T17	Use	118	123	using
+T18	Energy	124	139	chemical energy

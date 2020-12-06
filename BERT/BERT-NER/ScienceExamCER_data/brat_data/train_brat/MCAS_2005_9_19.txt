@@ -1,0 +1,5 @@
+A student is standing on a skateboard that is not moving. The total mass of the student and the skateboard is 50 kilograms. The student throws a ball with a mass of 2 kilograms forward at 5 m/s. Assuming the skateboard wheels are frictionless, how will the student and the skateboard move?
+forward at 0.4 m/s
+forward at 5 m/s
+backward at 0.2 m/s
+backward at 5 m/s

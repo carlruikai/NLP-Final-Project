@@ -1,0 +1,10 @@
+T1	TypesOfWaterInBodiesOfWater	0	10	Salt water
+T2	SyntheticMaterial	12	19	plastic
+T3	Element	25	31	helium
+T4	StateOfBeing	32	35	are
+T5	LevelOfInclusion	36	39	all
+T6	ContainBeComposedOf	40	47	made of
+T7	ElementalComponents	48	53	atoms
+T8	Mixtures	55	63	mixtures
+T9	AtomComponents	65	74	electrons
+T10	Compound	76	85	compounds

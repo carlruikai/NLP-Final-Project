@@ -1,0 +1,35 @@
+T1	FossilLocationImplicationsOfLocationEXMarineAnimalFossilsInTheGrandCanyon	0	7	Florida
+T2	States	0	7	Florida
+T3	ContainBeComposedOf	8	11	has
+T4	Size	14	19	large
+T5	Source	20	26	supply
+T6	Compound	30	39	phosphate
+T7	Age	45	52	ancient
+T8	BodiesOfWater	53	57	seas
+T9	ChangeInLocation	58	67	deposited
+T10	Move	58	67	deposited
+T11	ArithmeticMeasure	68	76	millions
+T12	TimeUnit	80	85	years
+T13	Year	80	85	years
+T14	RelativeTime	86	89	ago
+T15	Compound	95	104	phosphate
+T16	ContainBeComposedOf	105	113	contains
+T17	Fossils	118	125	remains
+T18	Animal	129	136	animals
+T19	StateOfBeing	142	146	were
+T20	ChangeInLocation	147	156	deposited
+T21	Move	147	156	deposited
+T22	RelativeLocations	157	159	in
+T23	ObjectQuantification	160	166	layers
+T24	RelativeLocations	167	169	on
+T25	UnderwaterEcosystem	174	183	sea floor
+T26	TerrestrialLocations	174	183	sea floor
+T27	LevelOfInclusion	185	190	Which
+T28	Exemplar	191	195	type
+T29	Rock	199	203	rock
+T30	Compound	212	221	phosphate
+T31	ChangeInto	222	228	become
+T32	Igneous	230	247	intrusive igneous
+T33	Igneous	248	265	extrusive igneous
+T34	Sedimentary	266	285	clastic sedimentary
+T35	Sedimentary	286	305	organic sedimentary

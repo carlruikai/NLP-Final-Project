@@ -1,0 +1,32 @@
+T1	ArcheologicalProcessTechnique	2	10	road cut
+T2	Indicate	11	16	shows
+T3	ObjectQuantification	19	24	layer
+T4	Sedimentary	28	33	shale
+T5	RelativeLocations	34	43	on top of
+T6	ObjectQuantification	46	51	layer
+T7	Sedimentary	55	64	limestone
+T8	Indicate	71	80	indicates
+T9	Sedimentary	85	90	shale
+T10	ObjectQuantification	91	96	layer
+T11	StateOfBeing	97	99	is
+T12	Age	100	105	older
+T13	Comparisons	106	110	than
+T14	Sedimentary	115	124	limestone
+T15	ObjectQuantification	125	130	layer
+T16	GeographicFormations	134	139	fault
+T17	Occur	140	148	occurred
+T18	RelativeTime	149	155	during
+T19	ConstructiveDestructiveForces	160	170	deposition
+T20	ObjectQuantification	178	184	layers
+T21	EcosystemsEnvironment	190	201	environment
+T22	Changes	202	209	changed
+T23	RelativeTime	210	217	between
+T24	MarkersOfTime	222	227	times
+T25	ConstructiveDestructiveForces	231	241	deposition
+T26	NaturalPhenomena	243	260	volcanic activity
+T27	Occur	261	269	occurred
+T28	RelativeTime	270	274	when
+T29	LevelOfInclusion	275	280	these
+T30	ObjectQuantification	281	287	layers
+T31	StateOfBeing	288	292	were
+T32	ConstructiveDestructiveForces	293	302	deposited

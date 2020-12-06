@@ -1,0 +1,5 @@
+Dr. Tanaka discovered a new virus. The virus has a single strand of a nucleic acid, but she does not know if it is DNA or RNA. After running tests, she concludes that it is DNA. Which of the following would lead her to that conclusion?
+It contains uracil.
+It contains adenine.
+It contains thymine.
+It contains cytosine.

@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Quality	6	10	best
+T3	QualityComparison	6	10	best
+T4	Represent	11	20	describes
+T5	Reproduction	21	40	sexual reproduction
+T6	RelativeLocations	41	43	in
+T7	LevelOfInclusion	44	47	all
+T8	Animal	48	55	animals
+T9	PartsOfTheReproductiveSystem	57	60	Egg
+T10	PartsOfTheReproductiveSystem	65	70	sperm
+T11	CombineAdd	71	84	join together
+T12	PlantPart	86	92	Pollen
+T13	PlantPart	97	101	seed
+T14	CombineAdd	102	115	join together
+T15	GeneticRelations	117	126	Offspring
+T16	WordsForOffspring	117	126	Offspring
+T17	ContainBeComposedOf	127	131	have
+T18	Property	132	138	traits
+T19	LevelOfInclusion	142	146	only
+T20	CardinalNumber	147	150	one
+T21	NUMBER	147	150	one
+T22	GeneticRelations	151	157	parent
+T23	GeneticRelations	159	168	Offspring
+T24	WordsForOffspring	159	168	Offspring
+T25	StateOfBeing	169	172	are
+T26	VisualComparison	173	182	identical
+T27	CardinalNumber	186	189	one
+T28	NUMBER	186	189	one
+T29	GeneticRelations	190	196	parent

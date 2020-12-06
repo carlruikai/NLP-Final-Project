@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ObjectPart	6	10	part
+T3	ElementalComponents	17	21	atom
+T4	StateOfBeing	22	24	is
+T5	ContainBeComposedOf	25	33	involved
+T6	Require	25	33	involved
+T7	RelativeTime	25	27	in
+T8	Reactions	37	55	chemical reactions
+T9	AtomComponents	57	64	nucleus
+T10	Particles	73	82	particles
+T11	AtomComponents	73	82	particles
+T12	ElectricalProperty	83	101	negatively-charged
+T13	Particles	102	111	particles
+T14	AtomComponents	102	111	particles
+T15	ElectricalProperty	112	129	neutrally-charged
+T16	Particles	130	139	particles
+T17	AtomComponents	130	139	particles
+T18	ElectricalProperty	140	158	positively-charged
+T19	Particles	159	168	particles
+T20	AtomComponents	159	168	particles

@@ -1,0 +1,39 @@
+T1	ActionsForAgriculture	0	8	Planting
+T2	CombineAdd	0	8	Planting
+T3	LevelOfInclusion	9	16	certain
+T4	Plant	17	28	crop plants
+T5	Agriculture	17	28	crop plants
+T6	RelativeLocations	29	31	in
+T7	TerrestrialLocations	34	39	field
+T8	Cause	40	46	causes
+T9	Harm	49	59	disruption
+T10	OrganicProcesses	67	74	natural
+T11	Cycles	75	89	nitrogen cycle
+T12	RelativeLocations	90	92	in
+T13	TerrestrialLocations	98	103	field
+T14	LevelOfInclusion	105	110	Which
+T15	Result	111	118	outcome
+T16	ProbabilityAndCertainty	119	124	would
+T17	Harm	130	140	disruption
+T18	AmountComparison	141	145	most
+T19	Complexity	146	154	DIRECTLY
+T20	Cause	155	160	cause
+T21	RelativeLocations	161	163	in
+T22	TerrestrialLocations	168	173	field
+T23	RelativeTime	174	178	over
+T24	MarkersOfTime	179	183	time
+T25	Soil	185	192	topsoil
+T26	ConstructiveDestructiveForces	193	199	erodes
+T27	NaturalPhenomena	193	199	erodes
+T28	Soil	200	204	soil
+T29	Nutrition	205	214	nutrients
+T30	PropertiesOfSoil	205	214	nutrients
+T31	AmountChangingActions	215	223	decrease
+T32	IncreaseDecrease	215	223	decrease
+T33	TypesOfTerrestrialEcosystems	224	230	desert
+T34	StateOfBeing	231	241	conditions
+T35	Occur	242	248	appear
+T36	EarthPartsGrossGroundAtmosphere	249	260	atmospheric
+T37	Compound	261	275	carbon dioxide
+T38	AmountChangingActions	276	285	increases
+T39	IncreaseDecrease	276	285	increases

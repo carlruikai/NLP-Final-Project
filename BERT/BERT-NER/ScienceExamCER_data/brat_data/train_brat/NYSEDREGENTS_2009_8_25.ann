@@ -1,0 +1,8 @@
+T1	Sickness	0	10	Infections
+T2	ProbabilityAndCertainty	11	14	may
+T3	StateOfBeing	15	17	be
+T4	Cause	18	24	caused
+T5	Mutation	28	37	mutations
+T6	Monera	38	52	microorganisms
+T7	Toxins	53	69	toxic substances
+T8	EnvironmentalPhenomena	70	85	climate changes

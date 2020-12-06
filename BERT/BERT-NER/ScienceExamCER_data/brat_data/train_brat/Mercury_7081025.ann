@@ -1,0 +1,37 @@
+T1	Scientists	2	9	student
+T2	Examine	10	22	investigates
+T3	Experimentation	10	22	investigates
+T4	Method	23	26	how
+T5	Speed	27	32	speed
+T6	Alter	33	40	changes
+T7	RelativeTime	41	43	as
+T8	ManmadeObjects	46	50	ball
+T9	Move	51	58	travels
+T10	PrepositionalDirections	59	63	down
+T11	GeometricSpatialObjects	66	70	ramp
+T12	Measurements	72	84	Measurements
+T13	Uptake	85	90	taken
+T14	Cause	91	93	by
+T15	ComputingDevice	94	102	computer
+T16	TechnologicalInstrument	94	102	computer
+T17	LevelOfInclusion	103	108	every
+T18	TimeUnit	109	115	second
+T19	StateOfBeing	116	119	are
+T20	PerformingResearch	120	128	recorded
+T21	RelativeLocations	129	131	on
+T22	WordsForData	134	138	data
+T23	Representation	139	144	table
+T24	LevelOfInclusion	146	151	Which
+T25	Representation	152	159	diagram
+T26	ProbabilityAndCertainty	160	164	will
+T27	Quality	165	169	best
+T28	QualityComparison	165	169	best
+T29	ConcludingResearch	170	177	display
+T30	Communicate	170	177	display
+T31	WordsForData	182	186	data
+T32	RelativeDirection	187	191	from
+T33	Representation	197	202	table
+T34	Representation	206	215	bar graph
+T35	Representation	218	228	line graph
+T36	Representation	231	240	pie chart
+T37	Representation	243	253	pictograph

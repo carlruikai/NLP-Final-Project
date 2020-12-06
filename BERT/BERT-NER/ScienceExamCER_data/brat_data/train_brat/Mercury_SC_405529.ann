@@ -1,0 +1,38 @@
+T1	PhasesOfWater	0	5	Water
+T2	LiquidMatter	0	5	Water
+T3	StateOfBeing	6	8	is
+T4	Frequency	9	14	often
+T5	LocationChangingActions	15	18	put
+T6	PrepositionalDirections	19	26	through
+T7	SystemAndFunctions	29	45	treatment system
+T8	RelativeTime	46	52	before
+T9	StateOfBeing	56	58	is
+T10	Use	59	63	used
+T11	RelativeLocations	64	66	in
+T12	ManmadeLocations	67	72	homes
+T13	StateOfBeing	73	75	as
+T14	PhasesOfWater	76	90	drinking water
+T15	LiquidMatter	76	90	drinking water
+T16	LevelOfInclusion	92	97	Which
+T17	StateOfBeing	98	100	is
+T18	AmountComparison	105	109	most
+T19	ProbabilityAndCertainty	110	116	likely
+T20	Goal	117	123	reason
+T21	PhasesOfWater	124	129	water
+T22	LiquidMatter	124	129	water
+T23	StateOfBeing	130	132	is
+T24	Alter	133	140	treated
+T25	RelativeTime	141	147	before
+T26	Human	148	154	people
+T27	ActionsForAnimals	155	160	drink
+T28	Consumption	155	160	drink
+T29	StopRemove	168	174	remove
+T30	Sickness	175	193	harmful substances
+T31	CombineAdd	197	200	add
+T32	Color	201	206	color
+T33	AmountChangingActions	210	218	increase
+T34	IncreaseDecrease	210	218	increase
+T35	Numbers	223	229	supply
+T36	Source	223	229	supply
+T37	IncreaseDecrease	233	241	decrease
+T38	Temperature	246	257	temperature

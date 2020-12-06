@@ -1,0 +1,35 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	Plant	5	11	plants
+T4	Growth	12	16	grow
+T5	LevelOfInclusion	17	21	only
+T6	RelativeLocations	22	24	in
+T7	Rarity	25	33	specific
+T8	Locations	34	40	places
+T9	RelativeLocations	41	43	in
+T10	TerrestrialLocations	44	53	the world
+T11	RelativeNumber	55	59	Some
+T12	LevelOfInclusion	55	59	Some
+T13	Angiosperm	60	66	cacti,
+T14	Exemplar	71	78	example
+T15	Growth	80	84	grow
+T16	LevelOfInclusion	85	89	only
+T17	RelativeLocations	90	92	in
+T18	TypesOfTerrestrialEcosystems	93	100	deserts
+T19	LevelOfInclusion	102	107	Which
+T20	LevelOfInclusion	111	124	the following
+T21	StateOfBeing	125	127	is
+T22	AmountComparison	128	132	most
+T23	ImportanceComparison	133	142	important
+T24	Identify	146	157	determining
+T25	RelativeLocations	158	163	where
+T26	Plant	166	171	plant
+T27	AbilityAvailability	172	175	can
+T28	Growth	176	180	grow
+T29	LivingDying	185	192	survive
+T30	NaturalSelection	185	192	survive
+T31	Animal	194	201	animals
+T32	EcosystemsEnvironment	202	209	climate
+T33	TidesHighTideLowTide	210	215	tides
+T34	WeatherPhenomena	210	215	tides
+T35	WeatherPhenomena	216	220	wind

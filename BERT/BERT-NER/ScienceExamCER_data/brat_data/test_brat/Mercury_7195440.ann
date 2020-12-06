@@ -1,0 +1,34 @@
+T1	ProbabilityAndCertainty	0	13	Approximately
+T2	CardinalNumber	14	16	50
+T3	ArithmeticMeasure	17	24	million
+T4	AreaUnit	25	30	acres
+T5	Forests	34	53	tropical rainforest
+T6	StateOfBeing	54	57	are
+T7	StopRemove	58	65	cleared
+T8	LevelOfInclusion	66	70	each
+T9	TimeUnit	71	75	year
+T10	Year	71	75	year
+T11	LevelOfInclusion	77	82	Which
+T12	Result	83	89	effect
+T13	AmountComparison	90	94	most
+T14	ProbabilityAndCertainty	95	101	likely
+T15	ProbabilityAndCertainty	102	107	would
+T16	Result	108	114	result
+T17	Cause	115	119	from
+T18	StopRemove	124	132	clearing
+T19	LevelOfInclusion	136	141	these
+T20	ExamplesOfHabitats	142	149	forests
+T21	AmountChangingActions	153	161	decrease
+T22	IncreaseDecrease	153	161	decrease
+T23	EnvironmentalDamageDestruction	165	177	soil erosion
+T24	AmountChangingActions	180	188	decrease
+T25	IncreaseDecrease	180	188	decrease
+T26	Adaptation	192	204	biodiversity
+T27	QualityComparison	208	219	improvement
+T28	Help	208	215	improve
+T29	EarthPartsGrossGroundAtmosphere	223	226	air
+T30	Quality	227	234	quality
+T31	QualityComparison	238	249	improvement
+T32	Help	238	245	improve
+T33	PhasesOfWater	253	258	water
+T34	Quality	259	266	quality

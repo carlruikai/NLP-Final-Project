@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	NaturalResources	15	24	resources
+T4	ProbabilityAndCertainty	25	29	will
+T5	AmountComparison	30	34	most
+T6	ProbabilityAndCertainty	35	41	likely
+T7	StateOfBeing	42	44	be
+T8	Consumption	45	53	depleted
+T9	AmountChangingActions	45	53	depleted
+T10	ChangesToResources	45	53	depleted
+T11	TemporalProperty	54	59	first
+T12	ORDINAL	54	59	first
+T13	OtherEnergyResources	61	65	Wind
+T14	WeatherPhenomena	61	65	Wind
+T15	OtherEnergyResources	66	78	Solar energy
+T16	FossilFuel	79	90	Fossil fuel
+T17	OtherEnergyResources	92	97	Water
+T18	PhasesOfWater	92	97	Water

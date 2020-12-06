@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GeographicFormationProcess	6	13	process
+T3	Force	14	20	forced
+T4	Actions	14	20	forced
+T5	States	21	27	Nevada
+T6	LOCATION	21	27	Nevada
+T7	GeographicFormations	30	44	mountain range
+T8	RelativeDirection	46	52	upward
+T9	RelativeTime	53	57	over
+T10	TemporalProperty	62	66	past
+T11	CardinalNumber	67	74	million
+T12	TimeUnit	75	80	years
+T13	Year	75	80	years
+T14	ConstructiveDestructiveForces	82	89	erosion
+T15	NaturalPhenomena	82	89	erosion
+T16	Position	93	104	surrounding
+T17	Matter	105	113	material
+T18	NaturalPhenomena	114	130	seismic activity
+T19	PrepositionalDirections	131	136	along
+T20	GeographicFormations	137	142	fault
+T21	GeometricSpatialObjects	143	148	lines
+T22	RelativeNumber	149	157	multiple
+T23	NaturalPhenomena	158	176	volcanic eruptions
+T24	ChangeInLocation	177	187	deposition
+T25	PropertyOfMotion	191	201	wind-blown
+T26	Sedimentary	202	211	sediments

@@ -1,0 +1,16 @@
+T1	Mammal	2	6	goat
+T2	Uptake	7	11	gets
+T3	Energy	12	18	energy
+T4	RelativeDirection	19	23	from
+T5	Angiosperm	28	33	grass
+T6	ActionsForAnimals	37	41	eats
+T7	Consumption	37	41	eats
+T8	RelativeLocations	43	48	Where
+T9	PerformAnActivity	49	53	does
+T10	Angiosperm	58	63	grass
+T11	Uptake	64	67	get
+T12	Energy	72	78	energy
+T13	Soil	80	84	soil
+T14	CelestialLightOnEarth	85	93	sunlight
+T15	PhasesOfWater	94	99	water
+T16	EarthPartsGrossGroundAtmosphere	100	103	air

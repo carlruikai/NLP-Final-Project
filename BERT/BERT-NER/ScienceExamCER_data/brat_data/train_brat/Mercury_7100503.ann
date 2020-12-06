@@ -1,0 +1,22 @@
+T1	PlantPart	4	10	flower
+T2	PlantPart	11	17	petals
+T3	Angiosperm	23	32	hydrangea
+T4	Plant	33	38	plant
+T5	ColorChangingActions	39	51	change color
+T6	RelativeTime	52	54	as
+T7	PH	59	66	acidity
+T8	Soil	74	78	soil
+T9	Changes	79	86	changes
+T10	Color	92	97	color
+T11	Changes	98	105	changes
+T12	StateOfBeing	106	109	are
+T13	Complexity	110	118	directly
+T14	Associate	119	126	related
+T15	RelativeDirection	127	129	to
+T16	LevelOfInclusion	130	135	which
+T17	VariablesControls	136	142	factor
+T18	PlantProcesses	144	156	gravitropism
+T19	PlantProcesses	157	171	photosynthesis
+T20	Locations	172	191	geographic location
+T21	EcosystemsEnvironment	192	205	environmental
+T22	StateOfBeing	206	216	conditions

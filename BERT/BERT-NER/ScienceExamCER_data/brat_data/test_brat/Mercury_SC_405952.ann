@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PlantPart	6	16	plant part
+T3	ActionsForNutrition	17	24	absorbs
+T4	CombineAdd	17	24	absorbs
+T5	Minerals	25	33	minerals
+T6	PlantPart	35	39	leaf
+T7	PlantPart	40	44	root
+T8	PlantPart	45	50	fruit
+T9	PlantPart	51	57	flower

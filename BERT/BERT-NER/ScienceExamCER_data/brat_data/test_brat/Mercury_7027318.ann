@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Scientists	6	15	scientist
+T3	StateOfBeing	16	19	was
+T4	TemporalProperty	24	29	first
+T5	ORDINAL	24	29	first
+T6	Create	33	39	devise
+T7	GuidelinesAndRules	44	49	rules
+T8	Reactions	53	70	chemical reaction
+T9	StateOfBeing	77	80	are
+T10	Communicate	81	90	explained
+T11	Cause	91	93	by
+T12	RelativeTime	94	100	modern
+T13	ElementalComponents	101	107	atomic
+T14	ScientificTheoryExperimentationAndHistory	108	114	theory
+T15	Scientists	116	127	John Dalton
+T16	PERSON	116	127	John Dalton
+T17	Scientists	128	140	Isaac Newton
+T18	PERSON	128	140	Isaac Newton
+T19	Scientists	141	156	Galileo Galilei
+T20	Scientists	157	172	Albert Einstein
+T21	PERSON	157	172	Albert Einstein

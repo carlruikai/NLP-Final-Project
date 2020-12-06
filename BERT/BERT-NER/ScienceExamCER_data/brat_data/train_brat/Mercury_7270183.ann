@@ -1,0 +1,31 @@
+T1	Scientists	0	10	Scientists
+T2	Scientists	11	25	Stanley Miller
+T3	PERSON	11	25	Stanley Miller
+T4	Scientists	30	41	Harold Urey
+T5	PERSON	30	41	Harold Urey
+T6	ContainBeComposedOf	42	48	sealed
+T7	PhasesOfWater	49	54	water
+T8	LiquidMatter	49	54	water
+T9	OrganicCompounds	56	63	methane
+T10	Compound	65	72	ammonia
+T11	Element	78	86	hydrogen
+T12	RelativeLocations	87	89	in
+T13	VolumeMeasuringTool	92	97	flask
+T14	PerformingResearch	102	110	simulate
+T15	InnerPlanets	111	116	Earth
+T16	RelativeTime	119	124	early
+T17	EcosystemsEnvironment	125	136	environment
+T18	RelativeLocations	143	150	exposed
+T19	Safety	143	150	exposed
+T20	Compound	155	164	chemicals
+T21	RelativeDirection	165	167	to
+T22	ElectricalEnergy	168	184	electric charges
+T23	PerformingResearch	188	196	simulate
+T24	NaturalPhenomena	197	205	lighting
+T25	Event	220	227	process
+T26	Create	228	235	produce
+T27	Bacteria	237	245	bacteria
+T28	NutritiveSubstancesForAnimalsOrPlants	246	259	nucleic acids
+T29	Sickness	260	267	viruses
+T30	PartsOfDNA	268	279	amino acids
+T31	NutritiveSubstancesForAnimalsOrPlants	268	279	amino acids

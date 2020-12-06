@@ -1,0 +1,5 @@
+One 7.0 kg bowling ball is lifted to a storage shelf 1.0 m above the floor. A second 7.0 kg ball is lifted to a storage shelf 2.0 m above the floor. Which of the following best explains why the measured force of gravity on each ball is nearly identical?
+The final potential energy of each ball increased.
+The amount of work required to lift each ball is identical.
+The distance of each ball from Earth's center of mass is almost identical.
+The gravitational force of each ball on the other cancels out the force of Earth's gravity.

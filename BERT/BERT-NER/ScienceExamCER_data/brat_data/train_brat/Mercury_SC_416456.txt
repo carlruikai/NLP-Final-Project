@@ -1,0 +1,5 @@
+A single-cell organism can do everything a cell from a multicellular organism can do except
+specialize.
+reproduce.
+use energy.
+make protein.

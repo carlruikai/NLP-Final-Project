@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	OrganicProcesses	23	32	processes
+T4	Event	23	32	processes
+T5	StateOfBeing	33	35	is
+T6	Quality	39	48	important
+T7	SystemProcessStages	49	53	part
+T8	Star	57	61	star
+T9	Create	62	71	formation
+T10	ProduceEnergy	73	87	nuclear fusion
+T11	ProduceEnergy	88	103	nuclear fission
+T12	ProduceEnergy	104	120	molecular fusion
+T13	ProduceEnergy	121	138	molecular fission

@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PlantPart	6	10	part
+T3	Gymnosperm	16	25	pine tree
+T4	Create	26	31	makes
+T5	Nutrition	32	36	food
+T6	PlantPart	38	42	root
+T7	PlantPart	43	47	cone
+T8	PlantPart	48	53	trunk
+T9	PlantPart	54	60	needle

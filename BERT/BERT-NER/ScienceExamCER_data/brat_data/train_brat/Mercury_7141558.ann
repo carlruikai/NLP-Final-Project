@@ -1,0 +1,38 @@
+T1	Occupation	3	11	engineer
+T2	Scientists	3	11	engineer
+T3	Require	12	16	must
+T4	Calculations	17	26	calculate
+T5	Energy	31	47	potential energy
+T6	VehicularSystemsParts	53	71	roller coaster car
+T7	RelativeLocations	72	74	at
+T8	RelativeLocations	79	82	top
+T9	ObjectPart	79	82	top
+T10	GeometricSpatialObjects	89	96	incline
+T11	LevelOfInclusion	98	103	Which
+T12	WordsForData	104	115	information
+T13	ProbabilityAndCertainty	116	121	would
+T14	Quality	122	126	best
+T15	QualityComparison	122	126	best
+T16	Help	127	131	help
+T17	Occupation	136	144	engineer
+T18	Scientists	136	144	engineer
+T19	Identify	145	154	determine
+T20	Energy	159	175	potential energy
+T21	LandVehicle	183	186	car
+T22	Distance	192	200	distance
+T23	VehicularSystemsParts	205	223	roller coaster car
+T24	Require	224	228	must
+T25	Move	229	235	travel
+T26	Mass	240	244	mass
+T27	VehicularSystemsParts	252	270	roller coaster car
+T28	RelativeTime	271	273	at
+T29	AbilityAvailability	274	287	full capacity
+T30	Calculations	292	299	average
+T31	PhysicalProperty	300	306	weight
+T32	Mass	300	306	weight
+T33	PhysicalProperty	313	318	empty
+T34	VehicularSystemsParts	319	337	roller coaster car
+T35	Directions	342	351	direction
+T36	VehicularSystemsParts	361	379	roller coaster car
+T37	StateOfBeing	380	382	is
+T38	Move	383	392	traveling

@@ -1,0 +1,23 @@
+T1	Age	0	5	Young
+T2	Amphibian	6	11	frogs
+T3	PerformAnActivity	12	14	do
+T4	Negations	15	18	not
+T5	VisualComparison	19	27	resemble
+T6	PostnatalOrganismStages	28	33	adult
+T7	Amphibian	34	39	frogs
+T8	LevelOfInclusion	41	46	Which
+T9	ResponseType	47	51	term
+T10	StateOfBeing	52	54	is
+T11	Associate	55	60	given
+T12	RelativeDirection	61	63	to
+T13	Pattern	69	76	pattern
+T14	Development	80	91	development
+T15	RelativeLocations	92	94	in
+T16	Amphibian	95	100	frogs
+T17	Reproduction	102	122	asexual reproduction
+T18	Genetics	123	130	cloning
+T19	Reproduction	123	130	cloning
+T20	Development	131	144	metamorphosis
+T21	Changes	131	144	metamorphosis
+T22	LivingThing	145	155	biological
+T23	Adaptation	156	166	adaptation

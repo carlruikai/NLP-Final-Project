@@ -1,0 +1,18 @@
+T1	Position	4	9	outer
+T2	ObjectQuantification	10	16	layers
+T3	Human	20	30	astronauts
+T4	Occupation	20	30	astronauts
+T5	ManmadeObjects	32	42	space suit
+T6	StateOfBeing	44	47	are
+T7	VisualProperty	48	58	reflective
+T8	Result	59	70	in order to
+T9	Help	71	78	protect
+T10	AvoidReject	71	78	protect
+T11	Vacuum	93	99	vacuum
+T12	TheUniverseUniverseAndItsParts	103	108	space
+T13	AmountComparison	110	117	intense
+T14	CelestialLightOnEarth	118	126	sunlight
+T15	Meteor	128	143	micrometeoroids
+T16	DigestiveSubstances	145	150	water
+T17	PhasesOfWater	145	150	water
+T18	AmountChangingActions	151	155	loss

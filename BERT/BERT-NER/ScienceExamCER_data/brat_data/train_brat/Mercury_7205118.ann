@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	PhaseChanges	6	28	change in the state of
+T3	PhasesOfWater	29	34	water
+T4	LiquidMatter	29	34	water
+T5	Particles	35	44	particles
+T6	Cause	45	51	causes
+T7	Particles	56	65	particles
+T8	ChangeInto	69	75	become
+T9	Move	76	84	arranged
+T10	RelativeLocations	85	87	in
+T11	Stability	90	95	fixed
+T12	Position	96	104	position
+T13	PhaseChangingActions	106	113	boiling
+T14	PhaseChangingActions	114	121	melting
+T15	PhaseChangingActions	122	130	freezing
+T16	PhaseChangingActions	131	142	evaporating

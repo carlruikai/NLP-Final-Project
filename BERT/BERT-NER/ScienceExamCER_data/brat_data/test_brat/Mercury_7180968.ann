@@ -1,0 +1,47 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	PerformAnActivity	13	23	conducting
+T4	Experimentation	27	40	investigation
+T5	Relevant	38	40	on
+T6	ElectricalEnergy	44	62	static electricity
+T7	Scientists	68	75	student
+T8	ContainBeComposedOf	76	79	has
+T9	CardinalNumber	80	85	three
+T10	NUMBER	80	85	three
+T11	ManmadeObjects	86	94	balloons
+T12	Touch	99	103	rubs
+T13	CardinalNumber	104	107	two
+T14	NUMBER	104	107	two
+T15	PrepositionalDirections	116	118	on
+T16	ObjectQuantification	121	126	piece
+T17	NaturalMaterial	130	134	wool
+T18	Scientists	140	147	student
+T19	RelativeTime	148	152	then
+T20	Touch	153	160	touches
+T21	LevelOfInclusion	161	165	each
+T22	ManmadeObjects	166	173	balloon
+T23	RelativeDirection	174	176	to
+T24	PartsOfABuilding	179	183	wall
+T25	Observe	187	194	observe
+T26	PerformingResearch	187	194	observe
+T27	ElectricalEnergy	198	216	static electricity
+T28	ProbabilityAndCertainty	217	222	would
+T29	Cause	223	228	cause
+T30	ManmadeObjects	233	240	balloon
+T31	CombineAdd	244	249	stick
+T32	StateOfBeing	256	258	is
+T33	VariablesControls	263	283	independent variable
+T34	RelativeLocations	263	265	in
+T35	Experimentation	292	305	investigation
+T36	PhysicalProperty	311	317	height
+T37	Height	311	317	height
+T38	PartsOfABuilding	325	329	wall
+T39	Numbers	334	340	number
+T40	ManmadeObjects	344	352	balloons
+T41	PullingForces	357	367	attraction
+T42	RelativeDirection	368	370	to
+T43	PartsOfABuilding	375	379	wall
+T44	Touch	384	391	rubbing
+T45	Actions	392	398	action
+T46	PrepositionalDirections	396	398	on
+T47	NaturalMaterial	406	410	wool

@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GenericTerms	6	14	material
+T3	StateOfBeing	15	17	is
+T4	ImportanceComparison	18	27	primarily
+T5	Mixtures	30	37	mixture
+T6	ConstructiveDestructiveForces	41	50	weathered
+T7	NaturalPhenomena	41	50	weathered
+T8	Rock	51	55	rock
+T9	ChemicalProperty	60	67	organic
+T10	Matter	68	74	matter
+T11	Minerals	76	84	minerals
+T12	Soil	85	89	soil
+T13	BodiesOfWater	90	95	ocean
+T14	PhasesOfWater	96	101	water
+T15	AquaticAnimalPart	102	111	seashells

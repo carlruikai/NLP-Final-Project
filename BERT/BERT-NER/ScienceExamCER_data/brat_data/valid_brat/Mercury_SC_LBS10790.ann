@@ -1,0 +1,13 @@
+T1	PhasesOfWater	3	14	water vapor
+T2	PhaseChangingActions	15	24	condenses
+T3	ChangeInto	25	29	into
+T4	StateOfMatter	30	36	liquid
+T5	LevelOfInclusion	38	43	which
+T6	LevelOfInclusion	47	60	the following
+T7	AbilityAvailability	61	64	can
+T8	StateOfBeing	65	67	be
+T9	Create	68	74	formed
+T10	PhasesOfWater	76	79	ice
+T11	PhasesOfWater	80	85	steam
+T12	PhasesOfWater	86	91	frost
+T13	WeatherPhenomena	92	98	clouds

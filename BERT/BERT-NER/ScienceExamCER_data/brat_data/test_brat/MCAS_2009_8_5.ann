@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	ProbabilityAndCertainty	23	28	would
+T4	StateOfBeing	29	31	be
+T5	AmountComparison	32	36	most
+T6	Quality	37	46	effective
+T7	Succeed	37	46	effective
+T8	AmountChangingActions	50	58	reducing
+T9	Traffic	59	81	air traffic congestion
+T10	RelativeLocations	82	84	at
+T11	PhysicalProperty	87	91	busy
+T12	ManmadeLocations	92	99	airport
+T13	Create	101	110	providing
+T14	FeedbackMechanism	111	131	performance feedback
+T15	RelativeDirection	132	134	to
+T16	Human	135	141	pilots
+T17	Create	142	151	providing
+T18	TypesOfEvent	152	158	flight
+T19	WordsForData	159	170	information
+T20	RelativeDirection	171	173	to
+T21	Human	174	184	passengers
+T22	AmountChangingActions	185	195	increasing
+T23	IncreaseDecrease	185	195	increasing
+T24	Numbers	200	206	number
+T25	AirVehicle	210	218	aircraft
+T26	RelativeLocations	219	221	at
+T27	ManmadeLocations	226	233	airport
+T28	AmountChangingActions	234	244	increasing
+T29	IncreaseDecrease	234	244	increasing
+T30	Numbers	249	255	number
+T31	ManmadeLocations	259	266	runways
+T32	RelativeLocations	267	269	at
+T33	ManmadeLocations	274	281	airport

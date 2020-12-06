@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Representation	6	11	graph
+T3	StateOfBeing	12	14	is
+T4	Quality	15	19	best
+T5	QualityComparison	15	19	best
+T6	Goal	20	22	to
+T7	Communicate	23	30	present
+T8	Indicate	23	30	present
+T9	WordsForData	31	35	data
+T10	Collect	36	45	collected
+T11	Relevant	46	48	on
+T12	Frequency	49	55	yearly
+T13	PhasesOfWater	56	61	water
+T14	LiquidMatter	56	61	water
+T15	Use	62	67	usage
+T16	RelativeLocations	68	70	in
+T17	Countries	75	88	United States
+T18	LOCATION	75	88	United States
+T19	Representation	90	99	bar graph
+T20	Representation	100	110	line graph
+T21	Representation	111	122	scatterplot
+T22	Representation	123	135	circle graph

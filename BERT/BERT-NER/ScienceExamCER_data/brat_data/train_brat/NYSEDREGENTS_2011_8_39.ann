@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	NaturalResources	6	14	resource
+T3	StateOfBeing	15	17	is
+T4	Believe	18	28	considered
+T5	Classify	18	28	considered
+T6	Rarity	29	41	nonrenewable
+T7	OtherEnergyResources	43	53	wind power
+T8	OtherEnergyResources	54	66	solar energy
+T9	OtherEnergyResources	67	79	moving water
+T10	FossilFuel	80	91	fossil fuel

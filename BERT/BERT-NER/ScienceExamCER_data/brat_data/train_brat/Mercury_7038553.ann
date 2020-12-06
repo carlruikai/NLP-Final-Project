@@ -1,0 +1,32 @@
+T1	GroupsOfScientists	0	8	Students
+T2	Method	9	16	planned
+T3	PerformAnActivity	9	16	planned
+T4	Experimentation	20	33	investigation
+T5	ContainBeComposedOf	39	47	included
+T6	CombineAdd	48	54	adding
+T7	Numbers	57	65	quantity
+T8	LiquidMatter	69	76	vinegar
+T9	RelativeDirection	77	79	to
+T10	Size	82	87	small
+T11	Numbers	88	94	amount
+T12	GranularSolids	98	109	baking soda
+T13	LevelOfInclusion	111	116	Which
+T14	StateOfBeing	117	119	is
+T15	Quality	124	128	best
+T16	QualityComparison	124	128	best
+T17	ScientificTools	129	133	tool
+T18	Goal	129	131	to
+T19	Measurements	137	144	measure
+T20	Examine	137	144	measure
+T21	PhysicalProperty	149	155	volume
+T22	Size	149	155	volume
+T23	StateOfMatter	163	169	liquid
+T24	LiquidMatter	170	177	vinegar
+T25	Use	178	182	used
+T26	RelativeLocations	183	185	in
+T27	Experimentation	190	203	investigation
+T28	MassMeasuringTool	205	216	pan balance
+T29	WeightMeasuringTool	217	229	spring scale
+T30	DistanceMeasuringTools	230	241	meter stick
+T31	LiquidHoldingContainersRecepticles	242	260	graduated cylinder
+T32	VolumeMeasuringTool	242	260	graduated cylinder

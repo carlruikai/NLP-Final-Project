@@ -1,0 +1,23 @@
+T1	Quality	4	8	BEST
+T2	QualityComparison	4	8	BEST
+T3	Method	9	12	way
+T4	Identify	16	20	tell
+T5	Comparisons	25	35	DIFFERENCE
+T6	RelativeLocations	36	43	between
+T7	Angiosperm	47	50	oak
+T8	Angiosperm	57	67	maple tree
+T9	StateOfBeing	68	70	is
+T10	Examine	74	81	compare
+T11	Comparisons	74	81	compare
+T12	Height	86	92	height
+T13	LevelOfInclusion	96	100	both
+T14	Plant	101	106	trees
+T15	Numbers	108	114	number
+T16	PlantPart	118	124	leaves
+T17	RelativeLocations	125	127	on
+T18	Plant	132	137	trees
+T19	Size	139	143	size
+T20	PlantPart	151	163	root systems
+T21	Plant	171	176	trees
+T22	Shape	178	183	shape
+T23	PlantPart	191	197	leaves

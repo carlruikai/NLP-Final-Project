@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	AmountComparison	26	31	least
+T5	ProbabilityAndCertainty	32	38	likely
+T6	Changes	42	48	change
+T7	RelativeDirection	49	53	from
+T8	StateOfMatter	56	67	solid state
+T9	RelativeDirection	68	70	to
+T10	StateOfMatter	73	85	liquid state
+T11	RelativeTime	86	90	when
+T12	ThermalEnergy	91	95	heat
+T13	StateOfBeing	96	98	is
+T14	CombineAdd	99	106	applied
+T15	Foods	108	114	butter
+T16	NaturalMaterial	115	120	paper
+T17	SolidMatter	115	120	paper
+T18	PhasesOfWater	121	124	ice
+T19	SolidMatter	121	124	ice
+T20	HeatingAppliance	125	131	candle
+T21	NaturalMaterial	132	135	wax

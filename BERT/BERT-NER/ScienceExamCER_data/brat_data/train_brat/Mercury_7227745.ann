@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	14	function
+T3	StateOfBeing	15	17	is
+T4	PerformAnActivity	18	27	performed
+T5	RelativeLocations	28	30	at
+T6	Comparisons	31	40	similarly
+T7	Composition	41	51	structured
+T8	Locations	52	57	sites
+T9	RelativeLocations	58	60	in
+T10	Cell	61	72	prokaryotic
+T11	Cell	77	92	eukaryotic cell
+T12	GeneticProcesses	95	112	protein synthesis
+T13	Alter	113	122	packaging
+T14	Transportation	127	136	transport
+T15	NutritiveSubstancesForAnimalsOrPlants	140	148	proteins
+T16	Preserve	149	156	storage
+T17	Genetics	160	176	genetic material
+T18	Release	177	184	release
+T19	Energy	188	194	energy
+T20	RelativeDirection	195	199	from
+T21	Preserve	200	207	storage
+T22	Exemplar	208	213	forms

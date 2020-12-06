@@ -1,0 +1,49 @@
+T1	LevelOfInclusion	0	4	Each
+T2	AnimalPart	5	10	organ
+T3	RelativeLocations	11	13	in
+T4	DigestiveSystem	18	34	digestive system
+T5	ContainBeComposedOf	35	38	has
+T6	Rarity	41	49	specific
+T7	OrganicProcesses	50	58	function
+T8	RelativeTime	60	66	During
+T9	DigestionActions	67	76	digestion
+T10	Nutrition	78	82	food
+T11	Move	83	89	passes
+T12	RelativeDirection	90	94	from
+T13	PartsOfTheDigestiveSystem	99	106	stomach
+T14	PartsOfEndocrineSystem	99	106	stomach
+T15	RelativeDirection	107	111	into
+T16	PartsOfTheDigestiveSystem	116	131	small intestine
+T17	LevelOfInclusion	133	138	Which
+T18	ResponseType	139	148	statement
+T19	Quality	149	153	best
+T20	QualityComparison	149	153	best
+T21	Represent	154	163	describes
+T22	Occur	169	180	takes place
+T23	RelativeLocations	181	183	in
+T24	PartsOfTheDigestiveSystem	188	203	small intestine
+T25	Nutrition	205	214	Nutrients
+T26	StateOfBeing	215	218	are
+T27	DigestionActions	219	227	absorbed
+T28	ActionsForNutrition	219	227	absorbed
+T29	RelativeDirection	228	232	from
+T30	Nutrition	237	241	food
+T31	Toxins	243	249	Wastes
+T32	StateOfBeing	250	253	are
+T33	PerformAnActivity	254	262	prepared
+T34	Move	266	270	pass
+T35	RelativeDirection	271	274	out
+T36	AnimalPart	282	286	body
+T37	Nutrition	288	292	Food
+T38	StateOfBeing	293	295	is
+T39	DigestionActions	296	303	churned
+T40	CombineAdd	304	308	with
+T41	DigestiveSubstances	309	313	acid
+T42	DigestionActions	317	327	break down
+T43	NutritiveSubstancesForAnimalsOrPlants	328	336	proteins
+T44	AmountComparison	338	344	Excess
+T45	PhasesOfWater	345	350	water
+T46	StateOfBeing	351	353	is
+T47	CombineAdd	354	364	reabsorbed
+T48	RelativeDirection	365	369	into
+T49	Blood	374	386	blood stream

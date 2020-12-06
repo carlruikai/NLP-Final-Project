@@ -1,0 +1,45 @@
+T1	Source	0	9	According
+T2	Biology	17	37	endosymbiotic theory
+T3	AnimalCellPart	39	67	double-membrane mitochondria
+T4	PlantCellPart	39	67	double-membrane mitochondria
+T5	Start	68	78	originated
+T6	Cause	79	93	as a result of
+T7	LevelOfInclusion	94	98	some
+T8	Size	99	105	larger
+T9	Comparisons	99	105	larger
+T10	Eukaryote	106	116	eukaryotic
+T11	Cell	106	121	eukaryotic cell
+T12	ContainBeComposedOf	123	127	with
+T13	Rigidity	128	136	flexible
+T14	Separation	137	146	membranes
+T15	Uptake	147	156	engulfing
+T16	Size	157	164	smaller
+T17	Comparisons	157	164	smaller
+T18	Monera	165	176	prokaryotic
+T19	Cell	165	181	prokaryotic cell
+T20	LevelOfInclusion	184	189	Which
+T21	LevelOfInclusion	193	198	these
+T22	Communicate	199	207	explains
+T23	RelativeLocations	208	213	where
+T24	Position	218	223	outer
+T25	ObjectQuantification	224	229	layer
+T26	AnimalCellPart	237	252	double membrane
+T27	PlantCellPart	237	252	double membrane
+T28	AnimalCellPart	260	272	mitochondria
+T29	PlantCellPart	260	272	mitochondria
+T30	Start	273	283	originated
+T31	AnimalCellPart	289	304	plasma membrane
+T32	PlantCellPart	289	304	plasma membrane
+T33	Eukaryote	312	327	eukaryotic host
+T34	AnimalCellPart	332	348	nuclear membrane
+T35	PlantCellPart	332	348	nuclear membrane
+T36	Eukaryote	356	371	eukaryotic host
+T37	AnimalCellPart	376	385	ribosomes
+T38	PlantCellPart	376	384	ribosome
+T39	Uptake	393	401	engulfed
+T40	Cell	402	418	prokaryotic cell
+T41	Monera	402	418	prokaryotic cell
+T42	AnimalCellPart	423	432	lysosomes
+T43	Uptake	440	448	engulfed
+T44	Cell	449	465	prokaryotic cell
+T45	Monera	449	465	prokaryotic cell

@@ -1,0 +1,27 @@
+T1	Create	4	13	formation
+T2	GeographicFormations	21	40	Himalayan Mountains
+T3	LOCATION	21	40	Himalayan Mountains
+T4	StateOfBeing	41	43	is
+T5	CardinalNumber	44	47	one
+T6	NUMBER	44	47	one
+T7	Exemplar	48	55	example
+T8	GeographicFormations	59	71	land feature
+T9	Create	73	79	caused
+T10	Cause	80	82	by
+T11	ConstructiveDestructiveForces	83	101	compressive forces
+T12	LevelOfInclusion	103	108	Which
+T13	GeographicFormationProcess	109	115	action
+T14	AmountComparison	116	120	most
+T15	ProbabilityAndCertainty	121	127	likely
+T16	Cause	128	131	led
+T17	Create	139	148	formation
+T18	LevelOfInclusion	152	157	these
+T19	GeographicFormations	158	167	mountains
+T20	PartsOfBodiesOfWater	169	177	seafloor
+T21	ChangeInLocation	178	187	spreading
+T22	Separate	178	187	spreading
+T23	ConstructiveDestructiveForces	188	208	strike-slip faulting
+T24	Touch	209	218	colliding
+T25	ChangeInLocation	209	216	collidi
+T26	TectonicPlates	219	225	plates
+T27	GeographicFormations	226	235	hot spots

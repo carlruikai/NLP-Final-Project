@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	13	process
+T3	Release	14	22	releases
+T4	Energy	23	29	energy
+T5	RelativeDirection	30	34	from
+T6	DigestionActions	35	43	digested
+T7	Nutrition	44	48	food
+T8	CellProcesses	50	64	photosynthesis
+T9	PlantProcesses	50	64	photosynthesis
+T10	CellProcesses	65	85	cellular respiration
+T11	Medicine	86	93	vitamin
+T12	Create	94	104	production
+T13	Reproduction	105	118	fertilization
+T14	ActionsForAgriculture	105	118	fertilization

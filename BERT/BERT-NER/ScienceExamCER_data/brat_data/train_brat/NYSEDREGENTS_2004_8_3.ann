@@ -1,0 +1,12 @@
+T1	StateOfBeing	5	7	is
+T2	ImportanceComparison	12	16	main
+T3	OrganicProcesses	17	25	function
+T4	CirculatorySystem	33	51	circulatory system
+T5	EndocrineActions	53	68	secrete enzymes
+T6	DigestionActions	69	75	digest
+T7	NutritiveSubstancesForAnimalsOrPlants	76	84	proteins
+T8	Create	85	92	produce
+T9	OrganicCompounds	93	101	hormones
+T10	CirculationActions	102	111	transport
+T11	Transportation	102	111	transport
+T12	Matter	112	121	materials

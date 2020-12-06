@@ -1,0 +1,20 @@
+T1	RelativeLocations	0	5	Where
+T2	ProbabilityAndCertainty	6	10	will
+T3	ManmadeLocations	13	21	sidewalk
+T4	SensoryTerms	22	26	feel
+T5	Temperature	27	34	hottest
+T6	Comparisons	27	34	hottest
+T7	RelativeTime	35	37	on
+T8	Temperature	40	44	warm
+T9	WeatherDescriptions	46	51	clear
+T10	TimeUnit	52	55	day
+T11	TimesOfDayDayNight	52	55	day
+T12	RelativeLocations	57	62	Under
+T13	ManmadeObjects	65	77	picnic table
+T14	RelativeLocations	78	80	In
+T15	MeasuresOfAmountOfLight	81	87	direct
+T16	CelestialLightOnEarth	88	96	sunlight
+T17	RelativeLocations	97	102	Under
+T18	BodiesOfWater	105	111	puddle
+T19	RelativeLocations	112	114	In
+T20	MeasuresOfAmountOfLight	119	124	shade

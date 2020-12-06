@@ -1,0 +1,33 @@
+T1	RelativeTime	0	4	Over
+T2	TemporalProperty	7	11	long
+T3	MarkersOfTime	12	26	period of time
+T4	Composition	30	35	rocky
+T5	Texture	30	35	rocky
+T6	PhysicalProperty	36	44	volcanic
+T7	OtherGeographicWords	36	44	volcanic
+T8	GeographicFormations	45	51	island
+T9	TemporalProperty	57	67	previously
+T10	Negations	72	75	not
+T11	Help	76	83	support
+T12	ContainBeComposedOf	76	83	support
+T13	LevelOfInclusion	84	87	any
+T14	Exemplar	88	92	form
+T15	LivingThing	96	100	life
+T16	ChangeInto	105	121	transformed into
+T17	PhysicalProperty	124	129	dense
+T18	ExamplesOfHabitats	130	138	forested
+T19	Locations	139	145	region
+T20	LevelOfInclusion	147	152	Which
+T21	LevelOfInclusion	156	161	these
+T22	Taxonomy	162	169	species
+T23	StateOfBeing	170	172	is
+T24	AmountComparison	173	177	most
+T25	ProbabilityAndCertainty	178	184	likely
+T26	StateOfBeing	193	197	been
+T27	Plant	202	217	pioneer species
+T28	Start	223	232	initiated
+T29	Changes	238	252	transformation
+T30	SeedlessVascular	254	259	ferns
+T31	Angiosperm	260	267	grasses
+T32	Protist	268	275	lichens
+T33	Fungi	276	285	mushrooms

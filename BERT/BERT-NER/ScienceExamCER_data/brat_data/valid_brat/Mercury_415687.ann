@@ -1,0 +1,15 @@
+T1	Event	5	12	process
+T2	Create	13	18	forms
+T3	Representation	22	27	image
+T4	RelativeLocations	28	30	in
+T5	PartsOfObservationInstruments	33	39	mirror
+T6	AbsorbEnergy	41	50	absorbing
+T7	CombineAdd	41	50	absorbing
+T8	Light	51	56	light
+T9	LightMovement	57	67	reflecting
+T10	Light	68	73	light
+T11	LightMovement	74	84	refracting
+T12	Light	85	90	light
+T13	ReleaseEnergy	91	103	transmitting
+T14	LightMovement	91	103	transmitting
+T15	Light	104	109	light

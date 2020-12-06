@@ -1,0 +1,32 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Actions	23	30	actions
+T4	StateOfBeing	31	33	is
+T5	AmountComparison	34	38	most
+T6	ProbabilityAndCertainty	39	45	likely
+T7	SystemProcessStages	46	50	part
+T8	TypesOfEvent	56	60	test
+T9	Identify	64	68	find
+T10	Hardness	73	81	hardness
+T11	MineralProperties	73	81	hardness
+T12	Minerals	87	94	mineral
+T13	ObjectQuantification	95	101	sample
+T14	IncreaseDecrease	103	110	heating
+T15	Temperature	103	110	heating
+T16	ObjectQuantification	115	121	sample
+T17	RelativeLocations	122	124	on
+T18	HeatingAppliance	127	136	hot plate
+T19	FormChangingActions	137	147	scratching
+T20	ObjectQuantification	152	158	sample
+T21	Use	159	163	with
+T22	MetalSolids	166	170	nail
+T23	FormChangingActions	171	178	hitting
+T24	Touch	171	178	hitting
+T25	ObjectQuantification	183	189	sample
+T26	Use	190	194	with
+T27	ManmadeObjects	197	203	hammer
+T28	LightMovement	204	211	shining
+T29	Brightness	214	220	bright
+T30	Light	221	226	light
+T31	PrepositionalDirections	227	229	on
+T32	ObjectQuantification	234	240	sample

@@ -1,0 +1,56 @@
+T1	PERSON	0	7	Rolando
+T2	Goal	8	13	wants
+T3	Observe	17	20	see
+T4	StateOfBeing	21	23	at
+T5	Temperature	29	40	temperature
+T6	Exemplar	41	48	various
+T7	LevelOfInclusion	41	48	various
+T8	StateOfMatter	49	56	liquids
+T9	PhaseChangingActions	57	61	boil
+T10	PhaseChangingActions	66	71	boils
+T11	PhasesOfWater	72	81	tap water
+T12	LiquidMatter	72	81	tap water
+T13	PerformingResearch	86	93	records
+T14	Identify	86	93	records
+T15	Temperature	98	109	temperature
+T16	RelativeTime	114	118	then
+T17	PhaseChangingActions	119	124	boils
+T18	PhasesOfWater	125	134	tap water
+T19	LiquidMatter	125	134	tap water
+T20	CombineAdd	135	139	with
+T21	LiquidMatter	140	144	milk
+T22	CombineAdd	145	150	added
+T23	PhasesOfWater	155	164	tap water
+T24	LiquidMatter	155	164	tap water
+T25	CombineAdd	165	169	with
+T26	GranularSolids	170	175	sugar
+T27	CombineAdd	176	181	added
+T28	StateOfBeing	188	190	is
+T29	Goal	195	202	purpose
+T30	PhaseChangingActions	206	213	boiling
+T31	Composition	214	219	plain
+T32	PhasesOfWater	220	229	tap water
+T33	LiquidMatter	220	229	tap water
+T34	TemporalProperty	230	235	first
+T35	CombineAdd	240	247	include
+T36	VariablesControls	250	256	factor
+T37	Alter	260	270	manipulate
+T38	Create	274	278	have
+T39	ProbabilityAndCertainty	281	289	possible
+T40	ResponseType	290	301	explanation
+T41	Problem	307	314	problem
+T42	Alter	318	324	change
+T43	CardinalNumber	325	328	one
+T44	NUMBER	325	328	one
+T45	VariablesControls	329	337	variable
+T46	RelativeTime	338	343	while
+T47	Observe	344	353	observing
+T48	PerformingResearch	344	353	observing
+T49	Comparisons	358	364	others
+T50	Create	368	375	provide
+T51	VariablesControls	378	386	standard
+T52	Use	387	389	by
+T53	LevelOfInclusion	390	395	which
+T54	Examine	399	406	compare
+T55	Comparisons	399	406	compare
+T56	Result	411	418	results

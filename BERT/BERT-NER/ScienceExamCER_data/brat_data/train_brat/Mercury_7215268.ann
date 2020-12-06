@@ -1,0 +1,34 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	ResponseType	15	25	statements
+T4	Quality	26	30	best
+T5	QualityComparison	26	30	best
+T6	Represent	31	40	describes
+T7	ProbabilityAndCertainty	43	51	possible
+T8	EcosystemsEnvironment	52	65	environmental
+T9	Result	66	77	consequence
+T10	Cause	78	80	in
+T11	Create	81	93	constructing
+T12	Size	96	107	large-scale
+T13	ManmadeLocations	108	117	wind farm
+T14	Result	118	120	to
+T15	Create	121	129	generate
+T16	ElectricalEnergy	130	141	electricity
+T17	ManmadeLocations	143	152	Wind farm
+T18	Alter	154	159	alter
+T19	RelativeLocations	164	172	regional
+T20	EcosystemsEnvironment	173	180	climate
+T21	ManmadeLocations	182	191	Wind farm
+T22	AbilityAvailability	193	196	can
+T23	Harm	197	204	disrupt
+T24	ActionsForAnimals	205	214	migrating
+T25	BehavioralAdaptation	205	214	migrating
+T26	LivingThing	215	223	wildlife
+T27	ManmadeLocations	225	234	Wind farm
+T28	Use	236	239	use
+T29	Rarity	242	251	renewable
+T30	Energy	252	258	energy
+T31	Source	259	265	source
+T32	ManmadeLocations	267	276	Wind farm
+T33	Create	278	286	generate
+T34	ElectricalEnergy	287	313	direct current electricity

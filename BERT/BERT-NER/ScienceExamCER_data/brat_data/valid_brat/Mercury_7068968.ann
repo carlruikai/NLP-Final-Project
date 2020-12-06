@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	LivingThing	21	29	organism
+T5	StateOfBeing	26	28	is
+T6	OtherOrganismProperties	38	49	unicellular
+T7	Sickness	51	56	virus
+T8	Eukaryote	57	63	amoeba
+T9	Fungi	64	72	mushroom
+T10	Insect	73	76	ant

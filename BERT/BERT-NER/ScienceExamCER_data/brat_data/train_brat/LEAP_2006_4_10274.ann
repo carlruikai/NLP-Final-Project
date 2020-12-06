@@ -1,0 +1,25 @@
+T1	PERSON	0	5	Della
+T2	ContainBeComposedOf	6	9	has
+T3	Mixtures	12	19	mixture
+T4	Soil	23	27	soil
+T5	PhasesOfWater	32	37	water
+T6	LiquidMatter	32	37	water
+T7	RelativeLocations	38	40	in
+T8	LiquidHoldingContainersRecepticles	43	46	jar
+T9	LevelOfInclusion	48	53	Which
+T10	LevelOfInclusion	57	70	the following
+T11	ScientificTools	71	76	tools
+T12	ProbabilityAndCertainty	77	82	would
+T13	Quality	83	87	best
+T14	QualityComparison	83	87	best
+T15	Help	88	92	help
+T16	PERSON	93	98	Della
+T17	Separate	99	107	separate
+T18	Soil	112	116	soil
+T19	RelativeDirection	117	121	from
+T20	PhasesOfWater	126	131	water
+T21	LiquidMatter	126	131	water
+T22	FiltrationTool	135	141	filter
+T23	VolumeMeasuringTool	144	157	measuring cup
+T24	MassMeasuringTool	160	167	balance
+T25	ViewingTools	170	186	magnifying glass

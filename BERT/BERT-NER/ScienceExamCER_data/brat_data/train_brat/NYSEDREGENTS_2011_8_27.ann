@@ -1,0 +1,25 @@
+T1	Toxins	0	10	Pesticides
+T2	ChemicalProduct	0	10	Pesticides
+T3	PlantNutrients	15	26	fertilizers
+T4	AbilityAvailability	27	30	can
+T5	Help	31	35	help
+T6	Human	36	43	farmers
+T7	Agriculture	36	43	farmers
+T8	Result	44	46	to
+T9	Create	47	54	produce
+T10	AmountComparison	55	59	more
+T11	Plant	60	65	crops
+T12	Agriculture	60	65	crops
+T13	Negations	67	74	However
+T14	Use	76	83	overuse
+T15	LevelOfInclusion	87	92	these
+T16	Compound	93	102	chemicals
+T17	AbilityAvailability	103	106	can
+T18	Cause	107	116	result in
+T19	Evolution	117	138	ecological succession
+T20	EnvironmentalPhenomena	117	138	ecological succession
+T21	GenericTerms	139	147	material
+T22	Alter	148	157	recycling
+T23	Create	148	157	recycling
+T24	EnvironmentalDamageDestruction	158	181	environmental pollution
+T25	Evolution	182	200	selective breeding

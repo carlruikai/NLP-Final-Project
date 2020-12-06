@@ -1,0 +1,24 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	20	characteristic
+T3	Associate	21	31	applies to
+T4	Animal	32	39	animals
+T5	RelativeLocations	40	42	in
+T6	LevelOfInclusion	43	47	only
+T7	CardinalNumber	48	51	one
+T8	NUMBER	48	51	one
+T9	LevelOfInclusion	55	60	these
+T10	Taxonomy	61	76	taxonomic group
+T11	Reptile	79	87	reptiles
+T12	Mammal	89	96	mammals
+T13	Bird	98	103	birds
+T14	Amphibian	105	115	amphibians
+T15	Comparisons	117	119	or
+T16	Aquatic	120	126	fishes
+T17	ContainBeComposedOf	128	132	have
+T18	PartsOfTheIntegumentarySystem	133	137	hair
+T19	ActionsForAnimals	138	146	lay eggs
+T20	ContainBeComposedOf	147	151	have
+T21	StructuralAdaptation	152	163	webbed feet
+T22	RespirationActions	164	171	breathe
+T23	CombineAdd	172	176	with
+T24	AquaticAnimalPart	177	182	gills

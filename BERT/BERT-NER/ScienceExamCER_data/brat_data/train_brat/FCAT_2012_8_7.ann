@@ -1,0 +1,38 @@
+T1	FoodChain	0	8	Food web
+T2	Indicate	10	14	show
+T3	Consumption	15	22	feeding
+T4	Relations	23	36	relationships
+T5	PrepositionalDirections	37	42	among
+T6	Comparisons	43	52	different
+T7	Exemplar	53	58	types
+T8	LivingThing	62	71	organisms
+T9	LevelOfInclusion	73	78	Those
+T10	LivingThing	79	88	organisms
+T11	LevelOfInclusion	89	93	each
+T12	ContainBeComposedOf	94	98	have
+T13	OtherProperties	101	109	specific
+T14	SystemAndFunctions	110	115	niche
+T15	LevelOfInclusion	117	122	Which
+T16	LevelOfInclusion	126	139	the following
+T17	Quality	140	144	best
+T18	QualityComparison	140	144	best
+T19	Communicate	145	154	describes
+T20	SystemAndFunctions	157	165	function
+T21	PartsOfTheFoodChain	169	180	decomposers
+T22	RelativeLocations	181	183	in
+T23	FoodChain	184	192	food web
+T24	Alter	198	205	recycle
+T25	Move	198	205	recycle
+T26	Nutrition	206	215	nutrients
+T27	RelativeDirection	216	220	into
+T28	Soil	221	225	soil
+T29	TransferEnergy	229	236	convert
+T30	Energy	237	249	solar energy
+T31	ChangeInto	250	254	into
+T32	Nutrition	255	259	food
+T33	Create	263	270	provide
+T34	Nutrition	271	275	food
+T35	TypeOfConsumer	280	299	secondary consumers
+T36	Compete	303	310	compete
+T37	TypeOfConsumer	316	335	secondary consumers
+T38	Element	340	346	oxygen

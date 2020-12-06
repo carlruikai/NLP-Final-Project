@@ -1,0 +1,14 @@
+T1	Scientists	2	9	student
+T2	LocationChangingActions	10	15	drops
+T3	ManmadeObjects	18	22	ball
+T4	LevelOfInclusion	24	29	Which
+T5	Force	30	35	force
+T6	Cause	36	42	causes
+T7	ManmadeObjects	47	51	ball
+T8	LocationChangingActions	55	59	fall
+T9	RelativeDirection	60	62	to
+T10	EarthPartsGrossGroundAtmosphere	67	73	ground
+T11	ElectricalEnergy	75	86	electricity
+T12	PullingForces	87	95	friction
+T13	Gravity	96	103	gravity
+T14	MagneticForce	104	113	magnetism

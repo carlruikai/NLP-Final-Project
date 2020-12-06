@@ -1,0 +1,22 @@
+T1	Element	0	8	Aluminum
+T2	StateOfBeing	9	11	is
+T3	Element	15	22	element
+T4	LevelOfInclusion	24	29	Which
+T5	LevelOfInclusion	33	46	the following
+T6	Quality	47	51	best
+T7	QualityComparison	47	51	best
+T8	Represent	52	61	describes
+T9	Size	66	74	smallest
+T10	Comparisons	66	74	smallest
+T11	Particles	75	83	particle
+T12	AtomComponents	75	83	particle
+T13	Element	87	95	aluminum
+T14	Preserve	101	108	retains
+T15	ContainBeComposedOf	101	108	retains
+T16	LevelOfInclusion	109	112	all
+T17	Property	117	127	properties
+T18	Element	131	139	aluminum
+T19	ElementalComponents	143	151	molecule
+T20	ElementalComponents	155	159	atom
+T21	AtomComponents	162	168	proton
+T22	AtomComponents	172	180	electron

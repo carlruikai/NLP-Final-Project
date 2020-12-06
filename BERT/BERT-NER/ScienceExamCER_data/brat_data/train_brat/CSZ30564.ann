@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	VerbsForLocate	26	31	found
+T5	DistanceComparison	32	40	farthest
+T6	RelativeDirection	41	45	from
+T7	ObjectPart	50	56	center
+T8	ElementalComponents	63	67	atom
+T9	AtomComponents	69	76	nucleus
+T10	AtomComponents	77	83	proton
+T11	AtomComponents	84	91	neutron
+T12	AtomComponents	92	100	electron

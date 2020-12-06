@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	3	All
+T2	LivingThing	4	17	living things
+T3	Require	18	22	need
+T4	Energy	23	29	energy
+T5	Result	30	32	to
+T6	LivingDying	33	40	survive
+T7	StateOfBeing	47	49	is
+T8	ImportanceComparison	54	61	primary
+T9	Source	62	68	source
+T10	Energy	72	78	energy
+T11	LevelOfInclusion	83	86	all
+T12	LivingThing	87	100	living things
+T13	Plant	102	108	plants
+T14	Star	113	116	sun
+T15	PhasesOfWater	117	122	water
+T16	WeatherPhenomena	127	131	wind

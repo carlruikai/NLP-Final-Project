@@ -1,0 +1,33 @@
+T1	Star	4	7	Sun
+T2	Observe	8	15	appears
+T3	Move	19	23	move
+T4	PrepositionalDirections	24	30	across
+T5	Sky	35	38	sky
+T6	LevelOfInclusion	39	43	each
+T7	TimeUnit	44	47	day
+T8	TimesOfDayDayNight	44	47	day
+T9	ApparentCelestialMovement	49	55	rising
+T10	RelativeLocations	52	54	in
+T11	CardinalDirectionsNorthEastSouthWest	63	67	east
+T12	ApparentCelestialMovement	72	79	setting
+T13	RelativeLocations	76	78	in
+T14	CardinalDirectionsNorthEastSouthWest	87	91	west
+T15	Cause	98	104	causes
+T16	ApparentCelestialMovement	110	125	apparent motion
+T17	CelestialMovement	131	139	rotation
+T18	InnerPlanets	143	148	Earth
+T19	Position	149	160	on its axis
+T20	PlanetParts	156	160	axis
+T21	CelestialMovement	165	175	revolution
+T22	Star	183	186	Sun
+T23	PrepositionalDirections	187	193	around
+T24	InnerPlanets	194	199	Earth
+T25	InnerPlanets	194	199	Earth
+T26	Distance	212	220	distance
+T27	RelativeDirection	221	225	from
+T28	Star	230	233	Sun
+T29	Property	238	248	properties
+T30	InnerPlanets	252	257	Earth
+T31	PlanetParts	260	270	atmosphere
+T32	EarthPartsGrossGroundAtmosphere	260	270	atmosphere
+T33	LayersOfTheEarth	260	270	atmosphere

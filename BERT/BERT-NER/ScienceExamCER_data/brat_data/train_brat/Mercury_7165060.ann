@@ -1,0 +1,54 @@
+T1	GroupsOfScientists	0	10	Scientists
+T2	StateOfBeing	11	14	are
+T3	Collect	15	25	collecting
+T4	PerformingResearch	15	25	collecting
+T5	ObjectQuantification	26	33	samples
+T6	RelativeDirection	34	38	from
+T7	Sedimentary	39	47	sediment
+T8	GeographicFormations	48	56	deposits
+T9	RelativeLocations	57	59	in
+T10	SpecificNamedBodiesOfWater	60	72	Biscayne Bay
+T11	Experimentation	74	78	Test
+T12	Result	79	86	results
+T13	Indicate	87	91	show
+T14	ChemicalProperty	97	105	salinity
+T15	RelativeLocations	100	102	in
+T16	BodiesOfWater	113	116	bay
+T17	StateOfBeing	117	119	is
+T18	AmountChangingActions	120	130	increasing
+T19	IncreaseDecrease	120	130	increasing
+T20	LevelOfInclusion	132	137	Which
+T21	Human	138	143	human
+T22	Actions	144	153	influence
+T23	ProbabilityAndCertainty	154	159	might
+T24	Cause	165	168	led
+T25	EcosystemsEnvironment	177	190	environmental
+T26	Changes	191	197	change
+T27	Classify	199	211	establishing
+T28	BodiesOfWater	216	219	bay
+T29	StateOfBeing	220	222	as
+T30	TerrestrialLocations	225	238	national park
+T31	GeopoliticalLocations	225	238	national park
+T32	RelativeTime	239	241	in
+T33	DATE	242	246	1980
+T34	Identify	247	254	finding
+T35	VerbsForLocate	247	254	finding
+T36	LocationChangingActions	255	261	sunken
+T37	LiquidMovement	255	261	sunken
+T38	WaterVehicle	262	267	ships
+T39	WaitStay	268	275	resting
+T40	RelativeLocations	276	278	on
+T41	PartsOfBodiesOfWater	283	288	floor
+T42	BodiesOfWater	296	299	bay
+T43	Collect	300	310	collecting
+T44	Aquatic	311	325	marine animals
+T45	RelativeDirection	326	330	from
+T46	RelativeLocations	335	341	bottom
+T47	BodiesOfWater	349	352	bay
+T48	Create	353	363	developing
+T49	Energy	364	369	power
+T50	ManmadeLocations	370	376	plants
+T51	PrepositionalDirections	377	382	along
+T52	PartsOfBodiesOfWater	387	396	shoreline
+T53	TerrestrialLocations	387	396	shoreline
+T54	BodiesOfWater	404	407	bay

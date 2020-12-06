@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	10	term
+T3	GenericTerms	6	10	term
+T4	Quality	11	15	best
+T5	QualityComparison	11	15	best
+T6	Represent	16	25	describes
+T7	PropertyOfMotion	30	38	movement
+T8	Move	30	38	movement
+T9	PhasesOfWater	42	47	water
+T10	PrepositionalDirections	48	55	through
+T11	AnimalCellPart	56	69	cell membrane
+T12	PlantCellPart	56	69	cell membrane
+T13	CellProcesses	72	83	respiration
+T14	CellProcesses	84	91	osmosis
+T15	CellProcesses	92	99	mitosis
+T16	PhaseChangingActions	100	112	condensation
+T17	ParticleMovement	100	112	condensation

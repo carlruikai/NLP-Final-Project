@@ -1,0 +1,13 @@
+T1	RelativeLocations	0	5	Where
+T2	RelativeNumber	9	13	many
+T3	Complexity	21	26	basic
+T4	LivingDying	27	31	life
+T5	OrganicProcesses	32	41	functions
+T6	Occur	42	52	take place
+T7	RelativeLocations	53	55	in
+T8	LivingThing	56	65	organisms
+T9	PartsOfTheNervousSystem	67	72	brain
+T10	Cell	73	78	cells
+T11	PartsOfTheCirculatorySystem	79	84	heart
+T12	PartsOfEndocrineSystem	79	84	heart
+T13	PartsOfTheNervousSystem	85	91	nerves

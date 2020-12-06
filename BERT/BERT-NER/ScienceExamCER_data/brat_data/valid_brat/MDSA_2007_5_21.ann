@@ -1,0 +1,24 @@
+T1	Human	0	10	Scientists
+T2	GroupsOfScientists	0	10	Scientists
+T3	Hypothesizing	11	19	estimate
+T4	States	25	33	Maryland
+T5	LOCATION	25	33	Maryland
+T6	ContainBeComposedOf	34	42	contains
+T7	AmountComparison	43	47	more
+T8	Comparisons	48	52	than
+T9	NUMBER	53	64	850 million
+T10	MassUnit	65	69	tons
+T11	FossilFuel	73	77	coal
+T12	Sedimentary	73	77	coal
+T13	FossilFuel	79	83	Coal
+T14	Sedimentary	79	83	Coal
+T15	StateOfBeing	84	86	is
+T16	AmountComparison	87	91	most
+T17	Rarity	92	100	commonly
+T18	Use	101	105	used
+T19	Result	106	108	to
+T20	Create	109	116	produce
+T21	ElectricalEnergy	122	133	electricity
+T22	Medicine	134	142	medicine
+T23	MetalSolids	143	149	metals
+T24	PhasesOfWater	150	155	water

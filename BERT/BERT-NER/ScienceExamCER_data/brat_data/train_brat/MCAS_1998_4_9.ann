@@ -1,0 +1,30 @@
+T1	ScientificTheoryExperimentationAndHistory	8	15	science
+T2	QuestionActivityType	16	23	project
+T3	PERSON	25	29	Alan
+T4	Start	30	35	began
+T5	Examine	38	43	study
+T6	PerformingResearch	38	43	study
+T7	Angiosperm	47	64	sugar maple trees
+T8	Identify	69	76	noticed
+T9	Observe	69	76	noticed
+T10	RelativeNumber	77	81	many
+T11	Comparisons	82	93	differences
+T12	RelativeLocations	94	99	among
+T13	Angiosperm	104	121	sugar maple trees
+T14	DistanceComparison	122	126	near
+T15	ManmadeLocations	131	137	school
+T16	LevelOfInclusion	139	144	Which
+T17	LevelOfInclusion	148	161	the following
+T18	CardinalNumber	162	167	three
+T19	NUMBER	162	167	three
+T20	Property	168	183	characteristics
+T21	ProbabilityAndCertainty	184	189	would
+T22	Alter	190	194	vary
+T23	AmountComparison	199	204	LEAST
+T24	Height	206	212	height
+T25	Numbers	213	219	number
+T26	PlantPart	223	229	leaves
+T27	Exemplar	230	234	type
+T28	PlantPart	238	243	seeds
+T29	PlantPart	244	249	trunk
+T30	Width	250	255	width

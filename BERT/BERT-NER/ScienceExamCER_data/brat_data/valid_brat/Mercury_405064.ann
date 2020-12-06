@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Quality	13	17	best
+T4	QualityComparison	13	17	best
+T5	Method	18	22	plan
+T6	Goal	23	25	to
+T7	Cause	26	30	make
+T8	FossilFuel	35	46	fossil fuel
+T9	Source	47	53	supply
+T10	Numbers	47	53	supply
+T11	Occur	54	58	last
+T12	WaitStay	54	58	last
+T13	TemporalProperty	59	65	longer
+T14	Uptake	67	71	mine
+T15	AmountComparison	72	76	more
+T16	FossilFuel	77	81	coal
+T17	IncreaseDecrease	82	88	reduce
+T18	AmountChangingActions	82	88	reduce
+T19	LandVehicle	89	92	car
+T20	EnvironmentalDamageDestruction	93	102	pollution
+T21	Create	103	110	produce
+T22	AmountComparison	111	115	more
+T23	FossilFuel	116	124	gasoline
+T24	IncreaseDecrease	125	131	reduce
+T25	AmountChangingActions	125	131	reduce
+T26	ElectricalEnergy	132	143	electricity
+T27	Use	144	147	use

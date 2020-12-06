@@ -1,0 +1,20 @@
+T1	Reactions	4	21	chemical reaction
+T2	Compound	25	31	ethane
+T3	Element	36	42	oxygen
+T4	Create	43	51	produces
+T5	Compound	52	66	carbon dioxide
+T6	PhasesOfWater	71	76	water
+T7	LiquidMatter	71	76	water
+T8	LevelOfInclusion	78	83	Which
+T9	StateOfBeing	84	86	is
+T10	Quality	91	95	best
+T11	QualityComparison	91	95	best
+T12	Exemplar	96	100	form
+T13	Identify	104	112	identify
+T14	PartsOfChemicalReactions	113	122	reactants
+T15	PartsOfChemicalReactions	127	135	products
+T16	Reactions	143	151	reaction
+T17	Representation	155	160	table
+T18	Representation	163	168	graph
+T19	Representation	171	178	diagram
+T20	RepresentingElementsAndMolecules	182	190	equation

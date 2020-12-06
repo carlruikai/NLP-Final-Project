@@ -1,0 +1,5 @@
+After a race, a newspaper lists the names of the five fastest runners. Another method that could be used to identify the five fastest runners is to make a chart that shows the
+average of the speeds of the runners.
+total distance for each runner.
+time it took each runner to run the race.
+percentage of the runners who finished the race.

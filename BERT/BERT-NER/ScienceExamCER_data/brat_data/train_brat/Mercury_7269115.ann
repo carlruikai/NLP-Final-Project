@@ -1,0 +1,25 @@
+T1	FossilFuel	0	3	Oil
+T2	FossilFuel	5	9	coal
+T3	FossilFuel	15	26	natural gas
+T4	StateOfBeing	27	30	are
+T5	FossilFuel	31	42	fossil fuel
+T6	Create	44	50	formed
+T7	Cause	51	56	under
+T8	OrganicProcesses	62	72	conditions
+T9	StateOfBeing	62	72	conditions
+T10	RelativeNumber	74	77	low
+T11	Temperature	78	89	temperature
+T12	RelativeNumber	94	98	high
+T13	Pressure	99	107	pressure
+T14	RelativeNumber	108	112	high
+T15	Temperature	113	124	temperature
+T16	RelativeNumber	129	133	high
+T17	Pressure	134	142	pressure
+T18	RelativeNumber	143	146	low
+T19	Temperature	147	158	temperature
+T20	RelativeNumber	163	166	low
+T21	Pressure	167	175	pressure
+T22	RelativeNumber	176	180	high
+T23	Temperature	181	192	temperature
+T24	RelativeNumber	197	200	low
+T25	Pressure	201	209	pressure

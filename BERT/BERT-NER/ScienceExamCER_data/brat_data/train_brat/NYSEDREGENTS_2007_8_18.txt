@@ -1,0 +1,5 @@
+Which unit is used to indicate the amount of energy in food?
+ounce
+degree
+calorie
+gram

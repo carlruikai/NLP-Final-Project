@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	11	trait
+T3	GeneticRelations	15	23	children
+T4	WordsForOffspring	15	23	children
+T5	AmountComparison	24	28	most
+T6	ProbabilityAndCertainty	29	35	likely
+T7	Inheritance	36	43	inherit
+T8	RelativeDirection	44	48	from
+T9	GeneticRelations	55	62	parents
+T10	Shape	64	69	shape
+T11	HumanPart	73	81	earlobes
+T12	PopularMedia	82	89	musical
+T13	Ability	90	97	ability
+T14	OtherAnimalProperties	98	109	personality
+T15	Language	110	118	language

@@ -1,0 +1,32 @@
+T1	Scientists	2	15	meteorologist
+T2	PerformingResearch	16	23	records
+T3	WordsForData	24	28	data
+T4	Cities	35	39	city
+T5	RelativeTime	40	42	on
+T6	LevelOfInclusion	45	52	certain
+T7	MarkersOfTime	53	57	date
+T8	WordsForData	63	67	data
+T9	ContainBeComposedOf	68	76	includes
+T10	Temperature	77	88	temperature
+T11	WeatherPhenomena	90	101	cloud cover
+T12	WeatherPhenomena	103	107	wind
+T13	MeasuringSpeed	108	113	speed
+T14	Speed	108	113	speed
+T15	Pressure	115	134	barometric pressure
+T16	WeatherPhenomena	140	144	wind
+T17	Directions	145	154	direction
+T18	LevelOfInclusion	156	161	Which
+T19	Method	162	168	method
+T20	Require	169	175	should
+T21	Scientists	180	193	meteorologist
+T22	Use	194	197	use
+T23	PerformingResearch	201	207	record
+T24	WordsForData	213	217	data
+T25	Speed	224	229	quick
+T26	WrittenMedia	230	239	reference
+T27	WrittenMedia	243	250	written
+T28	Represent	251	262	description
+T29	Representation	265	270	table
+T30	MeteorologicalModels	273	286	station model
+T31	WeatherPhenomena	289	296	weather
+T32	Representation	297	300	map

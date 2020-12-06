@@ -1,0 +1,12 @@
+T1	ScientificTools	5	9	tool
+T2	StateOfBeing	10	12	is
+T3	Use	13	17	used
+T4	Goal	18	20	to
+T5	Identify	21	30	determine
+T6	Mass	35	39	mass
+T7	GenericTerms	46	52	object
+T8	MassMeasuringTool	54	61	Balance
+T9	DistanceMeasuringTools	62	73	Meter stick
+T10	TemperatureMeasuringTools	74	85	Thermometer
+T11	LiquidHoldingContainersRecepticles	86	104	Graduated cylinder
+T12	VolumeMeasuringTool	86	104	Graduated cylinder

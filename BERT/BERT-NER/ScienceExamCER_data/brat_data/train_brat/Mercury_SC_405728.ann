@@ -1,0 +1,26 @@
+T1	Use	0	5	Using
+T2	SystemOfCommunication	10	18	Internet
+T3	TechnologicalInstrument	10	18	Internet
+T4	AcademicMedia	25	39	research paper
+T5	AbilityAvailability	40	43	can
+T6	Help	44	48	help
+T7	Scientists	51	58	student
+T8	Identify	59	63	find
+T9	VerbsForLocate	59	63	find
+T10	RelativeNumber	64	68	many
+T11	NaturalResources	69	78	resources
+T12	CardinalNumber	80	83	One
+T13	NUMBER	80	83	One
+T14	Problem	84	91	problem
+T15	Use	97	102	using
+T16	WordsForData	103	114	information
+T17	RelativeLocations	112	114	on
+T18	SystemOfCommunication	122	130	Internet
+T19	TechnologicalInstrument	122	130	Internet
+T20	StateOfBeing	131	133	is
+T21	ProbabilityAndCertainty	142	147	might
+T22	StateOfBeing	148	150	be
+T23	AbilityAvailability	151	155	free
+T24	TemporalProperty	157	164	current
+T25	Complexity	166	174	detailed
+T26	Validity	176	185	incorrect

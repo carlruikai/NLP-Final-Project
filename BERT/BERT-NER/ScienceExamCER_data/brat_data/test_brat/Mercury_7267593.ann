@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	NaturalPhenomena	15	32	natural disasters
+T4	EnvironmentalDamageDestruction	15	32	natural disasters
+T5	StateOfBeing	33	36	are
+T6	AmountComparison	41	45	most
+T7	Frequency	46	59	unpredictable
+T8	NaturalPhenomena	61	72	earthquakes
+T9	WeatherPhenomena	73	83	hurricanes
+T10	WeatherPhenomena	84	92	tornados
+T11	WeatherPhenomena	93	102	blizzards

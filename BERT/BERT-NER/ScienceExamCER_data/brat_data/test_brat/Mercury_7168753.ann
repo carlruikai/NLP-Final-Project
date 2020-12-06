@@ -1,0 +1,31 @@
+T1	RelativeTime	0	4	When
+T2	Scientists	7	16	scientist
+T3	PerformAnActivity	17	25	performs
+T4	Experimentation	29	39	experiment
+T5	RelativeLocations	41	46	there
+T6	StateOfBeing	47	50	are
+T7	RelativeNumber	51	55	many
+T8	Changes	56	63	changes
+T9	AbilityAvailability	69	72	can
+T10	Occur	73	78	occur
+T11	LevelOfInclusion	80	85	Which
+T12	Observe	86	97	observation
+T13	Require	98	104	should
+T14	Indicate	109	113	list
+T15	StateOfBeing	114	116	as
+T16	ChemicalChange	119	134	chemical change
+T17	Substances	140	149	substance
+T18	StateOfBeing	150	153	was
+T19	IncreaseDecrease	154	160	heated
+T20	Temperature	154	160	heated
+T21	Shape	166	171	shape
+T22	Substances	179	188	substance
+T23	Changes	189	196	changed
+T24	PhysicalProperty	202	208	volume
+T25	Size	202	208	volume
+T26	Substances	216	225	substance
+T27	Changes	226	233	changed
+T28	Substances	239	248	substance
+T29	ChangeInto	249	261	changed into
+T30	Age	264	267	new
+T31	Substances	268	277	substance

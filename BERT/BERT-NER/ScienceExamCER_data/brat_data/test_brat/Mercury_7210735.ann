@@ -1,0 +1,43 @@
+T1	Galaxy	4	20	Milky Way Galaxy
+T2	Observe	21	26	looks
+T3	Comparisons	27	31	like
+T4	Light	34	47	band of light
+T5	PrepositionalDirections	48	54	across
+T6	Sky	59	62	sky
+T7	LevelOfInclusion	64	69	Which
+T8	Observe	70	81	observation
+T9	ProbabilityAndCertainty	82	87	would
+T10	Create	88	95	provide
+T11	Quality	100	104	best
+T12	QualityComparison	100	104	best
+T13	Observe	105	109	view
+T14	Light	118	131	band of light
+T15	Negations	132	139	without
+T16	ViewingTools	142	151	telescope
+T17	ObservationInstrumentsTelescopeBinoculars	142	151	telescope
+T18	Observe	153	160	observi
+T19	LevelOfInclusion	163	167	only
+T20	DistanceComparison	168	172	near
+T21	NorthernHemisphereLocations	177	182	north
+T22	Comparisons	178	180	or
+T23	SouthernHemisphereLocations	186	196	south pole
+T24	Observe	197	204	observi
+T25	LevelOfInclusion	207	211	only
+T26	RelativeTime	212	218	during
+T27	EclipseEvents	221	226	lunar
+T28	Comparisons	227	229	or
+T29	EclipseEvents	230	243	solar eclipse
+T30	Observe	244	251	observi
+T31	RelativeTime	254	256	on
+T32	LevelOfInclusion	257	260	any
+T33	Brightness	261	266	sunny
+T34	WeatherDescriptions	261	266	sunny
+T35	WeatherDescriptions	268	273	clear
+T36	TimesOfDayDayNight	274	277	day
+T37	Observe	278	285	observi
+T38	RelativeTime	288	290	on
+T39	LevelOfInclusion	291	294	any
+T40	MeasuresOfAmountOfLight	295	299	dark
+T41	Brightness	295	299	dark
+T42	WeatherDescriptions	301	306	clear
+T43	TimesOfDayDayNight	307	312	night

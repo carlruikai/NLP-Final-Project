@@ -1,0 +1,31 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Represent	16	25	describes
+T4	Locations	30	38	location
+T5	Star	46	49	Sun
+T6	RelativeLocations	50	52	in
+T7	TheUniverseUniverseAndItsParts	57	65	universe
+T8	Star	71	74	Sun
+T9	CelestialMovement	75	81	orbits
+T10	InnerPlanets	82	87	Earth
+T11	LOCATION	82	87	Earth
+T12	RelativeLocations	88	90	in
+T13	Galaxy	95	111	Andromeda galaxy
+T14	Star	117	120	Sun
+T15	CelestialMovement	121	127	orbits
+T16	InnerPlanets	128	133	Earth
+T17	LOCATION	128	133	Earth
+T18	RelativeLocations	134	136	in
+T19	Galaxy	141	157	Milky Way galaxy
+T20	Star	163	166	Sun
+T21	StateOfBeing	167	169	is
+T22	ObjectPart	174	180	center
+T23	SolarSystem	186	198	solar system
+T24	RelativeLocations	199	201	in
+T25	Galaxy	206	222	Milky Way galaxy
+T26	Star	228	231	Sun
+T27	StateOfBeing	232	234	is
+T28	ObjectPart	239	245	center
+T29	SolarSystem	251	263	solar system
+T30	RelativeLocations	264	266	in
+T31	Galaxy	271	287	Andromeda galaxy

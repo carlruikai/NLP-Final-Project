@@ -1,0 +1,32 @@
+T1	RelativeTime	0	6	During
+T2	WeatherPhenomena	9	18	rainstorm
+T3	Precipitation	9	18	rainstorm
+T4	PlantPart	20	26	leaves
+T5	LiquidMovement	27	31	wash
+T6	PrepositionalDirections	32	36	down
+T7	GeographicFormations	39	44	gully
+T8	RelativeLocations	45	47	on
+T9	GeographicFormations	50	58	hillside
+T10	GeographicFormationParts	50	58	hillside
+T11	PhasesOfWater	64	69	water
+T12	Speed	70	75	slows
+T13	IncreaseDecrease	70	75	slows
+T14	RelativeLocations	81	83	at
+T15	GeographicFormationParts	88	92	foot
+T16	GeographicFormations	100	104	hill
+T17	Separate	109	117	fans out
+T18	ChangeInLocation	119	129	depositing
+T19	PlantPart	134	140	leaves
+T20	GeographicFormations	147	165	geologic structure
+T21	StateOfBeing	166	168	is
+T22	Create	169	175	formed
+T23	Cause	176	178	in
+T24	Comparisons	181	188	similar
+T25	Method	189	192	way
+T26	Igneous	196	202	basalt
+T27	MineralFormations	203	209	column
+T28	MineralFormations	212	222	stalactite
+T29	GeographicFormations	225	230	fault
+T30	GeometricSpatialObjects	231	235	line
+T31	BodiesOfWater	238	243	delta
+T32	PartsOfBodiesOfWater	238	243	delta

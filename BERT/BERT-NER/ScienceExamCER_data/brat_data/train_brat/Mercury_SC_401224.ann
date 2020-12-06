@@ -1,0 +1,15 @@
+T1	StateOfMatter	0	6	Solids
+T2	StateOfBeing	12	15	are
+T3	CombineAdd	16	33	combined together
+T4	Preserve	38	46	maintain
+T5	PhysicalProperty	53	70	physical properti
+T6	StateOfBeing	73	76	are
+T7	Quality	77	81	best
+T8	QualityComparison	77	81	best
+T9	Classify	82	89	labeled
+T10	Identify	82	89	labeled
+T11	StateOfBeing	90	92	as
+T12	PartsOfASolution	95	101	solute
+T13	Mixtures	103	110	mixture
+T14	PartsOfASolution	112	119	solvent
+T15	Compound	121	129	compound

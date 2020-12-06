@@ -1,0 +1,16 @@
+T1	WordsForOffspring	3	10	kittens
+T2	ActionsForAnimals	11	15	grow
+T3	Growth	11	15	grow
+T4	ChangeInto	16	20	into
+T5	Mammal	21	25	cats
+T6	AnimalPart	33	37	body
+T7	PhysicalProperty	38	44	weight
+T8	Mass	38	44	weight
+T9	Rarity	45	52	usually
+T10	Frequency	45	52	usually
+T11	AmountChangingActions	53	62	decreases
+T12	IncreaseDecrease	53	62	decreases
+T13	AmountChangingActions	63	72	increases
+T14	IncreaseDecrease	63	72	increases
+T15	WaitStay	73	80	remains
+T16	Comparisons	85	89	same

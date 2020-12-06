@@ -1,0 +1,37 @@
+T1	Foods	0	9	Ice cream
+T2	RelativeLocations	10	12	in
+T3	LiquidHoldingContainersRecepticles	15	19	bowl
+T4	Changes	20	27	changed
+T5	RelativeDirection	28	32	from
+T6	StateOfMatter	33	38	solid
+T7	RelativeDirection	39	41	to
+T8	StateOfMatter	42	48	liquid
+T9	RelativeLocations	49	51	in
+T10	RelativeNumber	52	57	a few
+T11	TimeUnit	58	65	minutes
+T12	LevelOfInclusion	67	72	Which
+T13	LevelOfInclusion	76	89	the following
+T14	AmountComparison	90	94	most
+T15	ProbabilityAndCertainty	95	101	likely
+T16	Cause	102	108	caused
+T17	Changes	114	120	change
+T18	Bacteria	122	130	Bacteria
+T19	Growth	131	135	grew
+T20	RelativeLocations	136	138	in
+T21	Foods	143	152	ice cream
+T22	ThermalEnergy	154	158	Heat
+T23	StateOfBeing	159	162	was
+T24	CombineAdd	163	168	added
+T25	RelativeDirection	169	171	to
+T26	Foods	176	185	ice cream
+T27	PhasesOfWater	187	192	Water
+T28	SeparatingMixtures	193	203	evaporated
+T29	PhaseChangingActions	193	203	evaporated
+T30	RelativeDirection	204	208	from
+T31	Foods	213	222	ice cream
+T32	PhaseChangingActions	224	230	Frozen
+T33	PlantPart	231	238	berries
+T34	StateOfBeing	239	243	were
+T35	CombineAdd	244	253	sprinkled
+T36	RelativeLocations	254	256	on
+T37	Foods	261	270	ice cream

@@ -1,0 +1,9 @@
+T1	StateOfBeing	5	7	is
+T2	Genetics	12	29	repeating monomer
+T3	Genetics	35	38	DNA
+T4	ElementalComponents	39	47	molecule
+T5	Genetics	49	61	triglyceride
+T6	Genetics	62	71	dipeptide
+T7	PartsOfDNA	72	82	nucleotide
+T8	PartsOfRNA	72	82	nucleotide
+T9	Genetics	83	95	phospholipid

@@ -1,0 +1,13 @@
+T1	Method	0	3	How
+T2	StateOfBeing	4	7	are
+T3	Animal	8	15	animals
+T4	Consumption	21	25	prey
+T5	ActionsForAnimals	21	25	prey
+T6	PrepositionalDirections	26	28	on
+T7	Comparisons	29	34	other
+T8	Animal	35	42	animals
+T9	Classify	43	53	classified
+T10	TypeOfConsumer	55	65	herbivores
+T11	TypeOfConsumer	66	76	carnivores
+T12	PartsOfTheFoodChain	77	86	autotroph
+T13	PartsOfTheFoodChain	88	99	decomposers

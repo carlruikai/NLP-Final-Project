@@ -1,0 +1,27 @@
+T1	RelativeTime	0	6	During
+T2	DigestionActions	7	16	digestion
+T3	ResistanceStrength	18	24	strong
+T4	PH	25	30	acids
+T5	Substances	25	30	acids
+T6	StateOfBeing	31	34	are
+T7	CombineAdd	35	40	added
+T8	RelativeDirection	41	43	to
+T9	Nutrition	44	48	food
+T10	Help	52	56	help
+T11	DigestionActions	57	67	break down
+T12	Nutrition	72	76	food
+T13	ChemicalProperty	77	87	chemically
+T14	RelativeDirection	89	93	Into
+T15	LevelOfInclusion	94	99	which
+T16	AnimalPart	100	105	organ
+T17	StateOfBeing	106	109	are
+T18	AmountComparison	110	114	most
+T19	LevelOfInclusion	118	123	these
+T20	PH	124	129	acids
+T21	Substances	124	129	acids
+T22	CombineAdd	130	135	added
+T23	PartsOfTheDigestiveSystem	137	152	small intestine
+T24	PartsOfTheDigestiveSystem	153	168	large intestine
+T25	PartsOfTheDigestiveSystem	169	180	gallbladder
+T26	PartsOfTheDigestiveSystem	181	188	stomach
+T27	PartsOfEndocrineSystem	181	188	stomach

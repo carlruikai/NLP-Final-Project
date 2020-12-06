@@ -1,0 +1,21 @@
+T1	StateOfBeing	5	7	is
+T2	ResponseType	12	16	term
+T3	GenericTerms	12	16	term
+T4	Numbers	25	31	amount
+T5	ThermalEnergy	35	39	heat
+T6	Measurements	40	43	per
+T7	Unit	44	48	unit
+T8	Mass	49	53	mass
+T9	Require	54	62	required
+T10	Goal	63	65	to
+T11	IncreaseDecrease	66	71	raise
+T12	Temperature	76	87	temperature
+T13	Material	93	101	material
+T14	Matter	93	101	material
+T15	CardinalNumber	105	108	one
+T16	NUMBER	105	108	one
+T17	TemperatureUnit	109	123	degree Celsius
+T18	Energy	125	131	energy
+T19	Matter	132	138	matter
+T20	Temperature	139	150	temperature
+T21	MeasurementsForHeatChange	151	173	specific heat capacity

@@ -1,0 +1,51 @@
+T1	RelativeNumber	2	8	single
+T2	Cell	9	25	prokaryotic cell
+T3	Monera	9	25	prokaryotic cell
+T4	AbilityAvailability	26	29	can
+T5	Divide	30	36	divide
+T6	RelativeNumber	37	44	several
+T7	MarkersOfTime	45	50	times
+T8	RelativeLocations	51	53	in
+T9	TimeUnit	57	61	hour
+T10	RelativeNumber	63	66	Few
+T11	Cell	67	82	eukaryotic cell
+T12	AbilityAvailability	84	87	can
+T13	Divide	88	94	divide
+T14	Comparisons	95	97	as
+T15	Speed	98	105	quickly
+T16	LevelOfInclusion	107	112	Which
+T17	LevelOfInclusion	116	129	the following
+T18	ResponseType	130	140	statements
+T19	Quality	141	145	best
+T20	QualityComparison	141	145	best
+T21	Communicate	146	154	explains
+T22	Comparisons	160	170	difference
+T23	Cell	172	187	Eukaryotic cell
+T24	StateOfBeing	189	192	are
+T25	Size	193	200	smaller
+T26	Comparisons	201	205	than
+T27	Cell	206	222	prokaryotic cell
+T28	Monera	206	222	prokaryotic cell
+T29	Cell	225	240	Eukaryotic cell
+T30	ContainBeComposedOf	242	246	have
+T31	AmountComparison	247	251	less
+T32	Genetics	252	255	DNA
+T33	Comparisons	256	260	than
+T34	Cell	261	277	prokaryotic cell
+T35	Monera	261	277	prokaryotic cell
+T36	Cell	280	295	Eukaryotic cell
+T37	ContainBeComposedOf	297	301	have
+T38	AmountComparison	302	306	more
+T39	PlantCellPart	307	316	cell wall
+T40	BacteriaPart	307	316	cell wall
+T41	Comparisons	318	322	than
+T42	Cell	323	339	prokaryotic cell
+T43	Monera	323	339	prokaryotic cell
+T44	Cell	342	357	Eukaryotic cell
+T45	StateOfBeing	359	362	are
+T46	AmountComparison	363	367	more
+T47	PhysicalProperty	368	380	structurally
+T48	Complexity	381	388	complex
+T49	Comparisons	389	393	than
+T50	Cell	394	410	prokaryotic cell
+T51	Monera	394	410	prokaryotic cell

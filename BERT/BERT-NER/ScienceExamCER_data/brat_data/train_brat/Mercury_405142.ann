@@ -1,0 +1,37 @@
+T1	RelativeNumber	0	4	Many
+T2	Products	5	13	products
+T3	StateOfBeing	14	17	are
+T4	Create	18	22	made
+T5	RelativeDirection	23	27	from
+T6	Plant	28	33	trees
+T7	LevelOfInclusion	35	40	Which
+T8	StateOfBeing	41	43	is
+T9	Quality	48	52	best
+T10	QualityComparison	48	52	best
+T11	Method	53	56	way
+T12	Help	60	66	manage
+T13	Use	71	74	use
+T14	Plant	78	83	trees
+T15	StopRemove	85	93	cut down
+T16	LevelOfInclusion	94	98	most
+T17	Plant	106	111	trees
+T18	RelativeDirection	112	116	from
+T19	ExamplesOfHabitats	117	124	forests
+T20	Create	125	130	build
+T21	AmountComparison	131	135	more
+T22	NaturalMaterial	136	142	lumber
+T23	ManmadeLocations	143	148	mills
+T24	AmountChangingActions	149	155	reduce
+T25	Numbers	160	166	amount
+T26	Alter	170	178	recycled
+T27	Preserve	170	178	recycled
+T28	NaturalMaterial	179	184	paper
+T29	CombineAdd	185	190	plant
+T30	ActionsForAgriculture	185	190	plant
+T31	Plant	193	197	tree
+T32	LevelOfInclusion	198	202	each
+T33	MarkersOfTime	203	207	time
+T34	CardinalNumber	208	211	one
+T35	NUMBER	208	211	one
+T36	StateOfBeing	212	214	is
+T37	StopRemove	215	223	cut down

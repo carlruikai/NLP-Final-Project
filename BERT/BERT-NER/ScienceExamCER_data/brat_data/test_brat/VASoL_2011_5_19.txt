@@ -1,0 +1,5 @@
+Sonar helps people find which information about an object?
+Color
+Weight
+Location
+Temperature

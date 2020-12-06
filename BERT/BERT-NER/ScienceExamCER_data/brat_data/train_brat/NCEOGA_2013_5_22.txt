@@ -1,0 +1,5 @@
+What can cause a moving object to increase its speed in a forward direction?
+a force pushing on the object from the opposite direction
+a force that continually acts on the object in the direction the object is moving
+an increase in the mass of the object
+a decrease in the mass of the object

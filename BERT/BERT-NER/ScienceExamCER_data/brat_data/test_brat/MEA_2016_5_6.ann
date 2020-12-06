@@ -1,0 +1,27 @@
+T1	ManmadeObjects	2	9	balloon
+T2	ContainBeComposedOf	10	21	filled with
+T3	PhasesOfWater	22	27	water
+T4	LiquidMatter	22	27	water
+T5	StateOfBeing	28	30	is
+T6	Move	31	37	placed
+T7	VerbsForLocate	31	37	placed
+T8	RelativeLocations	38	40	in
+T9	CoolingAppliance	43	50	freezer
+T10	CoolingToolsFood	43	50	freezer
+T11	LevelOfInclusion	52	57	Which
+T12	Property	58	66	property
+T13	PhasesOfWater	74	79	water
+T14	LiquidMatter	74	79	water
+T15	ProbabilityAndCertainty	80	84	will
+T16	Changes	85	91	change
+T17	RelativeTime	92	94	as
+T18	PhasesOfWater	99	104	water
+T19	LiquidMatter	99	104	water
+T20	Succeed	105	112	reaches
+T21	StateOfBeing	105	112	reaches
+T22	PhaseTransitionPoint	117	131	freezing point
+T23	Color	133	138	color
+T24	Mass	139	143	mass
+T25	StateOfMatter	144	149	state
+T26	PhysicalProperty	150	156	weight
+T27	Mass	150	156	weight

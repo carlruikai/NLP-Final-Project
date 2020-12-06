@@ -1,0 +1,28 @@
+T1	Adaptation	5	15	adaptation
+T2	StateOfBeing	16	18	is
+T3	Require	19	28	necessary
+T4	RelativeLocations	29	31	in
+T5	UnderwaterEcosystem	32	53	intertidal ecosystems
+T6	Negations	54	57	but
+T7	Negations	58	61	not
+T8	RelativeLocations	62	64	in
+T9	UnderwaterEcosystem	65	80	reef ecosystems
+T10	Ability	86	93	ability
+T11	LivingDying	97	101	live
+T12	RelativeLocations	102	104	in
+T13	TypesOfWaterInBodiesOfWater	105	115	salt water
+T14	Ability	120	127	ability
+T15	Use	131	134	use
+T16	Element	135	141	oxygen
+T17	RelativeTime	142	144	in
+T18	RespirationActions	145	156	respiration
+T19	Ability	161	168	ability
+T20	LivingDying	172	176	cope
+T21	CombineAdd	177	181	with
+T22	Frequency	182	187	daily
+T23	Wetness	188	191	dry
+T24	MarkersOfTime	192	199	periods
+T25	Ability	204	211	ability
+T26	VisualComparison	215	225	blend into
+T27	Habitat	230	242	surroundings
+T28	RelativeLocations	230	242	surroundings

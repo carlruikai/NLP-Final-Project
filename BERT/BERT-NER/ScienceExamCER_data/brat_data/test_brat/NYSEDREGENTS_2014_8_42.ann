@@ -1,0 +1,14 @@
+T1	Force	4	9	force
+T2	Gravity	13	37	gravitational attraction
+T3	RelativeLocations	38	45	between
+T4	CardinalNumber	46	49	two
+T5	NUMBER	46	49	two
+T6	GenericTerms	50	57	objects
+T7	Cause	58	68	depends on
+T8	Distance	73	81	distance
+T9	RelativeLocations	82	89	between
+T10	GenericTerms	94	101	objects
+T11	Mass	112	122	buoyancies
+T12	Temperature	123	135	temperatures
+T13	Mass	136	142	masses
+T14	Shape	143	149	shapes

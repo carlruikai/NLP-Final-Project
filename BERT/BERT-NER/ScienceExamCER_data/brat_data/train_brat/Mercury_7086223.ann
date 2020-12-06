@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	14	property
+T3	Quality	15	19	best
+T4	QualityComparison	15	19	best
+T5	Indicate	20	29	indicates
+T6	Soil	35	39	soil
+T7	ContainBeComposedOf	40	48	contains
+T8	Nutrition	49	58	nutrients
+T9	PropertiesOfSoil	49	58	nutrients
+T10	Texture	60	67	texture
+T11	Color	68	73	color
+T12	Numbers	74	80	amount
+T13	Soil	84	88	sand
+T14	GranularSolids	84	88	sand
+T15	Numbers	89	95	amount
+T16	NaturalMaterial	99	103	clay
+T17	Soil	99	103	clay

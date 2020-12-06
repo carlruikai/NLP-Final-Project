@@ -1,0 +1,5 @@
+Neurons are cells of the nervous system that send and receive signals. From which portion of a cell does a neuron send a signal?
+soma
+axon
+dendrite
+nucleus

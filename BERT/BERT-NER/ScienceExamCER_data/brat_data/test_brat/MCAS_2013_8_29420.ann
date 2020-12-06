@@ -1,0 +1,73 @@
+T1	Temperature	2	6	cold
+T2	LiquidHoldingContainersRecepticles	7	10	can
+T3	Foods	14	19	juice
+T4	StateOfBeing	20	22	is
+T5	StopRemove	23	30	removed
+T6	RelativeDirection	31	35	from
+T7	CoolingAppliance	40	52	refrigerator
+T8	CoolingToolsFood	40	52	refrigerator
+T9	StateOfBeing	57	59	is
+T10	Move	60	66	placed
+T11	VerbsForLocate	60	66	placed
+T12	TerrestrialLocations	67	75	outdoors
+T13	RelativeTime	76	78	on
+T14	Temperature	81	85	warm
+T15	TimeUnit	86	89	day
+T16	TimesOfDayDayNight	86	89	day
+T17	RelativeTime	91	96	After
+T18	RelativeNumber	97	104	several
+T19	TimeUnit	105	112	minutes
+T20	Wetness	114	122	moisture
+T21	Occur	123	130	appears
+T22	RelativeLocations	131	133	on
+T23	RelativeLocations	138	145	outside
+T24	Temperature	153	157	cold
+T25	LiquidHoldingContainersRecepticles	158	161	can
+T26	LevelOfInclusion	163	168	Which
+T27	LevelOfInclusion	172	185	the following
+T28	ResponseType	186	196	statements
+T29	Quality	197	201	best
+T30	QualityComparison	197	201	best
+T31	Communicate	202	210	explains
+T32	Cause	211	214	why
+T33	Wetness	219	227	moisture
+T34	Occur	228	235	appears
+T35	Temperature	241	245	warm
+T36	EarthPartsGrossGroundAtmosphere	246	249	air
+T37	Uptake	250	257	absorbs
+T38	Temperature	258	262	cold
+T39	RelativeDirection	263	267	from
+T40	LiquidHoldingContainersRecepticles	272	275	can
+T41	ChangeInto	280	290	changes to
+T42	StateOfMatter	293	299	liquid
+T43	PhasesOfWater	301	312	Water vapor
+T44	GaseousMatter	301	312	Water vapor
+T45	RelativeLocations	313	315	in
+T46	EarthPartsGrossGroundAtmosphere	320	323	air
+T47	PhaseChangingActions	324	333	condenses
+T48	ChangeInto	334	338	into
+T49	StateOfMatter	341	347	liquid
+T50	RelativeLocations	348	350	on
+T51	Temperature	355	359	cold
+T52	LiquidHoldingContainersRecepticles	360	363	can
+T53	Temperature	369	373	warm
+T54	EarthPartsGrossGroundAtmosphere	374	377	air
+T55	Cause	378	384	causes
+T56	ThermalEnergy	385	389	heat
+T57	TransferEnergy	393	397	flow
+T58	RelativeDirection	398	401	out
+T59	LiquidHoldingContainersRecepticles	409	412	can
+T60	PhaseChangingActions	417	425	condense
+T61	ParticleMovement	417	425	condense
+T62	RelativeLocations	426	428	in
+T63	EarthPartsGrossGroundAtmosphere	433	436	air
+T64	PhasesOfWater	438	449	Water vapor
+T65	GaseousMatter	438	449	Water vapor
+T66	RelativeLocations	450	452	in
+T67	EarthPartsGrossGroundAtmosphere	457	460	air
+T68	AbsorbEnergy	461	468	absorbs
+T69	ThermalEnergy	469	473	heat
+T70	RelativeDirection	474	478	from
+T71	LiquidHoldingContainersRecepticles	483	486	can
+T72	ChangeInto	491	501	changes to
+T73	StateOfMatter	504	510	liquid

@@ -1,0 +1,14 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	8	which
+T3	Exemplar	9	13	type
+T4	PartsOfTheCirculatorySystem	17	29	blood vessel
+T5	StateOfBeing	30	32	is
+T6	Blood	33	47	blood pressure
+T7	Pressure	39	47	pressure
+T8	Rarity	48	56	normally
+T9	Examine	57	66	monitored
+T10	Observe	57	66	monitored
+T11	PartsOfTheCirculatorySystem	68	79	capillaries
+T12	PartsOfTheCirculatorySystem	80	88	arteries
+T13	PartsOfTheCirculatorySystem	89	94	veins
+T14	PartsOfTheRespiratorySystem	95	100	cilia

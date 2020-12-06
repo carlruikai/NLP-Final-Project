@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	LivingThing	14	22	organism
+T4	StateOfBeing	19	21	is
+T5	RelativeLocations	26	28	at
+T6	Height	33	39	lowest
+T7	Comparisons	33	39	lowest
+T8	SystemProcessStages	40	45	level
+T9	FoodChain	53	63	food chain
+T10	PartsOfTheFoodChain	65	74	autotroph
+T11	PartsOfTheFoodChain	75	86	heterotroph
+T12	TypeOfConsumer	75	86	heterotroph
+T13	TypeOfConsumer	87	96	carnivore
+T14	TypeOfConsumer	97	105	omnivore

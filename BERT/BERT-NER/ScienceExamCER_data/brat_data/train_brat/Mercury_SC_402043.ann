@@ -1,0 +1,28 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	11	18	process
+T3	Occur	24	30	occurs
+T4	RelativeTime	31	37	during
+T5	CellProcesses	38	52	photosynthesis
+T6	PlantProcesses	38	52	photosynthesis
+T7	Plant	54	60	Plants
+T8	Uptake	61	65	take
+T9	PlantNutrients	69	75	oxygen
+T10	Element	69	75	oxygen
+T11	Release	80	87	release
+T12	NutritiveSubstancesForAnimalsOrPlants	88	93	sugar
+T13	Plant	95	101	Plants
+T14	Uptake	102	106	take
+T15	NutritiveSubstancesForAnimalsOrPlants	110	115	sugar
+T16	Release	120	127	release
+T17	Minerals	128	136	minerals
+T18	Plant	138	144	Plants
+T19	Uptake	145	149	take
+T20	Minerals	153	161	minerals
+T21	Release	166	173	release
+T22	Compound	174	188	carbon dioxide
+T23	Plant	190	196	Plants
+T24	Uptake	197	201	take
+T25	Compound	205	219	carbon dioxide
+T26	Release	224	231	release
+T27	PlantNutrients	232	238	oxygen
+T28	Element	232	238	oxygen

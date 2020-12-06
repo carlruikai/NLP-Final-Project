@@ -1,0 +1,5 @@
+Which items are needed to create a simple circuit?
+wire and switch
+wire and battery
+light bulb and switch
+light bulb and battery

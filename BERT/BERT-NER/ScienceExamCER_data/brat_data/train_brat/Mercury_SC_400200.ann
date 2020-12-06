@@ -1,0 +1,17 @@
+T1	Temperature	8	19	temperature
+T2	StateOfBeing	20	22	is
+T3	PhasesOfWater	23	28	water
+T4	AmountComparison	29	33	most
+T5	ProbabilityAndCertainty	34	40	likely
+T6	StateOfBeing	44	46	be
+T7	PhasesOfWater	50	55	vapor
+T8	GaseousMatter	50	55	vapor
+T9	Exemplar	56	60	form
+T10	NUMBER	62	66	-10°
+T11	TemperatureUnit	65	67	°C
+T12	NUMBER	68	70	20
+T13	TemperatureUnit	70	72	°C
+T14	NUMBER	73	76	90°
+T15	TemperatureUnit	75	77	°C
+T16	NUMBER	78	81	120
+T17	TemperatureUnit	81	83	°C

@@ -1,0 +1,18 @@
+T1	Growth	4	10	growth
+T2	ActionsForAgriculture	4	10	growth
+T3	LevelOfInclusion	14	19	which
+T4	LevelOfInclusion	23	36	the following
+T5	Rarity	37	44	usually
+T6	Frequency	37	44	usually
+T7	Occur	45	51	occurs
+T8	TemporalProperty	52	57	first
+T9	ORDINAL	52	57	first
+T10	RelativeTime	58	60	in
+T11	EnvironmentalPhenomena	61	79	primary succession
+T12	RelativeLocations	77	79	on
+T13	Composition	85	89	bare
+T14	Rock	90	94	rock
+T15	Protist	96	103	Lichens
+T16	Angiosperm	104	111	Grasses
+T17	Plant	112	117	Trees
+T18	Plant	118	124	Shrubs

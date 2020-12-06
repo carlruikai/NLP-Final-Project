@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	type
+T3	Energy	14	20	energy
+T4	PerformAnActivity	21	25	does
+T5	Human	28	34	person
+T6	Use	35	38	use
+T7	Result	39	41	to
+T8	MechanicalMovement	42	47	pedal
+T9	LandVehicle	50	57	bicycle
+T10	Spectra	59	64	light
+T11	SoundEnergy	65	70	sound
+T12	Energy	71	81	mechanical
+T13	ElectricalEnergy	82	92	electrical

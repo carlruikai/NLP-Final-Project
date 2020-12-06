@@ -1,0 +1,26 @@
+T1	Scientists	2	9	student
+T2	Goal	10	15	wants
+T3	Identify	19	23	find
+T4	Relations	28	40	relationship
+T5	RelativeLocations	41	48	between
+T6	Size	53	61	diameter
+T7	RelativeNumber	65	72	several
+T8	SyntheticMaterial	73	80	plastic
+T9	ManmadeObjects	81	86	disks
+T10	GeometricMeasurements	95	108	circumference
+T11	LevelOfInclusion	112	116	each
+T12	ManmadeObjects	117	121	disk
+T13	LevelOfInclusion	123	128	Which
+T14	LevelOfInclusion	132	137	these
+T15	Exemplar	138	143	types
+T16	Representation	147	153	graphs
+T17	Require	154	160	should
+T18	StateOfBeing	161	163	be
+T19	Create	164	175	constructed
+T20	Goal	176	178	to
+T21	Identify	179	188	determine
+T22	Relations	194	206	relationship
+T23	Representation	208	217	pie graph
+T24	Representation	218	228	line graph
+T25	Representation	229	240	scatterplot
+T26	Representation	241	261	box-and-whisker plot

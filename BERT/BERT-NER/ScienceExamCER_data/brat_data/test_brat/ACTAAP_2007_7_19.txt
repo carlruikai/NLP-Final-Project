@@ -1,0 +1,5 @@
+Which instrument measures atmospheric pressure?
+barometer
+hygrometer
+thermometer
+magnetometer

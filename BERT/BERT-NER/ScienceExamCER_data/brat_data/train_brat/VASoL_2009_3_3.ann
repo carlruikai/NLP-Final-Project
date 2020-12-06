@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Representation	15	20	lists
+T4	Group	15	20	lists
+T5	ContainBeComposedOf	21	24	has
+T6	LevelOfInclusion	25	29	only
+T7	Products	30	38	products
+T8	ContainBeComposedOf	44	53	come from
+T9	Plant	54	60	plants
+T10	NaturalMaterial	62	67	Paper
+T11	Foods	69	75	spices
+T12	NaturalMaterial	81	87	fibers
+T13	NaturalMaterial	88	92	Wool
+T14	NaturalMaterial	94	100	lumber
+T15	Foods	106	112	butter
+T16	Medicine	113	122	Medicines
+T17	NaturalMaterial	124	131	leather
+T18	Foods	137	141	milk
+T19	NaturalMaterial	142	148	Cotton
+T20	SyntheticMaterial	150	156	rubber
+T21	Foods	162	166	eggs

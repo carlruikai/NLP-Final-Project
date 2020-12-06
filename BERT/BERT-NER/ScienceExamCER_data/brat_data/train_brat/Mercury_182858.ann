@@ -1,0 +1,18 @@
+T1	StateOfBeing	4	7	was
+T2	TemporalProperty	12	17	first
+T3	ORDINAL	12	17	first
+T4	Human	18	24	person
+T5	Create	28	32	base
+T6	Taxonomy	35	59	system of classification
+T7	Source	57	59	on
+T8	LivingThing	63	72	organisms
+T9	ContainBeComposedOf	73	79	having
+T10	Comparisons	80	87	similar
+T11	SystemParts	88	98	structures
+T12	PERSON	100	109	Aristotle
+T13	Scientists	100	109	Aristotle
+T14	Scientists	110	116	Darwin
+T15	PERSON	110	116	Darwin
+T16	Scientists	117	125	Einstein
+T17	PERSON	117	125	Einstein
+T18	Scientists	126	134	Linnaeus

@@ -1,0 +1,24 @@
+T1	Color	4	9	color
+T2	RelativeLocations	10	12	in
+T3	VisualProperty	15	28	Tortoiseshell
+T4	Mammal	29	32	cat
+T5	AbilityAvailability	33	36	can
+T6	LevelOfInclusion	37	41	only
+T7	StateOfBeing	42	44	be
+T8	Create	45	53	produced
+T9	Cause	54	56	by
+T10	CardinalNumber	57	60	two
+T11	NUMBER	57	60	two
+T12	CellsAndGenetics	61	74	X chromosomes
+T13	ProbabilityAndCertainty	81	86	would
+T14	Indicate	87	91	mean
+T15	LevelOfInclusion	97	102	these
+T16	Exemplar	103	108	types
+T17	Mammal	112	116	cats
+T18	StateOfBeing	117	120	are
+T19	Frequency	121	127	always
+T20	Gender	128	132	male
+T21	Gender	134	140	female
+T22	Health	142	149	fertile
+T23	OtherAnimalProperties	142	149	fertile
+T24	OtherAnimalProperties	151	161	aggressive

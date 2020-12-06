@@ -1,0 +1,24 @@
+T1	RespiratorySystem	4	22	respiratory system
+T2	AbilityAvailability	23	29	cannot
+T3	Transportation	30	37	deliver
+T4	Element	38	44	oxygen
+T5	RelativeDirection	45	47	to
+T6	Cell	52	57	cells
+T7	AnimalPart	65	69	body
+T8	Negations	71	74	nor
+T9	AbilityAvailability	75	78	can
+T10	StopRemove	82	88	remove
+T11	Compound	89	103	carbon dioxide
+T12	Negations	105	112	without
+T13	LevelOfInclusion	113	118	which
+T14	CardinalNumber	119	122	two
+T15	NUMBER	119	122	two
+T16	AnimalSystemsProcesses	123	135	body systems
+T17	MuscularSystem	137	145	muscular
+T18	NervousSystem	150	157	nervous
+T19	DigestiveSystem	158	167	digestive
+T20	MuscularSystem	172	180	muscular
+T21	CirculatorySystem	181	195	cardiovascular
+T22	NervousSystem	200	207	nervous
+T23	CirculatorySystem	208	222	cardiovascular
+T24	MuscularSystem	227	235	muscular

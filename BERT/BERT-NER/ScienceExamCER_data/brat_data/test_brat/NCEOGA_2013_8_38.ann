@@ -1,0 +1,27 @@
+T1	RelativeTime	0	2	In
+T2	SeasonsFallAutumnWinterSpringSummer	7	13	winter
+T3	MammalAnimalPart	19	22	fur
+T4	Mammal	30	40	arctic fox
+T5	StateOfBeing	41	43	is
+T6	Color	44	49	white
+T7	RelativeLocations	51	53	In
+T8	SeasonsFallAutumnWinterSpringSummer	54	60	summer
+T9	MammalAnimalPart	66	69	fur
+T10	ColorChangingActions	70	77	darkens
+T11	ChangeInto	78	80	to
+T12	Color	83	96	reddish brown
+T13	AmountComparison	103	107	most
+T14	ProbabilityAndCertainty	108	114	likely
+T15	Cause	115	121	causes
+T16	MammalAnimalPart	126	129	fur
+T17	Mammal	137	140	fox
+T18	ColorChangingActions	144	156	change color
+T19	Numbers	162	168	amount
+T20	CelestialLightOnEarth	172	180	sunlight
+T21	Occur	181	188	present
+T22	Mammal	193	196	fox
+T23	Habitat	199	206	habitat
+T24	Mammal	211	214	fox
+T25	Gene	217	222	genes
+T26	Mammal	227	230	fox
+T27	Age	233	236	age

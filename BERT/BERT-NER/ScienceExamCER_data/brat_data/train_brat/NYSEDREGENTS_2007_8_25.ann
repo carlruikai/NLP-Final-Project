@@ -1,0 +1,27 @@
+T1	Moon	4	8	Moon
+T2	StateOfBeing	9	11	is
+T3	VisualProperty	12	19	visible
+T4	Human	23	32	observers
+T5	Scientists	23	32	observers
+T6	RelativeLocations	33	35	on
+T7	InnerPlanets	36	41	Earth
+T8	Cause	42	52	because of
+T9	VisualProperty	53	62	reflected
+T10	LightMovement	53	62	reflected
+T11	CelestialLightOnEarth	63	71	sunlight
+T12	AbsorbEnergy	72	80	absorbed
+T13	CombineAdd	72	80	absorbed
+T14	Light	81	86	light
+T15	RelativeDirection	87	91	from
+T16	InnerPlanets	92	97	Earth
+T17	LOCATION	92	97	Earth
+T18	EarthPartsGrossGroundAtmosphere	100	110	atmosphere
+T19	LayersOfTheEarth	100	110	atmosphere
+T20	GaseousMatter	111	116	gases
+T21	RelativeLocations	117	119	in
+T22	Moon	124	128	Moon
+T23	RelativeLocations	131	139	interior
+T24	NaturalPhenomena	140	158	volcanic eruptions
+T25	RelativeLocations	155	157	on
+T26	Moon	166	170	Moon
+T27	ObjectPart	173	180	surface

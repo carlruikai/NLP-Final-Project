@@ -1,0 +1,19 @@
+T1	RelativeTime	0	4	When
+T2	ProbabilityAndCertainty	5	10	would
+T3	Height	15	22	highest
+T4	Comparisons	15	22	highest
+T5	TidesHighTideLowTide	23	28	tides
+T6	Occur	29	34	occur
+T7	PrepositionalDirections	35	40	along
+T8	States	45	50	Texas
+T9	LOCATION	45	50	Texas
+T10	PartsOfBodiesOfWater	51	56	coast
+T11	TerrestrialLocations	51	56	coast
+T12	RelativeTime	58	60	at
+T13	TimesOfDayDayNight	61	68	sunrise
+T14	RelativeTime	69	71	at
+T15	TimesOfDayDayNight	72	78	sunset
+T16	RelativeTime	79	85	during
+T17	LunarPhases	88	97	full moon
+T18	RelativeTime	98	104	during
+T19	LunarPhases	107	116	half moon

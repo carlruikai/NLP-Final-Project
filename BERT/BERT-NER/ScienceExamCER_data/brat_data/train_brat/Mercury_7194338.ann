@@ -1,0 +1,46 @@
+T1	Cell	0	5	Cells
+T2	RelativeLocations	6	8	in
+T3	AnimalPart	13	17	body
+T4	Use	18	21	use
+T5	Element	22	28	oxygen
+T6	Compound	30	32	O2
+T7	NUMBER	30	32	O2
+T8	CellProcesses	38	58	cellular respiration
+T9	LevelOfInclusion	60	65	Which
+T10	StateOfBeing	66	68	is
+T11	Result	73	79	result
+T12	CellProcesses	83	103	cellular respiration
+T13	CellsAndGenetics	105	108	ATP
+T14	Genetics	105	108	ATP
+T15	StateOfBeing	109	111	is
+T16	Create	112	120	produced
+T17	Compound	125	139	carbon dioxide
+T18	Compound	141	144	CO2
+T19	StateOfBeing	146	148	is
+T20	Release	149	157	released
+T21	CellsAndGenetics	159	162	ATP
+T22	Genetics	159	162	ATP
+T23	StateOfBeing	163	165	is
+T24	Consumption	166	174	consumed
+T25	Compound	179	193	carbon dioxide
+T26	Compound	195	198	CO2
+T27	StateOfBeing	200	202	is
+T28	Release	203	211	released
+T29	CellsAndGenetics	213	216	ATP
+T30	Genetics	213	216	ATP
+T31	StateOfBeing	217	219	is
+T32	Create	220	228	produced
+T33	Compound	233	247	carbon dioxide
+T34	Compound	249	252	CO2
+T35	StateOfBeing	254	256	is
+T36	CombineAdd	257	265	absorbed
+T37	Uptake	257	265	absorbed
+T38	CellsAndGenetics	267	270	ATP
+T39	Genetics	267	270	ATP
+T40	StateOfBeing	271	273	is
+T41	Consumption	274	282	consumed
+T42	Compound	287	301	carbon dioxide
+T43	Compound	303	306	CO2
+T44	StateOfBeing	308	310	is
+T45	Uptake	311	319	absorbed
+T46	CombineAdd	311	319	absorbed

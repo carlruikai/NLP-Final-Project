@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	OrganicProcesses	20	28	function
+T5	PlantPart	34	38	leaf
+T6	Transportation	40	48	Carrying
+T7	Nutrition	49	58	nutrients
+T8	RelativeDirection	59	69	throughout
+T9	Plant	74	79	plant
+T10	TransferEnergy	80	90	Converting
+T11	Energy	91	103	solar energy
+T12	ChangeInto	104	108	into
+T13	NutritiveSubstancesForAnimalsOrPlants	109	114	sugar
+T14	Create	115	123	Creating
+T15	MeasuresOfAmountOfLight	124	129	shade
+T16	Plant	138	143	plant
+T17	CombineAdd	144	153	Absorbing
+T18	PhasesOfWater	154	159	water
+T19	LiquidMatter	154	159	water
+T20	RelativeDirection	160	164	from
+T21	Soil	169	175	ground

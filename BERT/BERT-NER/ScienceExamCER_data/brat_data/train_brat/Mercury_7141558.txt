@@ -1,0 +1,5 @@
+An engineer must calculate the potential energy of a roller coaster car at the top of an incline. Which information would best help the engineer determine the potential energy of the car?
+the distance the roller coaster car must travel
+the mass of the roller coaster car at full capacity
+the average weight of an empty roller coaster car
+the direction that the roller coaster car is traveling

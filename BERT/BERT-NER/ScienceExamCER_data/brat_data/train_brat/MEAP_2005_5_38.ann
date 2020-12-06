@@ -1,0 +1,54 @@
+T1	AirVehicle	6	14	airplane
+T2	Move	15	21	climbs
+T3	RelativeLocations	22	24	in
+T4	Sky	29	32	sky
+T5	Human	38	43	pilot
+T6	Observe	44	51	notices
+T7	Precipitation	52	64	ice crystals
+T8	PhasesOfWater	52	64	ice crystals
+T9	Create	65	72	forming
+T10	RelativeLocations	73	75	on
+T11	VehicularSystemsParts	80	90	windshield
+T12	Occur	97	104	happens
+T13	Cause	105	112	because
+T14	WeatherPhenomena	113	122	blizzards
+T15	Occur	123	128	occur
+T16	AmountComparison	129	133	more
+T17	Frequency	134	139	often
+T18	RelativeLocations	140	142	at
+T19	Height	143	149	higher
+T20	Comparisons	143	149	higher
+T21	Height	150	159	altitudes
+T22	PullingForces	161	169	friction
+T23	Relations	170	174	with
+T24	EarthPartsGrossGroundAtmosphere	179	189	atmosphere
+T25	Cause	190	196	causes
+T26	PhasesOfWater	197	200	ice
+T27	SolidMatter	197	200	ice
+T28	Create	204	211	develop
+T29	PhasesOfWater	213	218	water
+T30	LiquidMatter	213	218	water
+T31	PhaseChangingActions	219	229	evaporates
+T32	Comparisons	230	236	faster
+T33	Speed	230	236	faster
+T34	RelativeLocations	237	239	at
+T35	Height	240	246	higher
+T36	Comparisons	240	246	higher
+T37	Height	247	256	altitudes
+T38	Cause	258	270	resulting in
+T39	Precipitation	271	283	ice crystals
+T40	PhasesOfWater	271	283	ice crystals
+T41	Wetness	285	293	moisture
+T42	RelativeLocations	294	296	on
+T43	RelativeLocations	301	308	outside
+T44	ObjectPart	301	308	outside
+T45	AirVehicle	316	321	plane
+T46	PhaseChangingActions	322	329	freezes
+T47	Cause	330	336	due to
+T48	Temperature	337	343	colder
+T49	Comparisons	337	343	colder
+T50	GaseousMatter	344	347	air
+T51	RelativeLocations	348	350	at
+T52	Height	351	357	higher
+T53	Comparisons	351	357	higher
+T54	Height	358	367	altitudes

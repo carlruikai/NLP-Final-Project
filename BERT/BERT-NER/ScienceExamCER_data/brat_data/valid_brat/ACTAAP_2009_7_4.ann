@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Planet	6	12	planet
+T3	ContainBeComposedOf	13	16	has
+T4	TemporalProperty	21	28	longest
+T5	TimeUnit	29	43	planetary year
+T6	InnerPlanets	45	50	Earth
+T7	InnerPlanets	51	56	Venus
+T8	OuterPlanets	57	64	Jupiter
+T9	OuterPlanets	65	72	Neptune

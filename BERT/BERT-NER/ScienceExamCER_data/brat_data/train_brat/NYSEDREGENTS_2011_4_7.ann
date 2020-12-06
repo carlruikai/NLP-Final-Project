@@ -1,0 +1,9 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Unit	6	25	unit of measurement
+T3	Represent	26	35	describes
+T4	GeometricSpatialObjects	39	45	object
+T5	Length	48	54	length
+T6	DistanceUnit	56	61	meter
+T7	MassUnit	62	70	kilogram
+T8	VolumeUnit	71	76	liter
+T9	GeometricUnit	77	83	degree

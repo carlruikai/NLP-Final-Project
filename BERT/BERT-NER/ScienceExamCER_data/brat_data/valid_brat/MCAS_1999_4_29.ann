@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Property	23	33	properties
+T4	Create	34	42	provides
+T5	Quality	47	51	BEST
+T6	QualityComparison	47	51	BEST
+T7	Method	52	55	way
+T8	Classify	59	67	identify
+T9	Identify	59	67	identify
+T10	Minerals	70	77	mineral
+T11	Hardness	79	87	hardness
+T12	MineralProperties	79	87	hardness
+T13	Shape	88	93	shape
+T14	Size	94	98	size
+T15	Temperature	99	110	temperature

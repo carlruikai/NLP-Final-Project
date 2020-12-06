@@ -1,0 +1,12 @@
+T1	LevelOfInclusion	0	5	Which
+T2	NaturalPhenomena	6	13	process
+T3	Require	14	18	must
+T4	Occur	19	24	occur
+T5	WeatherPhenomena	29	35	clouds
+T6	Create	39	43	form
+T7	ConstructiveDestructiveForces	45	52	erosion
+T8	NaturalPhenomena	45	52	erosion
+T9	ThermalEnergy	53	63	conduction
+T10	TransferEnergy	53	63	conduction
+T11	PhaseChangingActions	64	76	condensation
+T12	Precipitation	77	90	precipitation

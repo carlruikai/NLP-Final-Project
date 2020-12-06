@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Observe	6	17	observation
+T3	Indicate	18	27	indicates
+T4	Reactions	35	52	chemical reaction
+T5	Occur	57	68	taken place
+T6	Substances	72	81	substance
+T7	ChangeInto	82	89	becomes
+T8	StateOfBeing	82	89	becomes
+T9	Temperature	90	96	warmer
+T10	Material	100	108	material
+T11	Matter	100	108	material
+T12	Changes	109	116	changes
+T13	RelativeDirection	117	121	from
+T14	StateOfMatter	124	129	solid
+T15	RelativeDirection	130	132	to
+T16	StateOfMatter	133	139	liquid
+T17	GaseousMatter	141	148	Bubbles
+T18	LiquidMovement	141	148	Bubbles
+T19	Create	149	153	form
+T20	Occur	149	153	form
+T21	RelativeTime	154	158	when
+T22	StateOfMatter	161	167	liquid
+T23	StateOfBeing	168	170	is
+T24	IncreaseDecrease	171	177	heated
+T25	Temperature	171	177	heated
+T26	Age	181	184	new
+T27	Substances	185	203	chemical substance
+T28	StateOfBeing	204	206	is
+T29	Create	207	213	formed

@@ -1,0 +1,22 @@
+T1	Method	0	3	How
+T2	TemporalProperty	4	8	long
+T3	PerformAnActivity	9	13	does
+T4	Require	17	21	take
+T5	InnerPlanets	26	31	Earth
+T6	Goal	32	34	to
+T7	CelestialMovement	35	41	rotate
+T8	Position	42	53	on its axis
+T9	CardinalNumber	54	59	seven
+T10	MarkersOfTime	60	65	times
+T11	CardinalNumber	67	70	one
+T12	DURATION	67	74	one day
+T13	TimeUnit	71	74	day
+T14	DURATION	75	83	one week
+T15	CardinalNumber	75	78	one
+T16	TimeUnit	79	83	week
+T17	CardinalNumber	84	87	one
+T18	DURATION	84	93	one month
+T19	TimeUnit	88	93	month
+T20	CardinalNumber	94	97	one
+T21	DURATION	94	102	one year
+T22	TimeUnit	98	102	year

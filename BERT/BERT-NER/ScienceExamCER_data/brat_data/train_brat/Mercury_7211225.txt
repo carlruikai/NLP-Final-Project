@@ -1,0 +1,5 @@
+Students measure the effect of water on the growth of plants for a lab experiment. The students give different amounts of water to three different groups of plants. All plants receive the same amount of light and are planted in the same amount of soil. The students then measure the height of the plants over a period of four weeks. Which variables should be labeled on the axes to graph the data collected in this experiment?
+Amount of Water vs. Height of Plants
+Temperature vs. Amount of Sunlight
+Amount of Water vs. Amount of Soil
+Amount of Sunlight vs. Height of Plants

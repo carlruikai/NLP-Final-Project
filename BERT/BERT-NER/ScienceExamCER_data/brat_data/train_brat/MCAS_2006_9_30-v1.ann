@@ -1,0 +1,28 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Changes	23	30	changes
+T4	Occur	31	37	occurs
+T5	RelativeTime	38	40	as
+T6	StateOfMatter	43	48	solid
+T7	StateOfBeing	49	51	is
+T8	IncreaseDecrease	52	58	heated
+T9	Temperature	52	58	heated
+T10	Energy	64	78	kinetic energy
+T11	StateOfMatter	86	91	solid
+T12	AmountChangingActions	92	101	decreases
+T13	IncreaseDecrease	92	101	decreases
+T14	Calculations	107	114	average
+T15	PhysicalProperty	115	122	density
+T16	StateOfMatter	130	135	solid
+T17	AmountChangingActions	136	145	increases
+T18	IncreaseDecrease	136	145	increases
+T19	MeasurementsForHeatChange	151	173	specific heat capacity
+T20	StateOfMatter	181	186	solid
+T21	AmountChangingActions	187	196	decreases
+T22	IncreaseDecrease	187	196	decreases
+T23	Calculations	202	209	average
+T24	MolecularProperties	210	225	molecular speed
+T25	RelativeLocations	226	228	in
+T26	StateOfMatter	233	238	solid
+T27	AmountChangingActions	239	248	increases
+T28	IncreaseDecrease	239	248	increases

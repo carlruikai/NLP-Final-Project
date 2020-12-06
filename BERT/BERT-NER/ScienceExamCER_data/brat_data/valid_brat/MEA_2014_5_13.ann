@@ -1,0 +1,15 @@
+T1	StateOfBeing	5	7	is
+T2	Source	10	16	source
+T3	Nutrition	20	24	food
+T4	Growth	29	35	growth
+T5	Fungi	42	50	mushroom
+T6	PropertiesOfFood	52	59	rotting
+T7	LivingDying	52	59	rotting
+T8	LivingThing	60	69	organisms
+T9	CelestialLightOnEarth	70	78	sunshine
+T10	Minerals	79	87	minerals
+T11	RelativeLocations	80	82	in
+T12	Soil	91	95	soil
+T13	PhasesOfWater	96	101	water
+T14	RelativeLocations	102	104	in
+T15	Soil	105	109	soil

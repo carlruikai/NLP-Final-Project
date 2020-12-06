@@ -1,0 +1,22 @@
+T1	Response	2	8	reflex
+T2	AbilityAvailability	9	12	can
+T3	Help	13	20	protect
+T4	Preserve	13	20	protect
+T5	AnimalPart	25	29	body
+T6	RelativeDirection	30	34	from
+T7	Injuries	35	39	harm
+T8	Harm	35	39	harm
+T9	LevelOfInclusion	41	46	Which
+T10	AnimalSystemsProcesses	47	59	organ system
+T11	PerformAnActivity	61	65	work
+T12	Relations	66	74	together
+T13	Cause	78	85	produce
+T14	Response	88	94	reflex
+T15	NervousSystem	96	103	nervous
+T16	ImmuneSystem	108	121	immune system
+T17	NervousSystem	123	130	nervous
+T18	MuscularSystem	135	150	muscular system
+T19	CirculatorySystem	152	163	circulatory
+T20	ImmuneSystem	168	181	immune system
+T21	CirculatorySystem	183	194	circulatory
+T22	MuscularSystem	199	214	muscular system

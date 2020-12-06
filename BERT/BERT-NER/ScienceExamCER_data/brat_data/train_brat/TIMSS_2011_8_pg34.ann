@@ -1,0 +1,26 @@
+T1	Cause	0	3	Why
+T2	AbilityAvailability	4	7	can
+T3	Size	10	15	small
+T4	NaturalPhenomena	16	20	fire
+T5	StateOfBeing	21	23	be
+T6	StopRemove	24	31	put out
+T7	Cause	32	34	by
+T8	Move	35	42	placing
+T9	Mass	45	50	heavy
+T10	ClothesTextiles	51	58	blanket
+T11	PrepositionalDirections	59	63	over
+T12	IncreaseDecrease	73	78	lower
+T13	Temperature	84	95	temperature
+T14	Cause	102	107	makes
+T15	Reactions	112	118	flames
+T16	Size	119	126	smaller
+T17	Comparisons	119	126	smaller
+T18	CombineAdd	133	140	absorbs
+T19	Flammability	145	152	burning
+T20	ChemicalChange	145	152	burning
+T21	Substances	153	162	substance
+T22	StopRemove	169	174	keeps
+T23	Element	175	181	oxygen
+T24	RelativeDirection	182	186	from
+T25	Touch	187	195	reaching
+T26	NaturalPhenomena	200	204	fire

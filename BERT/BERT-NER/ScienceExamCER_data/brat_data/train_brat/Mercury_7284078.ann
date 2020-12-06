@@ -1,0 +1,22 @@
+T1	ProbabilityAndCertainty	8	12	true
+T2	OrganismRelationships	16	40	mutualistic relationship
+T3	Relations	42	47	among
+T4	LivingThing	48	57	organisms
+T5	LivingThing	48	57	organisms
+T6	AvoidReject	73	79	ignore
+T7	LevelOfInclusion	80	84	each
+T8	Comparisons	85	90	other
+T9	LivingThing	96	105	organisms
+T10	Help	106	115	cooperate
+T11	LevelOfInclusion	121	125	each
+T12	Comparisons	126	131	other
+T13	LivingThing	137	146	organisms
+T14	Harm	147	151	prey
+T15	ActionsForAnimals	147	151	prey
+T16	PrepositionalDirections	152	154	on
+T17	LevelOfInclusion	155	159	each
+T18	Comparisons	160	165	other
+T19	LivingThing	171	180	organisms
+T20	Compete	181	188	compete
+T21	LevelOfInclusion	194	198	each
+T22	Comparisons	199	204	other

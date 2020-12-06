@@ -1,0 +1,42 @@
+T1	Cause	0	3	Why
+T2	StateOfBeing	4	6	is
+T3	OrganismRelationships	7	18	competition
+T4	Compete	7	18	competition
+T5	PrepositionalDirections	19	24	among
+T6	Gender	25	30	males
+T7	RelativeTime	31	37	during
+T8	Reproduction	38	51	mating season
+T9	RelativeTime	38	51	mating season
+T10	ImportanceComparison	52	61	important
+T11	RelativeLocations	62	64	in
+T12	RelativeNumber	65	69	some
+T13	Animal	70	76	animal
+T14	Taxonomy	77	84	species
+T15	Verify	89	96	ensures
+T16	Gene	102	107	genes
+T17	RelativeDirection	108	112	from
+T18	OtherAnimalProperties	117	124	fittest
+T19	Animal	125	132	animals
+T20	StateOfBeing	133	136	are
+T21	Inheritance	137	146	passed on
+T22	Permit	151	157	allows
+T23	Gender	158	165	females
+T24	RelativeDirection	166	168	to
+T25	Differentiate	169	180	distinguish
+T26	RelativeTime	181	188	between
+T27	RelativeLocations	181	188	between
+T28	PostnatalOrganismStages	189	194	adult
+T29	PostnatalOrganismStages	199	207	juvenile
+T30	Gender	208	213	males
+T31	Age	213	214	.
+T32	Create	218	226	provides
+T33	Taxonomy	231	238	species
+T34	CombineAdd	239	243	with
+T35	Age	244	247	new
+T36	Method	248	252	ways
+T37	Communicate	256	269	communication
+T38	IncreaseDecrease	274	280	speeds
+T39	Speed	274	280	speeds
+T40	OrganicProcesses	285	292	process
+T41	Event	285	292	process
+T42	Reproduction	296	308	reproduction

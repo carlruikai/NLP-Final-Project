@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Cause	11	17	reason
+T4	States	22	30	Arkansas
+T5	ContainBeComposedOf	31	37	having
+T6	RelativeNumber	38	46	multiple
+T7	SeasonsFallAutumnWinterSpringSummer	47	54	seasons
+T8	CelestialMovement	60	64	tilt
+T9	InnerPlanets	68	73	Earth
+T10	PlanetParts	76	80	axis
+T11	MeasuringSpeed	85	90	speed
+T12	Speed	85	90	speed
+T13	InnerPlanets	94	99	Earth
+T14	CelestialMovement	102	107	orbit
+T15	InnerPlanets	108	113	Earth
+T16	Distance	116	124	distance
+T17	RelativeDirection	125	129	from
+T18	Star	134	137	Sun
+T19	InnerPlanets	138	143	Earth
+T20	Gravity	144	162	gravitational pull
+T21	PrepositionalDirections	163	169	toward
+T22	Moon	174	178	Moon

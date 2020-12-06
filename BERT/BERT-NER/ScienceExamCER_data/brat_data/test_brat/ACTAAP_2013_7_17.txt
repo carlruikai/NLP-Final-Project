@@ -1,0 +1,5 @@
+A group wants to find out if the number of water birds flying through Arkansas changes each year. Which method should they use to gather this information?
+Catch as many birds as possible one year. Collect data on the location of each bird.
+On the first day of spring next year, count the number of birds at the biggest lake in the state. Compare the data to last year.
+Put an observer at a location on the state line. Have that person count the birds as they fly into the state. Do this for two years.
+Pick one day a year during the migration. Count the number of birds at ten different lakes across the state. Do this on the same day every year for ten years.

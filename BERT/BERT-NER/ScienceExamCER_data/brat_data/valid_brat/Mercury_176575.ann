@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	ThermalEnergy	23	27	heat
+T4	Transportation	28	36	exchange
+T5	Event	37	46	processes
+T6	Require	47	55	involves
+T7	ParticleMovement	60	69	collision
+T8	Particles	73	82	particles
+T9	AtomComponents	73	82	particles
+T10	TransferEnergy	84	94	insulation
+T11	TransferEnergy	95	105	conduction
+T12	TransferEnergy	106	116	convection
+T13	ReleaseEnergy	117	126	radiation

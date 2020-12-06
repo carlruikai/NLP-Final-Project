@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Quality	23	27	best
+T4	QualityComparison	23	27	best
+T5	Represent	28	37	describes
+T6	Mass	42	46	mass
+T7	StateOfMatter	52	57	solid
+T8	ObjectQuantification	58	63	block
+T9	PhasesOfWater	67	70	ice
+T10	SolidMatter	67	70	ice
+T11	Numbers	76	82	amount
+T12	Matter	86	92	matter
+T13	RelativeLocations	93	95	in
+T14	ObjectQuantification	100	105	block
+T15	Numbers	110	116	amount
+T16	Unknown	120	125	space
+T17	ObjectQuantification	130	135	block
+T18	Require	136	141	takes
+T19	Force	149	154	force
+T20	Gravity	158	165	gravity
+T21	ActUponSomething	166	175	acting on
+T22	ObjectQuantification	180	185	block
+T23	Distance	190	198	distance
+T24	RelativeLocations	199	206	between
+T25	ElementalComponents	211	220	molecules
+T26	RelativeLocations	221	223	in
+T27	ObjectQuantification	228	233	block

@@ -1,0 +1,32 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Occur	15	21	occurs
+T4	PartsOfTheMuscularSystem	25	31	myosin
+T5	StopRemove	32	37	fails
+T6	CombineAdd	41	45	bind
+T7	RelativeDirection	46	48	to
+T8	PartsOfTheMuscularSystem	49	54	actin
+T9	RelativeTime	55	61	during
+T10	PartsOfTheMuscularSystem	62	68	muscle
+T11	MuscularSystemActions	69	80	contraction
+T12	Cell	86	97	muscle cell
+T13	PartsOfTheMuscularSystem	86	97	muscle cell
+T14	ProbabilityAndCertainty	99	103	will
+T15	AmountChangingActions	104	108	lose
+T16	CellsAndGenetics	109	112	ATP
+T17	Cell	118	129	muscle cell
+T18	PartsOfTheMuscularSystem	118	129	muscle cell
+T19	ProbabilityAndCertainty	131	135	will
+T20	WaitStay	136	142	remain
+T21	MuscularSystemActions	143	150	relaxed
+T22	Cell	156	167	muscle cell
+T23	PartsOfTheMuscularSystem	156	167	muscle cell
+T24	ProbabilityAndCertainty	169	173	will
+T25	Create	174	181	produce
+T26	OrganicCompounds	182	193	lactic acid
+T27	Cell	199	210	muscle cell
+T28	PartsOfTheMuscularSystem	199	210	muscle cell
+T29	ProbabilityAndCertainty	212	216	will
+T30	AmountChangingActions	217	221	lose
+T31	Element	222	229	calcium
+T32	ElementalComponents	230	234	ions

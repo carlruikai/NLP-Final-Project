@@ -1,0 +1,31 @@
+T1	Scientists	2	11	scientist
+T2	Observe	12	20	observes
+T3	PerformingResearch	12	20	observes
+T4	Changes	21	28	changes
+T5	Insect	34	37	bee
+T6	GroupsOfOrganisms	38	48	population
+T7	LevelOfInclusion	49	54	every
+T8	TimeUnit	55	58	day
+T9	CardinalNumber	63	69	thirty
+T10	TimeUnit	70	74	days
+T11	Scientists	80	89	scientist
+T12	Represent	90	98	arranges
+T13	WordsForData	103	107	data
+T14	RelativeLocations	108	110	in
+T15	Representation	113	122	pictogram
+T16	LevelOfInclusion	124	129	Which
+T17	Exemplar	130	134	form
+T18	WordsForData	138	142	data
+T19	ConcludingResearch	143	150	display
+T20	Representation	143	150	display
+T21	StateOfBeing	144	146	is
+T22	AmountComparison	154	158	most
+T23	Comparisons	159	166	similar
+T24	Pattern	174	186	organization
+T25	StateOfBeing	174	186	organization
+T26	Representation	192	201	pictogram
+T27	Representation	203	212	pie chart
+T28	Representation	213	223	line graph
+T29	Representation	224	233	bar graph
+T30	WordsForData	234	238	data
+T31	Representation	239	244	table

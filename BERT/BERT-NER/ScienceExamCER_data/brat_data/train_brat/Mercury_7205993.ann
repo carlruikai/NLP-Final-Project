@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	14	property
+T3	PhasesOfWater	18	23	water
+T4	LiquidMatter	18	23	water
+T5	Permit	24	30	allows
+T6	PhaseChangingActions	37	45	dissolve
+T7	FormChangingActions	37	45	dissolve
+T8	RelativeNumber	46	50	many
+T9	Comparisons	51	60	different
+T10	Substances	61	71	substances
+T11	StateOfBeing	76	78	is
+T12	ElementalComponents	81	95	polar molecule
+T13	ContainBeComposedOf	100	108	contains
+T14	Element	109	117	hydrogen
+T15	ElementalComponents	118	123	atoms
+T16	ContainBeComposedOf	128	131	has
+T17	RelativeNumber	134	138	high
+T18	PhaseTransitionPoint	139	152	melting point
+T19	ContainBeComposedOf	157	160	has
+T20	RelativeNumber	163	166	low
+T21	PhysicalProperty	167	174	density

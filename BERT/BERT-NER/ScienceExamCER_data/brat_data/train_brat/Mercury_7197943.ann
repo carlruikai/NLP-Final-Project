@@ -1,0 +1,40 @@
+T1	MammalAnimalPart	4	7	fur
+T2	Color	8	13	color
+T3	Mammal	19	23	bear
+T4	Alter	24	30	varies
+T5	Cause	31	35	with
+T6	EcosystemsEnvironment	40	51	environment
+T7	Mammal	53	63	Polar bear
+T8	VerbsForLocate	65	70	found
+T9	RelativeLocations	71	73	in
+T10	TypesOfTerrestrialEcosystems	78	84	Arctic
+T11	ContainBeComposedOf	85	89	have
+T12	Color	90	95	white
+T13	MammalAnimalPart	96	99	fur
+T14	RelativeTime	101	106	while
+T15	Color	107	112	black
+T16	Mammal	113	118	bears
+T17	VerbsForLocate	119	124	found
+T18	RelativeLocations	125	127	in
+T19	States	128	140	Pennsylvania
+T20	LOCATION	128	140	Pennsylvania
+T21	ContainBeComposedOf	141	145	have
+T22	Color	146	150	dark
+T23	MammalAnimalPart	151	154	fur
+T24	LevelOfInclusion	156	161	Which
+T25	Quality	162	166	best
+T26	QualityComparison	162	166	best
+T27	Represent	167	176	describes
+T28	Alter	181	190	variation
+T29	Exemplar	181	190	variation
+T30	MammalAnimalPart	194	197	fur
+T31	Color	198	203	color
+T32	RelativeLocations	204	211	amongst
+T33	Mammal	216	220	bear
+T34	Taxonomy	221	228	species
+T35	Alter	230	238	modified
+T36	Property	239	253	characteristic
+T37	Evolution	254	275	ecological succession
+T38	EnvironmentalPhenomena	254	275	ecological succession
+T39	StructuralAdaptation	276	297	structural adaptation
+T40	Evolution	298	316	selective breeding

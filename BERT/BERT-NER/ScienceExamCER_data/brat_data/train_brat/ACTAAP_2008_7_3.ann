@@ -1,0 +1,37 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Hypothesizing	6	14	question
+T3	QuestionActivityType	6	14	question
+T4	AbilityAvailability	15	18	can
+T5	AmountComparison	19	23	most
+T6	ProbabilityAndCertainty	24	30	likely
+T7	StateOfBeing	31	33	be
+T8	Identify	34	44	determined
+T9	PrepositionalDirections	45	52	through
+T10	Experimentation	55	79	scientific investigation
+T11	ProbabilityAndCertainty	85	89	will
+T12	StateOfBeing	90	92	be
+T13	Succeed	97	103	winner
+T14	TemporalProperty	111	115	next
+T15	MoneyTerms	116	123	lottery
+T16	Occupation	130	143	football team
+T17	ProbabilityAndCertainty	144	148	will
+T18	Succeed	149	152	win
+T19	TemporalProperty	157	161	next
+T20	TypesOfEvent	162	166	game
+T21	StateOfBeing	173	175	is
+T22	Numbers	180	186	amount
+T23	Light	190	195	light
+T24	Require	196	202	needed
+T25	Goal	203	205	to
+T26	ActionsForAnimals	206	210	grow
+T27	ActionsForAgriculture	206	210	grow
+T28	Foods	211	219	tomatoes
+T29	LevelOfInclusion	221	226	Which
+T30	CardinalNumber	227	231	four
+T31	NUMBER	227	231	four
+T32	Exemplar	232	237	types
+T33	Bird	241	245	bird
+T34	BirdAnimalPart	246	254	feathers
+T35	ContainBeComposedOf	255	259	have
+T36	VisualProperty	264	273	prettiest
+T37	Color	274	280	colors

@@ -1,0 +1,5 @@
+Which best determines the number of wolves that can live in an area?
+the amount of snow in the area each year
+the number of birds that live in the area
+the number of trees in the area
+the amount of food available in the area

@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	TypesOfWaterInBodiesOfWater	20	30	freshwater
+T5	BodiesOfWater	31	40	reservoir
+T6	Source	31	40	reservoir
+T7	SpecificNamedBodiesOfWater	42	56	Gulf of Mexico
+T8	SpecificNamedBodiesOfWater	57	70	Pacific Ocean
+T9	SpecificNamedBodiesOfWater	71	91	Atlantic tidal basin
+T10	PhasesOfWater	92	111	Antarctic polar ice
+T11	GeographicFormations	92	111	Antarctic polar ice

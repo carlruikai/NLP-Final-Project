@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	QualityComparison	6	13	upgrade
+T3	CombineAdd	6	13	upgrade
+T4	RelativeDirection	14	16	to
+T5	ManmadeLocations	19	25	school
+T6	ProbabilityAndCertainty	26	30	will
+T7	AmountComparison	31	35	most
+T8	ProbabilityAndCertainty	36	42	likely
+T9	AmountChangingActions	43	49	reduce
+T10	ManmadeLocations	54	60	school
+T11	ChangesToResources	63	74	consumption
+T12	Use	63	74	consumption
+T13	Rarity	78	90	nonrenewable
+T14	NaturalResources	91	100	resources
+T15	ElectricityGeneration	102	125	solar-collection panels
+T16	ElectricalEnergySource	102	125	solar-collection panels
+T17	TechnologicalInstrument	126	146	high-speed computers
+T18	TechnologicalInstrument	147	176	wireless Internet connections
+T19	ClothesTextiles	177	200	biodegradable carpeting

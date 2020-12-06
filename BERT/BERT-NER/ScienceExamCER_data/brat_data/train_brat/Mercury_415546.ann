@@ -1,0 +1,23 @@
+T1	RepresentingElementsAndMolecules	4	19	chemical symbol
+T2	Element	24	31	niobium
+T3	StateOfBeing	32	34	is
+T4	Element	35	37	Nb
+T5	Source	39	47	Based on
+T6	Representation	52	58	symbol
+T7	AbilityAvailability	65	68	can
+T8	StateOfBeing	69	71	be
+T9	Identify	72	81	concluded
+T10	Relevant	82	87	about
+T11	Element	88	95	niobium
+T12	Element	97	104	Niobium
+T13	StateOfBeing	105	107	is
+T14	Compound	110	118	compound
+T15	Element	120	127	Niobium
+T16	StateOfBeing	128	130	is
+T17	Element	134	141	element
+T18	Element	143	150	Niobium
+T19	StateOfBeing	151	153	is
+T20	MetalSolids	156	161	metal
+T21	Element	163	170	Niobium
+T22	StateOfBeing	171	173	is
+T23	Mixtures	176	183	mixture

@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Element	15	23	elements
+T4	StateOfBeing	24	26	is
+T5	Negations	27	30	not
+T6	ProbabilityAndCertainty	31	37	likely
+T7	StateOfBeing	41	43	be
+T8	VerbsForLocate	44	49	found
+T9	RelativeLocations	50	52	in
+T10	OrganicCompounds	56	72	organic compound
+T11	Element	74	80	carbon
+T12	Element	81	89	hydrogen
+T13	Element	90	98	nitrogen
+T14	Element	99	108	potassium

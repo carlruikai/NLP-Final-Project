@@ -1,0 +1,17 @@
+T1	RelativeTime	0	4	When
+T2	Human	7	13	person
+T3	Communicate	14	20	speaks
+T4	Exemplar	26	30	type
+T5	EnergyWaves	34	38	wave
+T6	Create	39	47	produced
+T7	AbilityAvailability	48	51	can
+T8	StateOfBeing	52	54	be
+T9	Classify	55	64	described
+T10	StateOfBeing	65	67	as
+T11	LevelOfInclusion	68	71	all
+T12	LevelOfInclusion	72	77	these
+T13	Negations	78	84	except
+T14	EnergyWaves	85	95	transverse
+T15	EnergyWaves	97	107	mechanical
+T16	PushingForces	109	120	compression
+T17	EnergyWaves	122	134	longitudinal

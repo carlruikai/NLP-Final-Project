@@ -1,0 +1,50 @@
+T1	ObjectQuantification	0	6	Plumes
+T2	PhasesOfWater	10	21	water vapor
+T3	GaseousMatter	10	21	water vapor
+T4	StateOfBeing	27	31	been
+T5	Observe	32	40	observed
+T6	PerformingResearch	32	40	observed
+T7	GaseousMovement	41	47	rising
+T8	RelativeDirection	48	52	from
+T9	RelativeLocations	57	78	southern polar region
+T10	Moon	82	91	Enceladus
+T11	LevelOfInclusion	93	96	one
+T12	NUMBER	93	96	one
+T13	Moon	104	109	moons
+T14	OuterPlanets	113	119	Saturn
+T15	GroupsOfScientists	123	141	team of scientists
+T16	Hypothesizing	142	150	proposed
+T17	ResponseType	154	165	explanation
+T18	ObjectQuantification	174	180	plumes
+T19	Create	185	194	developed
+T20	Representation	197	202	model
+T21	Comparisons	209	213	also
+T22	ConcludingResearch	214	223	published
+T23	Calculations	224	236	calculations
+T24	Source	237	245	based on
+T25	Representation	252	257	model
+T26	LevelOfInclusion	259	264	These
+T27	Calculations	265	277	calculations
+T28	ProbabilityAndCertainty	278	283	would
+T29	AmountComparison	284	288	most
+T30	ProbabilityAndCertainty	289	295	likely
+T31	StateOfBeing	296	298	be
+T32	Use	299	303	used
+T33	LevelOfInclusion	308	313	which
+T34	Goal	314	321	purpose
+T35	RelativeLocations	322	324	in
+T36	TemporalProperty	325	331	future
+T37	PerformingResearch	332	340	research
+T38	PerformingResearch	342	349	testing
+T39	Experimentation	342	349	testing
+T40	Hypothesizing	354	364	hypothesis
+T41	AnalyzingResearch	365	375	evaluating
+T42	Comparisons	376	383	similar
+T43	Event	384	390	events
+T44	Representation	391	398	mapping
+T45	Directions	399	405	routes
+T46	Examine	410	421	exploration
+T47	Examine	422	430	checking
+T48	Verify	422	430	checking
+T49	Validity	435	443	validity
+T50	Observe	447	459	observations

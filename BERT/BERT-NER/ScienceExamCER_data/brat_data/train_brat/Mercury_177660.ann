@@ -1,0 +1,33 @@
+T1	Human	0	10	Geologists
+T2	Scientists	0	10	Geologists
+T3	Frequency	11	21	frequently
+T4	Use	22	25	use
+T5	MassMeasuringTool	26	43	mass spectrometer
+T6	Goal	45	47	in
+T7	Identify	48	59	determining
+T8	Comparisons	64	72	relative
+T9	Age	73	76	age
+T10	Rock	80	85	rocks
+T11	ScientificTools	89	101	spectrometer
+T12	AbilityAvailability	102	105	can
+T13	Differentiate	106	119	differentiate
+T14	Relations	120	127	between
+T15	AmountComparison	132	138	ratios
+T16	Element	142	150	isotopes
+T17	RelativeLocations	151	153	in
+T18	Rock	154	158	rock
+T19	ObjectQuantification	159	166	samples
+T20	Calculations	171	181	calculates
+T21	AtomicProperties	186	203	radioactive decay
+T22	Require	204	213	involving
+T23	CardinalNumber	219	222	two
+T24	NUMBER	219	222	two
+T25	Element	223	231	isotopes
+T26	Element	233	240	Uranium
+T27	Element	243	247	Lead
+T28	Element	248	256	Rubidium
+T29	Element	259	268	Strontium
+T30	Element	269	278	Potassium
+T31	Element	281	286	Argon
+T32	Element	287	294	Uranium
+T33	Element	297	306	Strontium

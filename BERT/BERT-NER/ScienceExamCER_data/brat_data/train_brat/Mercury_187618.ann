@@ -1,0 +1,37 @@
+T1	RelativeLocations	0	5	Where
+T2	PerformAnActivity	6	10	does
+T3	Energy	15	21	energy
+T4	RelativeDirection	22	26	from
+T5	NaturalPhenomena	30	40	earthquake
+T6	Start	41	50	originate
+T7	RelativeDirection	52	56	from
+T8	Speed	59	65	sudden
+T9	AmountChangingActions	66	74	increase
+T10	IncreaseDecrease	66	74	increase
+T11	RelativeLocations	66	68	in
+T12	ThermalEnergy	78	93	solar radiation
+T13	LightMovement	94	102	striking
+T14	Touch	94	102	striking
+T15	InnerPlanets	103	108	Earth
+T16	RelativeDirection	109	113	from
+T17	Moon	118	122	Moon
+T18	Gravity	125	143	gravitational pull
+T19	RelativeTime	144	150	during
+T20	DistanceComparison	153	158	close
+T21	CelestialMovement	159	164	orbit
+T22	RelativeDirection	165	169	from
+T23	Rock	170	175	rocks
+T24	RelativeLocations	176	181	under
+T25	Pressure	182	188	stress
+T26	ChangeInLocation	189	197	shifting
+T27	Depth	198	202	deep
+T28	RelativeLocations	203	209	inside
+T29	InnerPlanets	210	215	Earth
+T30	RelativeDirection	216	220	from
+T31	PhysicalProperty	225	231	weight
+T32	Mass	225	231	weight
+T33	Sedimentary	235	244	sediments
+T34	PushingActions	245	252	pushing
+T35	PrepositionalDirections	253	257	down
+T36	RelativeLocations	258	260	on
+T37	Rock	261	268	bedrock

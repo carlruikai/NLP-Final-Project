@@ -1,0 +1,22 @@
+T1	RelativeLocations	0	2	In
+T2	Human	7	12	human
+T3	HumanPart	13	17	body
+T4	CellProcesses	19	39	cellular respiration
+T5	Separate	40	51	breaks down
+T6	ChemicalChange	40	51	breaks down
+T7	NutritiveSubstancesForAnimalsOrPlants	52	57	sugar
+T8	ElementalComponents	58	67	molecules
+T9	RelativeTime	68	73	after
+T10	Move	79	84	enter
+T11	Cell	89	93	cell
+T12	Result	100	107	results
+T13	Cause	108	112	from
+T14	OrganicProcesses	118	125	process
+T15	Growth	127	133	growth
+T16	Bacteria	137	145	bacteria
+T17	Release	146	153	release
+T18	Energy	157	163	energy
+T19	PhysicalActivity	164	172	activity
+T20	DigestiveSubstances	176	183	enzymes
+T21	NutritiveSubstancesForAnimalsOrPlants	176	183	enzymes
+T22	PlantProcesses	184	204	production of oxygen

@@ -1,0 +1,46 @@
+T1	ConservationLaws	0	29	The Water Quality Act of 1987
+T2	Require	30	38	required
+T3	Create	43	54	development
+T4	GuidelinesAndRules	58	67	standards
+T5	ProbabilityAndCertainty	73	78	would
+T6	AvoidReject	79	86	prevent
+T7	StopRemove	79	86	prevent
+T8	Toxins	87	92	toxic
+T9	Safety	87	92	toxic
+T10	EnvironmentalDamageDestruction	93	103	pollutants
+T11	Move	109	117	reaching
+T12	Touch	109	117	reaching
+T13	Safety	118	127	dangerous
+T14	Problem	118	127	dangerous
+T15	AmountComparison	128	134	levels
+T16	RelativeLocations	135	137	in
+T17	BodiesOfWater	138	153	bodies of water
+T18	Event	160	163	act
+T19	Alter	164	172	affected
+T20	Numbers	177	184	amounts
+T21	Toxins	188	193	toxic
+T22	Safety	188	193	toxic
+T23	Compound	194	203	chemicals
+T24	AbilityAvailability	209	214	could
+T25	StateOfBeing	215	217	be
+T26	Release	218	228	discharged
+T27	RelativeDirection	229	233	into
+T28	BodiesOfWater	234	249	bodies of water
+T29	LevelOfInclusion	251	256	Which
+T30	LevelOfInclusion	260	273	the following
+T31	ProbabilityAndCertainty	274	279	would
+T32	StateOfBeing	285	289	been
+T33	AmountComparison	290	294	most
+T34	ActUponSomething	295	304	regulated
+T35	GuidelinesAndRules	295	304	regulated
+T36	Cause	305	307	by
+T37	Event	313	316	act
+T38	ActionsForAnimals	318	322	feed
+T39	Agriculture	318	322	feed
+T40	ManmadeLocations	323	327	lots
+T41	AbilityAvailability	328	335	private
+T42	ManmadeLocations	336	341	homes
+T43	ManmadeObjects	342	347	paper
+T44	ManmadeLocations	348	353	mills
+T45	BusinessIndustry	354	361	grocery
+T46	Preserve	362	368	stores

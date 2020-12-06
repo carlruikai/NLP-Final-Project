@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Cause	23	29	causes
+T4	ChemicalChange	32	47	chemical change
+T5	NutritiveSubstancesForAnimalsOrPlants	49	54	sugar
+T6	GranularSolids	49	54	sugar
+T7	CombineAdd	55	60	added
+T8	RelativeDirection	61	63	to
+T9	Foods	64	68	soda
+T10	LiquidMatter	64	68	soda
+T11	ChemicalProduct	69	78	detergent
+T12	CombineAdd	79	84	added
+T13	RelativeDirection	85	87	to
+T14	PhasesOfWater	88	93	water
+T15	LiquidMatter	88	93	water
+T16	Foods	94	105	lemon juice
+T17	LiquidMatter	94	105	lemon juice
+T18	CombineAdd	106	111	added
+T19	RelativeDirection	112	114	to
+T20	Foods	115	119	milk
+T21	LiquidMatter	115	119	milk
+T22	Minerals	120	124	salt
+T23	GranularSolids	120	124	salt
+T24	CombineAdd	125	130	added
+T25	RelativeDirection	131	133	to
+T26	PhasesOfWater	134	139	water
+T27	LiquidMatter	134	139	water

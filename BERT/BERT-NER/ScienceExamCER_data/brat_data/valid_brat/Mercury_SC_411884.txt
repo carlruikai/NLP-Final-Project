@@ -1,0 +1,5 @@
+Which resource provides the minerals plants need to grow?
+sunlight
+water
+soil
+air

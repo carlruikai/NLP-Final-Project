@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Animal	6	12	animal
+T3	ActionsForAnimals	13	17	eats
+T4	Consumption	13	17	eats
+T5	LevelOfInclusion	18	22	only
+T6	Plant	23	29	plants
+T7	Mammal	31	34	Cat
+T8	Mammal	35	38	Dog
+T9	Mammal	39	43	Lion
+T10	Mammal	44	50	Rabbit

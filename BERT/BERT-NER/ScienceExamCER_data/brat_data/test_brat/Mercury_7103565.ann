@@ -1,0 +1,30 @@
+T1	WeatherPhenomena	0	20	High-pressure system
+T2	StopRemove	22	26	stop
+T3	EarthPartsGrossGroundAtmosphere	27	30	air
+T4	GaseousMatter	27	30	air
+T5	GaseousMovement	36	42	rising
+T6	RelativeDirection	43	47	into
+T7	Temperature	52	58	colder
+T8	Comparisons	52	58	colder
+T9	Locations	59	66	regions
+T10	EarthPartsGrossGroundAtmosphere	74	84	atmosphere
+T11	LayersOfTheEarth	74	84	atmosphere
+T12	RelativeLocations	85	90	where
+T13	PhasesOfWater	91	96	water
+T14	AbilityAvailability	97	100	can
+T15	PhaseChangingActions	101	109	condense
+T16	ProbabilityAndCertainty	116	120	will
+T17	AmountComparison	121	125	most
+T18	ProbabilityAndCertainty	126	132	likely
+T19	Result	133	139	result
+T20	WeatherPhenomena	145	165	high-pressure system
+T21	WaitStay	166	173	remains
+T22	RelativeLocations	170	172	in
+T23	Locations	180	184	area
+T24	TemporalProperty	191	195	long
+T25	MarkersOfTime	196	210	period of time
+T26	Precipitation	212	215	fog
+T27	Precipitation	216	220	rain
+T28	NaturalPhenomena	221	228	drought
+T29	WeatherPhenomena	221	228	drought
+T30	WeatherPhenomena	229	236	tornado

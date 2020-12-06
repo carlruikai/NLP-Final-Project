@@ -1,0 +1,43 @@
+T1	Element	0	6	Sulfur
+T2	Element	0	1	S
+T3	Element	12	18	oxygen
+T4	Compound	20	22	O2
+T5	PhasesOfWater	25	30	water
+T6	Compound	32	35	H2O
+T7	Compound	42	57	sodium chloride
+T8	Compound	59	63	NaCl
+T9	StateOfBeing	65	68	are
+T10	LevelOfInclusion	69	72	all
+T11	Exemplar	73	81	examples
+T12	Substances	85	99	pure substance
+T13	LevelOfInclusion	102	107	Which
+T14	LevelOfInclusion	111	124	the following
+T15	Communicate	125	134	describes
+T16	LevelOfInclusion	135	138	all
+T17	Substances	139	153	pure substance
+T18	Substances	139	153	pure substance
+T19	ContainBeComposedOf	173	181	consists
+T20	LevelOfInclusion	185	189	only
+T21	CardinalNumber	190	193	one
+T22	NUMBER	190	193	one
+T23	Exemplar	194	198	type
+T24	Element	202	209	element
+T25	Substances	213	227	pure substance
+T26	ContainBeComposedOf	228	231	has
+T27	TemporalProperty	234	242	definite
+T28	Composition	243	263	chemical composition
+T29	Substances	267	281	pure substance
+T30	AbilityAvailability	282	288	cannot
+T31	StateOfBeing	289	291	be
+T32	Separate	292	303	broken down
+T33	ChangeInto	304	308	into
+T34	Complexity	309	316	simpler
+T35	Substances	317	327	substances
+T36	Substances	331	345	pure substance
+T37	StateOfBeing	346	348	is
+T38	Difficulty	349	357	normally
+T39	VerbsForLocate	358	363	found
+T40	StateOfBeing	364	366	as
+T41	StateOfMatter	369	374	solid
+T42	RelativeTime	375	377	at
+T43	Temperature	378	394	room temperature

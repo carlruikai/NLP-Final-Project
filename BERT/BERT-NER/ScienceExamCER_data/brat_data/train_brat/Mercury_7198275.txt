@@ -1,0 +1,5 @@
+A hydrologist is studying the acidity level of a city lake. She collects samples twice a week and takes them to her lab to test them. After testing the samples, she places the data on a graph. She tells the city engineers that her tests indicate that the pH level has been steadily dropping over the past few months. Which of the following steps is the best way to check the accuracy of her data?
+retest new samples
+retest the original samples
+show the graphs to the engineers
+show the samples to the engineers

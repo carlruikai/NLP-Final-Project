@@ -1,0 +1,20 @@
+T1	Material	0	9	Materials
+T2	Matter	0	9	Materials
+T3	Require	10	14	must
+T4	Move	15	19	pass
+T5	PrepositionalDirections	20	27	through
+T6	Cell	30	34	cell
+T7	Permeability	37	51	semi-permeable
+T8	Separation	52	60	membrane
+T9	Goal	61	73	in order for
+T10	Energy	74	80	energy
+T11	StateOfBeing	84	86	be
+T12	Use	87	95	utilized
+T13	OrganicProcesses	102	109	process
+T14	StateOfBeing	110	112	is
+T15	Classify	113	119	called
+T16	CellProcesses	120	129	diffusion
+T17	ChemicalProcesses	131	140	oxidation
+T18	TypesOfChemicalReactions	131	140	oxidation
+T19	CellProcesses	142	153	respiration
+T20	Reproduction	155	167	reproduction

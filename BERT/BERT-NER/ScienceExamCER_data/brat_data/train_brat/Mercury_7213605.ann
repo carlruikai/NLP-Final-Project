@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	13	example
+T3	Represent	14	23	describes
+T4	LearnedBehavior	26	42	learned behavior
+T5	RelativeLocations	43	45	in
+T6	Mammal	48	51	dog
+T7	Senses	53	61	smelling
+T8	EarthPartsGrossGroundAtmosphere	66	69	air
+T9	SensoryTerms	74	79	odors
+T10	PlantPart	80	87	barking
+T11	RelativeTime	88	92	when
+T12	Harm	93	102	disturbed
+T13	ActionsForAnimals	103	110	sitting
+T14	Position	103	110	sitting
+T15	RelativeTime	111	113	on
+T16	Communicate	114	121	command
+T17	ActionsForAnimals	122	129	digging
+T18	RelativeLocations	126	128	in
+T19	Soil	133	137	soil

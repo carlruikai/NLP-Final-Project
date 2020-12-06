@@ -1,0 +1,35 @@
+T1	ActionsForAgriculture	0	8	Planting
+T2	CombineAdd	0	8	Planting
+T3	Angiosperm	9	16	legumes
+T4	Foods	9	16	legumes
+T5	Goal	17	28	in order to
+T6	CombineAdd	29	32	add
+T7	Element	33	41	nitrogen
+T8	RelativeDirection	42	44	to
+T9	Soil	45	49	soil
+T10	AmountComparison	50	54	most
+T11	ProbabilityAndCertainty	55	61	likely
+T12	Cause	62	68	causes
+T13	AmountChangingActions	71	79	decrease
+T14	IncreaseDecrease	71	79	decrease
+T15	Numbers	87	93	amount
+T16	PH	97	106	acid rain
+T17	Precipitation	97	106	acid rain
+T18	IncreaseDecrease	111	121	enrichment
+T19	QualityComparison	111	121	enrichment
+T20	Health	129	138	fertility
+T21	PropertiesOfSoil	129	138	fertility
+T22	Soil	146	150	soil
+T23	AmountChangingActions	155	163	increase
+T24	IncreaseDecrease	155	163	increase
+T25	AmountComparison	171	176	ratio
+T26	Element	180	188	nitrogen
+T27	Element	192	198	oxygen
+T28	RelativeLocations	199	201	in
+T29	SystemAndFunctions	206	212	system
+T30	AmountChangingActions	216	225	reduction
+T31	RelativeLocations	226	228	in
+T32	Soil	233	237	soil
+T33	Ability	240	247	ability
+T34	Create	251	262	manufacture
+T35	Element	271	279	nitrogen

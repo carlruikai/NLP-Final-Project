@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	AmountComparison	6	10	most
+T3	ProbabilityAndCertainty	11	17	likely
+T4	Help	18	29	contributed
+T5	Cause	18	29	contributed
+T6	LivingDying	37	47	extinction
+T7	Extinction	37	47	extinction
+T8	RelativeNumber	51	55	many
+T9	Taxonomy	56	63	species
+T10	Harm	68	78	endangered
+T11	Safety	68	78	endangered
+T12	LivingDying	83	91	survival
+T13	NaturalSelection	83	91	survival
+T14	Comparisons	95	101	others
+T15	EnvironmentalDamageDestruction	103	112	pollution
+T16	EnvironmentalDamageDestruction	113	132	habitat destruction
+T17	Asteroid	136	144	asteroid
+T18	FormChangingActions	145	152	hitting
+T19	Touch	145	152	hitting
+T20	InnerPlanets	153	158	Earth
+T21	TectonicPlates	159	173	tectonic plate
+T22	Move	174	182	movement

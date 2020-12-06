@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	VerbsForLocate	18	23	found
+T5	RelativeLocations	24	26	in
+T6	LevelOfInclusion	27	30	all
+T7	LivingThing	31	40	organisms
+T8	Cell	44	48	cell
+T9	AnimalPart	51	57	tissue
+T10	AnimalPart	61	66	organ
+T11	AnimalSystemsProcesses	70	82	organ system

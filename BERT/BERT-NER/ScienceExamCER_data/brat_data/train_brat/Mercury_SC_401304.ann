@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Event	6	11	event
+T3	Require	12	17	takes
+T4	AmountComparison	22	26	most
+T5	MarkersOfTime	27	31	time
+T6	Create	35	42	produce
+T7	PhysicalProperty	43	53	measurable
+T8	Changes	54	61	changes
+T9	NaturalPhenomena	63	71	flooding
+T10	LiquidMovement	63	71	flooding
+T11	NaturalPhenomena	72	82	earthquake
+T12	EnvironmentalDamageDestruction	83	95	soil erosion
+T13	NaturalPhenomena	96	113	volcanic eruption

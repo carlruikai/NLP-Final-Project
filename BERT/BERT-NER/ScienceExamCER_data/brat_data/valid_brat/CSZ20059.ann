@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Actions	6	12	action
+T3	ProbabilityAndCertainty	13	17	will
+T4	Cause	18	27	result in
+T5	Result	30	37	product
+T6	ContainBeComposedOf	38	42	with
+T7	Age	43	46	new
+T8	ChemicalProperty	47	64	chemical properti
+T9	FormChangingActions	68	77	shredding
+T10	ManmadeObjects	80	89	newspaper
+T11	FormChangingActions	90	98	breaking
+T12	Break	90	98	breaking
+T13	PartsOfObservationInstruments	101	107	mirror
+T14	FormChangingActions	108	115	cutting
+T15	NaturalMaterial	116	120	wood
+T16	SolidMatter	116	120	wood
+T17	ActionsForNutrition	121	128	popping
+T18	Foods	129	136	popcorn

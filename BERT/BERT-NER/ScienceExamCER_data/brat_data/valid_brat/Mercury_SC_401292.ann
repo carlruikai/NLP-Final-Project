@@ -1,0 +1,9 @@
+T1	Animal	2	7	snail
+T2	AnimalPart	10	15	shell
+T3	Create	16	24	provides
+T4	Animal	29	34	snail
+T5	Nutrition	40	44	food
+T6	Energy	46	52	energy
+T7	Help	54	64	protection
+T8	Preserve	54	64	protection
+T9	Transportation	66	80	transportation

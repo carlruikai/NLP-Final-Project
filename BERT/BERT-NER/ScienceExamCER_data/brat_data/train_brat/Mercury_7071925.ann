@@ -1,0 +1,20 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Rarity	6	15	renewable
+T3	Energy	16	22	energy
+T4	NaturalResources	23	31	resource
+T5	ContainBeComposedOf	32	41	possesses
+T6	AmountComparison	46	54	greatest
+T7	AbilityAvailability	55	64	potential
+T8	Create	69	78	providing
+T9	Rarity	79	88	renewable
+T10	Energy	89	95	energy
+T11	Goal	96	98	to
+T12	Succeed	99	103	meet
+T13	TemporalProperty	108	114	future
+T14	Require	115	120	needs
+T15	GeopoliticalLocations	128	150	southern United States
+T16	TidesHighTideLowTide	152	157	tidal
+T17	OtherEnergyResources	158	163	water
+T18	PhasesOfWater	158	163	water
+T19	OtherEnergyResources	164	169	solar
+T20	FossilFuel	170	174	coal

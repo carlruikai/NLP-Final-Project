@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	AbilityAvailability	23	26	can
+T4	StateOfBeing	27	29	be
+T5	Cause	30	36	caused
+T6	ConstructiveDestructiveForces	40	50	weathering
+T7	NaturalPhenomena	40	50	weathering
+T8	GapsAndCracks	52	58	cracks
+T9	Occur	59	66	forming
+T10	RelativeLocations	63	65	in
+T11	Rock	72	79	boulder
+T12	Rock	80	85	rocks
+T13	PhaseChangingActions	86	93	melting
+T14	Result	94	96	to
+T15	Create	97	101	form
+T16	Rock	102	107	magma
+T17	GeographicFormations	108	116	glaciers
+T18	BodiesOfWater	108	116	glaciers
+T19	Occur	117	124	forming
+T20	RelativeLocations	125	127	on
+T21	GeographicFormationParts	130	142	mountainside
+T22	Rock	143	150	pebbles
+T23	CombineAdd	151	160	combining
+T24	Result	161	163	to
+T25	Create	164	168	form
+T26	Size	171	176	large
+T27	Rock	177	181	rock

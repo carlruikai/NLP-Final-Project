@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	10	kind
+T3	ManmadeLocations	14	20	bridge
+T4	Use	21	25	uses
+T5	ManmadeObjects	26	32	cables
+T6	Help	37	44	support
+T7	ManmadeLocations	48	60	truss bridge
+T8	ManmadeLocations	63	80	suspension bridge
+T9	ManmadeLocations	83	94	beam bridge
+T10	ManmadeLocations	97	114	cantilever bridge

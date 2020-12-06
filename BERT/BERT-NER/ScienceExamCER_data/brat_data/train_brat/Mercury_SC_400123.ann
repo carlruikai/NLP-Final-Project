@@ -1,0 +1,48 @@
+T1	Aquatic	0	8	Sea star
+T2	StateOfBeing	10	13	are
+T3	PartsOfTheFoodChain	14	23	consumers
+T4	LivingDying	29	33	live
+T5	RelativeLocations	34	36	in
+T6	BodiesOfWater	39	48	tide pool
+T7	EcosystemsEnvironment	49	58	ecosystem
+T8	StateOfBeing	64	66	is
+T9	Frequency	67	78	alternately
+T10	ActUponSomething	79	88	submerged
+T11	ActUponSomething	93	100	exposed
+T12	Cause	101	103	by
+T13	TidesHighTideLowTide	104	109	tides
+T14	Exemplar	116	120	type
+T15	EcosystemsEnvironment	124	133	ecosystem
+T16	ContainBeComposedOf	134	142	contains
+T17	Toxins	143	152	poisonous
+T18	Aquatic	153	161	anemones
+T19	RelativeNumber	166	170	many
+T20	Taxonomy	171	178	species
+T21	Aquatic	182	191	shellfish
+T22	Aquatic	197	205	sea star
+T23	QualityComparison	208	217	advantage
+T24	Help	208	217	advantage
+T25	RelativeLocations	218	220	in
+T26	EcosystemsEnvironment	226	235	ecosystem
+T27	StateOfBeing	236	238	is
+T28	AbilityAvailability	247	250	can
+T29	FormChangingActions	251	259	pry open
+T30	Move	251	259	pry open
+T31	AquaticAnimalPart	260	266	shells
+T32	Create	268	275	produce
+T33	Size	278	282	tiny
+T34	Light	283	288	light
+T35	Move	290	294	move
+T36	Speed	295	302	quickly
+T37	PrepositionalDirections	303	308	along
+T38	BodiesOfWater	313	316	sea
+T39	RelativeLocations	317	323	bottom
+T40	LivingDying	325	332	survive
+T41	NaturalSelection	325	332	survive
+T42	PhysicalProperty	337	348	pressurized
+T43	Pressure	337	348	pressurized
+T44	EarthPartsGrossGroundAtmosphere	349	359	atmosphere
+T45	LayersOfTheEarth	349	359	atmosphere
+T46	Depth	363	367	deep
+T47	PhasesOfWater	368	373	water
+T48	LiquidMatter	368	373	water

@@ -1,0 +1,35 @@
+T1	SoundEnergy	4	9	sound
+T2	SensoryTerms	4	9	sound
+T3	Create	10	14	made
+T4	Cause	15	17	by
+T5	Insect	18	26	crickets
+T6	Occur	27	33	occurs
+T7	RelativeTime	34	38	when
+T8	Gender	43	47	male
+T9	Insect	48	56	crickets
+T10	Touch	57	61	rubs
+T11	CardinalNumber	66	69	two
+T12	NUMBER	66	69	two
+T13	AnimalPart	70	79	hind legs
+T14	Relations	80	88	together
+T15	LevelOfInclusion	90	95	Which
+T16	Exemplar	96	100	type
+T17	TransferEnergy	104	125	energy transformation
+T18	Cause	126	136	results in
+T19	SoundEnergy	141	146	sound
+T20	SensoryTerms	141	146	sound
+T21	Create	147	151	made
+T22	Cause	152	154	by
+T23	Insect	155	163	crickets
+T24	SoundEnergy	165	177	sound energy
+T25	RelativeDirection	178	180	to
+T26	ThermalEnergy	181	195	thermal energy
+T27	ThermalEnergy	181	195	thermal energy
+T28	RelativeDirection	211	213	to
+T29	Energy	214	229	chemical energy
+T30	Energy	230	247	mechanical energy
+T31	RelativeDirection	248	250	to
+T32	SoundEnergy	251	263	sound energy
+T33	Energy	264	281	mechanical energy
+T34	RelativeDirection	282	284	to
+T35	Energy	285	300	chemical energy

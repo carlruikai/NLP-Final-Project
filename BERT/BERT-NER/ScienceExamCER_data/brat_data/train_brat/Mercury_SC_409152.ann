@@ -1,0 +1,18 @@
+T1	PERSON	0	6	Carlos
+T2	AmountChangingActions	7	11	puts
+T3	Age	14	17	new
+T4	ElectricalEnergySource	18	25	battery
+T5	RelativeDirection	26	30	into
+T6	TechnologicalInstrument	33	38	radio
+T7	PerformAnActivity	45	49	does
+T8	ElectricalEnergySource	54	61	battery
+T9	Source	62	68	supply
+T10	RelativeDirection	69	71	to
+T11	TechnologicalInstrument	76	81	radio
+T12	Cause	87	92	makes
+T13	Start	96	103	turn on
+T14	PullingForces	105	113	friction
+T15	ElectricalEnergy	114	125	electricity
+T16	EnergyWaves	128	138	sound wave
+T17	SoundEnergy	128	133	sound
+T18	MagneticEnergy	141	155	magnetic field

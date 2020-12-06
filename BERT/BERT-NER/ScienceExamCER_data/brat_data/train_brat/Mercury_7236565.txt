@@ -1,0 +1,5 @@
+Which scale is used to report the intensity of an earthquake?
+Saffir-Simpson Scale
+Modified Mercalli Scale
+Richter Magnitude Scale
+Moment Magnitude Scale

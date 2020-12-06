@@ -1,0 +1,14 @@
+T1	ElementalComponents	3	7	atom
+T2	ContainBeComposedOf	8	12	with
+T3	NUMBER	15	17	+1
+T4	CardinalNumber	16	17	1
+T5	ElectricalProperty	18	24	charge
+T6	ContainBeComposedOf	25	28	has
+T7	AmountChangingActions	29	33	lost
+T8	AtomComponents	36	42	proton
+T9	AmountChangingActions	44	48	lost
+T10	AtomComponents	52	60	electron
+T11	AmountChangingActions	62	68	gained
+T12	AtomComponents	71	77	proton
+T13	AmountChangingActions	79	85	gained
+T14	AtomComponents	89	97	electron

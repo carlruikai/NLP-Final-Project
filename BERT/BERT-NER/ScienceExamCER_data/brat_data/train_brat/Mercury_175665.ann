@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Permit	23	29	allows
+T4	Matter	30	39	materials
+T5	Move	43	48	enter
+T6	Separate	53	58	leave
+T7	Move	53	58	leave
+T8	Cell	61	65	cell
+T9	PlantCellPart	67	76	cell wall
+T10	BacteriaPart	67	76	cell wall
+T11	AnimalCellPart	77	89	mitochondria
+T12	AnimalCellPart	90	97	vacuole
+T13	PlantCellPart	90	97	vacuole
+T14	AnimalCellPart	98	111	cell membrane
+T15	PlantCellPart	98	111	cell membrane

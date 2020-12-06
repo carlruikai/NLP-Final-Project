@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	PhysicalActivity	12	20	activity
+T4	StateOfBeing	21	23	is
+T5	AmountComparison	24	28	most
+T6	Harm	29	36	harmful
+T7	RelativeDirection	37	39	to
+T8	EcosystemsEnvironment	44	63	natural environment
+T9	ActionsForAnimals	65	73	swimming
+T10	RelativeLocations	70	72	in
+T11	BodiesOfWater	79	83	lake
+T12	ActionsForAnimals	84	90	riding
+T13	Use	84	90	riding
+T14	LandVehicle	93	100	bicycle
+T15	StopRemove	101	113	cutting down
+T16	Forests	116	127	rain forest
+T17	Use	128	133	using
+T18	OtherEnergyResources	134	146	solar energy

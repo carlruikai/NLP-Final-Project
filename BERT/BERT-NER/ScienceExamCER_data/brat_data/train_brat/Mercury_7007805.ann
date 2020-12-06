@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OtherOrganismProperties	6	16	biological
+T3	PhysicalActivity	17	25	activity
+T4	Occur	26	32	occurs
+T5	PropertyOfMotion	38	46	repeated
+T6	Pattern	47	53	rhythm
+T7	PropertiesOfSickness	55	63	sneezing
+T8	PropertiesOfSickness	64	72	coughing
+T9	RespirationActions	73	82	breathing
+T10	ActionsForAnimals	83	91	blinking

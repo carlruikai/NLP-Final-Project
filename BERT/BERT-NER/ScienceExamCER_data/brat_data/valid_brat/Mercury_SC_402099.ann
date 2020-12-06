@@ -1,0 +1,18 @@
+T1	GeographicFormations	6	23	natural formation
+T2	StateOfBeing	24	26	is
+T3	Quality	31	35	best
+T4	QualityComparison	31	35	best
+T5	Exemplar	36	43	example
+T6	Result	51	57	result
+T7	LevelOfInclusion	61	65	both
+T8	ConstructiveDestructiveForces	66	101	constructive and destructive forces
+T9	Exemplar	102	109	such as
+T10	ConstructiveDestructiveForces	110	120	weathering
+T11	ConstructiveDestructiveForces	122	129	erosion
+T12	ConstructiveDestructiveForces	135	145	deposition
+T13	Sedimentary	149	157	sediment
+T14	GeographicFormations	163	181	Mid-Atlantic Ridge
+T15	GeographicFormations	186	198	Grand Canyon
+T16	GeopoliticalLocations	203	216	Mojave Desert
+T17	TypesOfTerrestrialEcosystems	210	216	Desert
+T18	GeographicFormations	221	240	Himalayan Mountains

@@ -1,0 +1,14 @@
+T1	RelativeTime	0	5	After
+T2	LevelOfInclusion	6	11	which
+T3	Event	12	17	event
+T4	ProbabilityAndCertainty	18	22	will
+T5	Evolution	23	44	ecological succession
+T6	EnvironmentalPhenomena	23	44	ecological succession
+T7	AmountComparison	45	49	most
+T8	ProbabilityAndCertainty	50	56	likely
+T9	Occur	57	63	happen
+T10	ExamplesOfHabitats	67	73	forest
+T11	NaturalPhenomena	74	78	fire
+T12	WeatherPhenomena	81	93	thunderstorm
+T13	TidesHighTideLowTide	96	105	high tide
+T14	EclipseEvents	108	121	lunar eclipse

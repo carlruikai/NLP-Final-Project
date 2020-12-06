@@ -1,0 +1,40 @@
+T1	RelativeLocations	0	2	In
+T2	Size	3	8	large
+T3	BusinessIndustry	9	19	industrial
+T4	Cities	20	26	cities
+T5	GaseousMatter	32	41	emissions
+T6	RelativeDirection	42	46	from
+T7	FossilFuel	47	58	fossil fuel
+T8	Cause	60	65	cause
+T9	EarthPartsGrossGroundAtmosphere	70	80	atmosphere
+T10	Changes	84	90	change
+T11	LevelOfInclusion	92	97	Which
+T12	Event	98	105	process
+T13	Permit	106	112	allows
+T14	EarthPartsGrossGroundAtmosphere	117	127	atmosphere
+T15	Changes	131	137	change
+T16	AmountChangingActions	139	148	increased
+T17	IncreaseDecrease	139	148	increased
+T18	ChemicalProperty	149	158	inorganic
+T19	Matter	159	165	matter
+T20	RelativeLocations	166	168	in
+T21	Soil	169	173	soil
+T22	AmountChangingActions	174	183	increased
+T23	IncreaseDecrease	174	183	increased
+T24	Use	184	187	use
+T25	PlantNutrients	191	202	fertilizers
+T26	ChemicalProduct	191	202	fertilizers
+T27	PrepositionalDirections	203	205	on
+T28	Plant	206	211	crops
+T29	Agriculture	206	211	crops
+T30	AmountChangingActions	212	221	increased
+T31	IncreaseDecrease	212	221	increased
+T32	Collect	222	229	buildup
+T33	Compound	233	247	greenhouse gas
+T34	AmountChangingActions	250	259	increased
+T35	IncreaseDecrease	250	259	increased
+T36	Precipitation	260	268	rainfall
+T37	MeasuringSpeed	269	274	rates
+T38	Numbers	269	274	rates
+T39	DistanceComparison	275	279	near
+T40	ManmadeLocations	280	292	power plants

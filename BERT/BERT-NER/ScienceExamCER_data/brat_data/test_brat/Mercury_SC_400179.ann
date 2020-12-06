@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	10	tool
+T3	ProbabilityAndCertainty	11	16	would
+T4	Quality	17	21	best
+T5	QualityComparison	17	21	best
+T6	Separate	22	30	separate
+T7	Soil	31	35	sand
+T8	GranularSolids	31	35	sand
+T9	NaturalMaterial	40	44	clay
+T10	Soil	40	44	clay
+T11	CombineAdd	45	50	mixed
+T12	RelativeLocations	51	53	in
+T13	Soil	54	58	soil
+T14	FiltrationTool	60	66	sifter
+T15	DistanceMeasuringTools	67	72	ruler
+T16	TemperatureMeasuringTools	73	84	thermometer
+T17	MagneticDevice	85	91	magnet

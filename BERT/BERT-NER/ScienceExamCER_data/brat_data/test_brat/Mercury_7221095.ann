@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	NonlivingPartsOfTheEnvironment	21	36	abiotic element
+T5	RelativeLocations	37	39	in
+T6	EcosystemsEnvironment	43	52	ecosystem
+T7	Calculations	58	65	average
+T8	Frequency	66	72	yearly
+T9	Precipitation	73	81	rainfall
+T10	RelativeLocations	75	77	in
+T11	EcosystemsEnvironment	89	98	ecosystem
+T12	Exemplar	103	108	types
+T13	PartsOfTheFoodChain	112	121	producers
+T14	VerbsForLocate	122	127	found
+T15	RelativeLocations	128	130	in
+T16	EcosystemsEnvironment	135	144	ecosystem
+T17	Size	149	153	size
+T18	Animal	159	167	predator
+T19	GroupsOfOrganisms	168	178	population
+T20	RelativeLocations	179	181	in
+T21	EcosystemsEnvironment	186	195	ecosystem
+T22	Monera	200	214	microorganisms
+T23	LivingDying	215	221	living
+T24	RelativeLocations	218	220	in
+T25	Soil	229	233	soil
+T26	EcosystemsEnvironment	241	250	ecosystem

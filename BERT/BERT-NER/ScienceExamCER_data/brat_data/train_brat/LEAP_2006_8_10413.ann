@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Quality	15	19	best
+T4	QualityComparison	15	19	best
+T5	Communicate	20	27	defines
+T6	TypesOfIllness	28	48	communicable disease
+T7	AbilityAvailability	56	59	can
+T8	StateOfBeing	60	62	be
+T9	IllnessPreventionCuring	63	68	cured
+T10	StateOfBeing	75	78	are
+T11	Cause	79	85	caused
+T12	Bacteria	89	98	bacteria.
+T13	StateOfBeing	104	107	are
+T14	Transportation	108	114	spread
+T15	RelativeDirection	115	117	to
+T16	Comparisons	118	124	others
+T17	AbilityAvailability	131	134	can
+T18	Transportation	135	141	spread
+T19	LevelOfInclusion	142	146	only
+T20	RelativeTime	147	149	in
+T21	SeasonsFallAutumnWinterSpringSummer	150	156	winter

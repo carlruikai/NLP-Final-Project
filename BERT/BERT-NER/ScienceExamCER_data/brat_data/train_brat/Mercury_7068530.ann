@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GeographicFormationProcess	6	22	geologic process
+T3	AmountComparison	23	27	most
+T4	ProbabilityAndCertainty	28	34	likely
+T5	Cause	35	38	led
+T6	ChangeInLocation	46	55	uplifting
+T7	GeographicFormations	63	78	Rocky Mountains
+T8	LOCATION	63	78	Rocky Mountains
+T9	GeographicFormationProcess	80	90	glaciation
+T10	NaturalPhenomena	91	99	flooding
+T11	LiquidMovement	91	99	flooding
+T12	GeographicFormations	100	108	faulting
+T13	ConstructiveDestructiveForces	109	116	erosion
+T14	NaturalPhenomena	109	116	erosion

@@ -1,0 +1,13 @@
+T1	StateOfBeing	5	7	is
+T2	ImportanceComparison	12	16	main
+T3	Source	17	23	source
+T4	Complexity	27	30	raw
+T5	Matter	31	39	material
+T6	Require	40	43	for
+T7	Create	48	55	product
+T8	SyntheticMaterial	62	70	plastics
+T9	ManmadeObjects	62	70	plastics
+T10	Soil	72	76	clay
+T11	Plant	77	83	plants
+T12	FossilFuel	84	93	petroleum
+T13	Soil	94	98	sand

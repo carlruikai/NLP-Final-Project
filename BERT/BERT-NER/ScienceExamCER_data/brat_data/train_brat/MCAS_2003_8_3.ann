@@ -1,0 +1,23 @@
+T1	TransferEnergy	5	26	energy transformation
+T2	Occur	27	33	occurs
+T3	RelativeTime	34	38	when
+T4	LightProducingObject	42	55	electric lamp
+T5	ElectricAppliance	42	55	electric lamp
+T6	StateOfBeing	56	58	is
+T7	Start	59	68	turned on
+T8	ElectricalEnergy	70	87	electrical energy
+T9	RelativeDirection	88	90	to
+T10	Spectra	91	96	light
+T11	ThermalEnergy	101	112	heat energy
+T12	Spectra	113	125	light energy
+T13	RelativeDirection	126	128	to
+T14	ElectricalEnergy	129	139	electrical
+T15	Energy	144	161	mechanical energy
+T16	ThermalEnergy	162	173	heat energy
+T17	RelativeDirection	174	176	to
+T18	ElectricalEnergy	177	187	electrical
+T19	Spectra	192	204	light energy
+T20	ElectricalEnergy	205	222	electrical energy
+T21	RelativeDirection	223	225	to
+T22	Energy	226	236	mechanical
+T23	ThermalEnergy	241	252	heat energy

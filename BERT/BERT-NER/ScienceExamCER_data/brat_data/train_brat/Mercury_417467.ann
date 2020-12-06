@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	SystemParts	6	15	structure
+T3	StateOfBeing	16	18	is
+T4	VerbsForLocate	19	24	found
+T5	RelativeLocations	25	27	in
+T6	PartsOfTheFoodChain	28	37	producers
+T7	RelativeLocations	38	40	in
+T8	ProbabilityAndCertainty	41	47	nearly
+T9	LevelOfInclusion	48	51	all
+T10	EcosystemsEnvironment	52	62	ecosystems
+T11	PlantPart	57	62	stems
+T12	PlantPart	70	76	leaves
+T13	PlantPart	77	85	rhizomes
+T14	PlantPart	86	98	chloroplasts

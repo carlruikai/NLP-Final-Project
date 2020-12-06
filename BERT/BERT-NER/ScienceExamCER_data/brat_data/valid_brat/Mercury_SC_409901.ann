@@ -1,0 +1,25 @@
+T1	Plant	0	6	Plants
+T2	Require	7	11	need
+T3	Source	14	20	source
+T4	Energy	24	30	energy
+T5	Goal	31	42	in order to
+T6	PerformAnActivity	43	50	perform
+T7	CellProcesses	51	65	photosynthesis
+T8	PlantProcesses	51	65	photosynthesis
+T9	RelativeDirection	67	71	From
+T10	LevelOfInclusion	72	77	which
+T11	Source	78	84	source
+T12	PerformAnActivity	85	87	do
+T13	Plant	88	94	plants
+T14	Uptake	95	102	receive
+T15	Energy	107	113	energy
+T16	Require	114	120	needed
+T17	PerformAnActivity	124	131	perform
+T18	CellProcesses	132	146	photosynthesis
+T19	PlantProcesses	132	146	photosynthesis
+T20	PlantNutrients	148	154	oxygen
+T21	Element	148	154	oxygen
+T22	NutritiveSubstancesForAnimalsOrPlants	155	160	sugar
+T23	CelestialLightOnEarth	161	169	sunlight
+T24	PhasesOfWater	170	175	water
+T25	LiquidMatter	170	175	water

@@ -1,0 +1,22 @@
+T1	CelestialLightOnEarth	0	8	Sunlight
+T2	Move	9	15	passes
+T3	PrepositionalDirections	16	23	through
+T4	VehicularSystemsParts	28	35	windows
+T5	LandVehicle	41	44	car
+T6	Cause	49	55	causes
+T7	LandVehicle	60	63	car
+T8	VehicularSystemsParts	64	69	seats
+T9	ChangeInto	73	76	get
+T10	Temperature	77	80	hot
+T11	LevelOfInclusion	82	87	Which
+T12	Exemplar	88	92	type
+T13	EnvironmentalPhenomena	96	107	energy flow
+T14	StateOfBeing	108	110	is
+T15	Require	111	119	involved
+T16	IncreaseDecrease	123	130	heating
+T17	Temperature	123	130	heating
+T18	VehicularSystemsParts	135	140	seats
+T19	TransferEnergy	142	152	conduction
+T20	TransferEnergy	153	163	convection
+T21	TransferEnergy	164	174	insulation
+T22	ReleaseEnergy	175	184	radiation

@@ -1,0 +1,5 @@
+A wire is wrapped around a metal nail and connected to a battery. If the battery is active, the nail will
+vibrate.
+create sound.
+produce heat.
+become magnetic.

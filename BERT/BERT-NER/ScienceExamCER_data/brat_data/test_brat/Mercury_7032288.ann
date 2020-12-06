@@ -1,0 +1,30 @@
+T1	LevelOfInclusion	4	8	half
+T2	TimeUnit	12	16	hour
+T3	Scientists	20	27	student
+T4	Observe	28	35	watches
+T5	CardinalNumber	36	39	two
+T6	NUMBER	36	39	two
+T7	Comparisons	40	49	different
+T8	Exemplar	50	55	types
+T9	OtherDescriptionsForPlantsBiennialLeafyEtc	59	68	flowering
+T10	Plant	69	75	bushes
+T11	Examine	80	86	counts
+T12	Numbers	91	97	number
+T13	Insect	101	112	butterflies
+T14	Move	118	125	come to
+T15	ActionsForAnimals	126	130	feed
+T16	Consumption	126	130	feed
+T17	PrepositionalDirections	131	133	on
+T18	LevelOfInclusion	134	138	each
+T19	Plant	139	143	bush
+T20	ProbabilityAndCertainty	150	155	would
+T21	StateOfBeing	156	158	be
+T22	Quality	163	167	best
+T23	QualityComparison	163	167	best
+T24	Method	168	171	way
+T25	Represent	175	179	show
+T26	WordsForData	184	189	data?
+T27	Representation	192	203	scatterplot
+T28	Representation	206	215	pie chart
+T29	Representation	218	227	bar graph
+T30	Representation	230	240	line graph

@@ -1,0 +1,22 @@
+T1	PlantPart	2	6	root
+T2	Occur	7	14	emerges
+T3	Start	7	14	emerges
+T4	RelativeDirection	15	19	from
+T5	PlantPart	22	26	seed
+T6	Cause	27	37	because of
+T7	Force	42	47	force
+T8	PhasesOfWater	51	56	water
+T9	RelativeDirection	57	64	against
+T10	PlantPart	69	78	seed coat
+T11	EarthPartsGrossGroundAtmosphere	80	83	air
+T12	GaseousMatter	80	83	air
+T13	PushingActions	84	91	pushing
+T14	PrepositionalDirections	92	94	on
+T15	PlantPart	99	103	seed
+T16	Gravity	105	112	gravity
+T17	PrepositionalDirections	113	115	on
+T18	PlantPart	120	124	seed
+T19	Soil	126	130	soil
+T20	PushingActions	131	139	pressing
+T21	PrepositionalDirections	140	142	on
+T22	PlantPart	147	151	seed

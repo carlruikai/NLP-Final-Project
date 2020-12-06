@@ -1,0 +1,10 @@
+T1	Temperature	0	11	Temperature
+T2	StateOfBeing	12	14	is
+T3	Measurements	19	30	measurement
+T4	LevelOfInclusion	34	39	which
+T5	Exemplar	40	44	type
+T6	Energy	48	54	energy
+T7	Energy	56	64	chemical
+T8	Energy	65	75	mechanical
+T9	Energy	76	85	potential
+T10	Energy	86	93	kinetic

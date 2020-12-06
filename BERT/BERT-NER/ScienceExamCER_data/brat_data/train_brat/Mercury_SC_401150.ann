@@ -1,0 +1,14 @@
+T1	RelativeLocations	0	5	There
+T2	StateOfBeing	6	9	are
+T3	AmountComparison	10	14	MORE
+T4	TimeUnit	15	20	hours
+T5	CelestialLightOnEarth	24	32	sunlight
+T6	RelativeLocations	33	35	in
+T7	NorthernHemisphereLocations	40	59	Northern Hemisphere
+T8	RelativeTime	60	66	during
+T9	LevelOfInclusion	67	72	which
+T10	SeasonsFallAutumnWinterSpringSummer	73	79	season
+T11	SeasonsFallAutumnWinterSpringSummer	81	87	spring
+T12	SeasonsFallAutumnWinterSpringSummer	88	94	summer
+T13	SeasonsFallAutumnWinterSpringSummer	95	99	fall
+T14	SeasonsFallAutumnWinterSpringSummer	100	106	winter

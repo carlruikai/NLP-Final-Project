@@ -1,0 +1,15 @@
+T1	Igneous	0	7	Granite
+T2	StateOfBeing	8	10	is
+T3	Classify	11	21	classified
+T4	Rock	27	31	rock
+T5	Cause	32	39	because
+T6	StateOfBeing	43	45	is
+T7	ContainBeComposedOf	46	50	made
+T8	Minerals	54	62	minerals
+T9	StateOfBeing	64	66	is
+T10	Hardness	67	71	hard
+T11	Shape	76	83	rounded
+T12	ContainBeComposedOf	85	88	has
+T13	Minerals	89	97	crystals
+T14	ContainBeComposedOf	99	102	has
+T15	Mass	103	107	mass

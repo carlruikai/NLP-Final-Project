@@ -1,0 +1,17 @@
+T1	EnergyWaves	2	19	longitudinal wave
+T2	Exemplar	21	28	such as
+T3	SoundEnergy	31	36	sound
+T4	EnergyWaves	31	41	sound wave
+T5	AbilityAvailability	43	46	can
+T6	Move	47	53	travel
+T7	PrepositionalDirections	54	61	through
+T8	StateOfMatter	62	68	solids
+T9	LevelOfInclusion	69	73	only
+T10	StateOfMatter	75	82	liquids
+T11	LevelOfInclusion	83	87	only
+T12	StateOfMatter	89	92	gas
+T13	StateOfMatter	94	101	liquids
+T14	StateOfMatter	107	113	solids
+T15	StateOfMatter	115	118	gas
+T16	Vacuum	125	131	vacuum
+T17	LevelOfInclusion	132	136	only

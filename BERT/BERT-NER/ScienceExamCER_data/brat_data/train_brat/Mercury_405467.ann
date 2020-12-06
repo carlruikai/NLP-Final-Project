@@ -1,0 +1,26 @@
+T1	LevelOfInclusion	0	5	Which
+T2	SystemAndFunctions	6	14	function
+T3	Create	15	20	makes
+T4	Plant	23	28	plant
+T5	Cell	29	33	cell
+T6	Comparisons	34	43	different
+T7	RelativeDirection	44	48	from
+T8	Animal	52	58	animal
+T9	Cell	59	63	cell
+T10	Ability	65	72	ability
+T11	Use	76	79	use
+T12	Energy	80	86	energy
+T13	Ability	87	94	ability
+T14	ActionsForNutrition	98	104	absorb
+T15	Nutrition	105	114	nutrients
+T16	Ability	115	122	ability
+T17	Divide	126	137	divide into
+T18	ChangeInto	126	137	divide into
+T19	CardinalNumber	138	141	two
+T20	NUMBER	138	141	two
+T21	Cell	142	147	cells
+T22	Ability	148	155	ability
+T23	TransferEnergy	159	166	convert
+T24	CelestialLightOnEarth	167	175	sunlight
+T25	ChangeInto	176	180	into
+T26	Energy	181	187	energy

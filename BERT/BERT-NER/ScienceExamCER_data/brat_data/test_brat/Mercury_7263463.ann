@@ -1,0 +1,37 @@
+T1	Human	0	5	Human
+T2	Genetics	6	9	DNA
+T3	ContainBeComposedOf	10	18	includes
+T4	Classification	21	26	class
+T5	Gene	30	35	genes
+T6	Classify	36	42	called
+T7	TypesOfIllness	44	49	tumor
+T8	Gene	50	61	suppressors
+T9	LevelOfInclusion	72	77	these
+T10	Gene	78	83	genes
+T11	PerformAnActivity	84	86	do
+T12	RelativeLocations	87	89	in
+T13	PartsOfTheSkeletalSystem	90	99	bone cell
+T14	IncreaseDecrease	107	115	restrict
+T15	StopRemove	107	115	restrict
+T16	CellProcesses	116	126	cell cycle
+T17	PerformAnActivity	127	138	progression
+T18	RelativeLocations	139	141	in
+T19	PartsOfTheSkeletalSystem	142	151	bone cell
+T20	Help	159	166	promote
+T21	Speed	171	176	rapid
+T22	Development	177	188	development
+T23	PartsOfTheSkeletalSystem	192	201	bone cell
+T24	Group	204	208	They
+T25	IncreaseDecrease	209	214	limit
+T26	Numbers	219	225	number
+T27	PartsOfTheSkeletalSystem	229	234	bones
+T28	RelativeLocations	235	237	in
+T29	Human	242	247	human
+T30	HumanPart	248	252	body
+T31	Help	259	265	enable
+T32	Permit	259	265	enable
+T33	Element	266	276	phosphorus
+T34	Element	281	288	calcium
+T35	Move	292	297	enter
+T36	CombineAdd	292	297	enter
+T37	PartsOfTheSkeletalSystem	298	307	bone cell

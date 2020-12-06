@@ -1,0 +1,14 @@
+T1	TemporalProperty	0	8	How long
+T2	Require	17	21	take
+T3	Moon	30	34	Moon
+T4	CelestialMovement	38	44	rotate
+T5	Position	45	56	on its axis
+T6	CardinalNumber	58	61	one
+T7	TimeUnit	62	65	day
+T8	CardinalNumber	66	69	one
+T9	TimeUnit	70	74	year
+T10	Year	70	74	year
+T11	CardinalNumber	75	78	one
+T12	TimeUnit	79	83	week
+T13	CardinalNumber	84	87	one
+T14	TimeUnit	88	93	month

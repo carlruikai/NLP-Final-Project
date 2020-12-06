@@ -1,0 +1,21 @@
+T1	LayersOfTheEarth	4	8	core
+T2	InnerPlanets	12	17	Earth
+T3	LOCATION	12	17	Earth
+T4	StateOfBeing	18	20	is
+T5	Differentiate	21	28	divided
+T6	RelativeDirection	29	33	into
+T7	CardinalNumber	34	37	two
+T8	NUMBER	34	37	two
+T9	ObjectQuantification	38	44	layers
+T10	LayersOfTheEarth	50	60	outer core
+T11	StateOfBeing	61	63	is
+T12	ContainBeComposedOf	64	68	made
+T13	Igneous	72	86	basaltic rocks
+T14	Compound	88	96	silicate
+T15	Rock	88	102	silicate rocks
+T16	StateOfMatter	104	109	solid
+T17	Element	110	114	iron
+T18	Element	119	125	nickel
+T19	StateOfMatter	127	133	molten
+T20	Element	134	138	iron
+T21	Element	143	149	nickel

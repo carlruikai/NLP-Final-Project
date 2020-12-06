@@ -1,0 +1,50 @@
+T1	Scientists	2	12	researcher
+T2	Observe	13	20	observe
+T3	LivingThing	30	38	organism
+T4	Move	39	45	placed
+T5	VerbsForLocate	39	45	placed
+T6	RelativeLocations	46	48	in
+T7	SyntheticMaterial	51	56	glass
+T8	SolidMatter	51	56	glass
+T9	LiquidHoldingContainersRecepticles	57	66	container
+T10	ContainBeComposedOf	67	78	filled with
+T11	PhasesOfWater	79	84	water
+T12	Move	85	90	moves
+T13	PrepositionalDirections	91	95	away
+T14	RelativeTime	96	100	when
+T15	LightProducingObject	103	111	penlight
+T16	StateOfBeing	112	114	is
+T17	LightMovement	115	122	focused
+T18	PrepositionalDirections	123	125	on
+T19	LiquidHoldingContainersRecepticles	130	139	container
+T20	Scientists	145	155	researcher
+T21	ConcludingResearch	156	165	concludes
+T22	LivingThing	175	183	organism
+T23	StateOfBeing	180	182	is
+T24	Light	187	192	light
+T25	ResistanceStrength	193	202	sensitive
+T26	LevelOfInclusion	204	209	Which
+T27	Comparisons	210	215	other
+T28	ResponseType	216	227	explanation
+T29	LivingThing	236	244	organism
+T30	Response	247	255	response
+T31	RelativeDirection	256	258	to
+T32	Light	263	268	light
+T33	StateOfBeing	269	271	is
+T34	AmountComparison	272	276	most
+T35	ProbabilityAndCertainty	277	285	possible
+T36	LivingThing	291	299	organism
+T37	AvoidReject	300	306	avoids
+T38	ElectromagneticSpectrum	307	318	radio waves
+T39	LivingThing	324	332	organism
+T40	AvoidReject	333	339	avoids
+T41	ElectromagneticSpectrum	340	350	gamma rays
+T42	LivingThing	356	364	organism
+T43	Move	365	370	moves
+T44	PrepositionalDirections	371	380	away from
+T45	SoundEnergy	381	391	vibrations
+T46	LivingThing	397	405	organism
+T47	Move	406	411	moves
+T48	PrepositionalDirections	412	421	away from
+T49	ThermalEnergy	422	426	heat
+T50	Source	427	434	sources

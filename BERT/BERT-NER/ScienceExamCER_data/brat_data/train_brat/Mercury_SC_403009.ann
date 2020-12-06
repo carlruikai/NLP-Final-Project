@@ -1,0 +1,18 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	10	tool
+T3	AbilityAvailability	11	16	could
+T4	StateOfBeing	17	19	be
+T5	Use	20	24	used
+T6	Goal	25	27	to
+T7	Help	28	32	help
+T8	Numbers	41	46	count
+T9	Examine	41	46	count
+T10	Numbers	51	57	number
+T11	Insect	61	69	ladybugs
+T12	RelativeLocations	70	72	on
+T13	PlantPart	75	79	leaf
+T14	ViewingTools	81	90	hand lens
+T15	DistanceMeasuringTools	91	102	meter stick
+T16	ViewingTools	103	113	microscope
+T17	LiquidHoldingContainersRecepticles	114	132	graduated cylinder
+T18	VolumeMeasuringTool	114	132	graduated cylinder

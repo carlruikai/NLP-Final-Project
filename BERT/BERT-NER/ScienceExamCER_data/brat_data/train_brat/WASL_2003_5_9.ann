@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GenericTerms	6	12	object
+T3	RelativeLocations	13	18	below
+T4	StateOfBeing	19	21	is
+T5	AmountChangingActions	22	29	gaining
+T6	Preserve	30	36	stored
+T7	Energy	37	43	energy
+T8	ManmadeObjects	47	58	rubber band
+T9	StateOfBeing	67	72	being
+T10	FormChangingActions	73	82	stretched
+T11	ElectricalEnergySource	85	92	battery
+T12	RelativeLocations	93	95	in
+T13	LightProducingObject	98	108	flashlight
+T14	StateOfBeing	114	116	is
+T15	Start	117	119	on
+T16	HeatingAppliance	122	128	candle
+T17	StateOfBeing	134	136	is
+T18	ReleaseEnergy	137	144	burning
+T19	ChemicalChange	137	144	burning

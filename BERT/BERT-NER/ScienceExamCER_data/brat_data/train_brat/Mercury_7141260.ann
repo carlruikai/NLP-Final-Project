@@ -1,0 +1,33 @@
+T1	PartsOfTheCirculatorySystem	0	8	Arteries
+T2	PartsOfTheCirculatorySystem	13	18	veins
+T3	StateOfBeing	19	22	are
+T4	CardinalNumber	23	26	two
+T5	NUMBER	23	26	two
+T6	Quality	27	36	important
+T7	ObjectPart	37	42	parts
+T8	CirculatorySystem	50	68	circulatory system
+T9	StateOfBeing	75	77	is
+T10	Relations	82	94	relationship
+T11	RelativeLocations	95	102	between
+T12	PartsOfTheCirculatorySystem	103	111	arteries
+T13	PartsOfTheCirculatorySystem	116	121	veins
+T14	PerformAnActivity	128	132	work
+T15	Relations	133	141	together
+T16	Result	133	135	to
+T17	Transportation	145	153	exchange
+T18	DigestiveSubstances	154	159	gases
+T19	GaseousMatter	154	159	gases
+T20	PerformAnActivity	166	170	work
+T21	Relations	171	179	together
+T22	Result	171	173	to
+T23	Transportation	183	192	transport
+T24	Nutrition	193	202	nutrients
+T25	PerformAnActivity	209	213	work
+T26	Relations	214	227	independently
+T27	Result	228	230	to
+T28	ExcretoryActions	231	243	remove waste
+T29	PerformAnActivity	251	255	work
+T30	Relations	256	269	independently
+T31	Result	270	272	to
+T32	Transportation	273	278	relay
+T33	Communicate	279	287	messages

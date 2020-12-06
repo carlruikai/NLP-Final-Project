@@ -1,0 +1,33 @@
+T1	Quality	4	8	best
+T2	QualityComparison	4	8	best
+T3	ConcludingResearch	9	17	evidence
+T4	WordsForData	9	17	evidence
+T5	CardinalNumber	23	26	two
+T6	NUMBER	23	26	two
+T7	Locations	27	36	land area
+T8	StateOfBeing	38	42	were
+T9	TemporalProperty	43	47	once
+T10	Relations	48	57	connected
+T11	Touch	48	57	connected
+T12	StateOfBeing	58	60	is
+T13	Discovery	65	74	discovery
+T14	LevelOfInclusion	80	84	both
+T15	Locations	85	96	land masses
+T16	ContainBeComposedOf	97	101	have
+T17	Comparisons	106	110	same
+T18	EcosystemsEnvironment	111	118	climate
+T19	StateOfBeing	120	123	are
+T20	RelativeLocations	124	126	in
+T21	Comparisons	131	135	same
+T22	SystemProcessStages	136	141	stage
+T23	EnvironmentalPhenomena	145	155	succession
+T24	Occur	157	162	exist
+T25	PrepositionalDirections	163	168	along
+T26	Comparisons	173	177	same
+T27	GeometricMeasurements	178	195	line of longitude
+T28	EarthPartsGrossGroundAtmosphere	178	195	line of longitude
+T29	ContainBeComposedOf	197	201	have
+T30	Comparisons	202	209	similar
+T31	Exemplar	210	215	types
+T32	Rock	219	224	rocks
+T33	Fossils	229	236	fossils

@@ -1,0 +1,37 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Quality	16	20	best
+T4	QualityComparison	16	20	best
+T5	Communicate	21	29	explains
+T6	Method	30	33	how
+T7	Group	34	41	periods
+T8	RelativeLocations	42	44	on
+T9	RepresentingElementsAndMolecules	49	63	periodic table
+T10	StateOfBeing	64	67	are
+T11	Create	68	77	organized
+T12	AmountChangingActions	79	89	increasing
+T13	IncreaseDecrease	79	89	increasing
+T14	AtomicProperties	90	103	atomic number
+T15	RelativeDirection	104	108	from
+T16	RelativeDirection	109	113	left
+T17	RelativeDirection	117	122	right
+T18	AmountChangingActions	123	133	increasing
+T19	IncreaseDecrease	123	133	increasing
+T20	Numbers	134	140	number
+T21	AtomComponents	144	152	neutrons
+T22	RelativeDirection	153	157	from
+T23	RelativeDirection	158	162	left
+T24	RelativeDirection	166	171	right
+T25	AmountChangingActions	172	182	decreasing
+T26	IncreaseDecrease	172	182	decreasing
+T27	Numbers	183	189	number
+T28	AtomComponents	193	202	electrons
+T29	RelativeDirection	203	207	from
+T30	RelativeDirection	208	212	left
+T31	RelativeDirection	216	221	right
+T32	AmountChangingActions	222	232	decreasing
+T33	IncreaseDecrease	222	232	decreasing
+T34	AtomicProperties	233	251	atomic mass number
+T35	RelativeDirection	252	256	from
+T36	RelativeDirection	257	261	left
+T37	RelativeDirection	265	270	right

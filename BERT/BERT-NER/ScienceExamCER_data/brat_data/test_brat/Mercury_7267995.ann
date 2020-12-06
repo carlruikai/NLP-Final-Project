@@ -1,0 +1,21 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	Plant	5	10	plant
+T4	Taxonomy	11	18	species
+T5	Animal	23	29	animal
+T6	Taxonomy	30	37	species
+T7	Require	38	47	depend on
+T8	LevelOfInclusion	48	52	each
+T9	Comparisons	53	58	other
+T10	LevelOfInclusion	60	65	Which
+T11	LevelOfInclusion	69	74	these
+T12	Animal	75	82	animals
+T13	Help	83	87	help
+T14	ArithmeticMeasure	88	97	thousands
+T15	Plant	101	106	plant
+T16	Taxonomy	107	114	species
+T17	Reproduction	118	127	reproduce
+T18	Mammal	129	138	squirrels
+T19	Animal	139	149	earthworms
+T20	Insect	150	159	honeybees
+T21	Insect	160	167	beetles

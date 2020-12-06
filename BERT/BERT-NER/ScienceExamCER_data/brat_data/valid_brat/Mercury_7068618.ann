@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Rarity	6	15	renewable
+T3	NaturalResources	16	24	resource
+T4	StateOfBeing	25	27	is
+T5	Use	28	32	used
+T6	CombineAdd	33	37	with
+T7	ElectricityGeneration	38	56	photovoltaic cells
+T8	ElectricalEnergySource	38	56	photovoltaic cells
+T9	Result	41	43	to
+T10	Create	60	67	produce
+T11	ElectricalEnergy	68	79	electricity
+T12	OtherEnergyResources	81	100	hydrothermal energy
+T13	OtherEnergyResources	101	113	solar energy
+T14	OtherEnergyResources	114	131	geothermal energy
+T15	OtherEnergyResources	132	146	nuclear energy

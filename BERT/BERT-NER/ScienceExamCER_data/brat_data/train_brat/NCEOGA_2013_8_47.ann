@@ -1,0 +1,24 @@
+T1	LevelOfInclusion	0	5	Which
+T2	VariablesControls	6	13	factors
+T3	AbilityAvailability	14	17	can
+T4	Cause	18	22	have
+T5	AmountComparison	27	35	greatest
+T6	Result	36	42	effect
+T7	PrepositionalDirections	43	45	on
+T8	Health	50	56	health
+T9	BodiesOfWater	62	67	river
+T10	EcosystemsEnvironment	68	74	system
+T11	Exemplar	76	80	type
+T12	Soil	84	88	soil
+T13	ChemicalProperty	93	101	salinity
+T14	ChemicalProperty	102	116	nitrate levels
+T15	VisualProperty	121	130	turbidity
+T16	Human	131	136	human
+T17	Consumption	137	148	consumption
+T18	Use	137	148	consumption
+T19	AcidityUnit	153	155	pH
+T20	PH	153	155	pH
+T21	NaturalPhenomena	156	173	natural disasters
+T22	EnvironmentalDamageDestruction	156	173	natural disasters
+T23	TidesHighTideLowTide	178	183	tidal
+T24	Changes	184	191	changes

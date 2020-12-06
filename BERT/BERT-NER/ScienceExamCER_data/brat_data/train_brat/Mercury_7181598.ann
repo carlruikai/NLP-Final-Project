@@ -1,0 +1,27 @@
+T1	Star	4	7	Sun
+T2	StateOfBeing	8	10	is
+T3	Size	13	25	medium-sized
+T4	Star	26	30	star
+T5	StateOfBeing	35	37	is
+T6	Believe	38	46	expected
+T7	Hypothesizing	38	46	expected
+T8	WaitStay	50	58	continue
+T9	PerformAnActivity	62	69	perform
+T10	ProduceEnergy	70	84	nuclear fusion
+T11	DURATION	89	107	five billion years
+T12	CardinalNumber	89	101	five billion
+T13	TimeUnit	102	107	years
+T14	StateOfBeing	114	116	is
+T15	AmountComparison	117	121	most
+T16	ProbabilityAndCertainty	122	128	likely
+T17	RelativeDirection	129	131	to
+T18	StateOfBeing	132	134	be
+T19	TemporalProperty	139	144	final
+T20	SystemProcessStages	145	150	stage
+T21	Star	158	161	Sun
+T22	StarTypes	163	172	supernova
+T23	StarTypes	173	183	supergiant
+T24	StarTypes	184	191	neutron
+T25	Star	192	196	star
+T26	Color	197	202	white
+T27	StarTypes	203	208	dwarf

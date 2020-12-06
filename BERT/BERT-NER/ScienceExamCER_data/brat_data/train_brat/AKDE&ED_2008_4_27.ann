@@ -1,0 +1,47 @@
+T1	RelativeLocations	0	2	In
+T2	NorthernHemisphereLocations	3	9	Alaska
+T3	States	3	9	Alaska
+T4	StateOfBeing	17	20	are
+T5	AmountComparison	21	26	fewer
+T6	TimeUnit	27	32	hours
+T7	CelestialLightOnEarth	36	44	daylight
+T8	RelativeLocations	45	47	in
+T9	SeasonsFallAutumnWinterSpringSummer	52	58	winter
+T10	Comparisons	59	63	than
+T11	RelativeLocations	64	66	in
+T12	SeasonsFallAutumnWinterSpringSummer	71	77	summer
+T13	ResponseType	85	94	statement
+T14	Quality	95	99	best
+T15	QualityComparison	95	99	best
+T16	Communicate	100	108	explains
+T17	Cause	109	112	why
+T18	Comparisons	118	128	difference
+T19	Occur	129	135	occurs
+T20	Star	141	144	Sun
+T21	ReleaseEnergy	145	150	burns
+T22	Flammability	145	150	burns
+T23	Temperature	151	157	hotter
+T24	RelativeLocations	158	160	in
+T25	SeasonsFallAutumnWinterSpringSummer	165	171	summer
+T26	Star	177	180	Sun
+T27	Move	181	186	moves
+T28	CelestialMovement	181	186	moves
+T29	RelativeLocations	187	192	below
+T30	EarthPartsGrossGroundAtmosphere	197	204	horizon
+T31	RelativeLocations	205	207	in
+T32	SeasonsFallAutumnWinterSpringSummer	212	218	summer
+T33	EarthPartsGrossGroundAtmosphere	224	243	Northern Hemisphere
+T34	NorthernHemisphereLocations	224	243	Northern Hemisphere
+T35	StateOfBeing	236	238	is
+T36	DistanceComparison	247	253	closer
+T37	Star	261	264	Sun
+T38	RelativeLocations	265	267	in
+T39	SeasonsFallAutumnWinterSpringSummer	272	278	winter
+T40	EarthPartsGrossGroundAtmosphere	284	303	Northern Hemisphere
+T41	NorthernHemisphereLocations	284	303	Northern Hemisphere
+T42	StateOfBeing	296	298	is
+T43	CelestialMovement	307	313	tilted
+T44	PrepositionalDirections	314	323	away from
+T45	Star	328	331	Sun
+T46	RelativeLocations	332	334	in
+T47	SeasonsFallAutumnWinterSpringSummer	339	345	winter

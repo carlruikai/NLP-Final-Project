@@ -1,0 +1,21 @@
+T1	StateOfBeing	4	12	presence
+T2	LevelOfInclusion	25	38	the following
+T3	GeographicFormations	39	58	geological features
+T4	Create	59	67	provides
+T5	Quality	72	76	best
+T6	QualityComparison	72	76	best
+T7	WordsForData	77	85	evidence
+T8	GeographicFormations	91	99	glaciers
+T9	BodiesOfWater	91	99	glaciers
+T10	TemporalProperty	100	104	once
+T11	ActUponSomething	105	112	covered
+T12	ContainBeComposedOf	105	112	covered
+T13	Locations	116	120	area
+T14	Width	122	126	wide
+T15	PartsOfBodiesOfWater	127	136	riverbeds
+T16	Shape	137	145	U-shaped
+T17	GeographicFormations	146	153	valleys
+T18	TerrestrialLocations	154	165	underground
+T19	GeographicFormations	166	171	caves
+T20	TypesOfWaterInBodiesOfWater	172	183	groundwater
+T21	BodiesOfWater	184	191	springs

@@ -1,0 +1,41 @@
+T1	RelativeNumber	0	4	Some
+T2	LevelOfInclusion	0	4	Some
+T3	NationalityOrigin	5	14	localized
+T4	ObjectQuantification	15	21	layers
+T5	Rock	25	29	rock
+T6	ContainBeComposedOf	30	37	contain
+T7	Element	42	49	element
+T8	Element	50	57	iridium
+T9	Element	59	66	Iridium
+T10	StateOfBeing	67	69	is
+T11	AmountComparison	70	74	most
+T12	Frequency	75	80	often
+T13	VerbsForLocate	81	86	found
+T14	RelativeLocations	87	89	in
+T15	CelestialObject	90	103	space objects
+T16	Exemplar	104	111	such as
+T17	Meteor	112	122	meteoroids
+T18	Asteroid	127	136	asteroids
+T19	Discovery	142	151	discovery
+T20	LevelOfInclusion	155	160	these
+T21	Element	161	168	iridium
+T22	ContainBeComposedOf	169	179	containing
+T23	ObjectQuantification	180	186	layers
+T24	StateOfBeing	191	195	been
+T25	Associate	196	203	matched
+T26	LevelOfInclusion	207	212	which
+T27	Event	213	222	phenomena
+T28	RelativeLocations	223	225	in
+T29	InnerPlanets	226	231	Earth
+T30	ScientificTheoryExperimentationAndHistory	234	241	history
+T31	TectonicPlates	243	257	tectonic plate
+T32	Separate	258	269	separations
+T33	Mass	270	274	mass
+T34	Taxonomy	275	282	species
+T35	LivingDying	283	294	extinctions
+T36	Extinction	283	294	extinctions
+T37	CelestialMovement	295	302	orbital
+T38	Directions	303	307	path
+T39	Changes	308	315	changes
+T40	PlanetParts	316	329	magnetic pole
+T41	Alter	330	339	reversals

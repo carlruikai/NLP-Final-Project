@@ -1,0 +1,39 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Exemplar	6	13	example
+T3	ProbabilityAndCertainty	14	19	would
+T4	Cause	20	29	result in
+T5	Age	30	33	new
+T6	Cell	34	39	cells
+T7	StateOfBeing	45	48	are
+T8	AmountComparison	49	53	most
+T9	Comparisons	54	63	different
+T10	RelativeDirection	64	68	from
+T11	GeneticRelations	73	79	parent
+T12	Cell	80	85	cells
+T13	Eukaryote	87	92	yeast
+T14	Cell	93	98	cells
+T15	Divide	99	108	splitting
+T16	ChangeInto	109	113	into
+T17	Age	114	117	new
+T18	Cell	118	123	cells
+T19	Bacteria	124	132	bacteria
+T20	Cell	133	138	cells
+T21	Divide	139	147	dividing
+T22	ChangeInto	148	152	into
+T23	Age	153	156	new
+T24	Cell	157	162	cells
+T25	Cell	163	172	skin cell
+T26	PartsOfTheIntegumentarySystem	163	172	skin cell
+T27	Divide	174	182	dividing
+T28	Result	183	185	to
+T29	Create	186	193	produce
+T30	AmountComparison	194	198	more
+T31	Cell	199	208	skin cell
+T32	PartsOfTheIntegumentarySystem	199	208	skin cell
+T33	PartsOfTheReproductiveSystem	210	215	sperm
+T34	PartsOfTheReproductiveSystem	220	228	egg cell
+T35	CombineAdd	230	237	uniting
+T36	Result	238	240	to
+T37	Create	241	248	produce
+T38	PrenatalOrganismStates	249	263	fertilized egg
+T39	Cell	264	269	cells

@@ -1,0 +1,43 @@
+T1	Protist	0	9	Spirogyra
+T2	StateOfBeing	10	13	are
+T3	Color	14	19	green
+T4	Protist	20	25	algae
+T5	AbilityAvailability	31	34	can
+T6	Reproduction	35	53	reproduce sexually
+T7	LevelOfInclusion	55	60	Which
+T8	LevelOfInclusion	64	77	the following
+T9	Property	78	86	features
+T10	Classify	87	97	identifies
+T11	Identify	87	97	identifies
+T12	Reproduction	98	110	reproduction
+T13	RelativeLocations	111	113	in
+T14	Protist	114	123	Spirogyra
+T15	StateOfBeing	124	126	as
+T16	Reproduction	127	146	sexual reproduction
+T17	Cell	152	157	cells
+T18	GeneticRelations	161	167	parent
+T19	Protist	168	173	algae
+T20	ContainBeComposedOf	174	178	have
+T21	AnimalCellPart	179	186	nuclei.
+T22	PlantCellPart	179	186	nuclei.
+T23	LevelOfInclusion	187	191	Each
+T24	GeneticRelations	192	201	offspring
+T25	WordsForOffspring	192	201	offspring
+T26	ContainBeComposedOf	202	210	contains
+T27	PlantPart	211	223	chloroplasts
+T28	RelativeNumber	225	232	Several
+T29	GeneticRelations	233	242	offspring
+T30	WordsForOffspring	233	242	offspring
+T31	ProbabilityAndCertainty	243	246	may
+T32	StateOfBeing	247	249	be
+T33	Create	250	258	produced
+T34	RelativeTime	259	261	at
+T35	TemporalProperty	262	266	once
+T36	Genetics	268	284	Genetic material
+T37	StateOfBeing	285	287	is
+T38	CombineAdd	288	299	contributed
+T39	Cause	300	302	by
+T40	CardinalNumber	303	306	two
+T41	NUMBER	303	306	two
+T42	GeneticRelations	307	313	parent
+T43	Cell	314	319	cells

@@ -1,0 +1,14 @@
+T1	Size	4	12	smallest
+T2	Comparisons	4	12	smallest
+T3	SystemParts	13	17	unit
+T4	Plant	23	28	plant
+T5	AbilityAvailability	34	37	can
+T6	PerformAnActivity	38	45	perform
+T7	LevelOfInclusion	46	49	all
+T8	OrganicProcesses	57	66	processes
+T9	LivingDying	70	74	life
+T10	StateOfBeing	75	77	is
+T11	PlantPart	82	86	leaf
+T12	Cell	88	92	cell
+T13	PlantPart	94	100	tissue
+T14	PlantPart	102	106	root

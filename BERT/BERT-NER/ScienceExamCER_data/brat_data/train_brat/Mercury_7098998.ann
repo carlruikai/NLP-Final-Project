@@ -1,0 +1,15 @@
+T1	Rarity	2	8	common
+T2	Property	9	23	characteristic
+T3	LevelOfInclusion	27	30	all
+T4	LivingThing	31	44	living things
+T5	StateOfBeing	45	47	is
+T6	RespirationActions	58	65	breathe
+T7	EarthPartsGrossGroundAtmosphere	66	69	air
+T8	Move	71	75	walk
+T9	Position	76	83	upright
+T10	StateOfBeing	85	88	are
+T11	ContainBeComposedOf	89	93	made
+T12	Cell	97	102	cells
+T13	Use	104	107	use
+T14	CelestialLightOnEarth	108	116	sunlight
+T15	Growth	121	127	growth

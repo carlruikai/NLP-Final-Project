@@ -1,0 +1,24 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Human	6	11	human
+T3	PhysicalActivity	12	20	activity
+T4	ProbabilityAndCertainty	21	25	will
+T5	Help	26	30	help
+T6	AmountChangingActions	31	39	decrease
+T7	IncreaseDecrease	31	39	decrease
+T8	EnvironmentalDamageDestruction	40	53	air pollution
+T9	StopRemove	55	62	burning
+T10	ChemicalChange	55	62	burning
+T11	Plant	63	68	crops
+T12	Agriculture	63	68	crops
+T13	MechanicalMovement	69	76	driving
+T14	Transportation	69	76	driving
+T15	LandVehicle	79	89	hybrid car
+T16	ChemicalChange	90	97	burning
+T17	StopRemove	90	97	burning
+T18	GroupsOfOrganisms	98	107	household
+T19	ManmadeObjects	108	115	garbage
+T20	Use	116	121	using
+T21	FossilFuel	122	126	coal
+T22	Result	127	129	to
+T23	Create	130	137	produce
+T24	Energy	138	144	energy

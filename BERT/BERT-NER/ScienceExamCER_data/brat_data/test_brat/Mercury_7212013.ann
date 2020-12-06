@@ -1,0 +1,58 @@
+T1	RelativeTime	0	5	After
+T2	MarkersOfTime	8	14	period
+T3	Stability	18	24	steady
+T4	AmountChangingActions	25	33	increase
+T5	IncreaseDecrease	25	33	increase
+T6	MeasuringSpeed	39	43	rate
+T7	PropertyOfMotion	39	43	rate
+T8	FossilFuel	47	51	coal
+T9	ChangesToResources	52	63	consumption
+T10	Use	52	63	consumption
+T11	StateOfBeing	64	67	was
+T12	PERCENT	68	71	50%
+T13	CardinalNumber	68	70	50
+T14	AmountComparison	72	78	higher
+T15	RelativeTime	79	85	during
+T16	DATE	86	90	2009
+T17	Comparisons	91	95	than
+T18	StateOfBeing	99	102	was
+T19	RelativeTime	103	109	during
+T20	DATE	110	123	the year 2000
+T21	Year	114	118	year
+T22	YearNumerals	119	123	2000
+T23	Pattern	133	138	trend
+T24	Occur	139	148	continues
+T25	WaitStay	139	148	continues
+T26	LevelOfInclusion	150	155	which
+T27	Result	156	162	impact
+T28	ProbabilityAndCertainty	163	167	will
+T29	FossilFuel	168	172	coal
+T30	ChangesToResources	173	184	consumption
+T31	Use	173	184	consumption
+T32	AmountComparison	185	189	most
+T33	ProbabilityAndCertainty	190	196	likely
+T34	ActUponSomething	197	201	have
+T35	RelativeLocations	202	204	on
+T36	EcosystemsEnvironment	209	220	environment
+T37	RelativeTime	221	226	after
+T38	DATE	227	240	the year 2010
+T39	Year	231	235	year
+T40	YearNumerals	236	240	2010
+T41	AmountChangingActions	242	251	decreased
+T42	IncreaseDecrease	242	251	decreased
+T43	MeasuringSpeed	252	257	rates
+T44	PropertyOfMotion	252	257	rates
+T45	EnvironmentalDamageDestruction	261	274	deforestation
+T46	AmountChangingActions	275	284	decreased
+T47	IncreaseDecrease	275	284	decreased
+T48	NationalityOrigin	285	296	atmospheric
+T49	Temperature	297	309	temperatures
+T50	AmountChangingActions	310	319	increased
+T51	IncreaseDecrease	310	319	increased
+T52	Numbers	320	327	amounts
+T53	Toxins	331	348	radioactive waste
+T54	AmountChangingActions	349	358	increased
+T55	IncreaseDecrease	349	358	increased
+T56	Numbers	359	365	levels
+T57	GaseousMatter	369	393	greenhouse gas emissions
+T58	EnvironmentalDamageDestruction	369	393	greenhouse gas emissions

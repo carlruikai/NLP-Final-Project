@@ -1,0 +1,24 @@
+T1	DigestiveSystem	4	20	digestive system
+T2	DigestionActions	21	27	breaks
+T3	Nutrition	28	32	food
+T4	ChangeInto	33	37	into
+T5	Complexity	38	44	simple
+T6	Substances	45	55	substances
+T7	AnimalPart	65	69	body
+T8	AbilityAvailability	70	73	can
+T9	Use	74	77	use
+T10	AnimalSystemsProcesses	84	90	system
+T11	Transportation	91	98	carries
+T12	LevelOfInclusion	99	104	these
+T13	Complexity	105	111	simple
+T14	Substances	112	122	substances
+T15	RelativeDirection	123	127	from
+T16	DigestiveSystem	132	148	digestive system
+T17	RelativeDirection	149	151	to
+T18	Comparisons	152	157	other
+T19	ObjectPart	158	163	parts
+T20	AnimalPart	171	175	body
+T21	CirculatorySystem	177	188	circulatory
+T22	NervousSystem	189	196	nervous
+T23	RespiratorySystem	197	208	respiratory
+T24	SkeletalSystem	209	217	skeletal

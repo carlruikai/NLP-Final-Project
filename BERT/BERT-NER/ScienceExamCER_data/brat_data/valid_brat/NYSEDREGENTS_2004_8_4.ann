@@ -1,0 +1,8 @@
+T1	TypesOfIllness	0	10	Infectious
+T2	Sickness	11	19	diseases
+T3	StateOfBeing	20	23	are
+T4	Cause	24	30	caused
+T5	TypesOfIllness	34	43	allergies
+T6	TypesOfIllness	44	62	vitamin deficienci
+T7	EnvironmentalDamageDestruction	65	80	chemical spills
+T8	Monera	81	95	microorganisms

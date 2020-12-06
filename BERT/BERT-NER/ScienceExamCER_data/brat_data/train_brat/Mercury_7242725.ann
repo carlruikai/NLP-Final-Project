@@ -1,0 +1,18 @@
+T1	TemporalProperty	0	5	Newly
+T2	Create	6	10	made
+T3	NutritiveSubstancesForAnimalsOrPlants	11	19	proteins
+T4	StateOfBeing	20	23	are
+T5	Alter	24	32	modified
+T6	RelativeLocations	33	35	in
+T7	LevelOfInclusion	36	41	which
+T8	AnimalCellPart	42	51	organelle
+T9	PlantCellPart	42	51	organelle
+T10	AnimalCellPart	53	61	ribosome
+T11	PlantCellPart	53	61	ribosome
+T12	BacteriaPart	53	61	ribosome
+T13	AnimalCellPart	62	83	endoplasmic reticulum
+T14	PlantCellPart	62	83	endoplasmic reticulum
+T15	AnimalCellPart	84	97	mitochondrion
+T16	PlantCellPart	84	97	mitochondrion
+T17	AnimalCellPart	98	113	nuclear envelop
+T18	PlantCellPart	98	113	nuclear envelop

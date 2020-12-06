@@ -1,0 +1,5 @@
+The average distance between Earth and the Sun is 149,600,000 kilometers. Which of the following is the correct scientific notation for this distance?
+1.496 x 10^3 km
+1496 x 10^5
+149.6 x 10^6 km
+1.496 x 10^8 km

@@ -1,0 +1,46 @@
+T1	Forests	0	12	Rain forests
+T2	ContainBeComposedOf	13	20	contain
+T3	AmountComparison	21	25	more
+T4	Taxonomy	26	33	species
+T5	Plant	37	42	trees
+T6	Comparisons	43	47	than
+T7	LevelOfInclusion	48	51	any
+T8	Comparisons	52	57	other
+T9	EcosystemsEnvironment	58	63	biome
+T10	Negations	65	72	However
+T11	GroupsOfScientists	74	84	scientists
+T12	Identify	90	95	found
+T13	Discovery	90	95	found
+T14	Soil	105	109	soil
+T15	ExamplesOfHabitats	117	129	forest floor
+T16	StateOfBeing	130	132	is
+T17	RelativeNumber	133	143	relatively
+T18	Nutrition	144	152	nutrient
+T19	QualityComparison	153	157	poor
+T20	AbilityAvailability	164	169	could
+T21	AmountComparison	170	174	most
+T22	ProbabilityAndCertainty	175	181	likely
+T23	Cause	182	193	account for
+T24	Negations	204	208	lack
+T25	ConstructiveDestructiveForces	212	222	weathering
+T26	NaturalPhenomena	212	222	weathering
+T27	AmountChangingActions	223	230	reduces
+T28	AbilityAvailability	235	247	availability
+T29	Minerals	255	263	minerals
+T30	Nutrition	269	278	nutrients
+T31	PropertiesOfSoil	269	278	nutrients
+T32	StateOfBeing	283	288	being
+T33	Use	289	297	utilized
+T34	Plant	305	310	plant
+T35	LivingThing	311	315	life
+T36	ExamplesOfHabitats	321	333	forest floor
+T37	PerformAnActivity	334	338	does
+T38	Negations	339	342	not
+T39	Uptake	343	346	get
+T40	RelativeNumber	347	353	enough
+T41	CelestialLightOnEarth	354	362	sunlight
+T42	Animal	368	375	animals
+T43	ActionsForAnimals	376	379	eat
+T44	Consumption	376	379	eat
+T45	Nutrition	384	393	nutrients
+T46	PropertiesOfSoil	384	393	nutrients

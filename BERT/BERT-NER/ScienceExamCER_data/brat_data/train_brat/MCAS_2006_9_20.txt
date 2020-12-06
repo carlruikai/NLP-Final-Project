@@ -1,0 +1,5 @@
+Which of the following has the least momentum?
+a 0.5 kg mass with a 1000 m/s velocity
+a 1 kg mass with a 100 m/s velocity
+a 10 kg mass with an 11 m/s velocity
+a 100 kg mass with a 2 m/s velocity

@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	AnimalPart	6	11	organ
+T3	ExcretoryActions	12	19	removes
+T4	StopRemove	12	19	removes
+T5	Cell	20	24	cell
+T6	Toxins	25	30	waste
+T7	RelativeDirection	31	35	from
+T8	Blood	40	45	blood
+T9	PartsOfTheDigestiveSystem	51	66	large intestine
+T10	PartsOfTheDigestiveSystem	71	86	small intestine
+T11	PartsOfTheExcretorySystem	91	97	kidney
+T12	PartsOfEndocrineSystem	91	97	kidney
+T13	PartsOfTheCirculatorySystem	102	107	heart
+T14	PartsOfEndocrineSystem	102	107	heart

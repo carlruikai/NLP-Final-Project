@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Quality	6	10	best
+T3	QualityComparison	6	10	best
+T4	Communicate	11	19	explains
+T5	Method	20	23	how
+T6	GeographicFormations	28	49	Appalachian Mountains
+T7	Create	50	56	formed
+T8	Age	61	68	ancient
+T9	BodiesOfWater	69	74	river
+T10	NaturalPhenomena	75	82	flooded
+T11	LiquidMovement	75	82	flooded
+T12	NaturalPhenomena	86	96	earthquake
+T13	FormChangingActions	97	103	folded
+T14	TerrestrialLocations	104	108	land
+T15	TectonicPlates	109	123	tectonic plate
+T16	PullingActions	125	131	pulled
+T17	Position	132	137	apart
+T18	Separate	132	137	apart
+T19	TectonicPlates	138	152	tectonic plate
+T20	ChangeInLocation	154	161	collide
+T21	Touch	154	162	collided

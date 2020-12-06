@@ -1,0 +1,21 @@
+T1	Age	2	5	new
+T2	Mutation	6	14	mutation
+T3	Occur	20	26	occurs
+T4	RelativeLocations	27	29	in
+T5	LevelOfInclusion	30	35	which
+T6	Exemplar	36	40	type
+T7	Cell	44	48	cell
+T8	AbilityAvailability	49	52	can
+T9	StateOfBeing	53	55	be
+T10	Move	56	65	passed on
+T11	RelativeDirection	66	68	to
+T12	GeneticRelations	69	78	offspring
+T13	WordsForOffspring	69	78	offspring
+T14	Blood	80	85	blood
+T15	Cell	86	90	cell
+T16	PartsOfTheNervousSystem	91	96	nerve
+T17	Cell	97	101	cell
+T18	PartsOfTheNervousSystem	102	107	brain
+T19	Cell	108	112	cell
+T20	PartsOfTheReproductiveSystem	113	116	egg
+T21	Cell	117	121	cell

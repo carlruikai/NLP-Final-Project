@@ -1,0 +1,28 @@
+T1	Human	4	9	human
+T2	HumanPart	10	14	body
+T3	StateOfBeing	15	17	is
+T4	ContainBeComposedOf	18	25	made up
+T5	AnimalSystemsProcesses	29	41	organ system
+T6	PerformAnActivity	48	52	work
+T7	Relations	53	61	together
+T8	StateOfBeing	62	64	as
+T9	CardinalNumber	65	68	one
+T10	NUMBER	65	68	one
+T11	SystemParts	69	73	unit
+T12	LevelOfInclusion	75	80	Which
+T13	AnimalSystemsProcesses	81	88	systems
+T14	PerformAnActivity	89	93	work
+T15	Relations	94	102	together
+T16	Result	94	96	to
+T17	Create	106	113	prepare
+T18	Move	118	128	distribute
+T19	Nutrition	129	133	food
+T20	Cell	138	143	cells
+T21	DigestiveSystem	145	154	digestive
+T22	CirculatorySystem	159	170	circulatory
+T23	DigestiveSystem	171	180	digestive
+T24	EndocrineSystem	185	194	endocrine
+T25	NervousSystem	195	202	nervous
+T26	RespiratorySystem	207	218	respiratory
+T27	NervousSystem	219	226	nervous
+T28	ExcretorySystem	231	240	excretory

@@ -1,0 +1,47 @@
+T1	RelativeNumber	0	4	Many
+T2	PlantNutrients	5	16	fertilizers
+T3	ContainBeComposedOf	17	24	contain
+T4	ChemicalProperty	25	32	organic
+T5	Material	33	42	materials
+T6	Matter	33	42	materials
+T7	StateOfBeing	48	51	are
+T8	Quality	52	59	helpful
+T9	Help	52	59	helpful
+T10	Agriculture	66	73	orchard
+T11	Negations	74	77	but
+T12	Cause	78	82	have
+T13	Comparisons	85	94	different
+T14	Result	95	101	effect
+T15	RelativeTime	102	106	when
+T16	Precipitation	107	111	rain
+T17	Cause	112	118	causes
+T18	LiquidMovement	127	134	run off
+T19	RelativeDirection	135	139	into
+T20	TypesOfWaterInBodiesOfWater	142	152	freshwater
+T21	EcosystemsEnvironment	153	162	ecosystem
+T22	Method	164	167	How
+T23	PerformAnActivity	168	172	does
+T24	CombineAdd	177	185	addition
+T25	ChemicalProperty	189	196	organic
+T26	Toxins	197	202	waste
+T27	RelativeDirection	203	207	from
+T28	PlantNutrients	208	219	fertilizers
+T29	AmountComparison	220	224	most
+T30	Rarity	225	233	commonly
+T31	Alter	234	240	affect
+T32	UnderwaterEcosystem	241	262	freshwater ecosystems
+T33	AmountChangingActions	264	274	increasing
+T34	IncreaseDecrease	264	274	increasing
+T35	Adaptation	275	287	biodiversity
+T36	AmountChangingActions	288	298	increasing
+T37	IncreaseDecrease	288	298	increasing
+T38	PhasesOfWater	299	304	water
+T39	LiquidMatter	299	304	water
+T40	VisualProperty	305	312	clarity
+T41	AmountChangingActions	313	323	decreasing
+T42	IncreaseDecrease	313	323	decreasing
+T43	Protist	324	336	algae blooms
+T44	AmountChangingActions	337	347	decreasing
+T45	IncreaseDecrease	337	347	decreasing
+T46	Element	348	354	oxygen
+T47	AmountComparison	355	361	levels

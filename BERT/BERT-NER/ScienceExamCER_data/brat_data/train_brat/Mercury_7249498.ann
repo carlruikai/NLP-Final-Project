@@ -1,0 +1,53 @@
+T1	ResponseType	5	14	statement
+T2	Represent	15	24	describes
+T3	Occur	30	37	happens
+T4	RelativeDirection	38	40	to
+T5	Compound	45	59	carbon dioxide
+T6	Toxins	60	65	waste
+T7	Create	66	74	produced
+T8	Cause	75	77	by
+T9	Development	80	90	developing
+T10	WordsForOffspring	91	95	baby
+T11	RelativeTime	96	102	during
+T12	Birth	103	112	pregnancy
+T13	Reproduction	103	112	pregnancy
+T14	StateOfBeing	117	119	is
+T15	Transportation	120	127	carried
+T16	Cause	128	130	by
+T17	PartsOfTheReproductiveSystem	135	149	umbilical cord
+T18	RelativeDirection	150	152	to
+T19	PartsOfEndocrineSystem	157	165	placenta
+T20	RelativeTime	170	174	then
+T21	RelativeDirection	175	177	to
+T22	GeneticRelations	182	188	mother
+T23	Blood	191	196	blood
+T24	StateOfBeing	201	203	is
+T25	Release	204	212	released
+T26	RelativeDirection	213	217	from
+T27	PrenatalOrganismStates	222	227	fetus
+T28	Cause	228	230	by
+T29	RespirationActions	235	244	breathing
+T30	RelativeTime	249	253	then
+T31	StateOfBeing	254	256	is
+T32	CombineAdd	257	265	absorbed
+T33	Cause	266	268	by
+T34	PartsOfEndocrineSystem	273	281	placenta
+T35	StateOfBeing	286	288	is
+T36	Release	289	297	released
+T37	PrepositionalDirections	298	305	through
+T38	Birth	310	315	fetal
+T39	PartsOfTheExcretorySystem	316	321	urine
+T40	RelativeTime	326	330	then
+T41	Separate	331	336	exits
+T42	PrepositionalDirections	337	344	through
+T43	PartsOfTheReproductiveSystem	349	363	umbilical cord
+T44	StateOfBeing	368	370	is
+T45	Transportation	371	378	carried
+T46	PrepositionalDirections	379	386	through
+T47	Relations	387	393	shared
+T48	PartsOfTheCirculatorySystem	394	407	blood vessels
+T49	RelativeTime	412	416	then
+T50	RelativeDirection	417	419	to
+T51	GeneticRelations	424	430	mother
+T52	PartsOfTheRespiratorySystem	433	438	lungs
+T53	PartsOfTheExcretorySystem	433	438	lungs

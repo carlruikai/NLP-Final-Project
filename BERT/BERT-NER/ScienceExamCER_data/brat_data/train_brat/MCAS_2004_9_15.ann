@@ -1,0 +1,33 @@
+T1	NUMBER	2	4	72
+T2	PowerUnit	5	6	W
+T3	VehicularSystemsParts	7	22	navigation unit
+T4	RelativeLocations	15	17	on
+T5	Advertising	28	38	commercial
+T6	AirVehicle	39	47	aircraft
+T7	ContainBeComposedOf	48	51	has
+T8	CardinalNumber	54	56	24
+T9	NUMBER	54	56	24
+T10	ElectricalUnit	57	58	V
+T11	Energy	59	64	power
+T12	Source	65	71	supply
+T13	Use	76	80	uses
+T14	CardinalNumber	81	82	3
+T15	NUMBER	81	82	3
+T16	ElectricalUnit	83	84	A
+T17	ElectricalEnergy	88	104	electric current
+T18	StateOfBeing	111	113	is
+T19	ElectricalEnergy	118	128	electrical
+T20	ElectricalProperty	129	139	resistance
+T21	VehicularSystemsParts	147	162	navigation unit
+T22	CardinalNumber	164	165	4
+T23	NUMBER	164	165	4
+T24	ElectricalUnit	166	170	ohms
+T25	CardinalNumber	171	172	8
+T26	NUMBER	171	172	8
+T27	ElectricalUnit	173	177	ohms
+T28	CardinalNumber	178	180	13
+T29	NUMBER	178	180	13
+T30	ElectricalUnit	181	185	ohms
+T31	CardinalNumber	186	188	22
+T32	NUMBER	186	188	22
+T33	ElectricalUnit	189	193	ohms

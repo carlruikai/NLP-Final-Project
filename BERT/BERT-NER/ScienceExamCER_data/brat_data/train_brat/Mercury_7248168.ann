@@ -1,0 +1,19 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	24	biological process
+T3	Cause	25	35	determines
+T4	Identify	25	35	determines
+T5	ProbabilityAndCertainty	40	51	probability
+T6	Rarity	57	67	particular
+T7	Genetics	68	75	alleles
+T8	ProbabilityAndCertainty	76	80	will
+T9	StateOfBeing	81	83	be
+T10	VerbsForLocate	84	89	found
+T11	RelativeLocations	90	92	in
+T12	LevelOfInclusion	93	96	any
+T13	AbilityAvailability	97	102	given
+T14	CellsAndGenetics	103	109	gamete
+T15	Mutation	111	119	mutation
+T16	CellProcesses	120	127	meiosis
+T17	CellProcesses	128	138	cell cycle
+T18	Cycles	128	138	cell cycle
+T19	GeneticProcesses	139	156	protein synthesis

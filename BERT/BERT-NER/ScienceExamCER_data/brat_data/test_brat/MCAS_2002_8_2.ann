@@ -1,0 +1,17 @@
+T1	RelativeLocations	0	2	In
+T2	FoodChain	5	15	food chain
+T3	LivingThing	17	33	living organisms
+T4	ActionsForAnimals	39	42	eat
+T5	Consumption	39	42	eat
+T6	Plant	43	49	plants
+T7	StateOfBeing	54	57	are
+T8	Nutrition	60	64	food
+T9	Source	65	71	source
+T10	Comparisons	76	81	other
+T11	Animal	82	89	animals
+T12	StateOfBeing	90	93	are
+T13	Classify	94	100	called
+T14	PartsOfTheFoodChain	101	112	decomposers
+T15	TypeOfConsumer	114	124	carnivores
+T16	PartsOfTheFoodChain	126	135	producers
+T17	TypeOfConsumer	137	147	herbivores

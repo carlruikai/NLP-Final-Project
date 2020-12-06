@@ -1,0 +1,35 @@
+T1	GenericTerms	3	9	object
+T2	Exemplar	10	17	such as
+T3	ManmadeObjects	20	26	hammer
+T4	Mass	27	33	weighs
+T5	AmountComparison	34	38	less
+T6	RelativeLocations	39	41	on
+T7	Moon	46	50	Moon
+T8	Comparisons	51	55	than
+T9	RelativeLocations	56	58	on
+T10	InnerPlanets	59	64	Earth
+T11	LOCATION	59	64	Earth
+T12	StateOfBeing	68	70	is
+T13	Cause	74	81	because
+T14	Moon	86	90	Moon
+T15	ContainBeComposedOf	91	94	has
+T16	Size	97	104	thinner
+T17	PlanetParts	105	115	atmosphere
+T18	Comparisons	116	120	than
+T19	InnerPlanets	121	126	Earth
+T20	Size	128	135	smaller
+T21	Comparisons	128	135	smaller
+T22	Size	136	144	diameter
+T23	Comparisons	145	149	than
+T24	InnerPlanets	150	155	Earth
+T25	LOCATION	150	155	Earth
+T26	ResistanceStrength	157	165	stronger
+T27	Comparisons	157	165	stronger
+T28	MagneticForce	166	180	magnetic field
+T29	Comparisons	181	185	than
+T30	InnerPlanets	186	191	Earth
+T31	AmountComparison	193	198	lower
+T32	Mass	199	203	mass
+T33	Comparisons	204	208	than
+T34	InnerPlanets	209	214	Earth
+T35	LOCATION	209	214	Earth

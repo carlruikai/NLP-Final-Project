@@ -1,0 +1,31 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	StateOfBeing	15	17	is
+T4	Quality	22	26	best
+T5	QualityComparison	22	26	best
+T6	Method	27	30	way
+T7	CleanUp	34	44	dispose of
+T8	StopRemove	34	44	dispose of
+T9	AbilityAvailability	47	58	potentially
+T10	ProbabilityAndCertainty	47	58	potentially
+T11	Safety	59	68	dangerous
+T12	Problem	59	68	dangerous
+T13	Compound	69	77	compound
+T14	Move	79	83	pour
+T15	PrepositionalDirections	87	91	down
+T16	ManmadeObjects	96	101	drain
+T17	LocationChangingActions	102	105	put
+T18	RelativeDirection	109	113	into
+T19	ManmadeObjects	116	127	garbage can
+T20	Alter	128	135	recycle
+T21	Preserve	128	135	recycle
+T22	Compound	140	148	compound
+T23	TemporalProperty	155	161	future
+T24	RelativeTime	155	161	future
+T25	ManmadeLocations	162	165	lab
+T26	QuestionActivityType	166	174	activity
+T27	Move	175	180	place
+T28	VerbsForLocate	175	180	place
+T29	RelativeLocations	184	186	in
+T30	Toxins	189	213	hazardous material waste
+T31	LiquidHoldingContainersRecepticles	214	223	container

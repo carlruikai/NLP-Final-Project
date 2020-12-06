@@ -1,0 +1,17 @@
+T1	RelativeLocations	4	7	top
+T2	ObjectQuantification	8	14	layers
+T3	Soil	18	22	soil
+T4	StateOfBeing	23	26	are
+T5	ImportanceComparison	27	36	important
+T6	Cause	37	44	because
+T7	AvoidReject	52	59	prevent
+T8	NaturalPhenomena	60	71	earthquakes
+T9	ActUponSomething	72	76	give
+T10	CombineAdd	72	76	give
+T11	Plant	77	83	plants
+T12	Nutrition	84	93	nutrients
+T13	Preserve	94	101	protect
+T14	Rock	106	113	bedrock
+T15	Cause	114	118	make
+T16	Move	119	126	walking
+T17	Difficulty	127	133	easier

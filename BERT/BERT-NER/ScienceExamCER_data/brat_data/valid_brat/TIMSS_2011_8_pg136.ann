@@ -1,0 +1,38 @@
+T1	Soil	0	5	Soils
+T2	Changes	6	12	change
+T3	LevelOfInclusion	13	17	both
+T4	Cause	18	25	through
+T5	NaturalPhenomena	26	43	natural processes
+T6	Cause	48	62	as a result of
+T7	Human	63	68	human
+T8	PhysicalActivity	69	77	activity
+T9	LevelOfInclusion	79	84	Which
+T10	LevelOfInclusion	88	101	the following
+T11	Soil	102	106	soil
+T12	Changes	107	114	changes
+T13	StateOfBeing	115	117	is
+T14	Cause	118	121	due
+T15	LevelOfInclusion	122	126	only
+T16	NaturalPhenomena	130	144	natural causes
+T17	Harm	146	157	degradation
+T18	Nutrition	161	170	nutrients
+T19	Cause	171	177	due to
+T20	Toxins	178	188	pesticides
+T21	ChemicalProduct	178	188	pesticides
+T22	Create	189	198	formation
+T23	TypesOfTerrestrialEcosystems	202	209	deserts
+T24	Cause	210	216	due to
+T25	Plant	217	221	tree
+T26	StopRemove	222	229	felling
+T27	NaturalPhenomena	230	238	flooding
+T28	LiquidMovement	230	238	flooding
+T29	Cause	239	245	due to
+T30	ManMadeGeographicFormations	246	249	dam
+T31	ManmadeLocations	246	249	dam
+T32	Create	250	262	construction
+T33	LocationChangingActions	263	270	removal
+T34	StopRemove	263	270	removal
+T35	Nutrition	274	283	nutrients
+T36	Cause	284	290	due to
+T37	Mass	291	296	heavy
+T38	Precipitation	297	302	rains

@@ -1,0 +1,17 @@
+T1	RelativeTime	0	6	During
+T2	SeasonsFallAutumnWinterSpringSummer	7	13	winter
+T3	Color	19	24	white
+T4	MammalAnimalPart	25	28	fur
+T5	Mammal	35	45	arctic fox
+T6	VisualComparison	46	60	blends in with
+T7	Precipitation	65	69	snow
+T8	Adaptation	76	86	adaptation
+T9	StateOfBeing	87	89	is
+T10	Classify	90	96	called
+T11	BehavioralAdaptation	97	108	hibernation
+T12	ActionsForAnimals	97	106	hibernati
+T13	ActionsForAnimals	109	118	migration
+T14	BehavioralAdaptation	109	118	migration
+T15	StructuralAdaptation	119	129	camouflage
+T16	StructuralAdaptation	130	138	movement
+T17	PropertyOfMotion	130	138	movement

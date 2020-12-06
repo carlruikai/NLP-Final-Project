@@ -1,0 +1,16 @@
+T1	PartsOfABuilding	0	5	Frame
+T2	Create	6	18	construction
+T3	Occur	19	31	predominates
+T4	RelativeLocations	25	27	in
+T5	GeopoliticalLocations	39	50	New England
+T6	LOCATION	39	50	New England
+T7	Locations	51	55	area
+T8	Cause	56	62	due to
+T9	Rarity	67	76	abundance
+T10	RelativeNumber	67	76	abundance
+T11	Soil	80	84	clay
+T12	BusinessIndustry	86	93	masonry
+T13	Rock	86	93	masonry
+T14	NaturalMaterial	95	99	wood
+T15	PlantPart	95	99	wood
+T16	MetalSolids	101	106	steel

@@ -1,0 +1,14 @@
+T1	RelativeLocations	0	2	In
+T2	LevelOfInclusion	3	7	most
+T3	Animal	8	15	animals
+T4	Group	17	29	combinations
+T5	LevelOfInclusion	33	40	various
+T6	AnimalPart	41	48	tissues
+T7	Create	49	53	make
+T8	Quality	57	67	functional
+T9	SystemParts	68	73	units
+T10	Classify	74	80	called
+T11	Cell	81	97	epithelial cells
+T12	AnimalPart	99	105	organs
+T13	AnimalSystemsProcesses	107	119	organ system
+T14	GroupsOfOrganisms	122	133	populations

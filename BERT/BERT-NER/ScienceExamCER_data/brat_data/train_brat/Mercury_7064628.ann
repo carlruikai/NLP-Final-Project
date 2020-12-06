@@ -1,0 +1,24 @@
+T1	StateOfBeing	5	7	is
+T2	ImportanceComparison	12	19	primary
+T3	Source	20	26	source
+T4	Energy	30	36	energy
+T5	Cause	42	48	causes
+T6	PartsOfWaterCycle	49	60	evaporation
+T7	PhaseChangingActions	49	60	evaporation
+T8	PhasesOfWater	64	69	water
+T9	RelativeDirection	70	74	from
+T10	ObjectPart	79	86	surface
+T11	BodiesOfWater	90	105	bodies of water
+T12	ThermalEnergy	107	122	solar radiation
+T13	PartsOfWaterCycle	123	136	transpiration
+T14	PlantProcesses	123	136	transpiration
+T15	Cause	137	139	by
+T16	Plant	140	146	plants
+T17	ThermalEnergy	147	151	heat
+T18	RelativeDirection	152	156	from
+T19	DistanceComparison	157	163	nearby
+T20	GeographicFormations	164	175	land masses
+T21	ThermalEnergy	176	186	convection
+T22	Currents	187	195	currents
+T23	RelativeLocations	196	198	in
+T24	PhasesOfWater	203	208	water

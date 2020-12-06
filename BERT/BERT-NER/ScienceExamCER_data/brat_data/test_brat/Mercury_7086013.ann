@@ -1,0 +1,36 @@
+T1	SpecificNamedBodiesOfWater	4	24	Humboldt River Basin
+T2	StateOfBeing	25	27	is
+T3	CardinalNumber	28	31	one
+T4	NUMBER	28	31	one
+T5	AmountComparison	39	43	most
+T6	ImportanceComparison	44	53	important
+T7	Source	54	61	sources
+T8	RelativeNumber	65	72	several
+T9	Rarity	73	85	nonrenewable
+T10	NaturalResources	86	95	resources
+T11	LevelOfInclusion	97	102	Which
+T12	LevelOfInclusion	106	111	these
+T13	Rarity	112	124	nonrenewable
+T14	NaturalResources	125	134	resources
+T15	StateOfBeing	135	137	is
+T16	Create	138	146	produced
+T17	Source	147	151	from
+T18	SpecificNamedBodiesOfWater	156	176	Humboldt River Basin
+T19	FossilFuel	178	182	coal
+T20	Source	183	187	from
+T21	GeographicFormations	188	196	mountain
+T22	GeographicFormations	197	205	deposits
+T23	FossilFuel	206	209	oil
+T24	FossilFuel	214	217	gas
+T25	Source	218	222	from
+T26	TerrestrialLocations	223	234	underground
+T27	Source	235	245	reservoirs
+T28	ElectricalEnergy	246	261	electric energy
+T29	Source	262	266	from
+T30	ElectricityGeneration	267	291	hydroelectric generators
+T31	Minerals	292	300	minerals
+T32	Source	301	305	from
+T33	Uptake	306	312	mining
+T34	Minerals	313	317	gold
+T35	Minerals	319	325	silver
+T36	Minerals	331	337	copper

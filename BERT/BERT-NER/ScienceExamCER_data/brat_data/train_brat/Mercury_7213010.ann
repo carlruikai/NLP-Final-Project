@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GaseousMatter	6	9	gas
+T3	RelativeTime	11	15	when
+T4	PhaseChangingActions	16	25	condensed
+T5	ChangeInto	26	30	into
+T6	StateOfMatter	35	41	liquid
+T7	StateOfBeing	42	47	state
+T8	RelativeLocations	48	50	in
+T9	EarthPartsGrossGroundAtmosphere	55	65	atmosphere
+T10	LayersOfTheEarth	55	65	atmosphere
+T11	Create	67	72	forms
+T12	WeatherPhenomena	73	79	clouds
+T13	OrganicCompounds	81	88	methane
+T14	Element	89	97	nitrogen
+T15	PhasesOfWater	98	109	water vapor
+T16	Compound	110	124	carbon dioxide

@@ -1,0 +1,38 @@
+T1	RelativeTime	0	2	As
+T2	Human	7	12	human
+T3	GroupsOfOrganisms	13	23	population
+T4	AmountChangingActions	24	33	increases
+T5	IncreaseDecrease	24	33	increases
+T6	AmountComparison	35	39	more
+T7	FossilFuel	40	51	fossil fuel
+T8	StateOfBeing	57	62	being
+T9	Use	63	67	used
+T10	ChemicalChange	73	80	burning
+T11	Use	73	80	burning
+T12	FossilFuel	84	95	fossil fuel
+T13	Create	97	105	produces
+T14	Compound	106	120	greenhouse gas
+T15	Method	124	127	How
+T16	ProbabilityAndCertainty	128	133	might
+T17	Human	134	140	humans
+T18	AmountChangingActions	141	147	reduce
+T19	Compound	148	162	greenhouse gas
+T20	Buy	166	169	Buy
+T21	LandVehicle	170	174	cars
+T22	Use	180	183	use
+T23	FossilFuel	184	192	gasoline
+T24	Create	194	199	Build
+T25	Energy	200	205	power
+T26	ManmadeLocations	206	212	plants
+T27	Use	218	221	use
+T28	FossilFuel	222	226	coal
+T29	Use	228	231	Use
+T30	Rarity	232	241	renewable
+T31	NaturalResources	242	251	resources
+T32	Create	255	263	generate
+T33	Energy	264	269	power
+T34	Use	271	274	Use
+T35	Rarity	275	287	nonrenewable
+T36	NaturalResources	288	297	resources
+T37	Create	301	309	generate
+T38	Energy	310	315	power

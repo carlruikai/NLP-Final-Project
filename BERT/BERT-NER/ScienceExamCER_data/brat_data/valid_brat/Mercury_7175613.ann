@@ -1,0 +1,44 @@
+T1	RelativeTime	0	4	Over
+T2	RelativeNumber	5	12	several
+T3	TimeUnit	13	18	years
+T4	Year	13	18	years
+T5	Scientists	22	31	scientist
+T6	Succeed	32	42	successful
+T7	Separate	45	53	isolates
+T8	Taxonomy	56	63	species
+T9	PlantPart	67	73	flower
+T10	Color	78	83	white
+T11	Color	84	89	color
+T12	DATE	91	100	This year
+T13	TimeUnit	96	100	year
+T14	Year	96	100	year
+T15	RelativeTime	102	106	when
+T16	Age	111	114	new
+T17	GeneticRelations	115	125	generation
+T18	PlantPart	129	136	flowers
+T19	Development	137	143	blooms
+T20	CardinalNumber	145	148	one
+T21	NUMBER	145	148	one
+T22	Color	149	155	yellow
+T23	PlantPart	156	162	flower
+T24	StateOfBeing	163	165	is
+T25	VerbsForLocate	166	171	found
+T26	RelativeLocations	172	174	in
+T27	GroupsOfOrganisms	179	189	population
+T28	LevelOfInclusion	191	196	Which
+T29	StateOfBeing	197	199	is
+T30	Quality	204	208	best
+T31	QualityComparison	204	208	best
+T32	Cause	209	215	reason
+T33	Occur	224	234	appearance
+T34	Age	240	243	new
+T35	PlantPart	244	250	flower
+T36	Color	251	256	color
+T37	RelativeLocations	257	263	within
+T38	Taxonomy	268	275	species
+T39	Adaptation	277	287	adaptation
+T40	BehavioralAdaptation	277	287	adaptation
+T41	Create	288	299	replication
+T42	GeneticProcesses	288	299	replication
+T43	Mutation	300	316	genetic mutation
+T44	GeneticProcesses	317	341	homologous recombination

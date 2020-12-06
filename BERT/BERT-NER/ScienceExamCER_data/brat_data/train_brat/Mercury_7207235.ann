@@ -1,0 +1,30 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Actions	15	22	actions
+T4	ProbabilityAndCertainty	23	27	will
+T5	Changes	28	34	change
+T6	Sedimentary	37	48	sedimentary
+T7	Rock	49	53	rock
+T8	Exemplar	55	62	such as
+T9	Sedimentary	63	72	limestone
+T10	ChangeInto	74	78	into
+T11	Metamorphic	81	92	metamorphic
+T12	Rock	93	97	rock
+T13	Exemplar	99	106	such as
+T14	Metamorphic	107	113	marble
+T15	Pressure	115	123	pressure
+T16	RelativeDirection	124	128	from
+T17	GeographicFormations	131	138	glacier
+T18	BodiesOfWater	131	138	glacier
+T19	ThermalEnergy	139	143	heat
+T20	RelativeDirection	144	148	from
+T21	Rock	149	154	magma
+T22	ConstructiveDestructiveForces	155	162	erosion
+T23	NaturalPhenomena	155	162	erosion
+T24	RelativeDirection	163	167	from
+T25	LiquidMovement	168	175	flowing
+T26	PhasesOfWater	176	181	water
+T27	LiquidMatter	176	181	water
+T28	ThermalEnergy	182	191	radiation
+T29	RelativeDirection	192	196	from
+T30	Star	201	204	Sun

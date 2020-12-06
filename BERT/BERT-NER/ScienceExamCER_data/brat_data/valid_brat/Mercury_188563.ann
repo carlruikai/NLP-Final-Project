@@ -1,0 +1,33 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Quality	23	27	best
+T4	QualityComparison	23	27	best
+T5	Represent	28	37	describes
+T6	Changes	40	46	change
+T7	RelativeLocations	47	49	in
+T8	InnerPlanets	50	55	Earth
+T9	LOCATION	50	55	Earth
+T10	EarthPartsGrossGroundAtmosphere	58	68	atmosphere
+T11	LayersOfTheEarth	58	68	atmosphere
+T12	Create	69	73	made
+T13	Cause	74	76	by
+T14	RelativeTime	77	82	early
+T15	LivingThing	83	102	photosynthetic life
+T16	AmountChangingActions	104	113	increased
+T17	IncreaseDecrease	104	113	increased
+T18	AmountComparison	114	119	level
+T19	Element	123	129	oxygen
+T20	AmountChangingActions	130	139	increased
+T21	IncreaseDecrease	130	139	increased
+T22	AmountComparison	140	145	level
+T23	Compound	149	163	carbon dioxide
+T24	AmountChangingActions	164	173	decreased
+T25	IncreaseDecrease	164	173	decreased
+T26	Ability	174	181	ability
+T27	Help	185	192	support
+T28	LivingThing	193	197	life
+T29	AmountChangingActions	198	207	decreased
+T30	IncreaseDecrease	198	207	decreased
+T31	Ability	208	215	ability
+T32	LightMovement	219	227	transmit
+T33	Light	228	233	light

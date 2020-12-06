@@ -1,0 +1,40 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	ImportanceComparison	30	37	primary
+T5	QualityComparison	38	47	advantage
+T6	Reproduction	51	70	sexual reproduction
+T7	RelativeTime	71	75	when
+T8	Examine	76	84	compared
+T9	Comparisons	76	84	compared
+T10	RelativeDirection	85	87	to
+T11	Reproduction	88	108	asexual reproduction
+T12	RelativeLocations	110	115	There
+T13	StateOfBeing	116	118	is
+T14	AmountComparison	121	128	greater
+T15	Numbers	129	135	number
+T16	GeneticRelations	139	148	offspring
+T17	WordsForOffspring	139	148	offspring
+T18	RelativeLocations	150	155	There
+T19	StateOfBeing	156	158	is
+T20	AmountComparison	159	163	more
+T21	Nutrition	164	168	food
+T22	Rarity	169	178	available
+T23	AbilityAvailability	169	178	available
+T24	RelativeDirection	179	181	to
+T25	GeneticRelations	182	191	offspring
+T26	WordsForOffspring	182	191	offspring
+T27	RelativeLocations	193	198	There
+T28	StateOfBeing	199	201	is
+T29	AmountComparison	202	209	greater
+T30	GeneticProperty	210	225	genetic variety
+T31	RelativeLocations	226	228	in
+T32	GeneticRelations	229	238	offspring
+T33	WordsForOffspring	229	238	offspring
+T34	RelativeLocations	240	245	There
+T35	StateOfBeing	246	248	is
+T36	TemporalProperty	251	257	longer
+T37	Development	258	269	development
+T38	MarkersOfTime	270	274	time
+T39	GeneticRelations	279	288	offspring
+T40	WordsForOffspring	279	288	offspring

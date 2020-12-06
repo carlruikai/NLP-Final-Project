@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	11	trait
+T3	Mammal	17	24	pet dog
+T4	StateOfBeing	25	27	is
+T5	Inheritance	28	37	inherited
+T6	InheritedBehavior	28	37	inherited
+T7	Mammal	43	46	dog
+T8	AvoidReject	47	53	avoids
+T9	Mammal	56	63	pet cat
+T10	Mammal	69	72	dog
+T11	ActionsForAnimals	73	78	jumps
+T12	PrepositionalDirections	79	81	on
+T13	ManmadeObjects	84	88	sofa
+T14	Mammal	94	97	dog
+T15	ActionsForAnimals	98	108	rolls over
+T16	RelativeTime	109	111	on
+T17	Communicate	112	119	command
+T18	Mammal	125	128	dog
+T19	ActionsForAnimals	129	135	drools
+T20	RelativeTime	136	140	when
+T21	Senses	144	150	smells
+T22	SensoryTerms	144	150	smells
+T23	Nutrition	151	155	food

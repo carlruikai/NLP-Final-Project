@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Associate	6	10	pair
+T3	Human	14	19	human
+T4	AnimalSystemsProcesses	20	32	body systems
+T5	OrganicProcesses	33	42	functions
+T6	AmountComparison	43	47	most
+T7	Distance	48	55	closely
+T8	Relations	56	64	together
+T9	NervousSystem	66	73	nervous
+T10	ExcretorySystem	78	87	excretory
+T11	DigestiveSystem	88	97	digestive
+T12	MuscularSystem	102	110	muscular
+T13	SkeletalSystem	111	119	skeletal
+T14	CirculatorySystem	124	135	circulatory
+T15	RespiratorySystem	136	147	respiratory
+T16	CirculatorySystem	152	166	cardiovascular

@@ -1,0 +1,10 @@
+T1	ObjectPart	5	9	part
+T2	ElementalComponents	16	20	atom
+T3	ParticleMovement	21	27	orbits
+T4	PrepositionalDirections	28	34	around
+T5	ObjectPart	39	45	center
+T6	ElementalComponents	53	57	atom
+T7	AtomComponents	59	65	proton
+T8	AtomComponents	66	73	nucleus
+T9	AtomComponents	74	81	neutron
+T10	AtomComponents	82	90	electron

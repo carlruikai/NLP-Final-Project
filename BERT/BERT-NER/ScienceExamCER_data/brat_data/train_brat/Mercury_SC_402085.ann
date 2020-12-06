@@ -1,0 +1,15 @@
+T1	Light	0	5	Light
+T2	StateOfBeing	6	8	is
+T3	LightMovement	9	18	refracted
+T4	AmountComparison	23	28	least
+T5	RelativeTime	29	33	when
+T6	LightMovement	34	41	passing
+T7	PrepositionalDirections	42	49	through
+T8	ViewingTools	52	61	telescope
+T9	ObservationInstrumentsTelescopeBinoculars	52	61	telescope
+T10	PartsOfObservationInstruments	62	66	lens
+T11	ColorChangingActions	70	76	tinted
+T12	PartsOfABuilding	77	83	window
+T13	ViewingTools	85	101	magnifying glass
+T14	RelativeNumber	103	109	a pair
+T15	ViewingTools	113	123	eyeglasses

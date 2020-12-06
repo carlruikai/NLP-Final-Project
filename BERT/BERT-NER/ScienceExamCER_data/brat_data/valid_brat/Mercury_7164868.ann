@@ -1,0 +1,25 @@
+T1	GeographicFormations	4	19	Andes Mountains
+T2	LOCATION	4	19	Andes Mountains
+T3	RelativeLocations	16	18	in
+T4	Continents	23	36	South America
+T5	LOCATION	23	36	South America
+T6	Create	37	43	formed
+T7	RelativeTime	44	48	when
+T8	TectonicPlates	52	65	oceanic plate
+T9	ChangeInLocation	66	73	shifted
+T10	RelativeLocations	74	81	beneath
+T11	TectonicPlates	84	101	continental plate
+T12	LevelOfInclusion	103	108	Which
+T13	Comparisons	109	114	other
+T14	GeographicFormations	115	124	landforms
+T15	StateOfBeing	125	128	are
+T16	Rarity	129	136	usually
+T17	Frequency	129	136	usually
+T18	Associate	137	147	associated
+T19	Exemplar	158	162	type
+T20	PartsOfEarthLayers	166	180	plate boundary
+T21	GeographicFormations	182	196	barrier island
+T22	BodiesOfWater	198	203	ocean
+T23	GeographicFormations	204	212	trenches
+T24	GeographicFormations	213	228	mid-ocean ridge
+T25	GeographicFormations	230	250	volcanic island arcs

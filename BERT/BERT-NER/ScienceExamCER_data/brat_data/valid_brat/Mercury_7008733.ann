@@ -1,0 +1,10 @@
+T1	ElementalComponents	3	7	atom
+T2	ContainBeComposedOf	8	16	consists
+T3	AtomComponents	22	29	nucleus
+T4	Position	30	40	surrounded
+T5	Move	30	40	surrounded
+T6	Cause	41	43	by
+T7	ElementalComponents	44	48	ions
+T8	AtomComponents	50	57	protons
+T9	AtomComponents	59	67	neutrons
+T10	AtomComponents	69	78	electrons

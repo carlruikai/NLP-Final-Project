@@ -1,0 +1,10 @@
+T1	Create	5	10	makes
+T2	LevelOfInclusion	14	18	most
+T3	Human	24	29	human
+T4	SkeletalSystem	30	38	skeleton
+T5	PartsOfTheSkeletalSystem	30	38	skeleton
+T6	PartsOfTheMuscularSystem	40	46	muscle
+T7	PartsOfTheSkeletalSystem	47	51	bone
+T8	PartsOfTheExcretorySystem	52	56	skin
+T9	PartsOfTheIntegumentarySystem	52	56	skin
+T10	Blood	57	62	blood

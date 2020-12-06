@@ -1,0 +1,32 @@
+T1	GeopoliticalLocations	4	17	Sahara Desert
+T2	TypesOfTerrestrialEcosystems	11	17	Desert
+T3	RelativeLocations	18	20	in
+T4	Continents	21	27	Africa
+T5	LOCATION	21	27	Africa
+T6	ContainBeComposedOf	28	31	has
+T7	RelativeNumber	32	36	high
+T8	TimesOfDayDayNight	37	44	daytime
+T9	Temperature	45	57	temperatures
+T10	Negations	58	61	but
+T11	RelativeNumber	62	65	low
+T12	TimesOfDayDayNight	66	75	nighttime
+T13	Temperature	76	88	temperatures
+T14	LevelOfInclusion	90	95	Which
+T15	VariablesControls	96	102	factor
+T16	StateOfBeing	103	105	is
+T17	ImportanceComparison	106	112	mainly
+T18	Cause	113	124	responsible
+T19	RelativeNumber	129	132	low
+T20	TimesOfDayDayNight	133	142	nighttime
+T21	Temperature	143	155	temperatures
+T22	RelativeLocations	156	158	in
+T23	GeopoliticalLocations	163	176	Sahara Desert
+T24	TypesOfTerrestrialEcosystems	170	176	Desert
+T25	Texture	178	184	coarse
+T26	Soil	185	189	soil
+T27	Height	190	193	low
+T28	RelativeNumber	190	193	low
+T29	GeometricMeasurements	194	202	latitude
+T30	Negations	203	207	lack
+T31	WeatherPhenomena	211	217	clouds
+T32	Height	218	231	high altitude

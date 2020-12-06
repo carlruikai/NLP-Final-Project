@@ -1,0 +1,35 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Quality	15	19	best
+T4	QualityComparison	15	19	best
+T5	Communicate	20	27	defines
+T6	GenericTerms	32	36	term
+T7	EnvironmentalDamageDestruction	38	47	pollutant
+T8	LevelOfInclusion	50	58	anything
+T9	Human	59	65	humans
+T10	CombineAdd	66	69	add
+T11	RelativeDirection	70	72	to
+T12	EarthPartsGrossGroundAtmosphere	77	87	atmosphere
+T13	LayersOfTheEarth	77	87	atmosphere
+T14	EarthPartsGrossGroundAtmosphere	92	98	oceans
+T15	BodiesOfWater	92	98	oceans
+T16	LevelOfInclusion	99	102	any
+T17	Substances	103	112	substance
+T18	StateOfBeing	118	120	is
+T19	Safety	121	128	harmful
+T20	Harm	121	128	harmful
+T21	RelativeDirection	129	131	to
+T22	EcosystemsEnvironment	136	147	environment
+T23	LevelOfInclusion	148	151	any
+T24	Substances	152	161	substance
+T25	StateOfBeing	167	169	is
+T26	Toxins	172	177	waste
+T27	Result	178	185	product
+T28	Products	178	185	product
+T29	BusinessIndustry	189	197	industry
+T30	Substances	200	209	substance
+T31	PerformAnActivity	215	219	does
+T32	Negations	220	223	not
+T33	StopRemove	224	234	break down
+T34	Separate	224	234	break down
+T35	TemporalProperty	235	244	over time

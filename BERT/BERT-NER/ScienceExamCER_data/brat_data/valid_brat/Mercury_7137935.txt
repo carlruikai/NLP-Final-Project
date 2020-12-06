@@ -1,0 +1,5 @@
+During protein synthesis, mRNA is translated into three-base sequences representing amino acids. What signals the ribosome to begin translating the mRNA into a new amino acid sequence?
+a codon
+enzymes
+a mutation
+temperature

@@ -1,0 +1,5 @@
+Temperature is the measurement of which type of energy?
+chemical
+mechanical
+potential
+kinetic

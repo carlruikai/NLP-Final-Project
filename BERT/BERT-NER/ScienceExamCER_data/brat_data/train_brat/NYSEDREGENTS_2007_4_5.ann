@@ -1,0 +1,12 @@
+T1	CelestialMovement	5	11	motion
+T2	Cause	12	18	causes
+T3	TimesOfDayDayNight	19	22	day
+T4	TimesOfDayDayNight	27	32	night
+T5	CelestialMovement	34	44	revolution
+T6	InnerPlanets	48	53	Earth
+T7	CelestialMovement	54	64	revolution
+T8	Moon	72	76	Moon
+T9	CelestialMovement	77	85	rotation
+T10	InnerPlanets	89	94	Earth
+T11	CelestialMovement	95	103	rotation
+T12	Moon	111	115	Moon

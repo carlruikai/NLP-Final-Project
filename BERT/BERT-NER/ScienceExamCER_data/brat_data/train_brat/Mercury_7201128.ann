@@ -1,0 +1,33 @@
+T1	DigestiveSubstances	0	7	Amylase
+T2	StateOfBeing	8	10	is
+T3	Energy	13	21	chemical
+T4	TypesOfChemicalReactions	27	37	decomposes
+T5	NutritiveSubstancesForAnimalsOrPlants	38	44	starch
+T6	ChangeInto	45	49	into
+T7	NutritiveSubstancesForAnimalsOrPlants	50	57	maltose
+T8	NutritiveSubstancesForAnimalsOrPlants	62	69	dextrin
+T9	LevelOfInclusion	71	76	Which
+T10	Quality	77	81	best
+T11	QualityComparison	77	81	best
+T12	Represent	82	91	describes
+T13	SystemAndFunctions	96	100	role
+T14	DigestiveSubstances	104	111	amylase
+T15	RelativeLocations	112	114	in
+T16	Human	119	124	human
+T17	HumanPart	125	129	body
+T18	StateOfBeing	131	133	as
+T19	EndocrineActions	137	146	inhibitor
+T20	PartsOfChemicalReactions	137	146	inhibitor
+T21	PartsOfEndocrineSystem	150	157	insulin
+T22	Create	158	165	product
+T23	StateOfBeing	169	171	as
+T24	DigestiveSubstances	175	181	enzyme
+T25	NutritiveSubstancesForAnimalsOrPlants	175	181	enzyme
+T26	Help	187	191	aids
+T27	DigestionActions	195	204	digestion
+T28	StateOfBeing	205	207	as
+T29	PartsOfChemicalReactions	210	218	catalyst
+T30	GeneticProcesses	223	240	protein synthesis
+T31	StateOfBeing	241	243	as
+T32	PartsOfChemicalReactions	246	254	receptor
+T33	NutritiveSubstancesForAnimalsOrPlants	258	274	fatty acid chain

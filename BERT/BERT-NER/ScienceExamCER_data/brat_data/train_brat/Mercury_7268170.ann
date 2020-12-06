@@ -1,0 +1,26 @@
+T1	OtherDescriptionsForPlantsBiennialLeafyEtc	0	8	Vascular
+T2	Plant	9	15	plants
+T3	ContainBeComposedOf	16	20	have
+T4	PlantPart	21	27	tissue
+T5	Classify	28	34	called
+T6	PlantPart	35	40	xylem
+T7	LevelOfInclusion	42	47	Which
+T8	LevelOfInclusion	51	56	these
+T9	StateOfBeing	57	59	is
+T10	Transportation	60	71	transported
+T11	Cause	72	74	by
+T12	PlantPart	79	84	xylem
+T13	Nutrition	86	90	food
+T14	Create	91	95	made
+T15	Cause	96	98	by
+T16	Plant	103	108	plant
+T17	PhasesOfWater	109	114	water
+T18	Require	115	121	needed
+T19	Cause	122	124	by
+T20	Plant	129	134	plant
+T21	PlantPart	135	141	pollen
+T22	Plant	146	151	plant
+T23	Reproduction	152	164	reproduction
+T24	Compound	165	179	carbon dioxide
+T25	CellProcesses	184	198	photosynthesis
+T26	PlantProcesses	184	198	photosynthesis

@@ -1,0 +1,18 @@
+T1	Method	8	11	way
+T2	AbilityAvailability	12	15	can
+T3	NaturalPhenomena	16	28	forest fires
+T4	Alter	29	35	affect
+T5	LayersOfTheEarth	40	51	lithosphere
+T6	AmountChangingActions	53	63	increasing
+T7	IncreaseDecrease	53	63	increasing
+T8	EnvironmentalDamageDestruction	64	76	soil erosion
+T9	Cause	77	84	causing
+T10	EnvironmentalDamageDestruction	85	98	air pollution
+T11	AmountChangingActions	99	109	increasing
+T12	IncreaseDecrease	99	109	increasing
+T13	NaturalPhenomena	110	126	seismic activity
+T14	Cause	127	134	causing
+T15	Safety	135	142	violent
+T16	Particles	143	147	dust
+T17	GranularSolids	143	147	dust
+T18	WeatherPhenomena	148	154	storms

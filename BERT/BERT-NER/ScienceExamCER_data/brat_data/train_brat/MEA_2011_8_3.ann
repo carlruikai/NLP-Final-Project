@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Locations	6	14	location
+T3	RelativeLocations	12	14	on
+T4	InnerPlanets	18	23	Earth
+T5	ContainBeComposedOf	24	27	has
+T6	AmountComparison	32	37	least
+T7	MeasuresOfAmountOfLight	38	45	intense
+T8	CelestialLightOnEarth	46	54	sunlight
+T9	RelativeTime	55	57	on
+T10	Months	58	66	December
+T11	CardinalNumber	67	69	22
+T12	Day	67	69	22
+T13	EarthPartsGrossGroundAtmosphere	71	78	Equator
+T14	States	79	86	Florida
+T15	States	87	92	Maine
+T16	EarthPartsGrossGroundAtmosphere	93	103	North Pole
+T17	NorthernHemisphereLocations	93	103	North Pole

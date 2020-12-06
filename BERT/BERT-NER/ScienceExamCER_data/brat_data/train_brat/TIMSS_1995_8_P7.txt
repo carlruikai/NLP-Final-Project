@@ -1,0 +1,5 @@
+Whenever scientists carefully measure any quantity many times, they expect that
+all of the measurements will be exactly the same
+only two of the measurements will be exactly the same
+all but one of the measurements will be exactly the same
+most of the measurements will be close but not exactly the same

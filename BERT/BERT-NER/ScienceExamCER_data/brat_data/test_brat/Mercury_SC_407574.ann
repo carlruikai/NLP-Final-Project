@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	GaseousMatter	6	9	gas
+T3	StateOfBeing	10	12	is
+T4	Release	13	21	released
+T5	Cause	22	24	by
+T6	PartsOfTheFoodChain	25	34	producers
+T7	PartsOfTheFoodChain	40	49	consumers
+T8	Uptake	50	54	take
+T9	Require	58	60	to
+T10	LivingDying	61	68	survive
+T11	PlantNutrients	70	76	oxygen
+T12	Element	70	76	oxygen
+T13	Element	77	85	nitrogen
+T14	PlantNutrients	77	85	nitrogen
+T15	PhasesOfWater	86	97	water vapor
+T16	Compound	98	112	carbon dioxide

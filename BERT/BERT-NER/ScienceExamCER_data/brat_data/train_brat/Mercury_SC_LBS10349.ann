@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	CelestialMovement	15	21	cycles
+T4	Require	22	27	takes
+T5	DURATION	28	36	24 hours
+T6	CardinalNumber	28	30	24
+T7	TimeUnit	31	36	hours
+T8	InnerPlanets	38	43	Earth
+T9	CelestialMovement	44	52	rotating
+T10	Position	53	64	on its axis
+T11	InnerPlanets	65	70	Earth
+T12	LOCATION	65	70	Earth
+T13	CelestialMovement	71	80	revolving
+T14	PrepositionalDirections	81	87	around
+T15	Star	92	95	Sun
+T16	Moon	100	104	Moon
+T17	CelestialMovement	105	113	rotating
+T18	Position	114	125	on its axis
+T19	Moon	130	134	Moon
+T20	CelestialMovement	135	144	revolving
+T21	PrepositionalDirections	145	151	around
+T22	InnerPlanets	152	157	Earth
+T23	LOCATION	152	157	Earth

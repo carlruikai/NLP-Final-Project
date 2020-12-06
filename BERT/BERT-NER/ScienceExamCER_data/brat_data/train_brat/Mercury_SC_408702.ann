@@ -1,0 +1,22 @@
+T1	PERSON	0	5	Howie
+T2	LocationChangingActions	6	9	put
+T3	Plant	14	20	plants
+T4	RelativeLocations	21	26	under
+T5	LightProducingObject	29	40	plant light
+T6	StateOfBeing	47	50	was
+T7	Help	54	61	helping
+T8	Plant	66	72	plants
+T9	PerformAnActivity	73	75	do
+T10	Cause	76	78	by
+T11	Create	79	88	providing
+T12	Light	89	94	light
+T13	Create	96	100	make
+T14	Nutrition	101	105	food
+T15	PullingActions	106	113	attract
+T16	ActUponSomething	106	113	attract
+T17	Insect	114	121	insects
+T18	Release	122	129	release
+T19	PlantPart	130	136	pollen
+T20	Growth	137	141	grow
+T21	ActionsForAgriculture	137	141	grow
+T22	PlantPart	142	147	roots

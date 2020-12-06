@@ -1,0 +1,23 @@
+T1	PhasesOfWater	8	13	water
+T2	Element	15	23	aluminum
+T3	MetalSolids	15	23	aluminum
+T4	Plant	25	38	redwood trees
+T5	Bird	44	56	valley quail
+T6	LevelOfInclusion	45	48	all
+T7	ContainBeComposedOf	61	65	have
+T8	Comparisons	66	75	in common
+T9	StateOfBeing	82	85	are
+T10	LevelOfInclusion	86	89	all
+T11	ChemicalProperty	90	94	pure
+T12	Element	95	103	elements
+T13	StateOfBeing	110	113	are
+T14	LevelOfInclusion	114	117	all
+T15	ContainBeComposedOf	118	125	made of
+T16	Cell	126	131	cells
+T17	StateOfBeing	138	141	are
+T18	LevelOfInclusion	142	145	all
+T19	LivingThing	146	162	living creatures
+T20	StateOfBeing	169	172	are
+T21	LevelOfInclusion	173	176	all
+T22	ContainBeComposedOf	177	184	made of
+T23	ElementalComponents	185	190	atoms

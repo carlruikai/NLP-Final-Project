@@ -1,0 +1,66 @@
+T1	Human	0	7	Michael
+T2	PERSON	0	7	Michael
+T3	ContainBeComposedOf	8	11	has
+T4	ManmadeObjects	14	25	pencil case
+T5	ContainBeComposedOf	26	33	made of
+T6	Gymnosperm	34	38	pine
+T7	NaturalMaterial	39	43	wood
+T8	SolidMatter	39	43	wood
+T9	ObjectPart	49	56	surface
+T10	ManmadeObjects	64	75	pencil case
+T11	FormChangingActions	76	85	scratches
+T12	FormChangingActions	90	95	dents
+T13	Difficulty	96	102	easily
+T14	Goal	107	112	wants
+T15	Create	116	120	make
+T16	Age	123	126	new
+T17	ManmadeObjects	127	138	pencil case
+T18	ProbabilityAndCertainty	144	148	will
+T19	Negations	149	152	not
+T20	FormChangingActions	153	160	scratch
+T21	Comparisons	161	163	or
+T22	FormChangingActions	164	168	dent
+T23	Difficulty	169	175	easily
+T24	LevelOfInclusion	177	182	Which
+T25	LevelOfInclusion	186	199	the following
+T26	Require	200	206	should
+T27	Human	207	214	Michael
+T28	PERSON	207	214	Michael
+T29	PerformAnActivity	215	217	do
+T30	Result	218	220	to
+T31	Create	221	225	make
+T32	Age	228	231	new
+T33	ManmadeObjects	232	243	pencil case
+T34	ProbabilityAndCertainty	249	253	will
+T35	Negations	254	257	not
+T36	FormChangingActions	258	265	scratch
+T37	Comparisons	266	268	or
+T38	FormChangingActions	269	273	dent
+T39	Difficulty	274	280	easily
+T40	Create	282	286	make
+T41	ManmadeObjects	291	302	pencil case
+T42	Comparisons	305	314	different
+T43	Size	315	319	size
+T44	Use	320	323	use
+T45	Comparisons	326	335	different
+T46	Material	336	344	material
+T47	Matter	336	344	material
+T48	Create	348	352	make
+T49	ManmadeObjects	357	368	pencil case
+T50	Create	369	373	make
+T51	ManmadeObjects	378	389	pencil case
+T52	Use	390	394	from
+T53	Comparisons	395	402	another
+T54	ObjectQuantification	403	408	piece
+T55	Gymnosperm	412	416	pine
+T56	NaturalMaterial	417	421	wood
+T57	SolidMatter	417	421	wood
+T58	Use	422	425	use
+T59	Size	428	435	thicker
+T60	Width	428	435	thicker
+T61	ObjectQuantification	436	441	piece
+T62	Gymnosperm	445	449	pine
+T63	NaturalMaterial	450	454	wood
+T64	SolidMatter	450	454	wood
+T65	Create	458	462	make
+T66	ManmadeObjects	467	478	pencil case

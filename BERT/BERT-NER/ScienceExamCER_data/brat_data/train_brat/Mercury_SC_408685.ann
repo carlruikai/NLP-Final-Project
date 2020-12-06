@@ -1,0 +1,20 @@
+T1	PhasesOfWater	0	10	Soda water
+T2	LiquidMatter	0	10	Soda water
+T3	StateOfBeing	11	13	is
+T4	StateOfMatter	16	22	liquid
+T5	ContainBeComposedOf	28	31	has
+T6	ObjectQuantification	32	39	bubbles
+T7	Compound	43	57	carbon dioxide
+T8	RelativeLocations	58	60	in
+T9	LevelOfInclusion	65	70	Which
+T10	ResponseType	71	75	term
+T11	GenericTerms	71	75	term
+T12	Quality	76	80	best
+T13	QualityComparison	76	80	best
+T14	Represent	81	90	describes
+T15	PhasesOfWater	91	101	soda water
+T16	LiquidMatter	91	101	soda water
+T17	Mixtures	105	112	mixture
+T18	ElementalComponents	115	123	molecule
+T19	Element	127	134	element
+T20	Compound	137	145	compound

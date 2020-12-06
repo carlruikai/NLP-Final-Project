@@ -1,0 +1,25 @@
+T1	RelativeNumber	0	4	Some
+T2	Exemplar	5	10	kinds
+T3	Aquatic	14	18	fish
+T4	LivingDying	19	23	live
+T5	LevelOfInclusion	24	28	most
+T6	LivingDying	38	43	lives
+T7	RelativeLocations	44	46	in
+T8	TypesOfWaterInBodiesOfWater	47	57	salt water
+T9	Negations	58	61	but
+T10	ActionsForAnimals	62	65	lay
+T11	PrenatalOrganismStates	72	76	eggs
+T12	RelativeLocations	77	79	in
+T13	TypesOfWaterInBodiesOfWater	80	90	freshwater
+T14	Ability	98	105	ability
+T15	LivingDying	109	116	survive
+T16	NaturalSelection	109	116	survive
+T17	RelativeLocations	117	119	in
+T18	Comparisons	120	129	different
+T19	EcosystemsEnvironment	130	142	environments
+T20	StateOfBeing	143	145	is
+T21	Exemplar	149	156	example
+T22	Adaptation	160	170	adaptation
+T23	Development	171	191	developmental stages
+T24	LearnedBehavior	194	199	habit
+T25	Evolution	200	218	selective breeding

@@ -1,0 +1,14 @@
+T1	StateOfBeing	5	7	is
+T2	Uptake	8	13	taken
+T3	Cause	17	19	by
+T4	PlantPart	24	30	leaves
+T5	Plant	36	40	tree
+T6	AbilityAvailability	47	50	can
+T7	Create	51	55	make
+T8	Nutrition	64	68	food
+T9	PlantNutrients	70	76	oxygen
+T10	Element	70	76	oxygen
+T11	NutritiveSubstancesForAnimalsOrPlants	77	82	sugar
+T12	CelestialLightOnEarth	83	91	sunlight
+T13	PhasesOfWater	92	97	water
+T14	LiquidMatter	92	97	water

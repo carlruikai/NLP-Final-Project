@@ -1,0 +1,37 @@
+T1	Element	0	8	Hydrogen
+T2	StateOfBeing	9	11	is
+T3	VerbsForLocate	12	19	located
+T4	RelativeLocations	20	22	on
+T5	RelativeDirection	27	31	left
+T6	ObjectPart	32	36	side
+T7	RepresentingElementsAndMolecules	44	58	periodic table
+T8	RelativeLocations	59	61	in
+T9	Comparisons	66	70	same
+T10	Group	71	77	column
+T11	ClassesOfElements	85	97	alkali metal
+T12	Negations	100	103	but
+T13	ContainBeComposedOf	107	110	has
+T14	Property	111	126	characteristics
+T15	ClassesOfElements	132	140	nonmetal
+T16	LevelOfInclusion	142	147	Which
+T17	LevelOfInclusion	151	164	the following
+T18	StateOfBeing	165	167	is
+T19	PhysicalProperty	170	187	physical property
+T20	Element	191	199	hydrogen
+T21	Element	201	209	Hydrogen
+T22	AbilityAvailability	210	213	can
+T23	MolecularProperties	214	218	bond
+T24	ChemicalChange	214	218	bond
+T25	RelativeDirection	219	221	to
+T26	Element	230	238	Hydrogen
+T27	Create	239	244	makes
+T28	ElectricalProperty	245	253	positive
+T29	ElementalComponents	254	258	ions
+T30	Element	260	268	Hydrogen
+T31	StateOfBeing	269	271	is
+T32	StateOfMatter	274	277	gas
+T33	RelativeTime	278	280	at
+T34	Temperature	281	297	room temperature
+T35	Element	299	307	Hydrogen
+T36	StateOfBeing	308	310	is
+T37	Flammability	311	322	combustible

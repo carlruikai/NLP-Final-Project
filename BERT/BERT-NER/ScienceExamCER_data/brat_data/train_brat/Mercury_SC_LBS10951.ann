@@ -1,0 +1,24 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ResponseType	6	15	statement
+T3	Quality	16	20	best
+T4	QualityComparison	16	20	best
+T5	Communicate	21	30	describes
+T6	ScientificTheoryExperimentationAndHistory	35	41	theory
+T7	Evolution	45	62	natural selection
+T8	NaturalSelection	45	62	natural selection
+T9	ProbabilityAndCertainty	67	77	guarantees
+T10	LivingDying	82	90	survival
+T11	NaturalSelection	82	90	survival
+T12	Taxonomy	96	103	species
+T13	AmountChangingActions	108	117	increases
+T14	IncreaseDecrease	108	117	increases
+T15	Size	122	126	size
+T16	GroupsOfOrganisms	132	142	population
+T17	Require	147	155	requires
+T18	PartsOfAGroup	160	171	individuals
+T19	StateOfBeing	175	177	be
+T20	Comparisons	178	187	identical
+T21	Occur	192	199	happens
+T22	RelativeTime	200	204	over
+T23	TemporalProperty	207	211	long
+T24	MarkersOfTime	212	226	period of time

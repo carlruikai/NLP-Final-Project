@@ -1,0 +1,59 @@
+T1	GroupsOfOrganisms	2	12	population
+T2	Size	16	21	small
+T3	Plant	23	28	plant
+T4	ActionsForAnimals	29	35	eating
+T5	Consumption	29	35	eating
+T6	Insect	36	43	beetles
+T7	LivingDying	44	49	lives
+T8	RelativeLocations	50	52	in
+T9	Forests	55	61	forest
+T10	ProbabilityAndCertainty	63	68	About
+T11	LevelOfInclusion	69	73	half
+T12	Insect	81	88	beetles
+T13	StateOfBeing	89	92	are
+T14	Color	93	104	light brown
+T15	Comparisons	113	119	others
+T16	StateOfBeing	120	123	are
+T17	Color	124	134	dark green
+T18	TimeUnit	139	144	years
+T19	Year	139	144	years
+T20	NaturalPhenomena	148	155	drought
+T21	WeatherPhenomena	148	155	drought
+T22	Cause	156	161	cause
+T23	Locations	166	170	area
+T24	ChangeInto	174	180	become
+T25	StateOfBeing	174	180	become
+T26	Wetness	181	184	dry
+T27	ContainBeComposedOf	185	189	with
+T28	AmountComparison	190	193	few
+T29	Plant	194	199	trees
+T30	ProbabilityAndCertainty	206	211	would
+T31	Insect	216	222	beetle
+T32	GroupsOfOrganisms	223	233	population
+T33	AmountComparison	234	238	most
+T34	ProbabilityAndCertainty	239	245	likely
+T35	VisualComparison	246	255	look like
+T36	RelativeTime	256	261	after
+T37	RelativeNumber	262	269	several
+T38	GeneticRelations	270	281	generations
+T39	ProbabilityAndCertainty	286	291	would
+T40	StateOfBeing	292	294	be
+T41	LevelOfInclusion	295	301	mostly
+T42	Color	302	313	light brown
+T43	Insect	314	321	beetles
+T44	ProbabilityAndCertainty	326	331	would
+T45	StateOfBeing	332	334	be
+T46	LevelOfInclusion	335	341	mostly
+T47	Color	342	352	dark green
+T48	Insect	353	360	beetles
+T49	ProbabilityAndCertainty	365	370	would
+T50	StateOfBeing	371	373	be
+T51	LevelOfInclusion	374	380	mostly
+T52	TypeOfConsumer	381	392	carnivorous
+T53	Insect	393	400	beetles
+T54	ProbabilityAndCertainty	405	410	would
+T55	StateOfBeing	411	413	be
+T56	LevelOfInclusion	414	420	mostly
+T57	AmountComparison	421	425	very
+T58	Size	426	431	large
+T59	Insect	432	439	beetles

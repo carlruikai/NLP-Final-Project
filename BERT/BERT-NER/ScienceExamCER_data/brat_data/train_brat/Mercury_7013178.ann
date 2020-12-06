@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Measurements	6	17	measurement
+T3	ScientificTools	18	22	tool
+T4	StateOfBeing	23	25	is
+T5	Use	26	30	used
+T6	Goal	31	33	to
+T7	Identify	34	38	find
+T8	PhysicalProperty	43	49	volume
+T9	Size	43	49	volume
+T10	Size	55	60	small
+T11	ObjectQuantification	61	66	piece
+T12	Igneous	70	77	granite
+T13	TemperatureMeasuringTools	79	90	thermometer
+T14	DistanceMeasuringTools	91	103	metric ruler
+T15	LiquidHoldingContainersRecepticles	104	122	graduated cylinder
+T16	VolumeMeasuringTool	104	122	graduated cylinder
+T17	MassMeasuringTool	123	142	triple beam balance

@@ -1,0 +1,30 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Represent	15	24	indicates
+T4	PhysicalChange	27	42	physical change
+T5	Occur	48	54	occurs
+T6	RelativeTime	55	61	during
+T7	OrganicProcesses	66	73	process
+T8	DigestionActions	77	86	digestion
+T9	CombineAdd	92	100	addition
+T10	PH	104	109	acids
+T11	Substances	104	109	acids
+T12	Create	113	119	create
+T13	Shape	122	126	ball
+T14	Nutrition	130	134	food
+T15	EndocrineActions	139	148	secretion
+T16	DigestiveSubstances	152	158	pepsin
+T17	Alter	162	168	change
+T18	NutritiveSubstancesForAnimalsOrPlants	169	177	proteins
+T19	ChangeInto	178	180	to
+T20	Genetics	181	189	peptides
+T21	DigestiveSubstances	181	189	peptides
+T22	DigestionActions	194	203	breakdown
+T23	Nutrition	207	211	food
+T24	Substances	212	222	substances
+T25	Cause	223	225	by
+T26	DigestiveSubstances	226	242	digestive juices
+T27	MuscularSystemActions	247	256	squeezing
+T28	Nutrition	260	264	food
+T29	PrepositionalDirections	265	272	through
+T30	PartsOfTheDigestiveSystem	277	287	intestines

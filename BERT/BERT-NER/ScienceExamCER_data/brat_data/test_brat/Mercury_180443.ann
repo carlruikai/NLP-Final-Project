@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LunarPhases	6	11	phase
+T3	Moon	19	23	Moon
+T4	Occur	24	30	occurs
+T5	RelativeTime	31	36	after
+T6	LunarPhases	39	53	waxing gibbous
+T7	LunarPhases	55	69	waning gibbous
+T8	LunarPhases	70	85	waxing crescent
+T9	LunarPhases	86	95	full moon
+T10	LunarPhases	96	104	new moon

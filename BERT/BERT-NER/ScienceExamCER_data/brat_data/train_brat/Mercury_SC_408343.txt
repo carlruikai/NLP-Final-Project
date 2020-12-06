@@ -1,0 +1,5 @@
+Angela wants to report daily weather conditions. In which unit should Angela record the air temperature?
+degrees Celsius
+centimeters
+milliliters
+grams

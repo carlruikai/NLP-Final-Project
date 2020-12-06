@@ -1,0 +1,23 @@
+T1	ProbabilityAndCertainty	5	10	would
+T2	Quality	11	15	best
+T3	QualityComparison	11	15	best
+T4	Homeostasis	16	24	regulate
+T5	Alter	16	24	regulate
+T6	Temperature	29	40	temperature
+T7	Temperature	47	57	overheated
+T8	AnimalPart	58	62	body
+T9	AmountChangingActions	66	74	decrease
+T10	IncreaseDecrease	66	74	decrease
+T11	ExcretoryActions	78	86	sweating
+T12	AmountChangingActions	89	97	decrease
+T13	IncreaseDecrease	89	97	decrease
+T14	RespirationActions	105	114	breathing
+T15	MeasuringSpeed	115	119	rate
+T16	Alter	122	130	dilation
+T17	PartsOfTheCirculatorySystem	134	147	blood vessels
+T18	RelativeLocations	148	150	in
+T19	PartsOfTheExcretorySystem	155	159	skin
+T20	PartsOfTheIntegumentarySystem	155	159	skin
+T21	AmountChangingActions	163	171	increase
+T22	IncreaseDecrease	163	171	increase
+T23	CirculationActions	175	185	heart rate

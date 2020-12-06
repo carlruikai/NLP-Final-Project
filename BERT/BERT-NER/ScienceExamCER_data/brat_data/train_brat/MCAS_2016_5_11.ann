@@ -1,0 +1,37 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	Observe	13	21	watching
+T4	NationalityOrigin	24	29	local
+T5	ElectricAppliance	30	40	television
+T6	SystemOfCommunication	30	40	television
+T7	Meteorology	41	55	weather report
+T8	WeatherPhenomena	41	48	weather
+T9	LOCATION	60	70	Gloucester
+T10	States	72	85	Massachusetts
+T11	LOCATION	72	85	Massachusetts
+T12	LevelOfInclusion	87	92	Which
+T13	LevelOfInclusion	96	109	the following
+T14	StateOfBeing	110	112	is
+T15	AmountComparison	113	117	most
+T16	ProbabilityAndCertainty	118	124	likely
+T17	Communicate	125	133	included
+T18	RelativeLocations	125	127	in
+T19	WeatherPhenomena	142	149	weather
+T20	Meteorology	142	156	weather report
+T21	MeasuringSpeed	162	167	speed
+T22	PropertyOfMotion	162	167	speed
+T23	Currents	171	179	currents
+T24	RelativeLocations	180	182	in
+T25	BodiesOfWater	185	190	river
+T26	Numbers	195	201	amount
+T27	Wetness	205	213	moisture
+T28	RelativeLocations	214	216	in
+T29	EarthPartsGrossGroundAtmosphere	221	224	air
+T30	Depth	229	234	depth
+T31	Currents	238	246	currents
+T32	RelativeLocations	247	249	in
+T33	BodiesOfWater	254	259	ocean
+T34	AmountComparison	264	269	level
+T35	Wetness	273	281	moisture
+T36	RelativeLocations	282	284	in
+T37	Soil	289	295	ground

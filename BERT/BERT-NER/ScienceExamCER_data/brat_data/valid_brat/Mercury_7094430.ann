@@ -1,0 +1,25 @@
+T1	Human	0	5	Human
+T2	Cell	6	17	muscle cell
+T3	PartsOfTheMuscularSystem	6	17	muscle cell
+T4	Require	19	23	need
+T5	Nutrition	24	33	nutrients
+T6	Element	38	44	oxygen
+T7	RelativeTime	45	51	during
+T8	PhysicalActivity	52	60	exercise
+T9	Human	66	71	human
+T10	HumanPart	72	76	body
+T11	StateOfBeing	77	79	is
+T12	AbilityAvailability	80	84	able
+T13	Succeed	88	92	meet
+T14	Require	97	102	needs
+T15	Cell	110	121	muscle cell
+T16	PartsOfTheMuscularSystem	110	121	muscle cell
+T17	RelativeTime	123	129	during
+T18	PhysicalActivity	130	138	exercise
+T19	Cause	139	141	by
+T20	AmountChangingActions	142	152	increasing
+T21	IncreaseDecrease	142	152	increasing
+T22	DigestionActions	153	162	digestion
+T23	ExcretoryActions	164	173	excretion
+T24	EndocrineActions	175	184	secretion
+T25	CirculationActions	186	197	circulation

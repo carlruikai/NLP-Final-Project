@@ -1,0 +1,15 @@
+T1	RelativeLocations	0	5	Where
+T2	StateOfBeing	6	8	is
+T3	AmountComparison	9	13	most
+T4	LevelOfInclusion	9	13	most
+T5	Mass	21	25	mass
+T6	ElementalComponents	33	37	atom
+T7	VerbsForLocate	38	45	located
+T8	RelativeLocations	47	49	in
+T9	AtomComponents	54	61	protons
+T10	RelativeLocations	62	64	in
+T11	AtomComponents	69	76	nucleus
+T12	RelativeLocations	77	79	in
+T13	AtomComponents	84	92	neutrons
+T14	RelativeLocations	93	95	in
+T15	AtomComponents	100	109	electrons

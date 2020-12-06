@@ -1,0 +1,5 @@
+How does a parachute sufficiently increase air resistance to allow the parachutist to land safely?
+by decreasing the force of gravity acting on the parachutist
+by decreasing the total mass of the parachutist
+by increasing the surrounding air pressure around the parachute
+by increasing the total surface area of the parachute

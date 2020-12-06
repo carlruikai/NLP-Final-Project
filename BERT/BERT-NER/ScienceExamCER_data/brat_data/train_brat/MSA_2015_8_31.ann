@@ -1,0 +1,43 @@
+T1	Scientists	0	8	Students
+T2	Examine	9	14	study
+T3	PerformingResearch	9	14	study
+T4	Human	15	20	human
+T5	HumanPart	21	25	body
+T6	SystemParts	26	35	structure
+T7	ActionsForAnimals	39	44	learn
+T8	BeliefKnowledge	39	44	learn
+T9	Method	45	48	how
+T10	HumanPart	53	57	body
+T11	PerformAnActivity	58	67	functions
+T12	LevelOfInclusion	69	74	Which
+T13	Size	75	84	life-size
+T14	Representation	85	90	model
+T15	ProbabilityAndCertainty	91	96	would
+T16	Quality	97	101	best
+T17	QualityComparison	97	101	best
+T18	Represent	102	111	represent
+T19	Size	116	120	size
+T20	Shape	122	127	shape
+T21	Locations	133	141	location
+T22	Human	145	150	human
+T23	RelativeLocations	151	159	internal
+T24	AnimalPart	160	166	organs
+T25	Shape	170	185	two-dimensional
+T26	HumanPart	186	196	upper body
+T27	Representation	197	204	diagram
+T28	ContainBeComposedOf	205	209	with
+T29	Magnetic	210	218	magnetic
+T30	ManmadeObjects	219	227	stickers
+T31	AnimalPart	235	241	organs
+T32	Shape	244	261	three-dimensional
+T33	SyntheticMaterial	262	269	plastic
+T34	HumanPart	270	280	upper body
+T35	ContainBeComposedOf	281	285	with
+T36	Stability	286	295	removable
+T37	ObjectPart	296	301	parts
+T38	Shape	304	319	two-dimensional
+T39	VisualProperty	320	328	detailed
+T40	WrittenMedia	329	340	wall poster
+T41	Shape	343	360	three-dimensional
+T42	NaturalMaterial	361	366	paper
+T43	HumanPart	367	371	body

@@ -1,0 +1,22 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	14	features
+T3	StateOfBeing	15	18	are
+T4	PhysicalProperty	19	36	physical properti
+T5	Element	45	49	iron
+T6	MetalSolids	45	49	iron
+T7	MetalSolids	50	54	nail
+T8	Conductivity	56	69	conducts heat
+T9	Magnetic	71	79	magnetic
+T10	StateOfMatter	81	86	solid
+T11	Conductivity	87	107	conducts electricity
+T12	Magnetic	109	117	magnetic
+T13	ChemicalProperty	119	124	rusts
+T14	Conductivity	125	139	conducts sound
+T15	ResistanceStrength	141	150	insulates
+T16	Negations	152	155	non
+T17	Magnetic	156	164	magnetic
+T18	PhaseChangingActions	165	174	dissolves
+T19	Divide	165	174	dissolves
+T20	Conductivity	176	189	conducts heat
+T21	Negations	191	194	non
+T22	Magnetic	195	203	magnetic

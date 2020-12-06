@@ -1,0 +1,5 @@
+An engineering class has been instructed to develop a robot. The robot must be designed using electromagnetic energy as its only source of power. What topic is the engineering class most likely studying?
+the use of batteries and chemical energy
+how radiant energy and solar collectors can be used
+the conversion of kinetic energy to potential energy
+how thermal energy can be converted into electrical energy

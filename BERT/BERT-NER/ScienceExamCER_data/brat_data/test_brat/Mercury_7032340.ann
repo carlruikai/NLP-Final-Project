@@ -1,0 +1,33 @@
+T1	Choose	7	14	choices
+T2	Indicate	15	21	listed
+T3	Group	15	21	listed
+T4	LevelOfInclusion	23	28	which
+T5	Represent	29	39	represents
+T6	EcosystemsEnvironment	44	57	natural world
+T7	Use	58	63	using
+T8	Representation	66	71	model
+T9	Examine	73	80	reading
+T10	AcademicMedia	83	87	book
+T11	WrittenMedia	83	87	book
+T12	Relevant	88	93	about
+T13	Mammal	96	107	prairie dog
+T14	GroupsOfOrganisms	108	117	community
+T15	Observe	118	125	looking
+T16	PrepositionalDirections	126	128	at
+T17	Representation	131	138	picture
+T18	Mammal	144	155	prairie dog
+T19	GroupsOfOrganisms	156	165	community
+T20	PerformingResearch	166	177	researching
+T21	Mammal	180	191	prairie dog
+T22	GroupsOfOrganisms	192	201	community
+T23	Use	202	207	using
+T24	SystemOfCommunication	212	220	Internet
+T25	TechnologicalInstrument	212	220	Internet
+T26	Observe	221	230	observing
+T27	PerformingResearch	221	230	observing
+T28	Mammal	233	244	prairie dog
+T29	GroupsOfOrganisms	245	254	community
+T30	RelativeLocations	255	257	in
+T31	Event	261	268	exhibit
+T32	RelativeLocations	269	271	at
+T33	ManmadeLocations	276	279	zoo

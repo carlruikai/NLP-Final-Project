@@ -1,0 +1,13 @@
+T1	ResponseType	6	10	term
+T2	Identify	11	21	identifies
+T3	Group	24	29	group
+T4	Cell	33	38	cells
+T5	PerformAnActivity	44	48	work
+T6	Relations	49	57	together
+T7	PerformAnActivity	61	68	perform
+T8	Comparisons	71	78	similar
+T9	OrganicProcesses	79	87	function
+T10	ElementalComponents	89	97	molecule
+T11	AnimalPart	98	103	organ
+T12	LivingThing	104	112	organism
+T13	AnimalPart	113	119	tissue

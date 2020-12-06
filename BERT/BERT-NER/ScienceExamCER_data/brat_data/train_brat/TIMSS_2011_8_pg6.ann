@@ -1,0 +1,25 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	Quality	23	27	best
+T4	QualityComparison	23	27	best
+T5	Communicate	28	37	describes
+T6	Goal	42	49	purpose
+T7	CellProcesses	53	73	cellular respiration
+T8	Create	78	85	provide
+T9	Energy	86	92	energy
+T10	Cell	97	101	cell
+T11	PhysicalActivity	102	112	activities
+T12	Create	116	123	produce
+T13	NutritiveSubstancesForAnimalsOrPlants	124	129	sugar
+T14	ActionsForNutrition	134	141	storage
+T15	Preserve	134	141	storage
+T16	RelativeLocations	142	144	in
+T17	Cell	145	150	cells
+T18	Release	154	161	release
+T19	Element	162	168	oxygen
+T20	RespirationActions	173	182	breathing
+T21	Create	186	192	supply
+T22	Source	186	192	supply
+T23	Compound	193	207	carbon dioxide
+T24	CellProcesses	212	226	photosynthesis
+T25	PlantProcesses	212	226	photosynthesis

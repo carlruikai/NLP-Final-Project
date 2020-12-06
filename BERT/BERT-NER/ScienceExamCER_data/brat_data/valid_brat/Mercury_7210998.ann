@@ -1,0 +1,20 @@
+T1	SystemParts	5	14	structure
+T2	Position	15	24	surrounds
+T3	ActUponSomething	15	24	surrounds
+T4	Cell	29	33	cell
+T5	Choose	38	47	regulates
+T6	ActUponSomething	38	47	regulates
+T7	Material	48	57	materials
+T8	Matter	48	57	materials
+T9	Move	63	68	enter
+T10	CombineAdd	63	68	enter
+T11	Separate	73	78	leave
+T12	Move	73	78	leave
+T13	Cell	83	87	cell
+T14	AnimalCellPart	89	96	nucleus
+T15	PlantCellPart	89	96	nucleus
+T16	PlantPart	97	108	chloroplast
+T17	AnimalCellPart	109	122	mitochondrion
+T18	PlantCellPart	109	122	mitochondrion
+T19	AnimalCellPart	123	136	cell membrane
+T20	PlantCellPart	123	136	cell membrane

@@ -1,0 +1,5 @@
+When light is bounced off a mirror, the light is
+reflected.
+refracted.
+absorbed.
+diffracted.

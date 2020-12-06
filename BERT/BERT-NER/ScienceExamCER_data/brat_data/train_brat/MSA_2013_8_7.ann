@@ -1,0 +1,33 @@
+T1	Element	4	12	elements
+T2	Element	13	19	sulfur
+T3	Element	21	22	S
+T4	Element	28	34	oxygen
+T5	Compound	36	38	O2
+T6	NUMBER	36	38	O2
+T7	CombineAdd	40	47	combine
+T8	Result	48	50	to
+T9	Create	51	55	form
+T10	Substances	58	67	substance
+T11	Classify	68	74	called
+T12	Compound	75	89	sulfur dioxide
+T13	Compound	91	94	SO2
+T14	Compound	97	111	Sulfur dioxide
+T15	StateOfBeing	112	114	is
+T16	Comparisons	115	119	also
+T17	Create	120	126	formed
+T18	RelativeTime	127	131	when
+T19	FossilFuel	132	136	coal
+T20	FossilFuel	141	144	oil
+T21	StateOfBeing	145	148	are
+T22	ChemicalChange	149	155	burned
+T23	Compound	157	171	Sulfur dioxide
+T24	AbilityAvailability	172	175	can
+T25	Quality	176	180	best
+T26	QualityComparison	176	180	best
+T27	StateOfBeing	176	178	be
+T28	Represent	184	193	described
+T29	StateOfBeing	194	196	as
+T30	MetalSolids	199	204	metal
+T31	ElementalComponents	208	212	atom
+T32	Compound	215	223	compound
+T33	GaseousMatter	226	241	nonreactive gas

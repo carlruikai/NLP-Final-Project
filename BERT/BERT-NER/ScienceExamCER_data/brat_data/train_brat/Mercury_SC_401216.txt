@@ -1,0 +1,5 @@
+It takes approximately 365 days for
+the Sun to orbit around Earth.
+the Moon to orbit around Earth.
+Earth to orbit around the Sun.
+Earth to orbit around the Moon.

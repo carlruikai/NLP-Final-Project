@@ -1,0 +1,14 @@
+T1	RelativeTime	0	6	During
+T2	LevelOfInclusion	7	12	which
+T3	OrganicProcesses	20	29	processes
+T4	Event	20	29	processes
+T5	RelativeLocations	30	35	below
+T6	PhasesOfWater	41	52	water vapor
+T7	GaseousMatter	41	52	water vapor
+T8	PhaseChanges	53	62	change to
+T9	PhasesOfWater	63	75	liquid water
+T10	LiquidMatter	63	75	liquid water
+T11	PhaseChangingActions	77	84	melting
+T12	PhaseChangingActions	85	93	freezing
+T13	PhaseChangingActions	94	105	evaporation
+T14	PhaseChangingActions	106	118	condensation

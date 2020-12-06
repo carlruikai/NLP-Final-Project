@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Substances	6	15	substance
+T3	StateOfBeing	16	18	is
+T4	Compound	21	29	compound
+T5	Element	31	37	sodium
+T6	Element	38	46	chlorine
+T7	GranularSolids	47	57	table salt
+T8	Compound	47	57	table salt
+T9	TypesOfWaterInBodiesOfWater	58	68	salt water
+T10	Mixtures	58	68	salt water

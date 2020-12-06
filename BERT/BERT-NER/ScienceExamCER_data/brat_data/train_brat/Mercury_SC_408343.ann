@@ -1,0 +1,19 @@
+T1	PERSON	0	6	Angela
+T2	Goal	7	12	wants
+T3	Communicate	16	22	report
+T4	Meteorology	16	22	report
+T5	Frequency	23	28	daily
+T6	WeatherPhenomena	29	47	weather conditions
+T7	RelativeLocations	49	51	In
+T8	LevelOfInclusion	52	57	which
+T9	Unit	58	62	unit
+T10	Require	63	69	should
+T11	PERSON	70	76	Angela
+T12	Measurements	77	83	record
+T13	Identify	77	83	record
+T14	EarthPartsGrossGroundAtmosphere	88	91	air
+T15	Temperature	92	103	temperature
+T16	TemperatureUnit	105	120	degrees Celsius
+T17	DistanceUnit	121	132	centimeters
+T18	VolumeUnit	133	144	milliliters
+T19	MassUnit	145	150	grams

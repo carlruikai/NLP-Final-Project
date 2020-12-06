@@ -1,0 +1,14 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Unit	6	10	unit
+T3	StateOfBeing	11	13	is
+T4	Use	14	18	used
+T5	Indicate	22	30	indicate
+T6	Numbers	35	41	amount
+T7	Energy	45	51	energy
+T8	RelativeLocations	52	54	in
+T9	Nutrition	55	59	food
+T10	MassUnit	61	66	ounce
+T11	TemperatureUnit	67	73	degree
+T12	GeometricUnit	67	73	degree
+T13	EnergyUnit	74	81	calorie
+T14	MassUnit	82	86	gram

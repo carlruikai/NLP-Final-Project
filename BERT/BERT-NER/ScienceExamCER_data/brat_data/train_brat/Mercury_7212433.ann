@@ -1,0 +1,14 @@
+T1	Element	0	4	Gold
+T2	ElementalComponents	5	10	atoms
+T3	AbilityAvailability	11	14	can
+T4	StateOfBeing	15	17	be
+T5	Identify	18	28	identified
+T6	Cause	29	37	based on
+T7	Numbers	42	48	number
+T8	LevelOfInclusion	52	57	which
+T9	Particles	58	77	subatomic particles
+T10	AtomComponents	58	77	subatomic particles
+T11	AtomComponents	79	87	neutrons
+T12	AtomComponents	88	97	electrons
+T13	AtomComponents	98	104	nuclei
+T14	AtomComponents	105	112	protons

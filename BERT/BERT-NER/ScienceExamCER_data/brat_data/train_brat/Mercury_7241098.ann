@@ -1,0 +1,26 @@
+T1	Source	0	9	According
+T2	FossilRecordTimeline	17	30	fossil record
+T3	RelativeTime	32	36	when
+T4	Event	41	49	episodes
+T5	Speed	53	58	rapid
+T6	TemporalProperty	53	58	rapid
+T7	Speciation	59	69	speciation
+T8	Rarity	70	78	commonly
+T9	Occur	79	89	take place
+T10	RelativeTime	91	96	while
+T11	InnerPlanets	97	102	Earth
+T12	LOCATION	97	102	Earth
+T13	GeographicFormations	105	115	continents
+T14	StateOfBeing	116	120	were
+T15	CombineAdd	121	127	joined
+T16	RelativeTime	128	133	while
+T17	InnerPlanets	134	139	Earth
+T18	LOCATION	134	139	Earth
+T19	Habitat	142	150	habitats
+T20	StateOfBeing	151	155	were
+T21	Stability	156	162	stable
+T22	RelativeTime	163	169	before
+T23	ImportanceComparison	170	175	major
+T24	WeatherPhenomena	176	192	climatic changes
+T25	RelativeTime	193	202	following
+T26	Extinction	203	219	mass extinctions

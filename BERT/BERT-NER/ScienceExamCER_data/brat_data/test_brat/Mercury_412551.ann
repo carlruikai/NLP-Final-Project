@@ -1,0 +1,32 @@
+T1	Bird	0	11	Screech owl
+T2	ContainBeComposedOf	13	17	have
+T3	CardinalNumber	18	21	two
+T4	NUMBER	18	21	two
+T5	Color	22	27	color
+T6	Comparisons	28	38	variations
+T7	Exemplar	28	38	variations
+T8	Color	40	43	red
+T9	Color	48	52	grey
+T10	QualityComparison	59	68	advantage
+T11	PerformAnActivity	69	73	does
+T12	Color	78	82	grey
+T13	Bird	83	94	screech owl
+T14	ContainBeComposedOf	95	99	have
+T15	Comparisons	100	104	over
+T16	Color	109	112	red
+T17	Bird	113	124	screech owl
+T18	RelativeLocations	125	127	in
+T19	Habitat	130	137	habitat
+T20	StateOfBeing	143	145	is
+T21	ContainBeComposedOf	146	153	made up
+T22	Plant	157	162	trees
+T23	ContainBeComposedOf	163	167	with
+T24	Color	168	180	dark-colored
+T25	PlantPart	181	185	bark
+T26	ExamplesOfHabitats	187	194	nesting
+T27	ActionsForAnimals	187	194	nesting
+T28	ActionsForAnimals	195	202	feeding
+T29	Consumption	195	202	feeding
+T30	Reproduction	203	211	breeding
+T31	ActionsForAnimals	212	218	hiding
+T32	Undiscovered	212	218	hiding

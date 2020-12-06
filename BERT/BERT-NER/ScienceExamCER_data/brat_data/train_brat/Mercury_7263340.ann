@@ -1,0 +1,36 @@
+T1	RelativeTime	0	4	When
+T2	Mammal	7	10	dog
+T3	Senses	11	17	smells
+T4	Nutrition	18	22	food
+T5	Start	27	33	begins
+T6	ActionsForAnimals	34	42	drooling
+T7	StateOfBeing	47	49	is
+T8	Response	50	60	responding
+T9	Cause	67	84	external stimulus
+T10	LevelOfInclusion	86	91	Which
+T11	LevelOfInclusion	95	100	these
+T12	Represent	101	110	describes
+T13	Response	113	121	response
+T14	Cause	128	145	internal stimulus
+T15	Mammal	149	152	cat
+T16	Observe	153	157	sees
+T17	Mammal	160	165	mouse
+T18	ActionsForAnimals	170	178	crouches
+T19	Bird	182	188	parrot
+T20	Senses	189	194	hears
+T21	Communicate	197	201	name
+T22	Classification	197	201	name
+T23	PerformAnActivity	206	213	repeats
+T24	Human	220	226	person
+T25	ActionsForAnimals	227	231	eats
+T26	Consumption	227	231	eats
+T27	PropertiesOfFood	232	239	spoiled
+T28	Nutrition	240	244	food
+T29	PropertiesOfSickness	249	255	vomits
+T30	Animal	259	263	worm
+T31	Senses	264	270	senses
+T32	PhasesOfWater	271	276	water
+T33	LiquidMatter	271	276	water
+T34	Move	281	286	moves
+T35	RelativeDirection	287	289	to
+T36	EarthPartsGrossGroundAtmosphere	294	301	surface

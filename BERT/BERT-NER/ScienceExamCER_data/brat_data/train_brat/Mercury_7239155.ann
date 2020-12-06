@@ -1,0 +1,25 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Property	6	14	property
+T3	NutritiveSubstancesForAnimalsOrPlants	18	26	proteins
+T4	Quality	27	31	best
+T5	QualityComparison	27	31	best
+T6	Permit	32	38	allows
+T7	PerformAnActivity	47	54	perform
+T8	RelativeNumber	58	68	enormously
+T9	Complexity	69	76	diverse
+T10	LevelOfInclusion	77	82	range
+T11	OrganicProcesses	86	95	functions
+T12	Size	103	108	large
+T13	Energy	110	125	chemical-energy
+T14	Source	126	133	reserve
+T15	Size	140	145	large
+T16	Preserve	147	153	stored
+T17	AtomicProperties	154	172	electric potential
+T18	Complexity	177	187	complexity
+T19	FormChangingActions	197	203	folded
+T20	PhysicalProperty	204	213	structure
+T21	Shape	204	213	structure
+T22	RelativeNumber	218	222	wide
+T23	Exemplar	223	230	variety
+T24	Element	234	242	elements
+T25	ContainBeComposedOf	248	255	include

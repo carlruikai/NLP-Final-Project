@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Event	6	12	action
+T3	StateOfBeing	13	15	is
+T4	AmountComparison	16	20	most
+T5	ProbabilityAndCertainty	21	27	likely
+T6	LearnedBehavior	30	46	learned behavior
+T7	Bird	50	54	bird
+T8	ActionsForAnimals	55	61	builds
+T9	Create	55	61	builds
+T10	ExamplesOfHabitats	64	68	nest
+T11	Arachnid	72	78	spider
+T12	ActionsForAnimals	79	84	spins
+T13	ExamplesOfHabitats	87	90	web
+T14	Mammal	94	98	lion
+T15	WordsForOffspring	99	102	cub
+T16	PerformAnActivity	103	112	practices
+T17	ActionsForAnimals	117	124	hunting
+T18	Method	125	131	skills
+T19	Animal	136	145	earthworm
+T20	Move	146	151	moves
+T21	PrepositionalDirections	152	161	away from
+T22	Brightness	162	168	bright
+T23	Light	169	174	light

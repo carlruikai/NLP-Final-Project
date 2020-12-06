@@ -1,0 +1,5 @@
+The Periodic Table is arranged in rows and columns. From left to right along a row, the atomic number in each column
+decreases by 2.
+increases by 1.
+decreases for gases.
+increases for metals.

@@ -1,0 +1,30 @@
+T1	ImportanceComparison	4	11	primary
+T2	OrganicProcesses	12	21	functions
+T3	DigestiveSystem	29	45	digestive system
+T4	StateOfBeing	46	49	are
+T5	DigestionActions	53	63	break down
+T6	Nutrition	64	68	food
+T7	DigestionActions	70	76	absorb
+T8	ActionsForNutrition	70	76	absorb
+T9	CombineAdd	70	76	absorb
+T10	Nutrition	77	86	nutrients
+T11	ExcretoryActions	91	98	excrete
+T12	Toxins	99	105	wastes
+T13	TemporalProperty	107	111	Once
+T14	Nutrition	112	116	food
+T15	StateOfBeing	117	119	is
+T16	DigestionActions	120	128	absorbed
+T17	ActionsForNutrition	120	128	absorbed
+T18	CombineAdd	120	128	absorbed
+T19	AnimalSystemsProcesses	135	141	system
+T20	StateOfBeing	142	144	is
+T21	Cause	145	156	responsible
+T22	Transportation	161	169	carrying
+T23	Nutrition	174	183	nutrients
+T24	RelativeDirection	184	186	to
+T25	AnimalPart	191	195	body
+T26	Cell	196	201	cells
+T27	RespiratorySystem	203	221	respiratory system
+T28	CirculatorySystem	222	240	circulatory system
+T29	NervousSystem	241	255	nervous system
+T30	SkeletalSystem	256	271	skeletal system

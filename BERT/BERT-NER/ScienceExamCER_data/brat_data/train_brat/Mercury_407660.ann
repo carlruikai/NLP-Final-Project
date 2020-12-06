@@ -1,0 +1,27 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Exemplar	12	19	example
+T4	Reactions	25	42	chemical reaction
+T5	LiquidMatter	44	51	Vinegar
+T6	CombineAdd	52	57	added
+T7	RelativeDirection	58	60	to
+T8	GranularSolids	61	72	baking soda
+T9	Create	73	78	forms
+T10	StateOfMatter	81	84	gas
+T11	PhasesOfWater	86	91	Water
+T12	PhaseChangingActions	92	102	evaporates
+T13	RelativeDirection	103	107	into
+T14	EarthPartsGrossGroundAtmosphere	108	111	air
+T15	NutritiveSubstancesForAnimalsOrPlants	113	118	Sugar
+T16	GranularSolids	113	118	Sugar
+T17	PhaseChangingActions	119	128	dissolves
+T18	Divide	119	128	dissolves
+T19	RelativeLocations	129	131	in
+T20	PhasesOfWater	132	137	water
+T21	LiquidMatter	132	137	water
+T22	Foods	139	151	Corn kernels
+T23	StateOfBeing	152	155	are
+T24	FormChangingActions	156	163	crushed
+T25	Result	164	166	to
+T26	Create	167	171	form
+T27	Foods	172	177	flour

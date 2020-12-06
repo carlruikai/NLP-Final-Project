@@ -1,0 +1,18 @@
+T1	Result	0	12	In order for
+T2	Rock	13	21	boulders
+T3	ChangeInto	25	31	become
+T4	Sedimentary	32	41	sediments
+T5	Rock	47	55	boulders
+T6	Require	56	60	must
+T7	TemporalProperty	61	66	first
+T8	ORDINAL	61	66	first
+T9	StateOfBeing	67	69	be
+T10	IncreaseDecrease	70	76	heated
+T11	Temperature	70	76	heated
+T12	PhaseChangingActions	81	87	melted
+T13	ConstructiveDestructiveForces	89	98	weathered
+T14	NaturalPhenomena	89	98	weathered
+T15	ConstructiveDestructiveForces	103	109	eroded
+T16	NaturalPhenomena	103	109	eroded
+T17	ChangeInComposition	111	125	recrystallized
+T18	LocationChangingActions	127	133	buried

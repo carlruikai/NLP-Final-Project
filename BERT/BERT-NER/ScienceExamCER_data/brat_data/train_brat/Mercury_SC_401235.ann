@@ -1,0 +1,14 @@
+T1	SoundEnergy	4	9	sound
+T2	SensoryTerms	10	15	heard
+T3	RelativeTime	16	20	when
+T4	SoundProducingObject	23	28	piano
+T5	ManmadeObjects	29	32	key
+T6	StateOfBeing	33	35	is
+T7	Touch	36	39	hit
+T8	StateOfBeing	40	42	is
+T9	Cause	43	49	caused
+T10	SoundEnergy	53	62	vibration
+T11	ParticleMovement	53	62	vibration
+T12	LightMovement	64	74	refraction
+T13	PropertyOfMotion	76	84	momentum
+T14	PropertyOfMotion	86	98	acceleration

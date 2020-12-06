@@ -1,0 +1,5 @@
+Which type of precipitation consists of frozen rain drops?
+sleet
+hail
+snow
+fog

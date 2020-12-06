@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Material	6	14	material
+T3	StateOfBeing	15	17	is
+T4	Quality	22	26	best
+T5	QualityComparison	22	26	best
+T6	NaturalResources	27	43	natural resource
+T7	Use	47	50	use
+T8	Goal	51	54	for
+T9	Create	55	61	making
+T10	ResistanceStrength	62	77	water-resistant
+T11	ClothesTextiles	78	83	shoes
+T12	NaturalMaterial	85	91	cotton
+T13	NaturalMaterial	92	99	leather
+T14	SyntheticMaterial	100	107	plastic
+T15	NaturalMaterial	108	112	wool

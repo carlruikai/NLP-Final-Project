@@ -1,0 +1,36 @@
+T1	Scientists	2	9	student
+T2	LocationChangingActions	10	14	blew
+T3	GaseousMovement	10	14	blew
+T4	EarthPartsGrossGroundAtmosphere	15	18	air
+T5	RelativeDirection	19	23	into
+T6	ManmadeObjects	26	36	beach ball
+T7	FormChangingActions	41	47	sealed
+T8	RelativeTime	56	60	then
+T9	PushingActions	61	67	pushed
+T10	PrepositionalDirections	68	70	on
+T11	RelativeLocations	75	81	middle
+T12	ManmadeObjects	89	99	beach ball
+T13	Occur	106	114	happened
+T14	RelativeDirection	115	117	to
+T15	EarthPartsGrossGroundAtmosphere	122	125	air
+T16	RelativeLocations	126	132	inside
+T17	ManmadeObjects	137	147	beach ball
+T18	EarthPartsGrossGroundAtmosphere	153	156	air
+T19	RelativeLocations	157	159	in
+T20	ManmadeObjects	164	174	beach ball
+T21	Separate	175	182	escaped
+T22	EarthPartsGrossGroundAtmosphere	188	191	air
+T23	RelativeLocations	192	194	in
+T24	ManmadeObjects	199	209	beach ball
+T25	ChangeInto	210	216	became
+T26	StateOfMatter	219	225	liquid
+T27	Exemplar	231	235	type
+T28	EarthPartsGrossGroundAtmosphere	239	242	air
+T29	RelativeLocations	243	245	in
+T30	ManmadeObjects	250	260	beach ball
+T31	Changes	261	268	changed
+T32	Shape	274	279	shape
+T33	EarthPartsGrossGroundAtmosphere	287	290	air
+T34	RelativeLocations	291	293	in
+T35	ManmadeObjects	298	308	beach ball
+T36	Changes	309	316	changed

@@ -1,0 +1,23 @@
+T1	OrganicCompounds	0	17	Hydrochloric acid
+T2	StateOfBeing	18	20	is
+T3	CombineAdd	21	26	added
+T4	RelativeDirection	27	29	to
+T5	VolumeMeasuringTool	32	38	beaker
+T6	ContainBeComposedOf	39	49	containing
+T7	ObjectQuantification	52	57	piece
+T8	Element	61	65	zinc
+T9	Result	72	78	result
+T10	Compound	80	93	zinc chloride
+T11	StateOfBeing	94	96	is
+T12	Create	97	103	formed
+T13	Element	108	116	hydrogen
+T14	StateOfMatter	117	120	gas
+T15	StateOfBeing	121	123	is
+T16	Release	124	132	released
+T17	StateOfBeing	136	138	is
+T18	Exemplar	145	152	example
+T19	Reactions	158	175	chemical reaction
+T20	PhysicalChange	178	193	physical change
+T21	CellProcesses	194	208	photosynthesis
+T22	PlantProcesses	194	208	photosynthesis
+T23	PhaseChangingActions	209	220	evaporation

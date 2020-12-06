@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	NonlivingPartsOfTheEnvironment	29	43	abiotic factor
+T5	AbilityAvailability	49	52	can
+T6	ActUponSomething	53	62	influence
+T7	Alter	53	62	influence
+T8	Numbers	67	75	quantity
+T9	Aquatic	79	83	fish
+T10	BodiesOfWater	86	90	pond
+T11	AbilityAvailability	91	94	can
+T12	Help	95	102	support
+T13	ContainBeComposedOf	95	102	support
+T14	AbilityAvailability	104	116	availability
+T15	Plant	120	126	plants
+T16	Numbers	127	140	concentration
+T17	Bacteria	144	152	bacteria
+T18	Quality	153	160	quality
+T19	PhasesOfWater	164	169	water
+T20	Numbers	170	176	number
+T21	PartsOfTheFoodChain	180	189	consumers

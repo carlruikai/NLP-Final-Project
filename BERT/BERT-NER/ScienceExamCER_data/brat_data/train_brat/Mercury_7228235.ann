@@ -1,0 +1,42 @@
+T1	Scientists	2	12	researcher
+T2	StateOfBeing	13	15	is
+T3	Observe	16	23	viewing
+T4	Cell	26	30	cell
+T5	ContainBeComposedOf	36	39	has
+T6	PlantCellPart	40	50	cell walls
+T7	BacteriaPart	40	50	cell walls
+T8	Goal	52	54	To
+T9	Quality	55	59	best
+T10	QualityComparison	55	59	best
+T11	AnalyzingResearch	60	71	narrow down
+T12	Taxonomy	76	91	taxonomic group
+T13	RelativeDirection	92	96	from
+T14	LevelOfInclusion	97	102	which
+T15	Cell	107	111	cell
+T16	Associate	112	119	belongs
+T17	LevelOfInclusion	121	126	which
+T18	Hypothesizing	127	135	question
+T19	Require	136	142	should
+T20	Scientists	145	155	researcher
+T21	Communicate	156	159	ask
+T22	StateOfBeing	166	168	is
+T23	Composition	173	184	composition
+T24	PlantCellPart	192	201	cell wall
+T25	BacteriaPart	192	201	cell wall
+T26	AnimalCellPart	209	222	cell membrane
+T27	PlantCellPart	209	222	cell membrane
+T28	LevelOfInclusion	223	227	also
+T29	Occur	228	235	present
+T30	AbilityAvailability	237	240	Can
+T31	LevelOfInclusion	241	244	any
+T32	Substances	245	255	substances
+T33	Move	256	260	pass
+T34	RelativeDirection	261	268	through
+T35	PlantCellPart	273	282	cell wall
+T36	BacteriaPart	273	282	cell wall
+T37	PlantCellPart	273	282	cell wall
+T38	BacteriaPart	273	282	cell wall
+T39	Help	303	307	help
+T40	Cell	312	316	cell
+T41	LivingDying	320	327	survive
+T42	NaturalSelection	320	327	survive

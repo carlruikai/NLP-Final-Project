@@ -1,0 +1,16 @@
+T1	ScientificTools	5	9	tool
+T2	ProbabilityAndCertainty	10	15	would
+T3	StateOfBeing	16	18	be
+T4	AmountComparison	19	23	most
+T5	Quality	24	30	useful
+T6	Goal	31	33	to
+T7	Calculations	34	43	calculate
+T8	Identify	34	43	calculate
+T9	PhysicalProperty	48	54	volume
+T10	Size	48	54	volume
+T11	SyntheticMaterial	60	65	glass
+T12	LightExaminingTool	66	71	prism
+T13	DistanceMeasuringTools	73	78	ruler
+T14	WeightMeasuringTool	79	84	scale
+T15	ElectricityMeasuringTool	85	94	voltmeter
+T16	TemperatureMeasuringTools	95	106	thermometer

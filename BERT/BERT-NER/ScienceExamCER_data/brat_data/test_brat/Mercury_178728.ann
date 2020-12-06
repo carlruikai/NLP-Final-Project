@@ -1,0 +1,18 @@
+T1	RelativeTime	0	4	When
+T2	RelativeNumber	5	9	some
+T3	Particles	10	29	subatomic particles
+T4	AtomComponents	10	29	subatomic particles
+T5	Separate	30	35	split
+T6	RelativeDirection	36	40	from
+T7	LevelOfInclusion	41	45	each
+T8	Comparisons	46	51	other
+T9	Energy	53	59	energy
+T10	StateOfBeing	60	62	is
+T11	Release	63	71	released
+T12	Exemplar	78	82	kind
+T13	Energy	86	92	energy
+T14	StateOfBeing	93	95	is
+T15	Energy	102	110	chemical
+T16	ElectricalEnergy	111	121	electrical
+T17	Energy	122	132	mechanical
+T18	Energy	133	140	nuclear

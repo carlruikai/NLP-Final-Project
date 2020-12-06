@@ -1,0 +1,5 @@
+A boat is acted on by a river current flowing north and by wind blowing on its sails. The boat travels northeast. In which direction is the wind most likely applying force to the sails of the boat?
+west
+east
+north
+south

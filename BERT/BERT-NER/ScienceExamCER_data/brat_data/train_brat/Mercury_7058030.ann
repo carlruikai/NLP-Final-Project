@@ -1,0 +1,24 @@
+T1	RelativeLocations	0	2	In
+T2	Plant	3	9	plants
+T3	PlantPart	15	20	xylem
+T4	PlantPart	25	31	phloem
+T5	Move	32	36	move
+T6	Transportation	32	36	move
+T7	PhasesOfWater	37	42	water
+T8	Nutrition	47	56	nutrients
+T9	PrepositionalDirections	57	64	through
+T10	Plant	69	74	plant
+T11	Use	79	82	use
+T12	ActionsForNutrition	87	94	storage
+T13	Preserve	87	94	storage
+T14	RelativeLocations	96	98	In
+T15	Human	99	105	humans
+T16	AnimalSystemsProcesses	110	122	organ system
+T17	ContainBeComposedOf	123	127	with
+T18	Comparisons	130	137	similar
+T19	OrganicProcesses	138	146	function
+T20	StateOfBeing	147	149	is
+T21	NervousSystem	154	168	nervous system
+T22	RespiratorySystem	170	188	respiratory system
+T23	CirculatorySystem	190	211	cardiovascular system
+T24	IntegumentarySystem	213	233	integumentary system

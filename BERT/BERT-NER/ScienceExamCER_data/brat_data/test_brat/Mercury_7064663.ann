@@ -1,0 +1,27 @@
+T1	Scientists	2	9	student
+T2	Observe	10	18	observes
+T3	Substances	21	30	substance
+T4	StateOfBeing	36	38	is
+T5	RelativeNumber	39	45	highly
+T6	VisualProperty	46	56	reflective
+T7	LightMovement	46	56	reflective
+T8	AbilityAvailability	61	65	able
+T9	TransferEnergy	69	76	conduct
+T10	ElectricalEnergy	77	88	electricity
+T11	Substances	94	103	substance
+T12	Comparisons	104	108	also
+T13	ContainBeComposedOf	109	112	has
+T14	RelativeNumber	115	119	high
+T15	PhaseTransitionPoint	120	133	melting point
+T16	LevelOfInclusion	135	140	Which
+T17	StateOfBeing	141	143	is
+T18	AmountComparison	148	152	most
+T19	ProbabilityAndCertainty	153	159	likely
+T20	Classification	160	174	classification
+T21	Substances	184	193	substance
+T22	Minerals	195	199	salt
+T23	GranularSolids	195	199	salt
+T24	SyntheticMaterial	200	205	glass
+T25	SolidMatter	200	205	glass
+T26	MetalSolids	206	211	metal
+T27	SyntheticMaterial	212	219	plastic

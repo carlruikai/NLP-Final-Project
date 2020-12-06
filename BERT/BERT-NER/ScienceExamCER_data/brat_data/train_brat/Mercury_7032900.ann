@@ -1,0 +1,32 @@
+T1	Exemplar	7	15	examples
+T2	Indicate	16	22	listed
+T3	Group	16	22	listed
+T4	LevelOfInclusion	24	29	which
+T5	Event	30	35	event
+T6	StateOfBeing	36	38	is
+T7	Believe	39	46	thought
+T8	Hypothesizing	39	46	thought
+T9	GroupsOfScientists	50	60	scientists
+T10	Cause	69	72	led
+T11	Comparisons	80	88	greatest
+T12	Size	80	88	greatest
+T13	LivingDying	89	99	extinction
+T14	Extinction	89	99	extinction
+T15	GeographicFormations	103	110	volcano
+T16	RelativeLocations	111	113	in
+T17	States	114	120	Hawaii
+T18	NaturalPhenomena	121	129	erupting
+T19	Create	134	146	construction
+T20	GeopoliticalLocations	154	164	Hoover Dam
+T21	Human	165	172	whalers
+T22	Occupation	165	172	whalers
+T23	ArithmeticMeasure	180	184	17th
+T24	ArithmeticMeasure	186	190	18th
+T25	ArithmeticMeasure	196	200	19th
+T26	TimeUnit	201	210	centuries
+T27	SpecificNamedBodiesOfWater	215	232	Mississippi River
+T28	NaturalPhenomena	233	241	flooding
+T29	LiquidMovement	233	241	flooding
+T30	PartsOfBodiesOfWater	246	251	banks
+T31	LevelOfInclusion	252	256	each
+T32	SeasonsFallAutumnWinterSpringSummer	257	263	summer

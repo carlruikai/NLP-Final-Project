@@ -1,0 +1,20 @@
+T1	Insect	2	11	dragonfly
+T2	Development	12	20	develops
+T3	RelativeDirection	21	28	through
+T4	LevelOfInclusion	29	39	incomplete
+T5	Development	40	53	metamorphosis
+T6	Changes	40	53	metamorphosis
+T7	LevelOfInclusion	55	60	Which
+T8	SystemProcessStages	61	67	stages
+T9	PerformAnActivity	68	72	does
+T10	Insect	77	86	dragonfly
+T11	LifeCycle	89	99	life cycle
+T12	ContainBeComposedOf	100	107	include
+T13	PrenatalOrganismStates	109	112	egg
+T14	PostnatalOrganismStages	117	122	larva
+T15	PrenatalOrganismStates	123	126	egg
+T16	PostnatalOrganismStages	131	136	nymph
+T17	PostnatalOrganismStages	137	142	larva
+T18	PostnatalOrganismStages	147	151	pupa
+T19	PostnatalOrganismStages	152	157	larva
+T20	PostnatalOrganismStages	162	167	nymph

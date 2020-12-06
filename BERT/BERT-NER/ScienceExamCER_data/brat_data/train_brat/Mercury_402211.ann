@@ -1,0 +1,18 @@
+T1	Element	2	11	potassium
+T2	Element	13	14	K
+T3	ElementalComponents	16	20	atom
+T4	ContainBeComposedOf	21	24	has
+T5	CardinalNumber	25	27	20
+T6	NUMBER	25	27	20
+T7	AtomComponents	28	36	neutrons
+T8	NUMBER	38	40	19
+T9	AtomComponents	41	48	protons
+T10	NUMBER	53	55	19
+T11	AtomComponents	56	65	electrons
+T12	StateOfBeing	72	74	is
+T13	AtomicProperties	79	90	atomic mass
+T14	Element	94	103	potassium
+T15	NUMBER	105	107	19
+T16	NUMBER	108	110	20
+T17	NUMBER	111	113	38
+T18	NUMBER	114	116	39

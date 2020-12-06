@@ -1,0 +1,14 @@
+T1	Sedimentary	0	11	Sedimentary
+T2	GeographicFormations	12	20	deposits
+T3	Create	21	27	formed
+T4	Source	28	32	from
+T5	ChemicalProperty	33	40	organic
+T6	Matter	41	49	material
+T7	Rarity	50	54	tend
+T8	ContainBeComposedOf	58	65	include
+T9	RelativeNumber	68	72	high
+T10	Numbers	73	79	amount
+T11	Element	83	87	iron
+T12	Element	89	95	nickel
+T13	Element	97	103	carbon
+T14	Element	105	112	silicon

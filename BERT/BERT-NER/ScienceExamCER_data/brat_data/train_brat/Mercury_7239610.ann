@@ -1,0 +1,15 @@
+T1	LevelOfInclusion	0	5	Which
+T2	SystemParts	6	15	structure
+T3	PerformAnActivity	16	20	does
+T4	Sickness	23	28	virus
+T5	ContainBeComposedOf	29	33	have
+T6	Comparisons	34	43	in common
+T7	Cell	51	67	prokaryotic cell
+T8	Monera	51	67	prokaryotic cell
+T9	PlantCellPart	69	78	cell wall
+T10	BacteriaPart	69	78	cell wall
+T11	OrganicCompounds	79	91	nucleic acid
+T12	AnimalCellPart	92	100	ribosome
+T13	PlantCellPart	92	100	ribosome
+T14	BacteriaPart	92	100	ribosome
+T15	PartsOfAVirus	101	107	capsid

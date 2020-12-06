@@ -1,0 +1,17 @@
+T1	Indicate	2	6	sign
+T2	Angiosperm	15	25	apple tree
+T3	StateOfBeing	26	28	is
+T4	AbilityAvailability	29	34	going
+T5	Start	38	43	start
+T6	Growth	44	51	growing
+T7	ActionsForAgriculture	44	51	growing
+T8	Angiosperm	52	58	apples
+T9	Foods	52	58	apples
+T10	StateOfBeing	59	61	is
+T11	RelativeTime	62	66	when
+T12	Plant	71	75	tree
+T13	ContainBeComposedOf	76	79	has
+T14	PlantPart	85	90	roots
+T15	PlantPart	91	96	seeds
+T16	PlantPart	97	103	leaves
+T17	PlantPart	104	111	flowers

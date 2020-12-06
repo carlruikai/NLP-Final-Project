@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	StateOfBeing	6	8	is
+T3	Property	11	25	characteristic
+T4	PartsOfTheReproductiveSystem	31	41	sperm cell
+T5	Negations	42	45	but
+T6	Negations	46	49	not
+T7	PartsOfTheReproductiveSystem	56	64	egg cell
+T8	Shape	66	71	round
+T9	Shape	72	77	shape
+T10	StateOfBeing	78	86	presence
+T11	AnimalCellPart	92	96	tail
+T12	ContainBeComposedOf	97	105	contains
+T13	Gene	106	125	genetic information
+T14	Require	126	134	involved
+T15	RelativeLocations	126	128	in
+T16	Reproduction	138	157	sexual reproduction

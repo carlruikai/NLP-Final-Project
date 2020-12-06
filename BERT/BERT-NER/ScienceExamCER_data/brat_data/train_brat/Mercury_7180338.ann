@@ -1,0 +1,28 @@
+T1	SystemProcessStages	4	10	stages
+T2	NaturalSelection	14	23	evolution
+T3	Star	29	33	star
+T4	StateOfBeing	34	37	are
+T5	Identify	38	48	determined
+T6	Cause	49	51	by
+T7	Mass	56	60	mass
+T8	Star	68	72	star
+T9	RelativeTime	73	75	at
+T10	Start	80	89	beginning
+T11	RelativeTime	80	89	beginning
+T12	LifeCycle	97	107	life cycle
+T13	LevelOfInclusion	109	114	Which
+T14	SystemProcessStages	115	120	stage
+T15	LifeCycle	115	133	stage of evolution
+T16	StateOfBeing	134	136	is
+T17	Age	141	147	oldest
+T18	Comparisons	141	147	oldest
+T19	Exemplar	148	152	form
+T20	Mass	158	165	massive
+T21	Star	166	170	star
+T22	Color	172	175	red
+T23	StarTypes	176	181	giant
+T24	StarTypes	182	191	supernova
+T25	StarTypes	192	199	neutron
+T26	Star	200	204	star
+T27	Color	205	210	white
+T28	StarTypes	211	216	dwarf

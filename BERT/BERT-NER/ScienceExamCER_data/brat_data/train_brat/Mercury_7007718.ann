@@ -1,0 +1,10 @@
+T1	LevelOfInclusion	4	9	range
+T2	LevelOfInclusion	13	16	all
+T3	Exemplar	17	22	forms
+T4	Spectra	26	40	radiant energy
+T5	StateOfBeing	41	43	is
+T6	Classify	44	50	called
+T7	Spectra	55	69	video spectrum
+T8	Spectra	71	85	audio spectrum
+T9	Spectra	87	101	color spectrum
+T10	Spectra	103	127	electromagnetic spectrum

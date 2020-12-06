@@ -1,0 +1,33 @@
+T1	Cell	4	12	cellular
+T2	ObjectPart	13	21	membrane
+T3	Separation	13	21	membrane
+T4	Position	22	31	surrounds
+T5	Move	22	31	surrounds
+T6	LevelOfInclusion	32	37	every
+T7	Human	38	43	human
+T8	Cell	44	48	cell
+T9	ObjectPart	54	62	membrane
+T10	Separation	54	62	membrane
+T11	Help	63	71	protects
+T12	Preserve	63	71	protects
+T13	Cell	76	80	cell
+T14	Transportation	85	93	transmit
+T15	WordsForData	95	106	information
+T16	Relevant	107	112	about
+T17	Cell	117	121	cell
+T18	RelativeLocations	124	136	surroundings
+T19	RelativeDirection	137	139	to
+T20	AnimalCellPart	140	150	organelles
+T21	RelativeLocations	151	157	inside
+T22	Cell	162	166	cell
+T23	AnimalSystemsProcesses	173	185	organ system
+T24	PerformAnActivity	186	194	provides
+T25	Comparisons	197	204	similar
+T26	SystemAndFunctions	205	213	function
+T27	RelativeLocations	214	216	in
+T28	Human	221	226	human
+T29	HumanPart	227	231	body
+T30	EndocrineSystem	233	249	endocrine system
+T31	SkeletalSystem	250	265	skeletal system
+T32	IntegumentarySystem	266	286	integumentary system
+T33	AnimalSystemsProcesses	287	303	lymphatic system

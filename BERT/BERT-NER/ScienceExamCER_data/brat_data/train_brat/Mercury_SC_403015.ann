@@ -1,0 +1,12 @@
+T1	Blood	0	5	Blood
+T2	CombineAdd	6	13	absorbs
+T3	Element	14	20	oxygen
+T4	GaseousMatter	14	20	oxygen
+T5	RelativeLocations	21	23	in
+T6	PartsOfTheCirculatorySystem	28	33	heart
+T7	PartsOfEndocrineSystem	28	33	heart
+T8	PartsOfTheRespiratorySystem	35	40	lungs
+T9	PartsOfTheExcretorySystem	35	40	lungs
+T10	PartsOfTheDigestiveSystem	42	49	stomach
+T11	PartsOfEndocrineSystem	42	49	stomach
+T12	PartsOfTheMuscularSystem	51	58	muscles

@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Group	6	11	group
+T3	ContainBeComposedOf	12	20	consists
+T4	LevelOfInclusion	21	25	only
+T5	LivingThing	29	42	living things
+T6	Mammal	44	50	rabbit
+T7	PlantPart	52	56	seed
+T8	Bird	58	62	bird
+T9	PlantPart	63	67	seed
+T10	Bird	69	73	bird
+T11	WeatherPhenomena	75	79	wind
+T12	GeographicFormations	80	87	Volcano
+T13	HeatingAppliance	89	95	candle
+T14	Mammal	97	103	rabbit
+T15	WeatherPhenomena	104	108	wind
+T16	HeatingAppliance	110	116	candle
+T17	GeographicFormations	118	125	volcano

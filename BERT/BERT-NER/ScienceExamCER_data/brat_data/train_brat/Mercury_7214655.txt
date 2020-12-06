@@ -1,0 +1,5 @@
+Scientists recorded the hourly temperature at a weather station for the month of July and want to quickly measure a trend over time in temperature changes. Which of these formats would be the most appropriate representation of the temperature data to quickly measure any trend?
+bar graph
+line graph
+pie chart
+data table

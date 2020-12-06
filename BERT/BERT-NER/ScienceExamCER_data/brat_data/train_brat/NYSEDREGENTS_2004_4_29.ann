@@ -1,0 +1,22 @@
+T1	StateOfBeing	5	7	is
+T2	CardinalNumber	8	11	one
+T3	NUMBER	8	11	one
+T4	Method	12	15	way
+T5	Human	21	27	humans
+T6	AbilityAvailability	28	31	can
+T7	Help	32	40	maintain
+T8	Preserve	32	40	maintain
+T9	Quality	41	45	good
+T10	Health	46	52	health
+T11	ActionsForAnimals	54	59	sleep
+T12	LevelOfInclusion	60	63	all
+T13	TimeUnit	64	67	day
+T14	PhysicalActivity	68	76	exercise
+T15	Frequency	77	82	daily
+T16	ActionsForAnimals	83	86	eat
+T17	Consumption	83	86	eat
+T18	Meals	87	93	snacks
+T19	Frequency	94	99	often
+T20	WaitStay	100	107	stay up
+T21	ActionsForAnimals	100	107	stay up
+T22	RelativeTime	108	112	late

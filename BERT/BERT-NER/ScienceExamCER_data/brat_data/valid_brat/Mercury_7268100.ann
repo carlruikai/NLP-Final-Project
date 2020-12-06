@@ -1,0 +1,25 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	LivingThing	15	28	living things
+T4	RelativeLocations	18	20	in
+T5	TypesOfTerrestrialEcosystems	34	53	grassland ecosystem
+T6	Require	54	63	depend on
+T7	Occur	68	76	presence
+T8	Exemplar	82	89	variety
+T9	Bacteria	93	101	bacteria
+T10	Comparisons	106	111	other
+T11	Monera	112	126	microorganisms
+T12	RelativeLocations	127	129	in
+T13	Soil	134	138	soil
+T14	Animal	140	145	worms
+T15	LevelOfInclusion	146	150	only
+T16	Color	151	156	green
+T17	Plant	157	163	plants
+T18	LevelOfInclusion	164	168	only
+T19	Plant	169	175	plants
+T20	Animal	180	187	animals
+T21	LevelOfInclusion	188	192	only
+T22	LevelOfInclusion	193	196	all
+T23	LivingThing	201	210	organisms
+T24	RelativeLocations	211	213	in
+T25	EcosystemsEnvironment	218	227	ecosystem

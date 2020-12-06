@@ -1,0 +1,18 @@
+T1	Distance	4	12	distance
+T2	RelativeLocations	13	20	between
+T3	Star	25	28	Sun
+T4	DistanceComparison	37	49	next closest
+T5	Star	50	54	star
+T6	Star	56	72	Proxima Centauri
+T7	StateOfBeing	74	76	is
+T8	AmountComparison	77	81	most
+T9	ProbabilityAndCertainty	82	92	accurately
+T10	Verify	82	92	accurately
+T11	Measurements	93	101	measured
+T12	Identify	93	101	measured
+T13	Use	102	104	in
+T14	CelestialMeasurements	105	115	magnitudes
+T15	DistanceUnit	117	128	light years
+T16	AstronomicalDistanceUnitsLightYearAstronomicalUnitAu	117	128	light years
+T17	CelestialMeasurements	130	138	perigees
+T18	CelestialMeasurements	140	149	red shift

@@ -1,0 +1,5 @@
+An object has a weight of 10 kg on the surface of Earth. If the same object were transported to the surface of Mars, the object would have a weight of 3.8 kg. Which best explains why the weight of the object changed when transported from Earth to Mars?
+The density of the object is greater on Earth than it is on Mars.
+The volume of the object is greater on Earth than it is on Mars.
+Gravitational force is greater on Earth than it is on Mars.
+Atmospheric pressure is less on Earth than it is on Mars.

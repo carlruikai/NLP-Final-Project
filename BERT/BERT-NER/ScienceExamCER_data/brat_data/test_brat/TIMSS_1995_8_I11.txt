@@ -1,0 +1,5 @@
+What features do all insects have?
+Number of LEGS 2 Number of BODY PARTS 4
+Number of LEGS 4 Number of BODY PARTS 2
+Number of LEGS 6 Number of BODY PARTS 3
+Number of LEGS 8 Number of BODY PARTS 3

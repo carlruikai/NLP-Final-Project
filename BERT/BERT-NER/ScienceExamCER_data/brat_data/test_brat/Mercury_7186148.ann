@@ -1,0 +1,54 @@
+T1	Scientists	2	9	student
+T2	StateOfBeing	10	12	is
+T3	CombineAdd	13	19	mixing
+T4	LiquidHoldingContainersRecepticles	22	25	cup
+T5	Foods	29	42	hot chocolate
+T6	Temperature	29	32	hot
+T7	Use	43	47	with
+T8	ManmadeObjects	50	55	spoon
+T9	Method	57	60	How
+T10	StateOfBeing	61	63	is
+T11	ThermalEnergy	68	72	heat
+T12	TransferEnergy	73	84	transferred
+T13	RelativeLocations	85	92	between
+T14	Foods	97	110	hot chocolate
+T15	Temperature	97	100	hot
+T16	ObjectPart	119	123	part
+T17	LevelOfInclusion	119	123	part
+T18	ManmadeObjects	131	136	spoon
+T19	StateOfBeing	142	144	is
+T20	RelativeLocations	145	147	in
+T21	Temperature	152	155	hot
+T22	Foods	152	165	hot chocolate
+T23	TransferEnergy	167	177	Conduction
+T24	TransferEnergy	178	187	transfers
+T25	Energy	188	194	energy
+T26	RelativeDirection	195	199	from
+T27	ManmadeObjects	204	209	spoon
+T28	RelativeDirection	210	212	to
+T29	Temperature	217	220	hot
+T30	Foods	217	230	hot chocolate
+T31	TransferEnergy	232	242	Conduction
+T32	TransferEnergy	243	252	transfers
+T33	Energy	253	259	energy
+T34	RelativeDirection	260	264	from
+T35	Foods	269	282	hot chocolate
+T36	Temperature	269	272	hot
+T37	RelativeDirection	283	285	to
+T38	ManmadeObjects	290	295	spoon
+T39	TransferEnergy	297	307	Convection
+T40	TransferEnergy	308	317	transfers
+T41	Energy	318	324	energy
+T42	RelativeDirection	325	329	from
+T43	ManmadeObjects	334	339	spoon
+T44	RelativeDirection	340	342	to
+T45	Temperature	347	350	hot
+T46	Foods	347	360	hot chocolate
+T47	TransferEnergy	362	372	Convection
+T48	TransferEnergy	373	382	transfers
+T49	Energy	383	389	energy
+T50	RelativeDirection	390	394	from
+T51	Foods	399	412	hot chocolate
+T52	Temperature	399	402	hot
+T53	RelativeDirection	413	415	to
+T54	ManmadeObjects	420	425	spoon

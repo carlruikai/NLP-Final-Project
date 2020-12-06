@@ -1,0 +1,28 @@
+T1	Differentiate	0	11	Specialized
+T2	Cell	12	17	cells
+T3	Help	18	25	protect
+T4	Preserve	18	25	protect
+T5	Human	30	35	human
+T6	HumanPart	36	40	body
+T7	RelativeDirection	41	45	from
+T8	Sickness	46	69	disease-causing microbe
+T9	Cause	71	73	by
+T10	Create	74	83	producing
+T11	Compound	84	93	chemicals
+T12	Harm	99	106	destroy
+T13	Monera	111	119	microbes
+T14	PhaseChangingActions	120	130	dissolving
+T15	FormChangingActions	120	130	dissolving
+T16	Toxins	131	137	wastes
+T17	RelativeDirection	138	142	from
+T18	Monera	147	155	microbes
+T19	Create	156	164	creating
+T20	Gene	165	179	recessive gene
+T21	RelativeLocations	181	183	in
+T22	Monera	188	196	microbes
+T23	Transportation	197	206	supplying
+T24	Source	197	206	supplying
+T25	Element	207	213	oxygen
+T26	Nutrition	218	227	nutrients
+T27	RelativeDirection	228	230	to
+T28	Monera	235	243	microbes

@@ -1,0 +1,5 @@
+A bee depends on certain flowers for food. The flowers depend on the bee to
+carry pollen for reproduction.
+make sugars for photosynthesis.
+remove wastes for healthy growth.
+sting herbivores for protection.

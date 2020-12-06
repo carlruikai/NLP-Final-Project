@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	CardinalNumber	6	9	two
+T3	NUMBER	6	9	two
+T4	AnimalSystemsProcesses	10	22	body systems
+T5	StateOfBeing	23	26	are
+T6	Complexity	27	35	directly
+T7	Require	36	44	involved
+T8	PropertyOfMotion	48	56	movement
+T9	Move	48	56	movement
+T10	MuscularSystem	58	66	muscular
+T11	SkeletalSystem	71	79	skeletal
+T12	DigestiveSystem	80	89	digestive
+T13	MuscularSystem	94	102	muscular
+T14	SkeletalSystem	103	111	skeletal
+T15	RespiratorySystem	116	127	respiratory
+T16	RespiratorySystem	116	127	respiratory
+T17	DigestiveSystem	144	153	digestive

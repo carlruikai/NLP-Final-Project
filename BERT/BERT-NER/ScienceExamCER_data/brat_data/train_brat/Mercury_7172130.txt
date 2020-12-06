@@ -1,0 +1,5 @@
+Meteorologists categorize hurricanes based on the Saffir-Simpson scale. The scale measures the intensity and destructive potential of hurricanes. Which factor has the most significant effect on the strength of a hurricane?
+the initial speed of a hurricane
+the direction that the hurricane rotates
+the number of hurricanes that form in a year
+the temperature of the water below the hurricane

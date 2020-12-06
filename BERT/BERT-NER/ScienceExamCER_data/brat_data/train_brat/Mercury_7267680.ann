@@ -1,0 +1,44 @@
+T1	Scientists	2	9	student
+T2	Goal	10	15	wants
+T3	Create	19	25	create
+T4	Representation	28	33	model
+T5	Indicate	34	41	showing
+T6	AmountComparison	46	50	most
+T7	ImportanceComparison	51	60	important
+T8	Cause	61	67	reason
+T9	Age	72	75	old
+T10	FossilFuel	76	84	gasoline
+T11	Require	85	91	should
+T12	RelativeTime	92	97	never
+T13	Negations	92	97	never
+T14	StateOfBeing	98	100	be
+T15	Move	101	107	poured
+T16	RelativeDirection	108	112	into
+T17	Soil	117	121	soil
+T18	LevelOfInclusion	123	128	Which
+T19	LevelOfInclusion	132	145	the following
+T20	Require	146	150	must
+T21	StateOfBeing	151	153	be
+T22	CombineAdd	154	162	included
+T23	RelativeLocations	154	156	in
+T24	Representation	170	175	model
+T25	FossilFuel	177	185	gasoline
+T26	PhaseChangingActions	186	197	evaporating
+T27	RelativeDirection	198	202	from
+T28	Soil	203	207	soil
+T29	FossilFuel	208	216	gasoline
+T30	NaturalPhenomena	217	230	catching fire
+T31	ChemicalChange	217	230	catching fire
+T32	RelativeLocations	222	224	in
+T33	Soil	238	242	soil
+T34	FossilFuel	243	251	gasoline
+T35	EnvironmentalDamageDestruction	252	261	polluting
+T36	Harm	252	261	polluting
+T37	Age	265	268	old
+T38	Device	269	282	septic system
+T39	FossilFuel	283	291	gasoline
+T40	LiquidMovement	292	301	trickling
+T41	PrepositionalDirections	302	306	down
+T42	RelativeDirection	307	311	into
+T43	BodiesOfWater	312	323	groundwater
+T44	TypesOfWaterInBodiesOfWater	312	323	groundwater

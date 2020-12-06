@@ -1,0 +1,17 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Quality	6	10	best
+T3	QualityComparison	6	10	best
+T4	Represent	11	20	describes
+T5	Star	25	28	Sun
+T6	AmountComparison	30	34	very
+T7	Size	35	40	small
+T8	Color	41	46	white
+T9	StarTypes	47	52	dwarf
+T10	Size	53	59	medium
+T11	Color	60	66	yellow
+T12	StarTypes	67	72	dwarf
+T13	Size	73	78	large
+T14	Color	79	83	blue
+T15	StarTypes	84	89	giant
+T16	Color	90	93	red
+T17	StarTypes	94	104	supergiant

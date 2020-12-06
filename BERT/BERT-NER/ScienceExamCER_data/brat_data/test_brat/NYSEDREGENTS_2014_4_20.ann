@@ -1,0 +1,12 @@
+T1	ImportanceComparison	4	8	main
+T2	SystemAndFunctions	9	17	function
+T3	Plant	23	27	tree
+T4	PlantPart	30	35	trunk
+T5	StateOfBeing	36	38	is
+T6	Create	42	49	provide
+T7	EarthPartsGrossGroundAtmosphere	50	53	air
+T8	GaseousMatter	50	53	air
+T9	PlantPart	54	59	fruit
+T10	CelestialLightOnEarth	60	68	sunlight
+T11	Help	69	76	support
+T12	Position	69	76	support

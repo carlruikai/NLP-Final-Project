@@ -1,0 +1,22 @@
+T1	FossilRecordTimeline	0	13	Fossil record
+T2	Indicate	15	23	indicate
+T3	InnerPlanets	29	34	Earth
+T4	LOCATION	29	34	Earth
+T5	StateOfBeing	35	38	was
+T6	TemporalProperty	39	44	first
+T7	ORDINAL	39	44	first
+T8	ContainBeComposedOf	45	57	inhabited by
+T9	Bacteria	58	66	bacteria
+T10	Comparisons	67	71	like
+T11	LivingThing	72	81	organisms
+T12	LevelOfInclusion	83	88	These
+T13	LivingThing	89	98	organisms
+T14	StateOfBeing	99	103	were
+T15	OtherOrganismProperties	104	117	single-celled
+T16	ContainBeComposedOf	119	122	had
+T17	AnimalSystemsProcesses	123	136	organ systems
+T18	StateOfBeing	138	142	were
+T19	OtherOrganismProperties	143	157	multi-cellular
+T20	ContainBeComposedOf	159	162	had
+T21	Size	163	168	small
+T22	AnimalPart	169	179	appendages

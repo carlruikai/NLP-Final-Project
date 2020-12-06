@@ -1,0 +1,41 @@
+T1	PERSON	0	6	Sandra
+T2	LocationChangingActions	7	11	puts
+T3	RelativeNumber	12	16	some
+T4	Insect	17	25	pill bug
+T5	RelativeDirection	27	31	into
+T6	FormChangingActions	35	39	open
+T7	Move	35	39	open
+T8	ManmadeObjects	40	43	box
+T9	ActUponSomething	49	55	covers
+T10	CombineAdd	49	55	covers
+T11	LevelOfInclusion	56	60	half
+T12	ManmadeObjects	65	68	box
+T13	CombineAdd	69	73	with
+T14	ObjectQuantification	76	81	piece
+T15	NaturalMaterial	85	94	cardboard
+T16	RelativeTime	100	104	then
+T17	Move	105	111	places
+T18	VerbsForLocate	105	111	places
+T19	ManmadeObjects	116	119	box
+T20	RelativeLocations	120	127	outside
+T21	RelativeTime	128	130	on
+T22	SeasonsFallAutumnWinterSpringSummer	133	139	summer
+T23	TimeUnit	140	143	day
+T24	TimesOfDayDayNight	140	143	day
+T25	LevelOfInclusion	149	152	all
+T26	Insect	157	165	pill bug
+T27	Move	167	171	move
+T28	RelativeLocations	172	177	under
+T29	NaturalMaterial	182	191	cardboard
+T30	Insect	197	205	pill bug
+T31	StateOfBeing	207	210	are
+T32	AmountComparison	211	215	most
+T33	ProbabilityAndCertainty	216	222	likely
+T34	Response	223	233	responding
+T35	LevelOfInclusion	237	242	which
+T36	LevelOfInclusion	246	259	the following
+T37	Pressure	261	273	air pressure
+T38	Brightness	274	280	bright
+T39	Light	281	286	light
+T40	WeatherPhenomena	287	291	wind
+T41	Precipitation	292	295	fog

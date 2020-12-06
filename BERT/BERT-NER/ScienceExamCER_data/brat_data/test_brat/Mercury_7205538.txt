@@ -1,0 +1,5 @@
+There are many different types of living cells on Earth. Which of these characteristics do all living cells have in common?
+require water for survival
+require silicon for structural support
+require oxygen for respiration
+require sunlight for photosynthesis

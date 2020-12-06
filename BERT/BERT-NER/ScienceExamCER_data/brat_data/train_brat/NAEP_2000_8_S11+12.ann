@@ -1,0 +1,26 @@
+T1	RelativeLocations	0	2	In
+T2	Human	7	12	human
+T3	HumanPart	13	17	body
+T4	DigestionActions	22	31	digestion
+T5	NutritiveSubstancesForAnimalsOrPlants	35	43	proteins
+T6	Occur	44	55	takes place
+T7	ImportanceComparison	56	65	primarily
+T8	RelativeLocations	66	68	in
+T9	LevelOfInclusion	69	74	which
+T10	CardinalNumber	75	78	two
+T11	NUMBER	75	78	two
+T12	AnimalPart	79	85	organs
+T13	PartsOfTheDigestiveSystem	87	92	Mouth
+T14	PartsOfTheRespiratorySystem	87	92	Mouth
+T15	PartsOfTheDigestiveSystem	97	104	stomach
+T16	PartsOfEndocrineSystem	97	104	stomach
+T17	PartsOfTheDigestiveSystem	105	112	Stomach
+T18	PartsOfEndocrineSystem	105	112	Stomach
+T19	PartsOfTheDigestiveSystem	117	132	small intestine
+T20	PartsOfTheDigestiveSystem	133	138	Liver
+T21	PartsOfTheCirculatorySystem	133	138	Liver
+T22	PartsOfEndocrineSystem	133	138	Liver
+T23	PartsOfTheDigestiveSystem	143	155	gall bladder
+T24	PartsOfTheDigestiveSystem	156	164	Pancreas
+T25	PartsOfEndocrineSystem	156	164	Pancreas
+T26	PartsOfTheDigestiveSystem	169	184	large intestine

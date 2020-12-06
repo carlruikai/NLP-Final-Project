@@ -1,0 +1,22 @@
+T1	VehicularSystemsParts	0	14	Diesel engines
+T2	AbilityAvailability	15	18	can
+T3	Use	19	23	burn
+T4	RelativeNumber	24	28	many
+T5	Exemplar	29	34	kinds
+T6	NaturalResources	38	42	fuel
+T7	LevelOfInclusion	44	49	Which
+T8	NaturalResources	50	54	fuel
+T9	ProbabilityAndCertainty	55	60	would
+T10	StateOfBeing	61	63	be
+T11	AmountComparison	68	72	most
+T12	Rarity	73	82	renewable
+T13	NaturalResources	83	87	fuel
+T14	VehicularSystemsParts	94	107	diesel engine
+T15	PropertyOfProduction	109	121	conventional
+T16	FossilFuel	122	133	diesel fuel
+T17	PropertyOfProduction	134	143	distilled
+T18	FossilFuel	144	152	kerosene
+T19	PropertyOfProduction	153	176	conventionally produced
+T20	OtherEnergyResources	177	190	vegetable oil
+T21	PropertyOfProduction	191	211	organically produced
+T22	OtherEnergyResources	212	225	vegetable oil

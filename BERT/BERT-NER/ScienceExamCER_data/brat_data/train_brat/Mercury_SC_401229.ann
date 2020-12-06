@@ -1,0 +1,14 @@
+T1	TransferEnergy	4	12	transfer
+T2	Energy	16	30	thermal energy
+T3	RelativeDirection	31	35	from
+T4	CardinalNumber	36	39	one
+T5	NUMBER	36	39	one
+T6	GenericTerms	40	46	object
+T7	RelativeDirection	47	49	to
+T8	Comparisons	50	57	another
+T9	StateOfBeing	58	60	is
+T10	Classify	61	66	known
+T11	ThermalEnergy	70	74	heat
+T12	ElectricalEnergy	76	87	electricity
+T13	MagneticForce	89	98	magnetism
+T14	Temperature	100	111	temperature

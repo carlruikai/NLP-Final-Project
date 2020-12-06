@@ -1,0 +1,25 @@
+T1	RelativeLocations	0	2	In
+T2	OtherOrganismProperties	3	16	multicellular
+T3	LivingThing	17	26	organisms
+T4	Comparisons	28	37	different
+T5	SystemParts	38	48	structures
+T6	ContainBeComposedOf	49	53	have
+T7	Comparisons	54	63	different
+T8	OrganicProcesses	64	73	functions
+T9	LevelOfInclusion	75	80	Which
+T10	OrganicProcesses	81	89	function
+T11	StateOfBeing	90	92	is
+T12	PerformAnActivity	93	104	carried out
+T13	RelativeLocations	105	107	in
+T14	PlantPart	112	118	leaves
+T15	Plant	124	129	plant
+T16	ActionsForNutrition	131	140	absorbing
+T17	CombineAdd	131	140	absorbing
+T18	Nutrition	141	145	food
+T19	Create	146	153	produci
+T20	PlantPart	156	163	flowers
+T21	AbsorbEnergy	164	173	absorbing
+T22	CombineAdd	164	173	absorbing
+T23	Light	174	179	light
+T24	Create	180	186	making
+T25	PlantPart	187	192	seeds

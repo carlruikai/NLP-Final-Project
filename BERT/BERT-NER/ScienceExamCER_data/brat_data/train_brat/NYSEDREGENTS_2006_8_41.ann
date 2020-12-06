@@ -1,0 +1,18 @@
+T1	LivingThing	0	13	Living things
+T2	StateOfBeing	14	17	are
+T3	Classify	18	28	classified
+T4	PartsOfTheFoodChain	32	41	producers
+T5	Comparisons	42	44	or
+T6	PartsOfTheFoodChain	45	54	consumers
+T7	Cause	55	67	according to
+T8	PropertyOfMotion	74	79	speed
+T9	Speed	74	79	speed
+T10	PropertyOfMotion	83	91	movement
+T11	Move	83	91	movement
+T12	Size	96	100	size
+T13	GroupsOfOrganisms	110	121	communities
+T14	Method	122	125	how
+T15	Uptake	131	137	obtain
+T16	Nutrition	138	142	food
+T17	Method	143	146	how
+T18	Reproduction	152	161	reproduce

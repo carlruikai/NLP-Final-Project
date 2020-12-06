@@ -1,0 +1,25 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Behaviors	15	24	behaviors
+T4	Mammal	31	35	bear
+T5	AmountComparison	36	40	most
+T6	ProbabilityAndCertainty	41	47	likely
+T7	ActionsForAnimals	48	53	learn
+T8	LearnedBehavior	48	53	learn
+T9	RelativeDirection	54	58	from
+T10	LivingDying	59	65	living
+T11	RelativeLocations	62	64	in
+T12	EcosystemsEnvironment	73	84	environment
+T13	ActionsForAnimals	86	94	drinking
+T14	Consumption	86	94	drinking
+T15	PhasesOfWater	95	100	water
+T16	LiquidMatter	95	100	water
+T17	ActionsForAnimals	101	107	eating
+T18	Consumption	101	107	eating
+T19	Aquatic	108	112	fish
+T20	ActUponSomething	113	120	opening
+T21	FormChangingActions	113	120	opening
+T22	ManmadeObjects	121	137	garbage can lids
+T23	Help	138	148	protecting
+T24	Preserve	138	148	protecting
+T25	WordsForOffspring	153	158	young

@@ -1,0 +1,36 @@
+T1	Scientists	0	8	Students
+T2	Examine	9	17	studying
+T3	PerformingResearch	9	17	studying
+T4	EarthPartsGrossGroundAtmosphere	22	32	atmosphere
+T5	Goal	33	37	want
+T6	ConcludingResearch	41	48	display
+T7	Representation	41	48	display
+T8	PercentUnit	53	63	percentage
+T9	LevelOfInclusion	67	71	each
+T10	Compound	72	86	greenhouse gas
+T11	StateOfBeing	84	86	as
+T12	Comparisons	90	98	compared
+T13	AnalyzingResearch	90	98	compared
+T14	RelativeDirection	99	101	to
+T15	LevelOfInclusion	106	111	total
+T16	Numbers	112	118	amount
+T17	Compound	122	136	greenhouse gas
+T18	Identify	139	144	found
+T19	VerbsForLocate	139	144	found
+T20	RelativeLocations	145	147	in
+T21	EarthPartsGrossGroundAtmosphere	152	162	atmosphere
+T22	LevelOfInclusion	164	169	Which
+T23	Representation	170	184	representation
+T24	ProbabilityAndCertainty	185	190	would
+T25	StateOfBeing	191	193	be
+T26	AmountComparison	194	198	most
+T27	Relevant	199	210	appropriate
+T28	Communicate	215	225	displaying
+T29	Representation	215	225	displaying
+T30	LevelOfInclusion	226	231	these
+T31	PercentUnit	232	243	percentages
+T32	Representation	245	254	bar graph
+T33	Representation	255	265	line graph
+T34	Representation	266	275	pie chart
+T35	WordsForData	276	280	data
+T36	Representation	281	286	table

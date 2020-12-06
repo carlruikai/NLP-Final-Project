@@ -1,0 +1,27 @@
+T1	Scientists	2	9	student
+T2	PhysicalActivity	10	16	stands
+T3	Position	10	16	stands
+T4	RelativeLocations	17	19	on
+T5	WeightMeasuringTool	22	27	scale
+T6	WeightMeasuringTool	22	27	scale
+T7	Communicate	43	48	reads
+T8	CardinalNumber	49	51	85
+T9	MassUnit	52	58	pounds
+T10	StateOfBeing	65	67	is
+T11	StateOfBeing	68	73	being
+T12	Measurements	74	82	measured
+T13	Examine	74	82	measured
+T14	Cause	83	85	by
+T15	WeightMeasuringTool	90	95	scale
+T16	Force	101	106	force
+T17	Gravity	110	117	gravity
+T18	ActUponSomething	118	127	acting on
+T19	Scientists	132	139	student
+T20	Pressure	144	156	air pressure
+T21	Position	157	168	surrounding
+T22	Scientists	173	180	student
+T23	Mass	185	189	mass
+T24	Scientists	197	204	student
+T25	PhysicalProperty	209	215	volume
+T26	Size	209	215	volume
+T27	Scientists	223	230	student

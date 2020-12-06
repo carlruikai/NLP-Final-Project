@@ -1,0 +1,5 @@
+The chemical equation below shows reactants and products. 6CO_{2} + 12H_{2}O + light + enzymes -> C_{6}H_{12}O_{6} + 6O_{2} + 6H_{2}O Which statement is best supported by analyzing this equation?
+CO_{2} is made from the chemical reaction.
+No new compounds are made from this reaction.
+O_{2}, oxygen gas, is needed to make the reaction start.
+The atoms rearrange in the chemical reaction so that C_{6}H_{12}O_{6}, glucose, is made.

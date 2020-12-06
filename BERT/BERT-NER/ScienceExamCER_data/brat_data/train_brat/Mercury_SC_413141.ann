@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Measurements	6	17	measurement
+T3	Represent	18	28	represents
+T4	Mass	33	37	mass
+T5	GeometricSpatialObjects	44	50	object
+T6	NUMBER	52	54	35
+T7	DistanceUnit	55	66	centimeters
+T8	NUMBER	67	69	35
+T9	MassUnit	70	75	grams
+T10	NUMBER	76	78	35
+T11	VolumeUnit	79	85	liters
+T12	NUMBER	86	88	35
+T13	GeometricUnit	89	96	degrees

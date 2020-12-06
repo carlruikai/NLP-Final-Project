@@ -1,0 +1,15 @@
+T1	Mammal	2	10	squirrel
+T2	Collect	11	20	gathering
+T3	PlantPart	21	25	nuts
+T4	Foods	21	25	nuts
+T5	Help	26	31	helps
+T6	Plant	32	37	trees
+T7	Growth	38	42	grow
+T8	ActionsForAgriculture	38	42	grow
+T9	Reproduction	44	53	reproduce
+T10	StopRemove	55	61	resist
+T11	Sickness	62	69	disease
+T12	ChangeInto	71	77	become
+T13	StateOfBeing	71	77	become
+T14	ResistanceStrength	78	86	stronger
+T15	Comparisons	78	86	stronger

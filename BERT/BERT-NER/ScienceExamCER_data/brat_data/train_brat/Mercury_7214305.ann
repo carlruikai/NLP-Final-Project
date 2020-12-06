@@ -1,0 +1,11 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Rock	6	10	rock
+T3	StateOfBeing	11	13	is
+T4	AmountComparison	14	18	most
+T5	ProbabilityAndCertainty	19	25	likely
+T6	ContainBeComposedOf	29	36	contain
+T7	TrueFormFossil	37	53	fossil seashells
+T8	Igneous	55	61	basalt
+T9	Metamorphic	62	68	gneiss
+T10	Igneous	69	76	granite
+T11	Sedimentary	77	86	limestone

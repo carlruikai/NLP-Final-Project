@@ -1,0 +1,23 @@
+T1	LevelOfInclusion	9	22	the following
+T2	ProbabilityAndCertainty	23	32	correctly
+T3	Pattern	33	39	orders
+T4	LevelOfInclusion	40	44	part
+T5	Aquatic	50	54	fish
+T6	RespiratorySystem	57	75	respiratory system
+T7	RelativeDirection	76	80	from
+T8	AmountComparison	85	90	least
+T9	Complexity	91	98	complex
+T10	AmountComparison	102	106	most
+T11	Complexity	107	114	complex
+T12	Cell	116	121	cells
+T13	AquaticAnimalPart	125	130	gills
+T14	AnimalPart	134	141	tissues
+T15	Cell	142	147	cells
+T16	AnimalPart	151	158	tissues
+T17	AquaticAnimalPart	162	167	gills
+T18	AquaticAnimalPart	162	167	gills
+T19	AnimalPart	177	184	tissues
+T20	Cell	188	193	cells
+T21	AnimalPart	194	201	tissues
+T22	AquaticAnimalPart	205	210	gills
+T23	Cell	214	219	cells

@@ -1,0 +1,13 @@
+T1	LevelOfInclusion	0	5	Which
+T2	OrganicProcesses	6	13	process
+T3	Move	14	19	moves
+T4	ElementalComponents	23	26	ion
+T5	PrepositionalDirections	27	33	across
+T6	AnimalCellPart	36	49	cell membrane
+T7	PlantCellPart	36	49	cell membrane
+T8	RelativeDirection	50	57	against
+T9	CellProcesses	62	84	concentration gradient
+T10	CellProcesses	86	95	diffusion
+T11	CellProcesses	96	106	exocytosis
+T12	CellProcesses	107	128	facilitated diffusion
+T13	CellProcesses	129	145	active transport

@@ -1,0 +1,21 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	ImportanceComparison	30	35	major
+T5	Cause	36	41	cause
+T6	TidesHighTideLowTide	45	50	tides
+T7	IncreaseDecrease	52	59	heating
+T8	Temperature	52	59	heating
+T9	EarthPartsGrossGroundAtmosphere	67	73	oceans
+T10	BodiesOfWater	67	73	oceans
+T11	Cause	74	76	by
+T12	Star	81	84	Sun
+T13	Gravity	85	103	gravitational pull
+T14	Moon	111	115	Moon
+T15	NaturalPhenomena	116	127	earthquakes
+T16	RelativeLocations	128	130	on
+T17	BodiesOfWater	135	140	ocean
+T18	PartsOfBodiesOfWater	141	146	floor
+T19	Changes	147	154	changes
+T20	WeatherPhenomena	158	162	wind
+T21	Directions	163	172	direction

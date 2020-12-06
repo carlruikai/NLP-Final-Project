@@ -1,0 +1,25 @@
+T1	Compound	0	15	Sodium chloride
+T2	Rarity	17	25	commonly
+T3	Classify	26	32	called
+T4	Communicate	26	32	called
+T5	Compound	34	44	table salt
+T6	GranularSolids	34	44	table salt
+T7	StateOfBeing	47	49	is
+T8	ContainBeComposedOf	50	57	made up
+T9	Element	61	67	sodium
+T10	Element	72	80	chlorine
+T11	StateOfBeing	91	95	been
+T12	CombineAdd	96	104	combined
+T13	ChemicalProperty	105	115	chemically
+T14	LevelOfInclusion	117	122	Which
+T15	ResponseType	123	127	term
+T16	GenericTerms	123	127	term
+T17	Quality	128	132	best
+T18	QualityComparison	128	132	best
+T19	Represent	133	142	describes
+T20	Compound	143	158	sodium chloride
+T21	PH	160	164	Acid
+T22	Substances	160	164	Acid
+T23	ElementalComponents	165	169	Atom
+T24	Element	170	177	Element
+T25	Compound	178	186	Compound

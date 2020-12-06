@@ -1,0 +1,18 @@
+T1	StateOfBeing	5	7	is
+T2	ImportanceComparison	12	19	primary
+T3	Energy	20	26	energy
+T4	Source	27	33	source
+T5	Cause	39	45	drives
+T6	LevelOfInclusion	46	49	all
+T7	WeatherPhenomena	50	64	weather events
+T8	Exemplar	66	75	including
+T9	PartsOfWaterCycle	76	89	precipitation
+T10	Precipitation	76	89	precipitation
+T11	WeatherPhenomena	91	101	hurricanes
+T12	WeatherPhenomena	107	115	tornados
+T13	Star	121	124	Sun
+T14	Moon	129	133	Moon
+T15	InnerPlanets	134	139	Earth
+T16	Gravity	142	149	gravity
+T17	InnerPlanets	150	155	Earth
+T18	CelestialMovement	158	166	rotation

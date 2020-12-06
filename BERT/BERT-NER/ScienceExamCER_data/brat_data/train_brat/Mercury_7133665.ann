@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	Actions	6	12	action
+T3	Represent	13	24	illustrates
+T4	ChemicalChange	27	42	chemical change
+T5	ColorChangingActions	44	52	painting
+T6	NaturalMaterial	55	59	wood
+T7	ManmadeObjects	60	65	chest
+T8	FormChangingActions	66	69	saw
+T9	NaturalMaterial	75	79	wood
+T10	ManmadeObjects	80	85	plank
+T11	ChemicalChange	86	93	burning
+T12	NaturalMaterial	94	98	wood
+T13	ObjectQuantification	99	104	chips
+T14	FormChangingActions	105	117	cutting down
+T15	StopRemove	105	117	cutting down
+T16	Plant	120	124	tree

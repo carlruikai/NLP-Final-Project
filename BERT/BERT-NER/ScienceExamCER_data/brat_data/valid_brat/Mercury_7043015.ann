@@ -1,0 +1,32 @@
+T1	Scientists	2	9	student
+T2	Use	10	14	uses
+T3	Soil	15	19	clay
+T4	Result	20	22	to
+T5	Create	23	28	build
+T6	Representation	29	35	models
+T7	TectonicPlates	42	53	ocean plate
+T8	TectonicPlates	60	77	continental plate
+T9	Property	84	98	characteristic
+T10	AbilityAvailability	99	105	cannot
+T11	StateOfBeing	106	108	be
+T12	ProbabilityAndCertainty	109	119	accurately
+T13	Verify	109	119	accurately
+T14	Represent	120	131	represented
+T15	Use	132	134	by
+T16	Representation	139	145	models
+T17	Shape	151	157	shapes
+T18	TectonicPlates	161	167	plates
+T19	Size	172	186	relative sizes
+T20	Comparisons	172	186	relative sizes
+T21	TectonicPlates	190	196	plates
+T22	PhysicalProperty	201	219	relative densities
+T23	Comparisons	201	219	relative densities
+T24	TectonicPlates	223	229	plates
+T25	Pattern	234	245	arrangement
+T26	Group	234	245	arrangement
+T27	TectonicPlates	249	255	plates
+T28	Comparisons	256	264	relative
+T29	RelativeDirection	265	267	to
+T30	CardinalNumber	268	271	one
+T31	NUMBER	268	271	one
+T32	Comparisons	272	279	another

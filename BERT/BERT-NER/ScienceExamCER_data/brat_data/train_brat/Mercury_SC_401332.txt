@@ -1,0 +1,5 @@
+When two objects are touching, heat is transferred from the warmer object to the cooler one by
+radiation.
+convection.
+conduction.
+insulation.

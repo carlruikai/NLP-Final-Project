@@ -1,0 +1,5 @@
+Which is the first step in a design process?
+Revise the solution.
+Describe the problem.
+Test the possible solutions.
+Identify possible solutions.

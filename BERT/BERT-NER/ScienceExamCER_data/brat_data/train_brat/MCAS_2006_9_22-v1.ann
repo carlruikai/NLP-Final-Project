@@ -1,0 +1,39 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	22	the following
+T3	StateOfBeing	23	25	is
+T4	ImportanceComparison	28	35	central
+T5	SystemAndFunctions	36	40	role
+T6	Element	44	50	carbon
+T7	RelativeLocations	51	53	in
+T8	ChemicalProperty	58	67	chemistry
+T9	LivingThing	71	87	living organisms
+T10	Element	89	95	Carbon
+T11	AbilityAvailability	96	99	can
+T12	LevelOfInclusion	100	104	only
+T13	MolecularProperties	105	109	bond
+T14	ChemicalChange	105	109	bond
+T15	CombineAdd	110	114	with
+T16	Comparisons	115	120	other
+T17	Element	121	127	carbon
+T18	ElementalComponents	128	133	atoms
+T19	Element	135	141	Carbon
+T20	StateOfBeing	142	144	is
+T21	PartsOfASolution	147	154	solvent
+T22	Break	160	166	breaks
+T23	MolecularProperties	167	180	chemical bond
+T24	Element	183	189	Carbon
+T25	Difficulty	190	197	readily
+T26	AbilityAvailability	190	197	readily
+T27	Create	198	203	forms
+T28	ElementalComponents	204	214	ionic bond
+T29	MolecularProperties	204	214	ionic bond
+T30	Separate	221	229	separate
+T31	Difficulty	230	236	easily
+T32	Element	238	244	Carbon
+T33	AbilityAvailability	245	248	can
+T34	Create	249	253	form
+T35	RelativeNumber	254	258	many
+T36	Exemplar	259	264	types
+T37	ElementalComponents	268	277	molecules
+T38	ContainBeComposedOf	278	282	with
+T39	MolecularProperties	283	296	covalent bond

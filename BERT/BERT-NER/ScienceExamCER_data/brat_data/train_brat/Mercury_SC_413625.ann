@@ -1,0 +1,29 @@
+T1	LevelOfInclusion	0	5	Which
+T2	LevelOfInclusion	9	14	these
+T3	Communicate	15	24	describes
+T4	Property	27	35	property
+T5	LevelOfInclusion	39	42	all
+T6	Matter	43	49	matter
+T7	LevelOfInclusion	51	54	All
+T8	Matter	55	61	matter
+T9	Release	62	71	gives off
+T10	Light	72	77	light
+T11	LevelOfInclusion	79	82	All
+T12	Matter	83	89	matter
+T13	StateOfBeing	90	92	is
+T14	PullingActions	93	102	attracted
+T15	ActUponSomething	93	102	attracted
+T16	Cause	103	105	by
+T17	MagneticDevice	106	113	magnets
+T18	LevelOfInclusion	115	118	All
+T19	Matter	119	125	matter
+T20	StateOfBeing	126	128	is
+T21	ContainBeComposedOf	129	136	made of
+T22	ElementalComponents	137	142	atoms
+T23	LevelOfInclusion	144	147	All
+T24	Matter	148	154	matter
+T25	PhaseChangingActions	155	164	dissolves
+T26	FormChangingActions	155	164	dissolves
+T27	RelativeLocations	165	167	in
+T28	PhasesOfWater	168	173	water
+T29	LiquidMatter	168	173	water

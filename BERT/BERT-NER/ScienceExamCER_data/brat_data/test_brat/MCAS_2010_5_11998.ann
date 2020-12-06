@@ -1,0 +1,39 @@
+T1	Plant	2	15	morning glory
+T2	StateOfBeing	16	18	is
+T3	Exemplar	21	25	type
+T4	OtherDescriptionsForPlantsBiennialLeafyEtc	29	38	flowering
+T5	Plant	39	43	vine
+T6	LocationChangingActions	49	55	climbs
+T7	Plant	56	61	trees
+T8	PartsOfABuilding	66	72	fences
+T9	LevelOfInclusion	74	79	Which
+T10	LevelOfInclusion	83	96	the following
+T11	Behaviors	97	106	behaviors
+T12	AmountComparison	107	111	most
+T13	Help	112	117	helps
+T14	Plant	120	133	morning glory
+T15	Plant	134	139	plant
+T16	LocationChangingActions	140	145	climb
+T17	PartsOfABuilding	148	153	fence
+T18	PlantPart	155	160	stems
+T19	Move	161	168	curling
+T20	Response	172	180	response
+T21	Cause	181	183	to
+T22	Touch	184	189	touch
+T23	PlantPart	190	195	stems
+T24	FormChangingActions	196	204	swelling
+T25	Response	208	216	response
+T26	Cause	217	219	to
+T27	PhasesOfWater	220	225	water
+T28	PlantPart	226	233	flowers
+T29	FormChangingActions	234	238	open
+T30	Move	234	238	open
+T31	Response	245	253	response
+T32	Cause	254	256	to
+T33	Light	257	262	light
+T34	PlantPart	263	268	roots
+T35	Growth	269	276	growing
+T36	ActionsForAgriculture	269	276	growing
+T37	Response	280	288	response
+T38	Cause	289	291	to
+T39	Gravity	292	299	gravity

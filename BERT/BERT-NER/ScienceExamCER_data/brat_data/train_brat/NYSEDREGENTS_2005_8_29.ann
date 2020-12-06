@@ -1,0 +1,27 @@
+T1	Pattern	6	14	sequence
+T2	Communicate	15	20	lists
+T3	SystemProcessStages	25	31	levels
+T4	Pattern	35	47	organization
+T5	RelativeLocations	48	50	in
+T6	Human	55	60	human
+T7	HumanPart	61	65	body
+T8	RelativeDirection	66	70	from
+T9	Complexity	71	79	simplest
+T10	AmountComparison	83	87	most
+T11	Complexity	88	95	complex
+T12	AnimalSystemsProcesses	97	109	organ system
+T13	AnimalPart	113	119	tissue
+T14	Cell	123	127	cell
+T15	AnimalPart	131	136	organ
+T16	AnimalPart	137	143	tissue
+T17	Cell	147	151	cell
+T18	AnimalPart	155	160	organ
+T19	AnimalSystemsProcesses	164	176	organ system
+T20	AnimalPart	164	169	organ
+T21	AnimalSystemsProcesses	164	176	organ system
+T22	AnimalPart	202	208	tissue
+T23	Cell	212	216	cell
+T24	Cell	212	216	cell
+T25	AnimalPart	225	231	tissue
+T26	AnimalPart	235	240	organ
+T27	AnimalSystemsProcesses	244	256	organ system

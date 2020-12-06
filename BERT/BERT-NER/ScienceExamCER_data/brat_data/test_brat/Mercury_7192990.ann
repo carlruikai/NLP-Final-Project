@@ -1,0 +1,36 @@
+T1	NaturalPhenomena	0	12	Forest fires
+T2	Occur	13	18	occur
+T3	RelativeLocations	19	21	in
+T4	RelativeNumber	22	26	many
+T5	Locations	27	32	areas
+T6	Cause	33	39	due to
+T7	WeatherPhenomena	40	58	drought conditions
+T8	WeatherPhenomena	40	58	drought conditions
+T9	Occur	86	94	continue
+T10	WaitStay	86	94	continue
+T11	TemporalProperty	101	105	long
+T12	MarkersOfTime	106	120	period of time
+T13	LevelOfInclusion	122	127	which
+T14	ProbabilityAndCertainty	128	133	might
+T15	Cause	134	139	cause
+T16	LivingDying	144	156	repopulation
+T17	Plant	160	165	trees
+T18	StateOfBeing	169	171	be
+T19	Safety	172	182	threatened
+T20	Harm	172	182	threatened
+T21	AmountChangingActions	186	194	decrease
+T22	IncreaseDecrease	186	194	decrease
+T23	Texture	202	211	thickness
+T24	Soil	215	219	soil
+T25	AmountChangingActions	222	230	decrease
+T26	IncreaseDecrease	222	230	decrease
+T27	Numbers	238	244	amount
+T28	ConstructiveDestructiveForces	248	255	erosion
+T29	NaturalPhenomena	248	255	erosion
+T30	AmountChangingActions	259	267	increase
+T31	IncreaseDecrease	259	267	increase
+T32	Bacteria	275	284	bacterium
+T33	GroupsOfOrganisms	285	295	population
+T34	AmountChangingActions	299	307	increase
+T35	IncreaseDecrease	299	307	increase
+T36	PlantProcesses	315	335	production of oxygen

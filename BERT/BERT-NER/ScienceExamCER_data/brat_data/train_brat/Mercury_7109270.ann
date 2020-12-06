@@ -1,0 +1,48 @@
+T1	Scientists	0	10	Biologists
+T2	Identify	16	26	discovered
+T3	Discovery	16	26	discovered
+T4	Aquatic	36	49	beluga whales
+T5	Mammal	36	49	beluga whales
+T6	Countries	53	59	Canada
+T7	SpecificNamedBodiesOfWater	62	80	St. Lawrence River
+T8	ContainBeComposedOf	81	85	have
+T9	AmountComparison	90	97	highest
+T10	Numbers	98	103	rates
+T11	TypesOfIllness	107	113	cancer
+T12	RelativeLocations	114	119	among
+T13	Animal	120	127	animals
+T14	StateOfBeing	134	136	is
+T15	AmountComparison	137	141	most
+T16	ProbabilityAndCertainty	142	148	likely
+T17	Cause	153	159	reason
+T18	RelativeNumber	169	173	high
+T19	Occur	174	183	incidence
+T20	TypesOfIllness	187	193	cancer
+T21	RelativeLocations	194	196	in
+T22	LevelOfInclusion	197	202	these
+T23	Aquatic	203	209	whales
+T24	Mammal	203	209	whales
+T25	Compound	211	219	chemical
+T26	EnvironmentalDamageDestruction	224	233	pollutant
+T27	EnvironmentalDamageDestruction	234	240	runoff
+T28	LiquidMovement	234	240	runoff
+T29	RelativeDirection	241	245	into
+T30	BodiesOfWater	250	255	ocean
+T31	Calculations	256	263	average
+T32	Temperature	264	276	temperatures
+T33	AmountChangingActions	277	286	increased
+T34	IncreaseDecrease	277	286	increased
+T35	RelativeLocations	277	279	in
+T36	RelativeLocations	294	300	region
+T37	ChangesToResources	301	310	depletion
+T38	NationalityOrigin	314	321	natural
+T39	PartsOfTheFoodChain	322	326	prey
+T40	TypeOfConsumer	322	326	prey
+T41	RelativeDirection	327	331	from
+T42	EcosystemsEnvironment	336	345	ecosystem
+T43	AmountChangingActions	346	355	increased
+T44	IncreaseDecrease	346	355	increased
+T45	AmountComparison	356	362	levels
+T46	Compound	366	380	carbon dioxide
+T47	RelativeLocations	381	383	in
+T48	EarthPartsGrossGroundAtmosphere	388	398	atmosphere

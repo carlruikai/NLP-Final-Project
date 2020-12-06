@@ -1,0 +1,5 @@
+An architect builds a 1/10 scale model of a house to test the design for sources of heat loss in the winter. Which part of the model would be most important to test with heat-sensing equipment?
+floors
+ceilings
+windows
+staircases

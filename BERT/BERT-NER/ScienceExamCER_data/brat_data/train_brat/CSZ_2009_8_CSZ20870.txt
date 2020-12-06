@@ -1,0 +1,5 @@
+Red-clay bricks have a density of approximately 2000 kg/m^3. Air has a density of 1 kg/m^3. Which of the following has the lowest mass?
+2 m^3 of bricks
+4 m^3 of bricks
+6000 m^3 of air
+10,000 m^3 of air

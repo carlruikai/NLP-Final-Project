@@ -1,0 +1,5 @@
+A line graph is best used to
+compare many variables.
+display data as parts of a whole.
+track the relationship between two variables over time.
+organize data using pictures of objects.

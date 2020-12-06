@@ -1,0 +1,16 @@
+T1	LevelOfInclusion	0	5	Which
+T2	ScientificTools	6	10	tool
+T3	ProbabilityAndCertainty	11	16	would
+T4	StateOfBeing	17	19	be
+T5	Quality	20	24	best
+T6	QualityComparison	20	24	best
+T7	Goal	25	27	to
+T8	Measurements	28	35	measure
+T9	Examine	28	35	measure
+T10	Length	40	46	length
+T11	Insect	52	61	butterfly
+T12	MassMeasuringTool	63	82	triple beam balance
+T13	LiquidHoldingContainersRecepticles	83	101	graduated cylinder
+T14	VolumeMeasuringTool	83	101	graduated cylinder
+T15	DistanceMeasuringTools	102	114	metric ruler
+T16	TemperatureMeasuringTools	115	126	thermometer

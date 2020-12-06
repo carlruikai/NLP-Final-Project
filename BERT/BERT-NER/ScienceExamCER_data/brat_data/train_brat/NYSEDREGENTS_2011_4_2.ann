@@ -1,0 +1,22 @@
+T1	Method	0	3	How
+T2	PerformAnActivity	4	8	does
+T3	TemporalProperty	13	19	length
+T4	CelestialLightOnEarth	23	31	daylight
+T5	TIME	23	31	daylight
+T6	RelativeLocations	32	34	in
+T7	NorthernHemisphereLocations	35	49	New York State
+T8	States	35	49	New York State
+T9	LOCATION	35	49	New York State
+T10	Changes	50	56	change
+T11	WordsRelatingToCosmologicalTheoriesExpandContract	50	56	change
+T12	RelativeTime	57	61	from
+T13	SeasonsFallAutumnWinterSpringSummer	62	68	summer
+T14	DATE	62	68	summer
+T15	RelativeTime	69	71	to
+T16	SeasonsFallAutumnWinterSpringSummer	72	76	fall
+T17	AmountChangingActions	81	90	decreases
+T18	IncreaseDecrease	81	90	decreases
+T19	AmountChangingActions	95	104	increases
+T20	IncreaseDecrease	95	104	increases
+T21	WaitStay	109	116	remains
+T22	Comparisons	121	125	same

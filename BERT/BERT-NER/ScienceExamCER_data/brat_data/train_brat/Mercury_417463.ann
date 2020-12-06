@@ -1,0 +1,27 @@
+T1	PERSON	0	5	Casey
+T2	Identify	10	15	found
+T3	VerbsForLocate	10	15	found
+T4	RelativeNumber	16	23	several
+T5	Comparisons	24	33	identical
+T6	Aquatic	34	48	marine animals
+T7	CombineAdd	49	57	attached
+T8	RelativeDirection	58	60	to
+T9	PropertyOfProduction	64	74	artificial
+T10	ExamplesOfHabitats	75	79	reef
+T11	UnderwaterEcosystem	75	79	reef
+T12	RelativeLocations	80	82	in
+T13	SpecificNamedBodiesOfWater	87	101	Gulf of Mexico
+T14	LevelOfInclusion	103	108	Which
+T15	Property	109	123	characteristic
+T16	ProbabilityAndCertainty	124	129	would
+T17	Classify	130	138	identify
+T18	Identify	130	138	identify
+T19	Animal	143	150	animals
+T20	StateOfBeing	151	153	as
+T21	AnimalAdditionalCategories	154	162	mollusks
+T22	PartsOfTheNervousSystem	164	169	brain
+T23	AquaticAnimalPart	170	179	tentacles
+T24	MuscularSystem	180	188	muscular
+T25	AnimalPart	189	193	foot
+T26	Hardness	194	198	hard
+T27	AquaticAnimalPart	199	211	outer casing

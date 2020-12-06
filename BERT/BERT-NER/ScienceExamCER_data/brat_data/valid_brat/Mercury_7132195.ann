@@ -1,0 +1,14 @@
+T1	SimpleMachines	6	20	simple machine
+T2	AmountChangingActions	21	30	increases
+T3	IncreaseDecrease	21	30	increases
+T4	Distance	35	43	distance
+T5	PrepositionalDirections	44	48	over
+T6	ObjectQuantification	57	61	load
+T7	LightMovement	62	69	travels
+T8	AmountChangingActions	74	81	reduces
+T9	Require	86	92	needed
+T10	Force	93	98	force
+T11	SimpleMachines	100	114	wheel and axle
+T12	SimpleMachines	115	120	wedge
+T13	SimpleMachines	121	127	pulley
+T14	SimpleMachines	128	142	inclined plane

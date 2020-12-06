@@ -1,0 +1,14 @@
+T1	AtomicProperties	0	7	Neutral
+T2	ElementalComponents	8	13	atoms
+T3	ContainBeComposedOf	14	18	have
+T4	AmountComparison	22	27	equal
+T5	Numbers	28	34	number
+T6	AtomComponents	38	47	electrons
+T7	AtomComponents	52	60	neutrons
+T8	AtomComponents	62	69	protons
+T9	AtomComponents	74	82	neutrons
+T10	AtomComponents	84	91	protons
+T11	AtomComponents	96	105	electrons
+T12	AtomComponents	107	114	protons
+T13	AtomComponents	116	124	neutrons
+T14	AtomComponents	130	139	electrons
