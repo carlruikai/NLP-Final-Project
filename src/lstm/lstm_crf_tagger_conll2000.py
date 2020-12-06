@@ -55,7 +55,7 @@ if __name__ == '__main__':
         embedding_dim=20,
         epochs=50,
         batch_size=256,
-        n_gpu=None
+        n_gpu=2
         ).main(
         test_path='../../data/CoNLL-2000/test.txt'
         )

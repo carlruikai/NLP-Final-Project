@@ -9,7 +9,7 @@ from keras.models import Model, Input
 from keras.layers import LSTM, Embedding, Dense, TimeDistributed, Bidirectional
 from keras_contrib.layers import CRF
 from keras.callbacks import ModelCheckpoint
-# from keras.utils import multi_gpu_model
+from keras.utils import multi_gpu_model
 
 from sklearn.model_selection import train_test_split
 
