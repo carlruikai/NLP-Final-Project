@@ -1,0 +1,275 @@
+(nlp) [xuzheng_lu > lstm] (main∣⚐) ➜ python lstm_crf_tagger_conll2000.py 
+Using TensorFlow backend.
+======================================================================
+Loading files...
+Reset max_length:  78
+======================================================================
+Training...
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_1 (InputLayer)         (None, 78)                0         
+_________________________________________________________________
+embedding_1 (Embedding)      (None, 78, 20)            382480    
+_________________________________________________________________
+bidirectional_1 (Bidirection (None, 78, 100)           28400     
+_________________________________________________________________
+time_distributed_1 (TimeDist (None, 78, 50)            5050      
+_________________________________________________________________
+crf_1 (CRF)                  (None, 78, 23)            1748      
+=================================================================
+Total params: 417,678
+Trainable params: 417,678
+Non-trainable params: 0
+_________________________________________________________________
+Number of training data:  8042
+Number of validation data:  894
+Train on 8042 samples, validate on 894 samples
+Epoch 1/50
+2020-12-10 06:55:13.370070: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+2020-12-10 06:55:15.875516: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1432] Found device 0 with properties: 
+name: Tesla V100-SXM2-16GB major: 7 minor: 0 memoryClockRate(GHz): 1.53
+pciBusID: 0000:1c:00.0
+totalMemory: 15.75GiB freeMemory: 15.44GiB
+2020-12-10 06:55:15.875585: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1511] Adding visible gpu devices: 0
+2020-12-10 06:55:16.251973: I tensorflow/core/common_runtime/gpu/gpu_device.cc:982] Device interconnect StreamExecutor with strength 1 edge matrix:
+2020-12-10 06:55:16.252008: I tensorflow/core/common_runtime/gpu/gpu_device.cc:988]      0 
+2020-12-10 06:55:16.252013: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1001] 0:   N 
+2020-12-10 06:55:16.252133: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 14943 MB memory) -> physical GPU (device: 0, name: Tesla V100-SXM2-16GB, pci bus id: 0000:1c:00.0, compute capability: 7.0)
+8042/8042 [==============================] - 16s 2ms/step - loss: 1.3676 - crf_viterbi_accuracy: 0.6337 - val_loss: 0.7315 - val_crf_viterbi_accuracy: 0.7764
+
+Epoch 00001: val_loss improved from inf to 0.73150, saving model to weights.best.conll2000.hdf5
+Epoch 2/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.6593 - crf_viterbi_accuracy: 0.7776 - val_loss: 0.5902 - val_crf_viterbi_accuracy: 0.7879
+
+Epoch 00002: val_loss improved from 0.73150 to 0.59021, saving model to weights.best.conll2000.hdf5
+Epoch 3/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.5754 - crf_viterbi_accuracy: 0.7898 - val_loss: 0.5457 - val_crf_viterbi_accuracy: 0.7990
+
+Epoch 00003: val_loss improved from 0.59021 to 0.54573, saving model to weights.best.conll2000.hdf5
+Epoch 4/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.5368 - crf_viterbi_accuracy: 0.7961 - val_loss: 0.5090 - val_crf_viterbi_accuracy: 0.8137
+
+Epoch 00004: val_loss improved from 0.54573 to 0.50905, saving model to weights.best.conll2000.hdf5
+Epoch 5/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.4868 - crf_viterbi_accuracy: 0.8163 - val_loss: 0.4384 - val_crf_viterbi_accuracy: 0.8213
+
+Epoch 00005: val_loss improved from 0.50905 to 0.43842, saving model to weights.best.conll2000.hdf5
+Epoch 6/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.3993 - crf_viterbi_accuracy: 0.8650 - val_loss: 0.3420 - val_crf_viterbi_accuracy: 0.8867
+
+Epoch 00006: val_loss improved from 0.43842 to 0.34199, saving model to weights.best.conll2000.hdf5
+Epoch 7/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.3086 - crf_viterbi_accuracy: 0.9070 - val_loss: 0.2770 - val_crf_viterbi_accuracy: 0.9141
+
+Epoch 00007: val_loss improved from 0.34199 to 0.27702, saving model to weights.best.conll2000.hdf5
+Epoch 8/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.2536 - crf_viterbi_accuracy: 0.9251 - val_loss: 0.2359 - val_crf_viterbi_accuracy: 0.9320
+
+Epoch 00008: val_loss improved from 0.27702 to 0.23588, saving model to weights.best.conll2000.hdf5
+Epoch 9/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.2179 - crf_viterbi_accuracy: 0.9403 - val_loss: 0.2059 - val_crf_viterbi_accuracy: 0.9438
+
+Epoch 00009: val_loss improved from 0.23588 to 0.20591, saving model to weights.best.conll2000.hdf5
+Epoch 10/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.1860 - crf_viterbi_accuracy: 0.9510 - val_loss: 0.1773 - val_crf_viterbi_accuracy: 0.9501
+
+Epoch 00010: val_loss improved from 0.20591 to 0.17730, saving model to weights.best.conll2000.hdf5
+Epoch 11/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.1573 - crf_viterbi_accuracy: 0.9586 - val_loss: 0.1494 - val_crf_viterbi_accuracy: 0.9596
+
+Epoch 00011: val_loss improved from 0.17730 to 0.14941, saving model to weights.best.conll2000.hdf5
+Epoch 12/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.1342 - crf_viterbi_accuracy: 0.9642 - val_loss: 0.1342 - val_crf_viterbi_accuracy: 0.9631
+
+Epoch 00012: val_loss improved from 0.14941 to 0.13419, saving model to weights.best.conll2000.hdf5
+Epoch 13/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.1169 - crf_viterbi_accuracy: 0.9680 - val_loss: 0.1232 - val_crf_viterbi_accuracy: 0.9627
+
+Epoch 00013: val_loss improved from 0.13419 to 0.12319, saving model to weights.best.conll2000.hdf5
+Epoch 14/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.1048 - crf_viterbi_accuracy: 0.9706 - val_loss: 0.1087 - val_crf_viterbi_accuracy: 0.9679
+
+Epoch 00014: val_loss improved from 0.12319 to 0.10868, saving model to weights.best.conll2000.hdf5
+Epoch 15/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.0950 - crf_viterbi_accuracy: 0.9730 - val_loss: 0.1006 - val_crf_viterbi_accuracy: 0.9697
+
+Epoch 00015: val_loss improved from 0.10868 to 0.10058, saving model to weights.best.conll2000.hdf5
+Epoch 16/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.0866 - crf_viterbi_accuracy: 0.9749 - val_loss: 0.0941 - val_crf_viterbi_accuracy: 0.9709
+
+Epoch 00016: val_loss improved from 0.10058 to 0.09411, saving model to weights.best.conll2000.hdf5
+Epoch 17/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.0789 - crf_viterbi_accuracy: 0.9768 - val_loss: 0.0894 - val_crf_viterbi_accuracy: 0.9724
+
+Epoch 00017: val_loss improved from 0.09411 to 0.08944, saving model to weights.best.conll2000.hdf5
+Epoch 18/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.0725 - crf_viterbi_accuracy: 0.9784 - val_loss: 0.0834 - val_crf_viterbi_accuracy: 0.9735
+
+Epoch 00018: val_loss improved from 0.08944 to 0.08340, saving model to weights.best.conll2000.hdf5
+Epoch 19/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.0669 - crf_viterbi_accuracy: 0.9795 - val_loss: 0.0793 - val_crf_viterbi_accuracy: 0.9745
+
+Epoch 00019: val_loss improved from 0.08340 to 0.07927, saving model to weights.best.conll2000.hdf5
+Epoch 20/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.0617 - crf_viterbi_accuracy: 0.9810 - val_loss: 0.0752 - val_crf_viterbi_accuracy: 0.9749
+
+Epoch 00020: val_loss improved from 0.07927 to 0.07519, saving model to weights.best.conll2000.hdf5
+Epoch 21/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.0575 - crf_viterbi_accuracy: 0.9818 - val_loss: 0.0716 - val_crf_viterbi_accuracy: 0.9756
+
+Epoch 00021: val_loss improved from 0.07519 to 0.07164, saving model to weights.best.conll2000.hdf5
+Epoch 22/50
+8042/8042 [==============================] - 10s 1ms/step - loss: 0.0535 - crf_viterbi_accuracy: 0.9828 - val_loss: 0.0721 - val_crf_viterbi_accuracy: 0.9747
+
+Epoch 00022: val_loss did not improve from 0.07164
+Epoch 23/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0500 - crf_viterbi_accuracy: 0.9836 - val_loss: 0.0668 - val_crf_viterbi_accuracy: 0.9766
+
+Epoch 00023: val_loss improved from 0.07164 to 0.06679, saving model to weights.best.conll2000.hdf5
+Epoch 24/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0465 - crf_viterbi_accuracy: 0.9845 - val_loss: 0.0643 - val_crf_viterbi_accuracy: 0.9768
+
+Epoch 00024: val_loss improved from 0.06679 to 0.06429, saving model to weights.best.conll2000.hdf5
+Epoch 25/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0433 - crf_viterbi_accuracy: 0.9852 - val_loss: 0.0644 - val_crf_viterbi_accuracy: 0.9767
+
+Epoch 00025: val_loss did not improve from 0.06429
+Epoch 26/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0402 - crf_viterbi_accuracy: 0.9859 - val_loss: 0.0633 - val_crf_viterbi_accuracy: 0.9772
+
+Epoch 00026: val_loss improved from 0.06429 to 0.06332, saving model to weights.best.conll2000.hdf5
+Epoch 27/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0375 - crf_viterbi_accuracy: 0.9867 - val_loss: 0.0609 - val_crf_viterbi_accuracy: 0.9773
+
+Epoch 00027: val_loss improved from 0.06332 to 0.06088, saving model to weights.best.conll2000.hdf5
+Epoch 28/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0351 - crf_viterbi_accuracy: 0.9872 - val_loss: 0.0591 - val_crf_viterbi_accuracy: 0.9778
+
+Epoch 00028: val_loss improved from 0.06088 to 0.05905, saving model to weights.best.conll2000.hdf5
+Epoch 29/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0326 - crf_viterbi_accuracy: 0.9876 - val_loss: 0.0601 - val_crf_viterbi_accuracy: 0.9769
+
+Epoch 00029: val_loss did not improve from 0.05905
+Epoch 30/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0300 - crf_viterbi_accuracy: 0.9884 - val_loss: 0.0582 - val_crf_viterbi_accuracy: 0.9775
+
+Epoch 00030: val_loss improved from 0.05905 to 0.05815, saving model to weights.best.conll2000.hdf5
+Epoch 31/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0277 - crf_viterbi_accuracy: 0.9889 - val_loss: 0.0549 - val_crf_viterbi_accuracy: 0.9786
+
+Epoch 00031: val_loss improved from 0.05815 to 0.05492, saving model to weights.best.conll2000.hdf5
+Epoch 32/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0257 - crf_viterbi_accuracy: 0.9895 - val_loss: 0.0550 - val_crf_viterbi_accuracy: 0.9787
+
+Epoch 00032: val_loss did not improve from 0.05492
+Epoch 33/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0234 - crf_viterbi_accuracy: 0.9901 - val_loss: 0.0533 - val_crf_viterbi_accuracy: 0.9790
+
+Epoch 00033: val_loss improved from 0.05492 to 0.05331, saving model to weights.best.conll2000.hdf5
+Epoch 34/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0215 - crf_viterbi_accuracy: 0.9904 - val_loss: 0.0529 - val_crf_viterbi_accuracy: 0.9786
+
+Epoch 00034: val_loss improved from 0.05331 to 0.05285, saving model to weights.best.conll2000.hdf5
+Epoch 35/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0198 - crf_viterbi_accuracy: 0.9909 - val_loss: 0.0537 - val_crf_viterbi_accuracy: 0.9779
+
+Epoch 00035: val_loss did not improve from 0.05285
+Epoch 36/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0180 - crf_viterbi_accuracy: 0.9912 - val_loss: 0.0549 - val_crf_viterbi_accuracy: 0.9771
+
+Epoch 00036: val_loss did not improve from 0.05285
+Epoch 37/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0165 - crf_viterbi_accuracy: 0.9915 - val_loss: 0.0509 - val_crf_viterbi_accuracy: 0.9788
+
+Epoch 00037: val_loss improved from 0.05285 to 0.05094, saving model to weights.best.conll2000.hdf5
+Epoch 38/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0146 - crf_viterbi_accuracy: 0.9920 - val_loss: 0.0511 - val_crf_viterbi_accuracy: 0.9790
+
+Epoch 00038: val_loss did not improve from 0.05094
+Epoch 39/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0130 - crf_viterbi_accuracy: 0.9923 - val_loss: 0.0514 - val_crf_viterbi_accuracy: 0.9787
+
+Epoch 00039: val_loss did not improve from 0.05094
+Epoch 40/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0114 - crf_viterbi_accuracy: 0.9926 - val_loss: 0.0515 - val_crf_viterbi_accuracy: 0.9786
+
+Epoch 00040: val_loss did not improve from 0.05094
+Epoch 41/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0101 - crf_viterbi_accuracy: 0.9929 - val_loss: 0.0518 - val_crf_viterbi_accuracy: 0.9778
+
+Epoch 00041: val_loss did not improve from 0.05094
+Epoch 42/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0087 - crf_viterbi_accuracy: 0.9931 - val_loss: 0.0496 - val_crf_viterbi_accuracy: 0.9791
+
+Epoch 00042: val_loss improved from 0.05094 to 0.04958, saving model to weights.best.conll2000.hdf5
+Epoch 43/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0073 - crf_viterbi_accuracy: 0.9934 - val_loss: 0.0506 - val_crf_viterbi_accuracy: 0.9786
+
+Epoch 00043: val_loss did not improve from 0.04958
+Epoch 44/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0060 - crf_viterbi_accuracy: 0.9937 - val_loss: 0.0574 - val_crf_viterbi_accuracy: 0.9757
+
+Epoch 00044: val_loss did not improve from 0.04958
+Epoch 45/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0048 - crf_viterbi_accuracy: 0.9938 - val_loss: 0.0509 - val_crf_viterbi_accuracy: 0.9775
+
+Epoch 00045: val_loss did not improve from 0.04958
+Epoch 46/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0036 - crf_viterbi_accuracy: 0.9939 - val_loss: 0.0506 - val_crf_viterbi_accuracy: 0.9784
+
+Epoch 00046: val_loss did not improve from 0.04958
+Epoch 47/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0024 - crf_viterbi_accuracy: 0.9942 - val_loss: 0.0528 - val_crf_viterbi_accuracy: 0.9770
+
+Epoch 00047: val_loss did not improve from 0.04958
+Epoch 48/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 0.0011 - crf_viterbi_accuracy: 0.9946 - val_loss: 0.0525 - val_crf_viterbi_accuracy: 0.9771
+
+Epoch 00048: val_loss did not improve from 0.04958
+Epoch 49/50
+8042/8042 [==============================] - 9s 1ms/step - loss: 2.7309e-04 - crf_viterbi_accuracy: 0.9947 - val_loss: 0.0523 - val_crf_viterbi_accuracy: 0.9769
+
+Epoch 00049: val_loss did not improve from 0.04958
+Epoch 50/50
+8042/8042 [==============================] - 9s 1ms/step - loss: -8.7558e-04 - crf_viterbi_accuracy: 0.9950 - val_loss: 0.0515 - val_crf_viterbi_accuracy: 0.9778
+
+Epoch 00050: val_loss did not improve from 0.04958
+======================================================================
+Loading files...
+======================================================================
+Testing...
+======================================================================
+Accuracy: 91.2067%
+======================================================================
+Classification Report:
+----------------------------------------------------------------------
+              precision    recall  f1-score   support
+
+         PAD       0.00      0.00      0.00         2
+        I-VP       0.86      0.90      0.88      2646
+      I-ADVP       0.50      0.53      0.51        89
+        I-PP       0.66      0.52      0.58        48
+     I-CONJP       1.00      0.31      0.47        13
+        B-NP       0.93      0.91      0.92     12422
+      I-ADJP       0.43      0.36      0.39       167
+        B-VP       0.86      0.92      0.89      4658
+      B-ADJP       0.51      0.56      0.53       438
+      B-SBAR       0.82      0.81      0.82       535
+       B-PRT       0.71      0.63      0.67       106
+       B-LST       0.00      0.00      0.00         5
+      I-SBAR       0.12      0.25      0.17         4
+           O       0.95      0.95      0.95      6180
+     B-CONJP       1.00      0.33      0.50         9
+        B-PP       0.95      0.95      0.95      4811
+      B-INTJ       0.00      0.00      0.00         2
+      B-ADVP       0.71      0.78      0.74       866
+        I-NP       0.93      0.92      0.93     14376
+
+    accuracy                           0.91     47377
+   macro avg       0.63      0.56      0.57     47377
+weighted avg       0.91      0.91      0.91     47377
+
+======================================================================
+Runtime: 493.92s
+======================================================================

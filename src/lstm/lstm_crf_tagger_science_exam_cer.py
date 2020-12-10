@@ -57,7 +57,7 @@ class LSTM_CRF_Tagger_ScienceExamCER(LSTM_CRF_Tagger):
 if __name__ == '__main__':
     
     import os
-    os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
     LSTM_CRF_Tagger_ScienceExamCER(
         train_path='../../data/ScienceExamCER/train_spacy.txt',
@@ -69,5 +69,5 @@ if __name__ == '__main__':
         batch_size=64,
         n_gpu=None
         ).main(
-        test_path='../../data/ScienceExamCER/train_spacy.txt'
+        test_path='../../data/ScienceExamCER/test_spacy.txt'
         )

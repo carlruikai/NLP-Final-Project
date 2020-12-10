@@ -12,6 +12,7 @@ from keras.callbacks import ModelCheckpoint
 from keras.utils import multi_gpu_model
 
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
 
 
 def zero():
@@ -101,7 +102,8 @@ class LSTM_CRF_Tagger(object):
         # Embedding Layer
         x = Embedding(input_dim=self.n_words + 2,
                       output_dim=self.embedding_dim,
-                      input_length=self.max_length)(input)
+                      input_length=self.max_length, 
+                      mask_zero=True)(input)
         
         # Bi-directional LSTM Layer
         x = Bidirectional(LSTM(units=50,
@@ -189,15 +191,8 @@ class LSTM_CRF_Tagger(object):
         model.load_weights(model_path)
 
         return model
-    
-    def main(self, test_path, test_num=None):
-        start_time = time.time()
-        accuracy = []
-        
-        # Train model
-        print('=' * 70)
-        print('Training...')
-        model = self.train()
+
+    def test(self, model, test_path, test_num):
         
         if test_num:
             test_sentences = self.load_file(test_path)[0][:test_num]
@@ -209,15 +204,54 @@ class LSTM_CRF_Tagger(object):
         
         print('=' * 70)
         print('Testing...')
-        for y_true, y_pred in zip(y_test, y_preds):
-            
-            y_pred_short = y_pred[:min(len(y_true), len(y_pred))]
-            
-            accuracy.append(y_pred_short == np.argmax(y_true, axis=1))
+        accuracy = []
+        y_true_all = []
+        y_pred_all = []
+        for y_true, sent, y_pred in zip(y_test, test_sentences, y_preds):
+            sent_len = min(len(sent), len(y_true)) 
+            y_true_short = y_true[:sent_len]
+            y_pred_short = y_pred[:sent_len]
+            y_true_all.extend(np.argmax(y_true_short, axis=1).tolist())
+            y_pred_all.extend(y_pred_short.tolist())
+            accuracy.extend((y_pred_short == np.argmax(y_true_short, axis=1)).tolist())
         
         # Compute the final accuracy
         accuracy = np.array(accuracy).mean()
         print('=' * 70)
         print('Accuracy: {:.4f}%'.format(accuracy * 100))
+        print('=' * 70)
+        print('Classification Report:')
+        print('-' * 70)
+        target_names = [self.idx_to_tag[i] for i in \
+            sorted(list(set(y_true_all + y_pred_all)))]
+        print(len(target_names))
+        print(classification_report(
+            y_true_all, y_pred_all, target_names=target_names))
+        print('=' * 70)
+    
+    def reload_model_and_test(self, test_path, test_num=None):
+        
+        model_path = 'weights.best.' + self.model_name + '.hdf5'
+        
+        print('=' * 70)
+        print('Rebuild model...')
+        model = self.build_model()
+        
+        print('=' * 70)
+        print('Load model weights...')
+        model.load_weights(model_path)
+
+        self.test(model, test_path, test_num)
+        
+    def main(self, test_path, test_num=None):
+        start_time = time.time()
+        
+        # Train model
+        print('=' * 70)
+        print('Training...')
+        model = self.train()
+        
+        self.test(model, test_path, test_num)
+
         print('Runtime: {:.2f}s'.format(time.time() - start_time))
         print('=' * 70)
