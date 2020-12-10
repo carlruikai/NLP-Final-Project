@@ -1,5 +1,6 @@
 import time
 import numpy as np
+from keras_contrib.utils import save_load_utils
 from collections import defaultdict
 from matplotlib import pyplot as plt
 
@@ -165,7 +166,10 @@ class LSTM_CRF_Tagger(object):
                   batch_size=self.batch_size,
                   callbacks=[checkpointer],
                   verbose=1)
-        
+
+        model_path_contrib = 'weights.contrib.' + self.model_name + '.h5'
+        save_load_utils.save_all_weights(model, model_path_contrib)
+
         history = model.history
 
         x_int = np.arange(1, len(history.history['crf_viterbi_accuracy']) + 1)
@@ -213,7 +217,8 @@ class LSTM_CRF_Tagger(object):
             y_pred_short = y_pred[:sent_len]
             y_true_all.extend(np.argmax(y_true_short, axis=1).tolist())
             y_pred_all.extend(y_pred_short.tolist())
-            accuracy.extend((y_pred_short == np.argmax(y_true_short, axis=1)).tolist())
+            accuracy.extend((y_pred_short == \
+                np.argmax(y_true_short, axis=1)).tolist())
         
         # Compute the final accuracy
         accuracy = np.array(accuracy).mean()
@@ -237,8 +242,15 @@ class LSTM_CRF_Tagger(object):
         print('Rebuild model...')
         model = self.build_model()
         
+        X_train, y_train = self.preprocess(self.sentences)
+        
+        model.fit(np.array([X_train[0]]), np.array([y_train[0]]),
+                  epochs=1, verbose=0)
+        
         print('=' * 70)
         print('Load model weights...')
+        model_path_contrib = 'weights.contrib.' + self.model_name + '.h5'
+        save_load_utils.load_all_weights(model, model_path_contrib)
         model.load_weights(model_path)
 
         self.test(model, test_path, test_num)

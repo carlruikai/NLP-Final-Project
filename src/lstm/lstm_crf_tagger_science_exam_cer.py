@@ -57,12 +57,12 @@ class LSTM_CRF_Tagger_ScienceExamCER(LSTM_CRF_Tagger):
 if __name__ == '__main__':
     
     import os
-    os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
     LSTM_CRF_Tagger_ScienceExamCER(
         train_path='../../data/ScienceExamCER/train_spacy.txt',
         valid_path='../../data/ScienceExamCER/valid_spacy.txt',
-        model_name='science_exam_cer',
+        model_name='science_exam_cer_50',
         max_length=100,
         embedding_dim=20,
         epochs=50,

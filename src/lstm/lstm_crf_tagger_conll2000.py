@@ -46,7 +46,7 @@ class LSTM_CRF_Tagger_CoNLL2000(LSTM_CRF_Tagger):
 if __name__ == '__main__':
     
     import os
-    os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
     LSTM_CRF_Tagger_CoNLL2000(
         train_path='../../data/CoNLL-2000/train.txt',
