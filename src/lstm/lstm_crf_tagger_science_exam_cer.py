@@ -12,6 +12,7 @@ class LSTM_CRF_Tagger_ScienceExamCER(LSTM_CRF_Tagger):
                  embedding_dim,
                  epochs,
                  batch_size,
+                 mask,
                  n_gpu=None):
         super(LSTM_CRF_Tagger_ScienceExamCER, self).__init__(
             train_path=train_path,
@@ -20,6 +21,7 @@ class LSTM_CRF_Tagger_ScienceExamCER(LSTM_CRF_Tagger):
             embedding_dim=embedding_dim,
             epochs=epochs,
             batch_size=batch_size,
+            mask=mask,
             n_gpu=None
         )
         self.valid_path = valid_path
@@ -57,16 +59,17 @@ class LSTM_CRF_Tagger_ScienceExamCER(LSTM_CRF_Tagger):
 if __name__ == '__main__':
     
     import os
-    os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
     LSTM_CRF_Tagger_ScienceExamCER(
         train_path='../../data/ScienceExamCER/train_spacy.txt',
         valid_path='../../data/ScienceExamCER/valid_spacy.txt',
-        model_name='science_exam_cer_50',
+        model_name='science_exam_cer',
         max_length=100,
         embedding_dim=20,
         epochs=50,
         batch_size=64,
+        mask=False,
         n_gpu=None
         ).main(
         test_path='../../data/ScienceExamCER/test_spacy.txt'

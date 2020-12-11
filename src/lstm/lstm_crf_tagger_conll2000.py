@@ -9,6 +9,7 @@ class LSTM_CRF_Tagger_CoNLL2000(LSTM_CRF_Tagger):
                  embedding_dim,
                  epochs,
                  batch_size,
+                 mask,
                  n_gpu=None):
         super(LSTM_CRF_Tagger_CoNLL2000, self).__init__(
             train_path=train_path,
@@ -17,6 +18,7 @@ class LSTM_CRF_Tagger_CoNLL2000(LSTM_CRF_Tagger):
             embedding_dim=embedding_dim,
             epochs=epochs,
             batch_size=batch_size,
+            mask=mask,
             n_gpu=n_gpu
         )
     
@@ -46,15 +48,16 @@ class LSTM_CRF_Tagger_CoNLL2000(LSTM_CRF_Tagger):
 if __name__ == '__main__':
     
     import os
-    os.environ["CUDA_VISIBLE_DEVICES"] = "3"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
     LSTM_CRF_Tagger_CoNLL2000(
         train_path='../../data/CoNLL-2000/train.txt',
-        model_name='conll2000',
+        model_name='conll2000_mask_50',
         max_length=100,
         embedding_dim=20,
         epochs=50,
         batch_size=256,
+        mask=True,
         n_gpu=2
         ).main(
         test_path='../../data/CoNLL-2000/test.txt'
