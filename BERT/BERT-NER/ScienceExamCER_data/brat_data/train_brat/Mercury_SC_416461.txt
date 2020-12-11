@@ -1,5 +1,0 @@
-A class is modeling the differences between a unicellular organism and a multicellular organism. Which example is a model of a unicellular organism?
-a student passing out water to a group
-a student getting cereal from the cabinet
-two students collecting trash from a group
-four students working together to move a desk

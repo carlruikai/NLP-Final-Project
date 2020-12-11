@@ -1,5 +1,0 @@
-The force necessary to keep planets in orbit around the Sun is
-gravity.
-friction.
-magnetism.
-nuclear.

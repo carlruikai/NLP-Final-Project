@@ -1,5 +1,0 @@
-An apple appears red when struck by white light. This appearance is because the red light is reflected and the other colors are absorbed. What color will this apple appear to be when struck by blue light?
-black
-blue
-red
-white

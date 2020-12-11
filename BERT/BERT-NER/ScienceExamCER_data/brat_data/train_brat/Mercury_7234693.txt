@@ -1,5 +1,0 @@
-A metal ball has a constant velocity of zero. Which other quantity must also be zero?
-weight of the ball
-energy of the ball
-acceleration of the ball
-inertia of the ball

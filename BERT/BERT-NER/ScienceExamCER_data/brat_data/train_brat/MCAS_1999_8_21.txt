@@ -1,5 +1,0 @@
-It is necessary to add a day to the calendar every four years because
-the axis of Earth is tilted.
-the gravitational pull of the Sun affects Earth's revolution.
-the revolution of Earth is not exactly 365 days.
-the Moon crosses the orbit of the Sun every 28 days.

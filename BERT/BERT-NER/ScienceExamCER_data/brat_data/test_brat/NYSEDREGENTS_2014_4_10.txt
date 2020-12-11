@@ -1,5 +1,0 @@
-A rubber ball rolls across a level surface. The ball will eventually stop rolling due to
-electricity
-conductivity
-friction
-magnetism

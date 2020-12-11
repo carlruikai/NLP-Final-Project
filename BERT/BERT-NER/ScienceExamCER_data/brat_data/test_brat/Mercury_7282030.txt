@@ -1,5 +1,0 @@
-Which most accurately describes all behavior?
-All behavior is affected only by experience.
-All behavior is affected only by inheritance.
-All behavior is affected neither by experience nor inheritance.
-All behavior is affected by both experience and inheritance.

@@ -1,5 +1,0 @@
-Which of the following identifies the primary function of a radio station tower in a communication system?
-decoder
-encoder
-receiver
-transmitter

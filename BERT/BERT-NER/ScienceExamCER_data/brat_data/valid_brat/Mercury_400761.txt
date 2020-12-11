@@ -1,5 +1,0 @@
-Which equation is correctly balanced for hydrogen and oxygen reacting to form water?
-H_{2} + O_{2} -> H_{2}O
-2H_{2} + O_{2} -> 2H_{2}O
-4H + O_{2} -> 2H_{2}O
-H_{2} + O -> H_{2}O

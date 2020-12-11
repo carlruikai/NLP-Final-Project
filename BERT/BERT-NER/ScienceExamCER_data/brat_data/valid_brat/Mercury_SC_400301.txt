@@ -1,5 +1,0 @@
-The floating arrow on a compass always points towards the
-west.
-east.
-south.
-north.

@@ -1,5 +1,0 @@
-How should a line graph be used to display distance and time data for a moving object?
-The y-axis should be labeled as time, which is the dependent variable.
-The y-axis should be labeled as distance, which is the independent variable.
-The x-axis should be labeled as distance, which is the dependent variable.
-The x-axis should be labeled as time, which is the independent variable.

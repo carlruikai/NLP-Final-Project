@@ -1,5 +1,0 @@
-A pharmaceutical company has published the results of a limited experiment investigating the protective value of a chemical compound against high doses of UV rays on skin cells. It was later discovered that the results were not reproducible. What action could the company researchers have taken to avoid publishing erroneous results?
-Perform multiple trials.
-Use only low levels of radiation.
-Use different wavelengths of radiation.
-Look into results of similar experiments before forming a hypothesis.

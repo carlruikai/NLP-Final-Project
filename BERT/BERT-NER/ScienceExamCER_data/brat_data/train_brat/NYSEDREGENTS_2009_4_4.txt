@@ -1,5 +1,0 @@
-When an ice cube melts, its state of matter changes from a
-gas to a liquid
-solid to a liquid
-liquid to a solid
-solid to a gas

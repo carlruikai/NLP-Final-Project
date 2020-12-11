@@ -1,9 +1,0 @@
-T1	LevelOfInclusion	0	5	Which
-T2	StateOfBeing	6	8	is
-T3	Rarity	11	23	nonrenewable
-T4	NaturalResources	24	32	resource
-T5	FossilFuel	34	37	oil
-T6	Plant	38	43	trees
-T7	OtherEnergyResources	44	56	solar energy
-T8	Plant	57	67	food crops
-T9	Agriculture	57	67	food crops

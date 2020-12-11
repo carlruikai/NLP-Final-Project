@@ -1,5 +1,0 @@
-In mice, a certain species displays incomplete dominance in coat coloring. The offspring of a black (BB) mouse and a white (bb) mouse are gray (Bb) mice. A cross between two gray mice will most likely produce offspring with which percent of coat colors?
-25% black, 75% gray
-25% gray, 75% white
-25% white, 25% black, 50% gray
-25% gray, 25% black, 50% white

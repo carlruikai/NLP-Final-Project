@@ -1,5 +1,0 @@
-An example of a learned behavior is a
-spider building a web.
-dog laying down on command.
-beaver building a dam in a creek.
-kangaroo jumping away from a predator.

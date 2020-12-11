@@ -1,5 +1,0 @@
-Genes code for specifically structured
-acids.
-lipids.
-sugars.
-proteins.

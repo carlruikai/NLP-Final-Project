@@ -1,5 +1,0 @@
-An appliance manufacturer has redesigned its original electrical fan. It has made the new fan more energy efficient. This means that the new fan
-converts more electricity into heat.
-spins at a slower rate than the original fan.
-requires more electricity than the original fan.
-reduces the percentage of heat lost to the atmosphere.

@@ -1,5 +1,0 @@
-A scientist uses angstrom units to measure the distance between two points. The scientist is most likely measuring the distance between two
-atoms.
-cities.
-continents.
-stars.

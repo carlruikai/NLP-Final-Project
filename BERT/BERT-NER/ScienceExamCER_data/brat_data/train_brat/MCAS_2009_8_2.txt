@@ -1,5 +1,0 @@
-Sherry is going to use her computer to draw a three-dimensional box. She wants to be able to specify the exact dimensions and angles and to rotate the box as needed on the screen. Which of the following types of programs would Sherry most likely use for this purpose?
-word processing software
-math spreadsheet program
-Internet-based search engine
-computer-aided design program

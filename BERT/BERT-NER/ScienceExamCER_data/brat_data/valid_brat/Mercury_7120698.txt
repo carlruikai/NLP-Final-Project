@@ -1,5 +1,0 @@
-A scientist working on a new package design wants to use a material that is highly recyclable, biodegradable, and inexpensive. The best material for the package design is
-aluminum.
-cardboard.
-plastic.
-glass.

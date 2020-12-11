@@ -1,5 +1,0 @@
-Which term identifies a group of cells that work together to perform a similar function?
-molecule
-organ
-organism
-tissue

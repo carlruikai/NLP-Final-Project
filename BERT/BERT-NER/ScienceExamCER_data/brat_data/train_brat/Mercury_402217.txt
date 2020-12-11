@@ -1,5 +1,0 @@
-A solution of lead (II) nitrate reacts with a solution of sodium iodide to produce a yellow solid of lead (II) iodide and aqueous sodium nitrate. Which of these illustrates the reaction?
-Pb(NO_{3})_{2}(aq) + 2NaI(aq) -> PbI_{2}(s) + 2NaNO_{3}(aq)
-L_{2}N(aq) + SI(aq) -> L_{2}I(s) + SN(aq)
-Pb_{2}N(aq) + NaI(aq) -> Pb_{2}I(s) NaN(aq)
-Fe(NO_{3})_{2}(aq) + 2NaI(aq) -> FeI_{2} + 2NaNO_{3}(aq)

@@ -1,5 +1,0 @@
-A class learns about weather. The students in the class measure the outside air temperature at the same time each day. Which way of measuring the temperature would provide the most accurate data?
-taking the measurement in the shade
-placing the thermometer on the ground
-taking a measurement using a different tool each day
-recording the measurements from three thermometers

@@ -1,5 +1,0 @@
-A sample in a cylindrical container has a cylindrical shape and a fixed volume. The state of matter of the sample
-must be solid.
-could be either solid or liquid.
-must be liquid.
-could be either liquid or gas.

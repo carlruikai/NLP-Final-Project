@@ -1,5 +1,0 @@
-An anemometer is a tool that measures
-wind direction.
-wind speed.
-air pressure.
-air temperature.

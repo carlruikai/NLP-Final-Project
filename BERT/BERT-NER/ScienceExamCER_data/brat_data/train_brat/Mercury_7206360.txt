@@ -1,5 +1,0 @@
-A line graph is best used when the measured variable is
-changing at a constant rate.
-nearly equal in several trials.
-being compared to a control.
-observed at one point in time.

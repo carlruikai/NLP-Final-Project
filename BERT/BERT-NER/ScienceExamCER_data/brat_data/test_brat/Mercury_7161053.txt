@@ -1,5 +1,0 @@
-When electricity is used to run appliances in a building, the electricity is measured in kilowatt-hours. Which of these units could be used in place of "kilowatt-hour"?
-joule
-newton
-specific heat
-thermal expansion

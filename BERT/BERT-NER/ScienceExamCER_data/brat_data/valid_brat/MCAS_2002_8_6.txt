@@ -1,5 +1,0 @@
-What is the first step in designing a product?
-model a solution
-communicate the solution
-identify the need or want
-build a prototype

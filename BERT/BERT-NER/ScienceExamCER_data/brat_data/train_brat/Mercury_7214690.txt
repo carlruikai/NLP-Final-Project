@@ -1,5 +1,0 @@
-Students studying the atmosphere want to display the percentage of each greenhouse gas as compared to the total amount of greenhouse gases found in the atmosphere. Which representation would be most appropriate for displaying these percentages?
-bar graph
-line graph
-pie chart
-data table

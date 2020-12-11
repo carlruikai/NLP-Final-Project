@@ -1,5 +1,0 @@
-How does a tiger get stripes?
-from its environment
-from its food
-from its offspring
-from its parents

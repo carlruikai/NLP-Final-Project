@@ -1,5 +1,0 @@
-A solution with a pH of 2 can be increased to a pH above 7 by adding
-an acid.
-water.
-a base.
-hydrogen.

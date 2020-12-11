@@ -1,5 +1,0 @@
-The trait for flower color is highly variable among certain species of rose plants, leading to the formation of flowers of different colors. How did the flower color variation in rose plants come about?
-through mutation
-through pollination
-through natural selection
-through asexual reproduction

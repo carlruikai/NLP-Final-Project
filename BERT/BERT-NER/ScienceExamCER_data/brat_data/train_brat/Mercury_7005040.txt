@@ -1,5 +1,0 @@
-During its lifetime, which object is known to change in brightness, color, and temperature?
-star
-moon
-asteroid
-planet

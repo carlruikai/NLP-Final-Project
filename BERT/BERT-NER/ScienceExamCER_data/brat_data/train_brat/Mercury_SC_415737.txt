@@ -1,5 +1,0 @@
-A small ice cube at a temperature of 0°C is dropped into a glass of water at 28°C and melts. What is the temperature of the water in the glass just after the ice cube melts?
-0°C
-between 0°C and 28°C
-28°C
-greater than 28°C

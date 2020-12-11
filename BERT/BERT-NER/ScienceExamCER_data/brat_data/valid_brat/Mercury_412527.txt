@@ -1,5 +1,0 @@
-A timber company is dividing a 10,000 hectare forest into 5 sections. Which unit is most appropriate to use when showing the area of the divided sections?
-square inches (in.^2)
-square meters (m^2)
-square kilometers (km^2)
-square centimeters (cm^2)

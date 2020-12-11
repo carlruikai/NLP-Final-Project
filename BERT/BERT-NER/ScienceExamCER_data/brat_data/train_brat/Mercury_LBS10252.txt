@@ -1,5 +1,0 @@
-All of the following contain metric units of measurement except
-g, kg, cg
-dL, L, mL
-ft, yd, mi
-N, J, W

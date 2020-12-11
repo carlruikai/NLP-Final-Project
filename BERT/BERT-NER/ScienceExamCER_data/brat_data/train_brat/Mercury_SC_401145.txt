@@ -1,5 +1,0 @@
-Which tool would be best to use for counting the number of legs on an ant?
-ruler
-hand lens
-calculator
-microscope

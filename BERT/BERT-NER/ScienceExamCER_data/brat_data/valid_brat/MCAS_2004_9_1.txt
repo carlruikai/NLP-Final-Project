@@ -1,5 +1,0 @@
-The force of gravity on an object depends primarily on the object's
-density.
-mass.
-momentum.
-volume.

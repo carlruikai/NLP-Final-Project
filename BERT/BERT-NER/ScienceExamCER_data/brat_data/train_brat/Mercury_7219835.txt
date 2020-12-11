@@ -1,5 +1,0 @@
-A group of students investigated the effect of water temperature on the gill movements of goldfish. The students tested water temperatures from 20°C to 10°C at 2-degree intervals. The data showed that as water temperature decreased, the average number of gill movements per minute by the goldfish also decreased. Which type of display is BEST used to show this relationship?
-a bar graph
-a pie chart
-a line graph
-a tally chart

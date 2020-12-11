@@ -1,5 +1,0 @@
-A student wants to find the relationship between the diameter of several plastic disks and the circumference of each disk. Which of these types of graphs should be constructed to determine this relationship?
-pie graph
-line graph
-scatterplot
-box-and-whisker plot

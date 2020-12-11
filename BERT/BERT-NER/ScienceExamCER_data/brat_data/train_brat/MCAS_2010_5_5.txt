@@ -1,5 +1,0 @@
-The students in an engineering class built a robot that stacks wooden blocks. A built-in computer controls the movement of the robot. The computer in the robot performs a function most similar to which part of the human body?
-lungs
-heart
-brain
-arms

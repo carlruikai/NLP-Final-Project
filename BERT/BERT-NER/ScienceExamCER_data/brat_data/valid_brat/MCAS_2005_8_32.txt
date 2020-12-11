@@ -1,5 +1,0 @@
-In order for a glider to fly, its weight must be opposed by
-lift.
-drag.
-gravity.
-friction.

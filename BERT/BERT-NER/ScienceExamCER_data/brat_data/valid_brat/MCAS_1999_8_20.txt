@@ -1,5 +1,0 @@
-The ratio of an object's mass to its volume is its
-area.
-perimeter.
-density.
-weight.

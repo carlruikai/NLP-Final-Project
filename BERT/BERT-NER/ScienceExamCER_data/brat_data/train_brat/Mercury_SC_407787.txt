@@ -1,5 +1,0 @@
-Paco throws a ball. What force pulls the ball down toward the ground?
-friction
-gravity
-inertia
-momentum

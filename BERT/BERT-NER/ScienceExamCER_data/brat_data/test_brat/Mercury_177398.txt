@@ -1,5 +1,0 @@
-A car traveling in a northeasterly direction at a rate of 50 km/h represents which of the following?
-speed
-velocity
-acceleration
-deceleration

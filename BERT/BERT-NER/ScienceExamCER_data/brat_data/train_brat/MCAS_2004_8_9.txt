@@ -1,5 +1,0 @@
-What is the smallest particle of the element gold (Au) that can still be classified as gold?
-atom
-molecule
-neutron
-proton

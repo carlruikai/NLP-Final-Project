@@ -1,5 +1,0 @@
-Based on the Doppler effect, the electromagnetic waves reaching Earth from a galaxy that is moving away from Earth would be expected to
-experience an increase in their amplitude.
-experience an increase in frequency.
-experience a decrease from transverse waves to longitudinal waves.
-experience a decrease in frequency.

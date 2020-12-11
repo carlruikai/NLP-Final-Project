@@ -1,5 +1,0 @@
-Chromosome mutations involve the deletion or duplication of many genes. The effects of chromosome mutations are often much greater than mutations within a single gene, because chromosome mutations
-can only occur at the time of fertilization.
-can cause abnormal development of the offspring.
-are always beneficial to the organism.
-are rarely passed on to the next generation.

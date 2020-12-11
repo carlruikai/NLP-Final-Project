@@ -1,5 +1,0 @@
-The mathematical model for calculating speed is shown below. Speed = distance/time. An airplane traveled 700 kilometers in two hours during a trip. What was the average speed of the plane during the trip?
-5.8 kilometers per hour
-350 kilometers per hour
-1400 kilometers per hour
-84,000 kilometers per hour

@@ -1,5 +1,0 @@
-Students were investigating the relationship between the length and period of a pendulum. They made a pendulum by using string to suspend a 0.5-kg mass from a fixed support. The students changed the length of the string and measured the time it took for the pendulum to complete ten cycles of motion. By dividing each time measurement by ten, they were able to calculate the period of the pendulum. What was the independent variable?
-the length of the pendulum
-the period of the pendulum
-the type of string used in making the pendulum
-the amount of mass used in making the pendulum

@@ -1,5 +1,0 @@
-When a dog performs a specific action on command, such as sitting, the action is an example of
-inherited behavior.
-learned behavior.
-instinctive behavior.
-environmental behavior.

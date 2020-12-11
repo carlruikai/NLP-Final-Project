@@ -1,5 +1,0 @@
-Margaret is running a full lap around a circular track. She is facing north when she starts. What direction will she be facing after she has completed half of a lap?
-north
-south
-east
-west

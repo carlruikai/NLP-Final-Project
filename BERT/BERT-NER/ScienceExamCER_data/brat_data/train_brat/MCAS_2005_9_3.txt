@@ -1,5 +1,0 @@
-A recycling plant manager needs to melt 1500 kg of scrap copper to sell to a wire manufacturer. The copper is at 15°C and its melting point is 1083°C. The copper has a specific heat of 385 J/kg x K. How much heat is required to raise the temperature of the copper to its melting point?
-6.2 x 10^8 J
-6.3 x 10^8 J
-7.7 x 10^8 J
-7.9 x 10^8 J

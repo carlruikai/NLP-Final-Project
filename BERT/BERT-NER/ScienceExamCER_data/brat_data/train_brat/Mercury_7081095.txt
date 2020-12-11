@@ -1,5 +1,0 @@
-In a tug-of-war game, balanced forces are best represented when both teams cause the flag to
-stay in the middle.
-fall to the ground.
-move slowly in one direction.
-be pulled quickly in one direction.

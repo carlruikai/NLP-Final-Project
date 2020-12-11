@@ -1,5 +1,0 @@
-A student wants to use a stream table to test the influence of water acidity on the erosion rate of a stream. Which variable should be constant in this experiment?
-angle of tilt of the table
-acidity of the water
-amount of sediment eroded
-rate that sediment is eroded

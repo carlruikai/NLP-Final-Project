@@ -1,5 +1,0 @@
-A calculation based on the chemical energy of gasoline shows that a car should be able to go 100 miles on a gallon of fuel. When the car was driven on a test track, the car only went 25 miles on a gallon of fuel. What accounts for most of the difference?
-the mass of the driver and the fuel carried by the car
-the wind resistance between the car and the air nearby
-the waste heat from the combustion of fuel in the engine
-the friction between the tires and the surface of the track

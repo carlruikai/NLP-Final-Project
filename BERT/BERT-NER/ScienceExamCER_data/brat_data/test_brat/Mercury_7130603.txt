@@ -1,5 +1,0 @@
-Which of the listed quantities is measured in a unit other than the joule?
-heat
-light
-power
-work

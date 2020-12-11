@@ -1,5 +1,0 @@
-The force of gravitational attraction between two objects depends on the distance between the objects and their
-buoyancies
-temperatures
-masses
-shapes

@@ -1,5 +1,0 @@
-Light rays are focused by the lens of a camera through the process of
-reflection.
-refraction.
-dispersion.
-diffraction.

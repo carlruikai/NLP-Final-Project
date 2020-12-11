@@ -1,5 +1,0 @@
-An experiment is performed with a sealed container. The container starts out with a temperature of 70 degrees F and an air pressure of 20 psi. The container is heated, and the pressure inside the container rises evenly with increased temperature. If the container is cooled back to 70 degrees F, what will the air pressure be?
-10 psi
-20 psi
-30 psi
-40 psi

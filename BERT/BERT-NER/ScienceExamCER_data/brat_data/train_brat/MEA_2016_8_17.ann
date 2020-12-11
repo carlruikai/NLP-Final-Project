@@ -1,9 +1,0 @@
-T1	StateOfBeing	5	7	is
-T2	Complexity	12	17	basic
-T3	Unit	18	22	unit
-T4	LivingThing	26	30	life
-T5	ElementalComponents	32	36	atom
-T6	Cell	37	41	cell
-T7	Element	42	49	element
-T8	AnimalCellPart	50	57	nucleus
-T9	PlantCellPart	50	57	nucleus

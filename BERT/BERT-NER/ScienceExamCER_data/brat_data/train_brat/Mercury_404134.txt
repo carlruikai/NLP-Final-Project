@@ -1,5 +1,0 @@
-When a button is pushed on a battery-operated clock, the time display is illuminated. What process has taken place?
-Pressure has been converted to light.
-Force has been converted to light.
-Closing an electric circuit has produced light.
-Opening an electric circuit has produced light.

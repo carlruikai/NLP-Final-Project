@@ -1,5 +1,0 @@
-Photosynthesis is a process involving carbon dioxide, water, glucose, oxygen, and sunlight. Which is the correct chemical equation for photosynthesis?
-O_{2} + H_{2}O + energy -> C_{6}H_{12}O_{6} + CO_{2}
-CO_{2} + H_{2}O -> C_{6}H_{6}O_{3} + O_{2} + energy
-6O_{2} + 6H_{2}O -> C_{6}H_{12}O_{6} + 6CO_{2} + energy
-6CO_{2} + 6H_{2}O + energy -> C_{6}H_{12}O_{6} + 6O_{2}

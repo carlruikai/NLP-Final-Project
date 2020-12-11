@@ -1,5 +1,0 @@
-A son can inherit traits
-only from his father
-only from his mother
-from both his father and his mother
-from either his father or his mother, but not from both

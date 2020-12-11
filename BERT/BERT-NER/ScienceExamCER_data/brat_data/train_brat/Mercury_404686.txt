@@ -1,5 +1,0 @@
-White light can be separated into all of its component colors by
-mixing the three primary colors of light.
-passing the light through a prism.
-passing the light through a colored filter.
-using a translucent material to filter the light.

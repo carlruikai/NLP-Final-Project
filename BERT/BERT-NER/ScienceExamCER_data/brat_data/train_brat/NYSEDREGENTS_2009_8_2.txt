@@ -1,5 +1,0 @@
-The longitude of a location determines which time zone it is in. Different time zones are the result of
-Earth's rotation
-Earth's revolution
-the Moon's rotation
-the Moon's revolution

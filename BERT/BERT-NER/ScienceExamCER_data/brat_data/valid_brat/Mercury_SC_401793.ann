@@ -1,9 +1,0 @@
-T1	GenericTerms	6	12	object
-T2	Energy	16	23	powered
-T3	ActUponSomething	16	23	powered
-T4	Cause	24	26	by
-T5	Circuits	30	48	electrical circuit
-T6	SoundProducingObject	52	56	drum
-T7	LightProducingObject	59	69	flashlight
-T8	LightProducingObject	72	82	matchstick
-T9	ManmadeObjects	85	96	wind-up toy

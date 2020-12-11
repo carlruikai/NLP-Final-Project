@@ -1,5 +1,0 @@
-How are cells able to produce the proteins required by certain conditions?
-by synthesizing new genes
-by altering existing genes
-by expressing existing genes
-by mutating new genes

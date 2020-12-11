@@ -1,5 +1,0 @@
-In order to distinguish fact from opinion, conclusions in experiments should be
-recorded on a computer.
-presented in bar graphs.
-based on verifiable data.
-organized in a table.

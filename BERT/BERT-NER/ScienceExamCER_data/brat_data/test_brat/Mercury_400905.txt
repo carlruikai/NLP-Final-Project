@@ -1,5 +1,0 @@
-The Sun is approximately 1.5 x 10^8 km from Earth. The speed of light is 3.0 x 10^8 m/sec. What is the distance from the Sun to Earth in light-seconds?
-2.0 light-seconds
-0.5 light-seconds
-2.0 x 10^-3 light-seconds
-5.0 x 10^2 light-seconds

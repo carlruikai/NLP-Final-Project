@@ -1,5 +1,0 @@
-Organisms can be classified according to the flow of energy in a food chain. Which is the correct order of the flow of energy?
-Carnivore -> Producer -> Herbivore
-Producer -> Herbivore -> Carnivore
-Herbivore -> Producer -> Carnivore
-Producer -> Carnivore -> Herbivore

@@ -1,5 +1,0 @@
-A male fruit fly is homozygous dominant for gray-body color (G) and is crossed with a female fruit fly that is homozygous recessive for ebony-body color (g). What are the probable phenotypes of the offspring?
-25% gray, 75% ebony
-50% gray, 50% ebony
-100% ebony
-100% gray

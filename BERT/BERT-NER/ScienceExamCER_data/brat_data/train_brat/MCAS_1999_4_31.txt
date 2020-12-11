@@ -1,5 +1,0 @@
-If its food supply in a field decreases, the mouse population in that field will probably
-increase.
-decrease.
-remain the same.
-become extinct.

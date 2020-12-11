@@ -1,5 +1,0 @@
-When a balloon is filled with air and suddenly released, it will fly around the room as the air escapes. If compared to space transportation, the escaping air is most similar to what subsystem of a spacecraft?
-guidance
-propulsion
-support
-suspension

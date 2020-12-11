@@ -1,7 +1,0 @@
-T1	AbilityAvailability	5	8	can
-T2	PlantPart	11	17	flower
-T3	ChangeInto	18	24	become
-T4	PlantPart	28	33	fruit
-T5	PlantPart	36	40	leaf
-T6	PlantPart	43	47	stem
-T7	PlantPart	50	56	branch

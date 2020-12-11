@@ -1,5 +1,0 @@
-A student collects data about the dates and strengths of historical earthquakes in Nevada. Which of the following would be best for reporting the strengths of these earthquakes over time?
-a topographic map
-a line graph
-a series of photographs
-a table of pictographs

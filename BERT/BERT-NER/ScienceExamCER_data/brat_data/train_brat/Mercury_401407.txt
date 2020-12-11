@@ -1,5 +1,0 @@
-An atom with a +1 charge has
-lost a proton.
-lost an electron.
-gained a proton.
-gained an electron.

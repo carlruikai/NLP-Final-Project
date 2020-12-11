@@ -1,5 +1,0 @@
-Which technological advancement has done the most to improve the accuracy of weather predictions?
-barometer
-weather balloons
-anemometer
-satellites

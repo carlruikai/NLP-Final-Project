@@ -1,5 +1,0 @@
-Which action best models the motion of an arm at the elbow joint?
-opening a drawer
-slicing an apple
-closing a car door
-pushing a wheelbarrow

@@ -1,5 +1,0 @@
-Which sequence of energy transformations occurs after a battery-operated flashlight is turned on?
-electrical -> light -> chemical
-electrical -> chemical -> light
-chemical -> light -> electrical
-chemical -> electrical -> light

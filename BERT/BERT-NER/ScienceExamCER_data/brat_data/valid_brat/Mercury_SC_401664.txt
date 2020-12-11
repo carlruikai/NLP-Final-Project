@@ -1,5 +1,0 @@
-Which object used in an experiment can safely be recycled?
-an aluminum can
-a wet paper towel
-salt spilled onto a tabletop
-a broken graduated cylinder

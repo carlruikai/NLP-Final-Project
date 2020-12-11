@@ -1,5 +1,0 @@
-Genes are located on chromosomes which are composed of
-DNA.
-RNA.
-ATP.
-ADP.

@@ -1,9 +1,0 @@
-T1	Quality	5	9	best
-T2	QualityComparison	5	9	best
-T3	Represent	10	19	describes
-T4	ElectricalProperty	24	43	electrical property
-T5	ElementalComponents	50	54	atom
-T6	AtomicProperties	56	63	neutral
-T7	ResistanceStrength	64	73	insulated
-T8	ElectricalProperty	74	92	positively charged
-T9	ElectricalProperty	93	111	negatively charged

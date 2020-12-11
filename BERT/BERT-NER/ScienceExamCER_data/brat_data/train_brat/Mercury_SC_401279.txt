@@ -1,5 +1,0 @@
-The reading on a barometer rises when the air
-pressure increases.
-pressure decreases.
-speed increases.
-speed decreases.

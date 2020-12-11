@@ -1,5 +1,0 @@
-A person in a dark room looking through a window can clearly see a person outside in the daylight. But a person outside cannot see the person inside. Why does this happen?
-There is not enough light being reflected off the person in the room.
-Light rays cannot pass through a window twice.
-Outside light does not pass through windows.
-Sunlight is not as intense as other sources of light.

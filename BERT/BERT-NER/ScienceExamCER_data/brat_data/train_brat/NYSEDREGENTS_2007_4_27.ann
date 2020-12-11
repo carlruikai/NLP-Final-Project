@@ -1,8 +1,0 @@
-T1	LivingThing	0	13	Living things
-T2	Require	14	23	depend on
-T3	Energy	24	30	energy
-T4	RelativeDirection	31	35	from
-T5	Star	40	43	Sun
-T6	Moon	48	52	Moon
-T7	Soil	53	57	soil
-T8	PhasesOfWater	58	63	water

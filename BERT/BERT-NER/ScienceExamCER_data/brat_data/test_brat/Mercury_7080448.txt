@@ -1,5 +1,0 @@
-In order to make a line graph showing the rate of erosion on the banks of a river during a week-long flood, the y-axis should be labeled as the width of the river bank, in meters. The best label for the x-axis is time, in
-seconds.
-minutes.
-hours.
-days.

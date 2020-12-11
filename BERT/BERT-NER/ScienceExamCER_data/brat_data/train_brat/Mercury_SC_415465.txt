@@ -1,5 +1,0 @@
-Oscar is investigating how many days it takes for a chick to hatch from an egg. Which number of eggs would give Oscar the most reliable results?
-1
-3
-5
-7

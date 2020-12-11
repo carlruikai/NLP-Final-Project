@@ -1,5 +1,0 @@
-Laura prepared to roll a bowling ball down a lane. She swung the ball back with her arm. At the top of her backswing, the ball had a velocity of 0 meters per second (m/s). She swung her arm forward to release the ball down the lane. The ball left her hand with a velocity of 12 m/s. The time it took her to swing the ball forward was 0.5 seconds. What was the average acceleration of the bowling ball during her forward swing?
-2.4 m/s^2
-6.0 m/s^2
-11.5 m/s^2
-24.0 m/s^2

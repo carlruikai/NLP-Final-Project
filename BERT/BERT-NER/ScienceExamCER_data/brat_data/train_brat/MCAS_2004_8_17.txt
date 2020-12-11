@@ -1,5 +1,0 @@
-In which situation would it be an advantage to ship a product by plane rather than by truck?
-The product is very heavy and relatively large.
-The product is sensitive to changes in pressure.
-The product must be delivered a long distance soon after it is made.
-The product must be delivered to several sites located within a radius of 50 miles.

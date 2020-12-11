@@ -1,5 +1,0 @@
-Repeating experiments improves the likelihood of accurate results because the overall results are
-less likely to prove the hypothesis correct.
-more likely to prove the hypothesis correct.
-less likely to be correct due to fewer errors being made.
-more likely to be correct due to fewer errors being made.

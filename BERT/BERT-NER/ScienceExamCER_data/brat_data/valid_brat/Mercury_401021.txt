@@ -1,5 +1,0 @@
-When a student uses the equation, mass multiplied by change in temperature multiplied by specific heat, what is being calculated? q = m \times C \times \Delta T
-a phase change
-stored energy
-heat convection
-heat gain or heat loss

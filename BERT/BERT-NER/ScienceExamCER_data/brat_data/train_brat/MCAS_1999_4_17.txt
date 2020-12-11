@@ -1,5 +1,0 @@
-You need to move products across the ocean from Boston to Europe. What are your choices?
-ship or airplane
-truck or ship
-truck or airplane
-tunnel or ship

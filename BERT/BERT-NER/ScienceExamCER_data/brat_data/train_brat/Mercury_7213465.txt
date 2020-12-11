@@ -1,5 +1,0 @@
-A student used two long wires to connect a lightbulb to a battery. The student noticed that as soon as the circuit was complete, a nearby compass started to point in a direction other than north. The compass pointed in a different direction because it was reacting to the
-heat produced by the lightbulb.
-light produced by the lightbulb.
-electric field produced by the battery.
-magnetic field produced by the electric current.

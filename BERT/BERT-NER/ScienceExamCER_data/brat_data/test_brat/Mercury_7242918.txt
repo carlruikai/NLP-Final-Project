@@ -1,5 +1,0 @@
-Individuals that carry a particular allele may have more descendants than other individuals, resulting in the allele becoming more common. Which process causes random alleles to become more common within a population?
-gene shuffling
-directional selection
-natural selection
-genetic drift

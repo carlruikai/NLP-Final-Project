@@ -1,5 +1,0 @@
-A student plans to design a new toothpaste tube that will give the same amount of toothpaste every time it is squeezed. Which should the student do first when designing the new tube?
-make a data table of amounts of toothpaste
-gather building materials
-create models of old toothpaste tubes
-draw a few possible solutions

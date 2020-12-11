@@ -1,5 +1,0 @@
-The formula X + ZY -> XZ + Y shows that
-X and Y bonded into a more complex molecule.
-ZY has decomposed into two smaller compounds.
-X is a more reactive compound than Y.
-Y has changed into a new compound.

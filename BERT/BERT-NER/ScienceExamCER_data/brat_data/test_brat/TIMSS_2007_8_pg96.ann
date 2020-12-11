@@ -1,9 +1,0 @@
-T1	LevelOfInclusion	0	5	Which
-T2	NaturalResources	6	14	resource
-T3	StateOfBeing	15	17	is
-T4	Rarity	18	30	nonrenewable
-T5	FossilFuel	32	41	petroleum
-T6	Soil	42	46	sand
-T7	PlantPart	47	51	wood
-T8	Element	52	58	oxygen
-T9	GaseousMatter	52	58	oxygen

@@ -1,5 +1,0 @@
-A pencil falls off of a desk. What moves the pencil toward the floor?
-mass
-friction
-gravity
-speed

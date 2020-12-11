@@ -1,5 +1,0 @@
-A worker needs to load a heavy box onto a truck. The worker uses a ramp to move the box because the ramp
-increases the weight of the box.
-reduces the gravitational force on the box.
-increases the amount of friction on the box.
-reduces the amount of force applied to the box.

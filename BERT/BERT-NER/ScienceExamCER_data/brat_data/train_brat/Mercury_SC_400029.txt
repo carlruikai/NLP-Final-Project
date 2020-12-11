@@ -1,5 +1,0 @@
-A student wants to figure out how many calories are needed to perform various activities. A list of some everyday activities is made, and the number of calories burned during each activity is recorded. Which method is the best way for the student to display and evaluate the information?
-write a paragraph
-make a line graph
-develop a formula
-create a table

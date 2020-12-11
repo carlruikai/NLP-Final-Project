@@ -1,5 +1,0 @@
-Tay-Sachs disease is a recessive genetic disorder. If only one gene is present, an individual is a carrier. What is the probability of two healthy Tay-Sachs carriers having a child that has the disease?
-0%
-25%
-50%
-75%

@@ -1,5 +1,0 @@
-Sound waves can pass through all of these except
-air.
-steel.
-water.
-a vacuum.

@@ -1,9 +1,0 @@
-T1	ChemicalProcesses	0	24	Biotic nitrogen fixation
-T2	StateOfBeing	25	27	is
-T3	PerformAnActivity	28	37	performed
-T4	Cause	38	40	by
-T5	LevelOfInclusion	41	48	certain
-T6	Protist	49	56	lichens
-T7	Sickness	58	65	viruses
-T8	Bacteria	67	75	bacteria
-T9	Mammal	77	84	mammals

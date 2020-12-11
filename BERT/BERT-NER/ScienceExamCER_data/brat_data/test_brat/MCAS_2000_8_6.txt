@@ -1,5 +1,0 @@
-How a material responds to heating and cooling tells us about the material's
-optical properties.
-mechanical properties.
-thermal properties.
-acoustical properties.

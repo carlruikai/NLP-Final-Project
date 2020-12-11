@@ -1,5 +1,0 @@
-The following represents a number displayed on a calculator. 1.454545 E3. Which of the following shows how a student should record this number in a laboratory report?
-(1.45)^3
-1 5/11
-1.45 x 10^3
-1.45 x 3

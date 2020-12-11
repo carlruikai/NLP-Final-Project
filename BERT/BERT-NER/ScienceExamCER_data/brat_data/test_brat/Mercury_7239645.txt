@@ -1,5 +1,0 @@
-Every copy of a particular protein manufactured by a cell shows the same incorrect amino acid at the same point in its structure. According to the central dogma of molecular biology, in which structure does this error originate?
-DNA
-mRNA
-tRNA
-rRNA

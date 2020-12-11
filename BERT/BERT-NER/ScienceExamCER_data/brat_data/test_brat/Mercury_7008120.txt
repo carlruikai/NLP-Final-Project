@@ -1,5 +1,0 @@
-Binary stars are used by scientists to determine a star's
-mass.
-brightness.
-distance from Earth.
-distance from the Sun.

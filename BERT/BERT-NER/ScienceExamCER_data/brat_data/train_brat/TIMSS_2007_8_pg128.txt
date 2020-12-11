@@ -1,5 +1,0 @@
-A sound is heard when you pluck a string on a guitar. What will happen to the sound if the same string is plucked harder?
-The volume will stay the same, and the pitch will be higher.
-The pitch will stay the same, and the volume will be higher.
-Both the pitch and the volume will be higher.
-Both the pitch and the volume will stay the same.

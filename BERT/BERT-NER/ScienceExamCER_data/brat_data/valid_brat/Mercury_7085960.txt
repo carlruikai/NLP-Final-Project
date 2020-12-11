@@ -1,5 +1,0 @@
-The magnitude of the gravitational force between two planets depends on the
-speed the planets rotate.
-other nearby planets.
-volume of the planets.
-distance between the planets.

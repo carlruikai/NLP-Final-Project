@@ -1,5 +1,0 @@
-Which of the following best shows the basic three-step energy transformation for a battery-operated radio?
-Acoustical -> Mechanical -> Electrical
-Mechanical -> Acoustical -> Chemical
-Chemical -> Electrical -> Acoustical
-Electrical -> Acoustical -> Chemical

@@ -1,5 +1,0 @@
-A student recorded the amount of rain that fell in one year in his city. What is the best way for him to organize his information?
-diagram
-graph
-journal
-map

@@ -1,5 +1,0 @@
-A bus traveled 280 kilometers between two cities. It left the first city at 3:00 p.m. and arrived at the second city at 7:00 p.m. What was the average speed of the bus during the trip?
-4 km/h
-40 km/h
-70 km/h
-280 km/h

@@ -1,5 +1,0 @@
-Nerve impulses are transmitted along structures of a neuron as an action potential. Which part of a neuron receives the stimulation of these impulses?
-myelin sheaths
-dendrites
-nodes of Ranvier
-axons

@@ -1,5 +1,0 @@
-Which biome has the most vegetation?
-desert
-forest
-grassland
-tundra

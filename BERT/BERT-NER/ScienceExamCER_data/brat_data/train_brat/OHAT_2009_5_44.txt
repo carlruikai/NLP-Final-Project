@@ -1,5 +1,0 @@
-What causes a blue block to appear blue in the sunlight?
-The block absorbs all blue light.
-The block bends (refracts) all blue light.
-Only blue light is reflected by the block.
-Only blue light passes through the block.

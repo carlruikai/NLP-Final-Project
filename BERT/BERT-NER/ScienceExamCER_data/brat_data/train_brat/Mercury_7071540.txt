@@ -1,5 +1,0 @@
-An organism, such as a nematode worm, may have only 1000 cells. It should be classified as being
-a virus.
-a bacteria.
-unicellular.
-multicellular.

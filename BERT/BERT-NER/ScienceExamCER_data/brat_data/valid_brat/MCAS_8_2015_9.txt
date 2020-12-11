@@ -1,5 +1,0 @@
-A company is designing a new laptop computer. The computer must not exceed a certain weight. Which of the following is the most likely reason to have a weight restriction for the computer?
-to make it easier to test the prototype
-to reduce the cost of making the computer
-to make it easier to transport the computer
-to reduce the cost of building the prototype

@@ -1,5 +1,0 @@
-A student is organizing a room. She moves a box from the floor to a shelf. She wants to estimate the amount of potential energy the box has on the shelf. What information does the student need?
-the volume and mass of the box
-the mass of the shelf and the mass of the box
-the mass of the box and the height of the shelf
-the volume of the box and the height of the shelf

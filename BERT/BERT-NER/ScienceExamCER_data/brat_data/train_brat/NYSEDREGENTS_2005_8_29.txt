@@ -1,5 +1,0 @@
-Which sequence lists the levels of organization in the human body from simplest to most complex?
-organ system -> tissue -> cell -> organ
-tissue -> cell -> organ -> organ system
-organ -> organ system -> tissue -> cell
-cell -> tissue -> organ -> organ system

@@ -1,5 +1,0 @@
-A team of surveyors takes measurements of ground altitude at horizontal intervals of 1 meter over a 400 square meter area. These measurements can best be used to produce which representation of the area?
-a topographical map
-a map of wind currents
-a plate tectonic diagram
-a chart of sedimentary layers

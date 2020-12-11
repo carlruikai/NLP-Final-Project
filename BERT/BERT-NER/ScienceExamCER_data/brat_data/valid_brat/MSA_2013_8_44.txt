@@ -1,5 +1,0 @@
-Students are investigating which type of fruit attracts the most fruit flies. Equally sized pieces of ripe apple, peach, and banana are placed in separate containers. The containers allow fruit flies to enter, but the fruit flies are unable to escape. The containers are placed outside on a picnic table for two days. The most reliable method for collecting data is to count the number of fruit flies
-on all three types of fruit every two hours
-on all three types of fruit after each fruit spoils
-on the banana on Day 1, the apple on Day 2, and the peach on Day 3
-on the banana after Hour 1, the apple after Hour 2, and the peach after Hour 3

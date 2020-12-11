@@ -1,5 +1,0 @@
-An element is identified by
-its number of protons.
-the atomic mass.
-the type of charge.
-its number of isotopes.

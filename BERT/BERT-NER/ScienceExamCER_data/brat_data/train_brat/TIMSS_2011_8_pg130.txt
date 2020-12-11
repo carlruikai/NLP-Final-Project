@@ -1,5 +1,0 @@
-Which of the following energy conversions takes place in a battery-operated flashlight?
-electrical -> mechanical -> light
-chemical -> mechanical -> light
-chemical -> electrical -> light
-nuclear -> electrical -> light

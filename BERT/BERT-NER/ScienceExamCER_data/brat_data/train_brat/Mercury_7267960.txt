@@ -1,5 +1,0 @@
-As humans travel in space, which gas is provided in the atmosphere of the spacecraft and which gas is removed from the atmosphere of the spacecraft?
-Oxygen is provided. Carbon dioxide is removed.
-Carbon dioxide is provided. Oxygen is removed.
-Carbon dioxide is provided. Nitrogen is removed.
-Oxygen is provided. Nitrogen is removed.

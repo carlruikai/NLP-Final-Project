@@ -1,5 +1,0 @@
-Street maps are examples of two dimensional models. Which information cannot be determined using a basic map?
-distance from place to place
-directions such as north and south
-names of highways and roads
-elevations such as distance above sea level

@@ -1,8 +1,0 @@
-T1	Exemplar	3	10	example
-T2	Rarity	16	25	renewable
-T3	NaturalResources	26	34	resource
-T4	StateOfBeing	35	37	is
-T5	FossilFuel	38	41	oil
-T6	FossilFuel	43	47	coal
-T7	PlantPart	49	53	wood
-T8	FossilFuel	55	66	natural gas

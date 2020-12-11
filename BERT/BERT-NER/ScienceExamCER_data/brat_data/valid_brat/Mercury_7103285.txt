@@ -1,5 +1,0 @@
-Which information is used in a station model?
-yearly average precipitation
-daily average barometric pressure
-number of lightning strikes
-wind direction in a particular point and time

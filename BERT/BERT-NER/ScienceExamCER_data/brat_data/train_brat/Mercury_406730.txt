@@ -1,5 +1,0 @@
-All of the inherited traits that are passed to offspring during asexual reproduction come from a single
-egg.
-sperm.
-virus.
-parent.
